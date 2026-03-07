@@ -1,10 +1,25 @@
 ---
 import { getCollection } from 'astro:content';
+import { slugify } from '../utils/slugify';
 
 const allPosts = await getCollection('posts');
-const recentPosts = allPosts
-  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
-  .slice(0, 10);
+const tagCounts = new Map<string, { name: string; slug: string; count: number }>();
+
+for (const post of allPosts) {
+  for (const tag of post.data.tags) {
+    const s = slugify(tag);
+    const existing = tagCounts.get(s);
+    if (existing) {
+      existing.count++;
+    } else {
+      tagCounts.set(s, { name: tag, slug: s, count: 1 });
+    }
+  }
+}
+
+const sortedTags = Array.from(tagCounts.values()).sort((a, b) =>
+  a.name.localeCompare(b.name, 'en', { sensitivity: 'base' })
+);
 ---
 
 <aside class="sidebar" aria-label="Sidebar">
@@ -27,12 +42,13 @@ const recentPosts = allPosts
 
   <div class="sidebar-block">
     <div class="sidebar-block-header">
-      <span class="sidebar-block-title">Previously</span>
+      <span class="sidebar-block-title">Tags</span>
     </div>
-    <p class="who-text" style="margin-bottom: 10px;">The 10 most recent entries from the journal.</p>
     <ul class="sidebar-list">
-      {recentPosts.map(post => (
-        <li><a href={`/posts/${post.id.replace(/\.md$/, '')}`}>{post.data.title}</a></li>
+      {sortedTags.map(tag => (
+        <li data-tag={tag.slug}>
+          <a href={`/tag/${tag.slug}`}>{tag.name} ({tag.count})</a>
+        </li>
       ))}
     </ul>
   </div>
