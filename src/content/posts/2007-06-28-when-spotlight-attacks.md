@@ -3,6 +3,8 @@ title: "When Spotlight Attacks"
 date: 2007-06-28
 source: "http://nathanpitman.com/512/when-spotlight-attacks"
 archive: "https://web.archive.org/web/20090823042016/http://nathanpitman.com:80/512/when-spotlight-attacks"
+tags:
+  - "Apple"
 ---
 
 With my MacBook only being a couple of weeks old there are still a few kinks to iron out in the [Nine Four](https://web.archive.org/web/20090823042016/http://www.ninefour.co.uk/) IT infrastructure, one of those being printing to a shared printer on a Windows machine which I affectionately call ‘Oto’.
@@ -21,4 +23,4 @@ I restart my MacBook, log-in, the wallpaper pops up then after an excruciating w
 
 **Update:** The Spotlight index got corrupted ‘again’ today (31/07/07) but was again easy to fix with Onyx. Twice in one month is a bit much though. :/
 
-Tagged: [Apple](https://web.archive.org/web/20090823042016/http://nathanpitman.com/category/apple/)
+Tagged: [Apple](/tag/apple)

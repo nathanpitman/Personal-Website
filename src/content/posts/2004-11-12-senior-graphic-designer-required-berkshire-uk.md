@@ -1,8 +1,11 @@
 ---
-title: "Senior Graphic Designer Required… (Berkshire, UK)"
+title: Senior Graphic Designer Required… (Berkshire, UK)
 date: 2004-11-12
-source: "http://nathanpitman.com/285/senior-graphic-designer-required-berkshire-uk"
-archive: "https://web.archive.org/web/20100106035042/http://nathanpitman.com/285/senior-graphic-designer-required-berkshire-uk"
+source: http://nathanpitman.com/285/senior-graphic-designer-required-berkshire-uk
+archive: https://web.archive.org/web/20100106035042/http://nathanpitman.com/285/senior-graphic-designer-required-berkshire-uk
+tags:
+  - "Design"
+  - "Jobs"
 ---
 
 Via [Mirashade](https://web.archive.org/web/20100106035042/http://www.mirashade.com/)...
@@ -17,4 +20,4 @@ Via [Mirashade](https://web.archive.org/web/20100106035042/http://www.mirashade.
 
 If you’re interested, and you’re available to work at the Mirashade studio in Reading, Berkshire, UK… [check out the Mirashade site](https://web.archive.org/web/20100106035042/http://www.mirashade.com/about/?c=Employment).
 
-Tagged: [Design](https://web.archive.org/web/20100106035042/http://nathanpitman.com/category/design/), [Jobs](https://web.archive.org/web/20100106035042/http://nathanpitman.com/category/jobs/)
+Tagged: [Design](/tag/design), [Jobs](/tag/jobs)

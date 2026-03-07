@@ -1,8 +1,11 @@
 ---
-title: "Writing extensions for Fireworks MX is fun…"
+title: Writing extensions for Fireworks MX is fun…
 date: 2003-05-16
-source: "http://nathanpitman.com/105/writing-extensions-for-fireworks-mx-is-fun"
-archive: "https://web.archive.org/web/20110901130352/http://nathanpitman.com/105/writing-extensions-for-fireworks-mx-is-fun"
+source: http://nathanpitman.com/105/writing-extensions-for-fireworks-mx-is-fun
+archive: https://web.archive.org/web/20110901130352/http://nathanpitman.com/105/writing-extensions-for-fireworks-mx-is-fun
+tags:
+  - "Extensions"
+  - "Fireworks"
 ---
 
 Writing extensions for Fireworks MX is fun. Last night I spent some time putting the final touches to a command panel that I’ve been working on for a long time.
@@ -17,4 +20,4 @@ During this time it occured to me that there really are very few Fireworks exten
 
 There you go then. Let me know if you can be added to the list.
 
-Tagged: [Extensions](https://web.archive.org/web/20110901130352/http://nathanpitman.com/category/extensions/), [Fireworks](https://web.archive.org/web/20110901130352/http://nathanpitman.com/category/fireworks/)
+Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

@@ -3,6 +3,8 @@ title: "2 x Web Developers - Berkshire, UK."
 date: 2007-12-14
 source: "http://nathanpitman.com/527/2-x-web-developers-berkshire-uk"
 archive: "https://web.archive.org/web/20100424235628/http://nathanpitman.com:80/527/2-x-web-developers-berkshire-uk"
+tags:
+  - "Jobs"
 ---
 
 Glen Richardson from IQ Development is making an appeal for web developers. At the moment they have an immediate requirement for 2 developers and will also be hiring on a regular basis throughout next year.
@@ -50,4 +52,4 @@ Please send us an [e-mail](https://web.archive.org/web/20100424235628/mailto:job
 
 Good Luck! IQ Development.
 
-Tagged: [Jobs](https://web.archive.org/web/20100424235628/http://nathanpitman.com/category/jobs/)
+Tagged: [Jobs](/tag/jobs)

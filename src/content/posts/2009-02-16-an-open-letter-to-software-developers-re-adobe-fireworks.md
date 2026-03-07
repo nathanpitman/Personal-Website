@@ -3,6 +3,9 @@ title: "An open letter to software developers RE Adobe Fireworks"
 date: 2009-02-16
 source: "http://nathanpitman.com/567/an-open-letter-to-software-developers-re-adobe-fireworks"
 archive: "https://web.archive.org/web/20090518024049/http://nathanpitman.com:80/567/an-open-letter-to-software-developers-re-adobe-fireworks"
+tags:
+  - "Adobe"
+  - "Fireworks"
 ---
 
 Dear software developer.
@@ -27,4 +30,4 @@ Nathan Pitman
 
 **Update:** It seems [Adobe are working on an updater](https://web.archive.org/web/20090518024049/http://blogs.adobe.com/fireworks/2009/03/updater_planned_for_fireworks.html) for Fireworks CS4 to rectify the text shifting bug.
 
-Tagged: [Adobe](https://web.archive.org/web/20090518024049/http://nathanpitman.com/category/adobe/), [Fireworks](https://web.archive.org/web/20090518024049/http://nathanpitman.com/category/fireworks/)
+Tagged: [Adobe](/tag/adobe), [Fireworks](/tag/fireworks)

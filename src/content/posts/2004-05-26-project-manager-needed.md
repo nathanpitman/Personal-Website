@@ -1,8 +1,10 @@
 ---
-title: "Project Manager needed…"
+title: Project Manager needed…
 date: 2004-05-26
-source: "http://nathanpitman.com/158/project-manager-needed"
-archive: "https://web.archive.org/web/20091209035447/http://nathanpitman.com:80/158/project-manager-needed"
+source: http://nathanpitman.com/158/project-manager-needed
+archive: https://web.archive.org/web/20091209035447/http://nathanpitman.com:80/158/project-manager-needed
+tags:
+  - "Jobs"
 ---
 
 My employers [Mirashade](https://web.archive.org/web/20091209035447/http://www.mirashade.com/) are in need of a new Project Manager so I thought I’d post an overview of the position here:
@@ -17,4 +19,4 @@ My employers [Mirashade](https://web.archive.org/web/20091209035447/http://www.m
 
 For more info and the job application form check out the [employment page](https://web.archive.org/web/20091209035447/http://www.mirashade.com/holding/employment/) on our site. :)
 
-Tagged: [Jobs](https://web.archive.org/web/20091209035447/http://nathanpitman.com/category/jobs/)
+Tagged: [Jobs](/tag/jobs)

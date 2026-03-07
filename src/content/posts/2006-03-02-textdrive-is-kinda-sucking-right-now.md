@@ -1,8 +1,10 @@
 ---
-title: "Textdrive is kinda sucking right now"
+title: Textdrive is kinda sucking right now
 date: 2006-03-02
-source: "http://nathanpitman.com/459/textdrive-is-kinda-sucking-right-now"
-archive: "https://web.archive.org/web/20100106034536/http://nathanpitman.com/459/textdrive-is-kinda-sucking-right-now"
+source: http://nathanpitman.com/459/textdrive-is-kinda-sucking-right-now
+archive: https://web.archive.org/web/20100106034536/http://nathanpitman.com/459/textdrive-is-kinda-sucking-right-now
+tags:
+  - "This website"
 ---
 
 Don’t get me wrong, \*I love you [Textdrive](https://web.archive.org/web/20100106034536/http://www.textdrive.com/)\*, after all I got me a VCII account when they were about, hosting for life for $200, what a steal.
@@ -13,4 +15,4 @@ Just a bit of a heads up guys. Hopefully you can sort it out sometime soon. Eith
 
 *Mmm Peppers…*
 
-Tagged: [This website](https://web.archive.org/web/20100106034536/http://nathanpitman.com/category/this-website/)
+Tagged: [This website](/tag/this-website)

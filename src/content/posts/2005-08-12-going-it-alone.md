@@ -1,8 +1,10 @@
 ---
-title: "Going it alone"
+title: Going it alone
 date: 2005-08-12
-source: "http://nathanpitman.com/352/going-it-alone"
-archive: "https://web.archive.org/web/20100106034301/http://nathanpitman.com/352/going-it-alone"
+source: http://nathanpitman.com/352/going-it-alone
+archive: https://web.archive.org/web/20100106034301/http://nathanpitman.com/352/going-it-alone
+tags:
+  - "Employment"
 ---
 
 As an individual that’s been fully employed since 1997 I regularly wonder what it would be like to set up on my own, whether I could make it work and how others have managed.
@@ -28,4 +30,4 @@ I’ll be publishing the views of these individuals over the next week or so, bu
 
 So, that’s the feisty five. Keep your eyes peeled. The first answers will be published shortly.
 
-Tagged: [Employment](https://web.archive.org/web/20100106034301/http://nathanpitman.com/category/employment/)
+Tagged: [Employment](/tag/employment)

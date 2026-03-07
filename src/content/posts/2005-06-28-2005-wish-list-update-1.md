@@ -1,8 +1,10 @@
 ---
-title: "2005 Wish List Update #1"
+title: '2005 Wish List Update #1'
 date: 2005-06-28
-source: "http://nathanpitman.com/370/2005-wish-list-update-1"
-archive: "https://web.archive.org/web/20090529015654/http://nathanpitman.com:80/370/2005-wish-list-update-1"
+source: http://nathanpitman.com/370/2005-wish-list-update-1
+archive: https://web.archive.org/web/20090529015654/http://nathanpitman.com:80/370/2005-wish-list-update-1
+tags:
+  - "Personal"
 ---
 
 Way back in December last year when it was ‘neat-n-trendy’ to post wish lists, I composed [my own for 2005](https://web.archive.org/web/20090529015654/http://nathanpitman.com/journal/306/my-2005-wish-list). I thought I’d run an update for each wish that comes true.
@@ -16,4 +18,4 @@ Way back in December last year when it was ‘neat-n-trendy’ to post wish list
 
 Yes, I finally found the time to finish reading [Are You Dave Gorman?](https://web.archive.org/web/20090529015654/http://www.amazon.co.uk/exec/obidos/ASIN/0091884713/). What a fantastic book, it’s taken me the best part of a year to finish but perhaps this has made it even more enjoyable.
 
-Tagged: [Personal](https://web.archive.org/web/20090529015654/http://nathanpitman.com/category/personal/)
+Tagged: [Personal](/tag/personal)

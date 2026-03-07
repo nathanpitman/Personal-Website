@@ -3,6 +3,8 @@ title: "Demise of the Kia Sedona"
 date: 2011-02-21
 source: "http://nathanpitman.com/605/demise-of-the-kia-sedona"
 archive: "https://web.archive.org/web/20110404105427/http://nathanpitman.com:80/605/demise-of-the-kia-sedona"
+tags:
+  - "Personal"
 ---
 
 It’s some time since we waved goodbye to the awful unreliable lump that was our [Kia Sedona](https://web.archive.org/web/20110404105427/http://www.kia.co.uk/sedonahome.asp) and back in 2009 I set myself the target of denying Kia Â£1 million in car sales to repay them for their glorious customer service ethos.
@@ -23,4 +25,4 @@ Well hopefully my readers made a small contribution to that reduction.
 - [Kia Reliability](/web/20110404105427/http://nathanpitman.com/592/kia-reliability "Oct 23rd 2009")
 - [Don’t let the door hit you on the way out](/web/20110404105427/http://nathanpitman.com/593/dont-let-the-door-hit-you-on-the-way-out "Oct 30th 2009")
 
-Tagged: [Personal](https://web.archive.org/web/20110404105427/http://nathanpitman.com/category/personal/)
+Tagged: [Personal](/tag/personal)

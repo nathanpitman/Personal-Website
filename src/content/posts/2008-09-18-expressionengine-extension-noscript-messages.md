@@ -3,6 +3,8 @@ title: "ExpressionEngine Extension: NoScript Messages"
 date: 2008-09-18
 source: "http://nathanpitman.com/551/expressionengine-extension-noscript-messages"
 archive: "https://web.archive.org/web/20090520003125/http://nathanpitman.com:80/551/expressionengine-extension-noscript-messages"
+tags:
+  - "ExpressionEngine"
 ---
 
 While working on a project recently I noted that [ExpressionEngine](https://web.archive.org/web/20090520003125/http://www.expressionengine.com/index.php?affiliate=nathanpitman) uses a ‘JavaScript:history.go(-1)’ within the ‘User Message’ templates to allow you to return to the page from whence you came if you submit a form without completing all the required fields, perform a search and return no results etc.
@@ -15,4 +17,4 @@ I kept a note of my hack and when I had to upgrade this particular install to th
 
 Obviously let me know in the comments if you have any thoughts on how this can be improved. Enjoy!
 
-Tagged: [ExpressionEngine](https://web.archive.org/web/20090520003125/http://nathanpitman.com/category/expressionengine/)
+Tagged: [ExpressionEngine](/tag/expressionengine)

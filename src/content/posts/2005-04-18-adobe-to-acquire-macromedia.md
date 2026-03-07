@@ -1,8 +1,10 @@
 ---
-title: "Adobe to acquire Macromedia"
+title: Adobe to acquire Macromedia
 date: 2005-04-18
-source: "http://nathanpitman.com/344/adobe-to-acquire-macromedia"
-archive: "https://web.archive.org/web/20100111181125/http://nathanpitman.com:80/344/adobe-to-acquire-macromedia"
+source: http://nathanpitman.com/344/adobe-to-acquire-macromedia
+archive: https://web.archive.org/web/20100111181125/http://nathanpitman.com:80/344/adobe-to-acquire-macromedia
+tags:
+  - "Technology"
 ---
 
 According to [Macromedia.com](https://web.archive.org/web/20100111181125/http://www.macromedia.com/macromedia/proom/pr/2005/adobe_macromedia.html) and [Adobe.com](https://web.archive.org/web/20100111181125/http://www.adobe.com/aboutadobe/invrelations/adobeandmacromedia.html) as of the 18th of April Adobe is to acquire Macromedia!
@@ -13,4 +15,4 @@ Wow! Something I thought I’d never see happen. God only knows what this means 
 
 **Update:** Kevin Lynch (Chief Software Architect at Macromedia) has a [positive spin on the Macromedia acquisition](https://web.archive.org/web/20100111181125/http://www.klynch.com/archives/000078.html) on his blog.
 
-Tagged: [Technology](https://web.archive.org/web/20100111181125/http://nathanpitman.com/category/technology/)
+Tagged: [Technology](/tag/technology)

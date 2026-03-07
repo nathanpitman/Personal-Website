@@ -3,6 +3,8 @@ title: "Web Developer Reqd - Windsor, Berks, UK"
 date: 2007-04-18
 source: "http://nathanpitman.com/502/web-developer-reqd-windsor-berks-uk"
 archive: "https://web.archive.org/web/20101225135554/http://nathanpitman.com:80/502/web-developer-reqd-windsor-berks-uk"
+tags:
+  - "Jobs"
 ---
 
 Our client is an integrated full service agency, complete with in-house design team, that addresses all of their clients marketing needs. They have an immediate vacancy for a web developer with the following skills:
@@ -27,4 +29,4 @@ An attractive salary is available commensurate with you experience.
 
 **To apply** drop [James Attewell](https://web.archive.org/web/20101225135554/mailto:james@ccrecruit.co.uk?subject=Job%20Application%20from%20nathanpitman.com&body=RE:%20http://nathanpitman.com/journal/502/web-developer-reqd-windsor-berks-uk) an email.
 
-Tagged: [Jobs](https://web.archive.org/web/20101225135554/http://nathanpitman.com/category/jobs/)
+Tagged: [Jobs](/tag/jobs)

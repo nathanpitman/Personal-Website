@@ -1,8 +1,10 @@
 ---
-title: "Re-design Step 3: Er… start again?"
+title: 'Re-design Step 3: Er… start again?'
 date: 2005-04-21
-source: "http://nathanpitman.com/338/re-design-step-3-er-start-again"
-archive: "https://web.archive.org/web/20090609020741/http://nathanpitman.com:80/338/re-design-step-3-er-start-again"
+source: http://nathanpitman.com/338/re-design-step-3-er-start-again
+archive: https://web.archive.org/web/20090609020741/http://nathanpitman.com:80/338/re-design-step-3-er-start-again
+tags:
+  - "This website"
 ---
 
 So, I kinda went back to the drawing board. I scrapped [my previous concept](https://web.archive.org/web/20090609020741/http://nathanpitman.com/journal/314/re-design-step-2-look--feel-concepts) and came up with this.
@@ -13,4 +15,4 @@ Ok, so it’s not the worlds most amazing website design ever, but I like it. It
 
 Right now I’m still debating whether to add an ident of some type, or whether the domain name itself says it all… it’s me, you typed my URL so why should I shout it back at you.
 
-Tagged: [This website](https://web.archive.org/web/20090609020741/http://nathanpitman.com/category/this-website/)
+Tagged: [This website](/tag/this-website)

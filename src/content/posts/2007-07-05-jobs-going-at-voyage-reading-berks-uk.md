@@ -3,6 +3,8 @@ title: "Jobs going at Voyage - Reading, Berks, UK"
 date: 2007-07-05
 source: "http://nathanpitman.com/513/jobs-going-at-voyage-reading-berks-uk"
 archive: "https://web.archive.org/web/20091011074801/http://nathanpitman.com:80/513/jobs-going-at-voyage-reading-berks-uk"
+tags:
+  - "Jobs"
 ---
 
 ### Fantastic freelance creatives
@@ -23,4 +25,4 @@ You are an experienced creative and youâll have a portfolio that demonstrat
 
 If this position sounds right up your street then get in touch.
 
-Tagged: [Jobs](https://web.archive.org/web/20091011074801/http://nathanpitman.com/category/jobs/)
+Tagged: [Jobs](/tag/jobs)

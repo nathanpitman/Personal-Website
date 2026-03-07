@@ -1,8 +1,11 @@
 ---
-title: "A breath of fresh air…"
+title: A breath of fresh air…
 date: 2004-08-03
-source: "http://nathanpitman.com/227/a-breath-of-fresh-air"
-archive: "https://web.archive.org/web/20100113090659/http://nathanpitman.com:80/227/a-breath-of-fresh-air"
+source: http://nathanpitman.com/227/a-breath-of-fresh-air
+archive: https://web.archive.org/web/20100113090659/http://nathanpitman.com:80/227/a-breath-of-fresh-air
+tags:
+  - "Design"
+  - "Textpattern"
 ---
 
 After months of ‘trying’ to find the time we eventually ‘made’ the time here at Mirashade to re-vamp [our site](https://web.archive.org/web/20100113090659/http://www.mirashade.com/).
@@ -15,4 +18,4 @@ I’d love to hear your feedback and comments on any aspect of the design and im
 
 **Update:** Mirashade.com is now featured in the [CSS Vault](https://web.archive.org/web/20100113090659/http://cssvault.com/gallery/mirashade.php) and at [CSS Beauty](https://web.archive.org/web/20100113090659/http://www.cssbeauty.com/archives/permalink/mirashade.php) and [Unmatched Style](https://web.archive.org/web/20100113090659/http://www.unmatchedstyle.com/archived/2004/12/mirashade.php).
 
-Tagged: [Design](https://web.archive.org/web/20100113090659/http://nathanpitman.com/category/design/), [Textpattern](https://web.archive.org/web/20100113090659/http://nathanpitman.com/category/textpattern/)
+Tagged: [Design](/tag/design), [Textpattern](/tag/textpattern)

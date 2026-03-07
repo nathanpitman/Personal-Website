@@ -1,8 +1,10 @@
 ---
-title: "10 questions for Jon Hicks (Going it alone)"
+title: 10 questions for Jon Hicks (Going it alone)
 date: 2005-08-17
-source: "http://nathanpitman.com/389/10-questions-for-jon-hicks-going-it-alone"
-archive: "https://web.archive.org/web/20100107200850/http://nathanpitman.com:80/389/10-questions-for-jon-hicks-going-it-alone"
+source: http://nathanpitman.com/389/10-questions-for-jon-hicks-going-it-alone
+archive: https://web.archive.org/web/20100107200850/http://nathanpitman.com:80/389/10-questions-for-jon-hicks-going-it-alone
+tags:
+  - "Employment"
 ---
 
 In the second of 5 interviews with web designers and developers who are self employed I chat with Jon Hicks. I’ve never ‘actually’ met Jon, but he’s a fellow Brit and makes his money off the back of some one man venture called ‘“Hicksdesign”:http://www.hicksdesign.co.uk’… ~~you’ve probably not heard of him, it’s not like he did the Firefox logo or anything~~ you’ve probably heard of him, he did the Firefox logo don’t you know.
@@ -85,4 +87,4 @@ The day is also punctuated with copious cups of tea, or diet coke. I don’t hav
 
 **Jon:** It may be hard work and stressful at times, but the sheer satisfaction is unmissable. After a while you look back and realise that you’re doing everything yourself, and your only ‘boss’ is your client. You can’t beat that feeling – trust me! If you never make that leap, you’ll never get to experience it.
 
-Tagged: [Employment](https://web.archive.org/web/20100107200850/http://nathanpitman.com/category/employment/)
+Tagged: [Employment](/tag/employment)

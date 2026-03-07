@@ -1,8 +1,11 @@
 ---
-title: "Dreamweaver Extensions going Pete Tong"
+title: Dreamweaver Extensions going Pete Tong
 date: 2004-02-06
-source: "http://nathanpitman.com/21/dreamweaver-extensions-going-pete-tong"
-archive: "https://web.archive.org/web/20090601223412/http://nathanpitman.com:80/21/dreamweaver-extensions-going-pete-tong"
+source: http://nathanpitman.com/21/dreamweaver-extensions-going-pete-tong
+archive: https://web.archive.org/web/20090601223412/http://nathanpitman.com:80/21/dreamweaver-extensions-going-pete-tong
+tags:
+  - "Adobe"
+  - "Extensions"
 ---
 
 For some time I’ve guessed that I might need to update [my Dreamweaver Extensions](https://web.archive.org/web/20090601223412/http://www.nathanpitman.com/source/extensions.php) to function correctly with Dreamweaver MX 2004. Today I found some time to take a little bit of a closer look at the subject.
@@ -13,4 +16,4 @@ Net result is that although my extensions will work ‘mostly’ (I think, let m
 
 Suffice to say I’m going to try and resolve this…
 
-Tagged: [Adobe](https://web.archive.org/web/20090601223412/http://nathanpitman.com/category/adobe/), [Extensions](https://web.archive.org/web/20090601223412/http://nathanpitman.com/category/extensions/)
+Tagged: [Adobe](/tag/adobe), [Extensions](/tag/extensions)

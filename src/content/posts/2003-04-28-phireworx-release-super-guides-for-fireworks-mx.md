@@ -1,8 +1,11 @@
 ---
-title: "Phireworx release ‘Super Guides’ for Fireworks MX."
+title: Phireworx release ‘Super Guides’ for Fireworks MX.
 date: 2003-04-28
-source: "http://nathanpitman.com/109/phireworx-release-super-guides-for-fireworks-mx"
-archive: "https://web.archive.org/web/20100107103713/http://nathanpitman.com:80/109/phireworx-release-super-guides-for-fireworks-mx"
+source: http://nathanpitman.com/109/phireworx-release-super-guides-for-fireworks-mx
+archive: https://web.archive.org/web/20100107103713/http://nathanpitman.com:80/109/phireworx-release-super-guides-for-fireworks-mx
+tags:
+  - "Extensions"
+  - "Fireworks"
 ---
 
 [Phireworx](https://web.archive.org/web/20100107103713/http://www.phireworx.com/) release ‘Super Guides’ for Fireworks MX.
@@ -11,4 +14,4 @@ Super Guides is an axonometric projection template creator to allow you to creat
 
 Super Guides gives you control over; Projection Angle, Document Template Size and Grid Opacity. [Go check it out…](https://web.archive.org/web/20100107103713/http://www.phireworx.com/)
 
-Tagged: [Extensions](https://web.archive.org/web/20100107103713/http://nathanpitman.com/category/extensions/), [Fireworks](https://web.archive.org/web/20100107103713/http://nathanpitman.com/category/fireworks/)
+Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

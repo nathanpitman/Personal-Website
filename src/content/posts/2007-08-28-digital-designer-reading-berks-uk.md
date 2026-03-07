@@ -3,6 +3,8 @@ title: "Digital Designer - Reading, Berks, UK"
 date: 2007-08-28
 source: "http://nathanpitman.com/518/digital-designer-reading-berks-uk"
 archive: "https://web.archive.org/web/20091209173416/http://nathanpitman.com:80/518/digital-designer-reading-berks-uk"
+tags:
+  - "Jobs"
 ---
 
 [Distribution Technology](https://web.archive.org/web/20091209173416/http://www.distribution-technology.com/) are a leading-edge financial services software company looking for a creative, energetic and highly intelligent digital designer. The position would suit a hard working graduate or someone in the earlier stages of their digital design career, whatever your age.
@@ -43,4 +45,4 @@ Our offer:
 
 To find out more and apply for this position visit the [Distribution Technology employment website](https://web.archive.org/web/20091209173416/http://www.workatdt.com/contact_us/position/Digital%20Designer).
 
-Tagged: [Jobs](https://web.archive.org/web/20091209173416/http://nathanpitman.com/category/jobs/)
+Tagged: [Jobs](/tag/jobs)

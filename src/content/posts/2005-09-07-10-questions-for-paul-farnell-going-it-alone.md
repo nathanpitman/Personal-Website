@@ -1,8 +1,10 @@
 ---
-title: "10 questions for Paul Farnell (Going it alone)"
+title: 10 questions for Paul Farnell (Going it alone)
 date: 2005-09-07
-source: "http://nathanpitman.com/401/10-questions-for-paul-farnell-going-it-alone"
-archive: "https://web.archive.org/web/20091117062650/http://nathanpitman.com:80/401/10-questions-for-paul-farnell-going-it-alone"
+source: http://nathanpitman.com/401/10-questions-for-paul-farnell-going-it-alone
+archive: https://web.archive.org/web/20091117062650/http://nathanpitman.com:80/401/10-questions-for-paul-farnell-going-it-alone
+tags:
+  - "Employment"
 ---
 
 Ok, so I know I said that [Mr Oxton](https://web.archive.org/web/20091117062650/http://nathanpitman.com/journal/393/going-it-alone-john-oxton) was my final interview, but I was chatting to [Paul Farnell](https://web.archive.org/web/20091117062650/http://www.salted.com/) of [SiteVista](https://web.archive.org/web/20091117062650/http://www.sitevista.com/) fame and just couldn’t resist but to ask if he would do the same (hey that rhymed). He was more than happy to oblige, and has some great advice for anyone looking to ‘go it alone’. I promise, this *really* is the last interview.
@@ -71,4 +73,4 @@ Thanks for the interview, Nathan!
 
 **Nathan:** No worries, thanks for your time Paul.
 
-Tagged: [Employment](https://web.archive.org/web/20091117062650/http://nathanpitman.com/category/employment/)
+Tagged: [Employment](/tag/employment)

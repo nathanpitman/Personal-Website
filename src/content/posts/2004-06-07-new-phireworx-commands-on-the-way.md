@@ -1,8 +1,11 @@
 ---
-title: "New Phireworx Commands on the way"
+title: New Phireworx Commands on the way
 date: 2004-06-07
-source: "http://nathanpitman.com/167/new-phireworx-commands-on-the-way"
-archive: "https://web.archive.org/web/20100105214204/http://nathanpitman.com:80/167/new-phireworx-commands-on-the-way"
+source: http://nathanpitman.com/167/new-phireworx-commands-on-the-way
+archive: https://web.archive.org/web/20100105214204/http://nathanpitman.com:80/167/new-phireworx-commands-on-the-way
+tags:
+  - "Extensions"
+  - "Fireworks"
 ---
 
 I hear on the grapevine from Steven Grosvenor at [Phireworx](https://web.archive.org/web/20100105214204/http://www.phireworx.com/) that he has some new Fireworks MX Command panels on the way…
@@ -19,4 +22,4 @@ I hear on the grapevine from Steven Grosvenor at [Phireworx](https://web.archive
 
 Sounds great, can’t wait to see these in action. Keep your eyes peeled, obviously I’ll report on these here the moment they are available.
 
-Tagged: [Extensions](https://web.archive.org/web/20100105214204/http://nathanpitman.com/category/extensions/), [Fireworks](https://web.archive.org/web/20100105214204/http://nathanpitman.com/category/fireworks/)
+Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

@@ -3,6 +3,9 @@ title: "Ubuntu, Ubuntu they drink it in the congo"
 date: 2006-03-24
 source: "http://nathanpitman.com/467/ubuntu-ubuntu-they-drink-it-in-the-congo"
 archive: "https://web.archive.org/web/20091209173054/http://nathanpitman.com:80/467/ubuntu-ubuntu-they-drink-it-in-the-congo"
+tags:
+  - "Linux"
+  - "Web development"
 ---
 
 I’ve been wanting to perform a bit of an update on my local dev server for a while, I’m currently running [Debian](https://web.archive.org/web/20091209173054/http://www.debian.org/) with the usual LAMP suspects (Apache, PHP and MySQL) but had never been able to get little extras like the GD image libraries up and running for my lack of Linux knowledge and total lack of desire to spend hours working out exactly what I needed to do.
@@ -19,4 +22,4 @@ With Ubuntu up and running I did a quick install of [SSH](https://web.archive.or
 
 **Success!**
 
-Tagged: [Linux](https://web.archive.org/web/20091209173054/http://nathanpitman.com/category/linux/), [Web development](https://web.archive.org/web/20091209173054/http://nathanpitman.com/category/web-development/)
+Tagged: [Linux](/tag/linux), [Web development](/tag/web-development)

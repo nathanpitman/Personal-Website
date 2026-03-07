@@ -1,8 +1,11 @@
 ---
-title: "Tutorial on Creating Fireworks AutoShapes"
+title: Tutorial on Creating Fireworks AutoShapes
 date: 2004-12-22
-source: "http://nathanpitman.com/302/tutorial-on-creating-fireworks-autoshapes"
-archive: "https://web.archive.org/web/20090526025817/http://nathanpitman.com:80/302/tutorial-on-creating-fireworks-autoshapes"
+source: http://nathanpitman.com/302/tutorial-on-creating-fireworks-autoshapes
+archive: https://web.archive.org/web/20090526025817/http://nathanpitman.com:80/302/tutorial-on-creating-fireworks-autoshapes
+tags:
+  - "Extensions"
+  - "Fireworks"
 ---
 
 [Trevor](https://web.archive.org/web/20090526025817/http://www.senocular.com/) just doesn’t let up. As a part of his relentless one man conquest to populate the world with Fireworks AutoShapes he has taken it upon himself to write [a tutorial for mugs like me](https://web.archive.org/web/20090526025817/http://senocular.com/tutorials/tutorial/?about=autoshapes) so that we might be able to aspire to developing something with the quality and flair of his offerings.
@@ -11,4 +14,4 @@ archive: "https://web.archive.org/web/20090526025817/http://nathanpitman.com:80/
 
 What a guy. :)
 
-Tagged: [Extensions](https://web.archive.org/web/20090526025817/http://nathanpitman.com/category/extensions/), [Fireworks](https://web.archive.org/web/20090526025817/http://nathanpitman.com/category/fireworks/)
+Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

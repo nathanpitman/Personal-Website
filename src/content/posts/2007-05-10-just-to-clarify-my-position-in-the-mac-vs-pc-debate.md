@@ -3,6 +3,8 @@ title: "Just to clarify my position in the Mac vs PC debate"
 date: 2007-05-10
 source: "http://nathanpitman.com/505/just-to-clarify-my-position-in-the-mac-vs-pc-debate"
 archive: "https://web.archive.org/web/20100113163323/http://nathanpitman.com:80/505/just-to-clarify-my-position-in-the-mac-vs-pc-debate"
+tags:
+  - "Apple"
 ---
 
 Some time having passed, I thought that I should ‘come clean’ and clarify my position in the Mac vs PC debate. Back in August 2005 I blogged about [the end of a short term relationship with a G5](https://web.archive.org/web/20100113163323/http://nathanpitman.com/journal/378/pah-out-with-the-mac).
@@ -17,4 +19,4 @@ Balancing up the pro’s and con’s of each option it soon became clear that my
 
 There you go, **I’m out of the closet**.
 
-Tagged: [Apple](https://web.archive.org/web/20100113163323/http://nathanpitman.com/category/apple/)
+Tagged: [Apple](/tag/apple)

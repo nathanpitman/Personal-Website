@@ -1,8 +1,10 @@
 ---
-title: "Macromedia announce Flash Paper 2 and Contribute 3"
+title: Macromedia announce Flash Paper 2 and Contribute 3
 date: 2004-07-19
-source: "http://nathanpitman.com/219/macromedia-announce-flash-paper-2-and-contribute-3"
-archive: "https://web.archive.org/web/20100227104756/http://nathanpitman.com:80/219/macromedia-announce-flash-paper-2-and-contribute-3"
+source: http://nathanpitman.com/219/macromedia-announce-flash-paper-2-and-contribute-3
+archive: https://web.archive.org/web/20100227104756/http://nathanpitman.com:80/219/macromedia-announce-flash-paper-2-and-contribute-3
+tags:
+  - "Technology"
 ---
 
 Macromedia have announced Flash Paper 2 and Contribute 3. Together boths products form a part of the new Macromedia [Web Publishing System](https://web.archive.org/web/20100227104756/http://www.macromedia.com/software/webpublishingsystem/) which is geared towards empowering businesses to build, manage, and publish to enterprise websites within a centrally controlled, standards-based environment.
@@ -13,4 +15,4 @@ Macromedia have announced Flash Paper 2 and Contribute 3. Together boths product
 
 “FlashPaper 2”:http://www.macromedia.com/software/flashpaper/ allows anyone to convert printable files into Macromedia Flash documents or PDF files with one click.
 
-Tagged: [Technology](https://web.archive.org/web/20100227104756/http://nathanpitman.com/category/technology/)
+Tagged: [Technology](/tag/technology)

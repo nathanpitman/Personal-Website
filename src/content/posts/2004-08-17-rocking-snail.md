@@ -1,8 +1,10 @@
 ---
-title: "Rocking Snail!"
+title: Rocking Snail!
 date: 2004-08-17
-source: "http://nathanpitman.com/229/rocking-snail"
-archive: "https://web.archive.org/web/20100104141646/http://nathanpitman.com:80/229/rocking-snail"
+source: http://nathanpitman.com/229/rocking-snail
+archive: https://web.archive.org/web/20100104141646/http://nathanpitman.com:80/229/rocking-snail
+tags:
+  - "Family"
 ---
 
 Today Jo and I decided to spoil Neve a little and buy her a new toy, to be specific a ‘Rocking Snail’! Neve checked out the snail in the store and was suitably interested, so when we got back to Jo’s parents we plonked her in the seat, fastened the belt and left her to it.
@@ -17,4 +19,4 @@ One thing is for sure, even when you’ve had a really bad day, a little girlie 
 
 ![Rocking Snail is loadsa fun](/images/50.jpg "Rocking Snail is loadsa fun")
 
-Tagged: [Family](https://web.archive.org/web/20100104141646/http://nathanpitman.com/category/family/)
+Tagged: [Family](/tag/family)

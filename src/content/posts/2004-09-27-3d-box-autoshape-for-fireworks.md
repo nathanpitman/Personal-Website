@@ -1,8 +1,11 @@
 ---
-title: "‘3D Box’ AutoShape for Fireworks"
+title: ‘3D Box’ AutoShape for Fireworks
 date: 2004-09-27
-source: "http://nathanpitman.com/259/3d-box-autoshape-for-fireworks"
-archive: "https://web.archive.org/web/20090603224053/http://nathanpitman.com:80/259/3d-box-autoshape-for-fireworks"
+source: http://nathanpitman.com/259/3d-box-autoshape-for-fireworks
+archive: https://web.archive.org/web/20090603224053/http://nathanpitman.com:80/259/3d-box-autoshape-for-fireworks
+tags:
+  - "Extensions"
+  - "Fireworks"
 ---
 
 [Senocular](https://web.archive.org/web/20090603224053/http://www.senocular.com/) (Trevor McCauley) has been busy again and this weekend posted another Fireworks MX 2004 AutoShape to his site.
@@ -13,4 +16,4 @@ The [3D Box AutoShape](https://web.archive.org/web/20090603224053/http://senocul
 
 An option is given to change perspective. If the focal length (controlling perspective) is set to the max of 1000, all perspective is ignored and you get an isometric representation.
 
-Tagged: [Extensions](https://web.archive.org/web/20090603224053/http://nathanpitman.com/category/extensions/), [Fireworks](https://web.archive.org/web/20090603224053/http://nathanpitman.com/category/fireworks/)
+Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

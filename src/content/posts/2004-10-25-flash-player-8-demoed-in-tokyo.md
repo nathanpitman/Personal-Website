@@ -1,8 +1,10 @@
 ---
-title: "Flash Player 8 demo’ed in Tokyo"
+title: Flash Player 8 demo’ed in Tokyo
 date: 2004-10-25
-source: "http://nathanpitman.com/274/flash-player-8-demoed-in-tokyo"
-archive: "https://web.archive.org/web/20090801030707/http://nathanpitman.com:80/274/flash-player-8-demoed-in-tokyo"
+source: http://nathanpitman.com/274/flash-player-8-demoed-in-tokyo
+archive: https://web.archive.org/web/20090801030707/http://nathanpitman.com:80/274/flash-player-8-demoed-in-tokyo
+tags:
+  - "Flash"
 ---
 
 [Colin Moock](https://web.archive.org/web/20090801030707/http://www.moock.org/blog/archives/000146.html) has posted a video on his blog of Kevin Lynch, Macromedia’s chief software architect, demonstrating the next generation version of the Flash Player at the Macromedia Flash conference in Tokyo, Japan.
@@ -22,4 +24,4 @@ Very exciting stuff.
 
 **Update:** Kevin Lynch has posted on [his blog](https://web.archive.org/web/20090801030707/http://www.klynch.com/archives/000072.html) about his presentation in Tokyo.
 
-Tagged: [Flash](https://web.archive.org/web/20090801030707/http://nathanpitman.com/category/flash/)
+Tagged: [Flash](/tag/flash)

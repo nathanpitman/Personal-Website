@@ -1,8 +1,11 @@
 ---
-title: "What browsers do you develop for?"
+title: What browsers do you develop for?
 date: 2004-06-03
-source: "http://nathanpitman.com/166/what-browsers-do-you-develop-for"
-archive: "https://web.archive.org/web/20111009203526/http://nathanpitman.com/166/what-browsers-do-you-develop-for"
+source: http://nathanpitman.com/166/what-browsers-do-you-develop-for
+archive: https://web.archive.org/web/20111009203526/http://nathanpitman.com/166/what-browsers-do-you-develop-for
+tags:
+  - "Technology"
+  - "Web development"
 ---
 
 Every good web project specification document includes a list of target browsers and platforms. It’s something that I’ve been reviewing here at [Mirashade](https://web.archive.org/web/20111009203526/http://www.mirashade.com/), and I’m interested to know what browsers and platforms like minded developers are ‘developing’ for.
@@ -25,4 +28,4 @@ For our most recent project we have devised the following list:
 
 How does this compare to your browser devlopment list? Let me know…
 
-Tagged: [Technology](https://web.archive.org/web/20111009203526/http://nathanpitman.com/category/technology/), [Web development](https://web.archive.org/web/20111009203526/http://nathanpitman.com/category/web-development/)
+Tagged: [Technology](/tag/technology), [Web development](/tag/web-development)

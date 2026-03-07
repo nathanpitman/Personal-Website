@@ -3,6 +3,10 @@ title: "Goodbye dear friend"
 date: 2013-05-07
 source: "http://nathanpitman.com/625/goodbye-dear-friend"
 archive: "https://web.archive.org/web/20130510164111/http://nathanpitman.com:80/625/goodbye-dear-friend"
+tags:
+  - "Adobe"
+  - "Design"
+  - "Fireworks"
 ---
 
 [Adobe Fireworks is dead](https://web.archive.org/web/20130510164111/http://blogs.adobe.com/fireworks/2013/05/the-future-of-adobe-fireworks.html)
@@ -11,4 +15,4 @@ I can’t say I’m surprised to see Adobe kill Fireworks, despite my continuous
 
 So what next? Is there a tool out there right now that can replace Fireworks? Not quite – but there ‘are’ some really promising indie apps which get real close. [Go invest some of your hard earned cash in one](https://web.archive.org/web/20130510164111/http://www.bohemiancoding.com/sketch/), contribute by telling the developers what works and what doesn’t and bask in that warm feeling you get from using software produced by a company that cares about it’s customers.
 
-Tagged: [Adobe](https://web.archive.org/web/20130510164111/http://nathanpitman.com/category/adobe/), [Design](https://web.archive.org/web/20130510164111/http://nathanpitman.com/category/design/), [Fireworks](https://web.archive.org/web/20130510164111/http://nathanpitman.com/category/fireworks/)
+Tagged: [Adobe](/tag/adobe), [Design](/tag/design), [Fireworks](/tag/fireworks)

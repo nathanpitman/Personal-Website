@@ -1,8 +1,10 @@
 ---
-title: "e-receipts?"
+title: e-receipts?
 date: 2005-03-31
-source: "http://nathanpitman.com/333/e-receipts"
-archive: "https://web.archive.org/web/20100427034027/http://nathanpitman.com:80/333/e-receipts"
+source: http://nathanpitman.com/333/e-receipts
+archive: https://web.archive.org/web/20100427034027/http://nathanpitman.com:80/333/e-receipts
+tags:
+  - "Technology"
 ---
 
 So, recently I’ve been thinking about the concept of ‘e-receipts’. It must be said, I’ve done no research into whether something like this is already in the works, if it is, great. In the meantime here’s my take on the idea.
@@ -17,4 +19,4 @@ Guess what, I just googled ‘e-receipts’ and found [this](https://web.archive
 
 Must remember to google journal entries prior to spouting them upon my readers in the future.
 
-Tagged: [Technology](https://web.archive.org/web/20100427034027/http://nathanpitman.com/category/technology/)
+Tagged: [Technology](/tag/technology)

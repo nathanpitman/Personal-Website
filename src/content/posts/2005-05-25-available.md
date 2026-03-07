@@ -1,8 +1,10 @@
 ---
-title: "Available"
+title: Available
 date: 2005-05-25
-source: "http://nathanpitman.com/353/available"
-archive: "https://web.archive.org/web/20090924123225/http://nathanpitman.com:80/353/available"
+source: http://nathanpitman.com/353/available
+archive: https://web.archive.org/web/20090924123225/http://nathanpitman.com:80/353/available
+tags:
+  - "Employment"
 ---
 
 Well, I’ve been at [Mirashade](https://web.archive.org/web/20090924123225/http://www.mirashade.com/) for a couple of years now, it has been great fun and a huge experience but I have plans to develop my career in a slightly new direction. At [28](https://web.archive.org/web/20090924123225/http://nathanpitman.com/journal/355/happy-birthday) I feel that it’s time to move from ‘hands on’ to a slightly more ‘hands off’ position, so with that in mind I’m taking some steps to ensure that I’m headed in that direction. In other words… I’m looking for a new work opportunity.
@@ -25,4 +27,4 @@ I’m based in the **UK** and not looking to leave any time soon. Specifically t
 
 Well, perhaps you know of an opportunity, know of someone who might know of an opportunity or know of someone who might know of someone who might know of an opportunity… you get the idea… simply leave a comment in response to this post, or **get in touch** with me via any of the contact methods detailed in [my CV](/web/20090924123225/http://nathanpitman.com/files/nathan_cv_05_05_web.pdf).
 
-Tagged: [Employment](https://web.archive.org/web/20090924123225/http://nathanpitman.com/category/employment/)
+Tagged: [Employment](/tag/employment)

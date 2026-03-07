@@ -282,7 +282,8 @@ a:hover         { color: #0000ee; }
    ABOUT PAGE
    ----------------------------------------------------------------------------- */
 
-.about-heading {
+.about-heading,
+.tag-heading {
   font-family: var(--serif);
   font-size: 2.2rem;
   font-weight: 600;

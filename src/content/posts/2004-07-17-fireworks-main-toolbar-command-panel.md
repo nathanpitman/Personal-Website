@@ -1,8 +1,11 @@
 ---
-title: "Fireworks ‘Main Toolbar’ Command Panel"
+title: Fireworks ‘Main Toolbar’ Command Panel
 date: 2004-07-17
-source: "http://nathanpitman.com/218/fireworks-main-toolbar-command-panel"
-archive: "https://web.archive.org/web/20100103234131/http://nathanpitman.com:80/218/fireworks-main-toolbar-command-panel"
+source: http://nathanpitman.com/218/fireworks-main-toolbar-command-panel
+archive: https://web.archive.org/web/20100103234131/http://nathanpitman.com:80/218/fireworks-main-toolbar-command-panel
+tags:
+  - "Extensions"
+  - "Fireworks"
 ---
 
 I’ve finished the Fireworks ‘Main Toolbar’ Command Panel and it’s now available to [download for free](https://web.archive.org/web/20100103234131/http://www.nathanpitman.com/source/fireworks_extensions.php?id=217).
@@ -11,4 +14,4 @@ I’ve finished the Fireworks ‘Main Toolbar’ Command Panel and it’s now av
 
 The panel is a SWF command panel version of the Main Toolbar in Fireworks. It’s more compact and better looking than the default Main Toolbar (I ‘stole’ the icons from ‘Dreamweaver MX 2004’). I Dock it above the Optimize panel for easy access.
 
-Tagged: [Extensions](https://web.archive.org/web/20100103234131/http://nathanpitman.com/category/extensions/), [Fireworks](https://web.archive.org/web/20100103234131/http://nathanpitman.com/category/fireworks/)
+Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

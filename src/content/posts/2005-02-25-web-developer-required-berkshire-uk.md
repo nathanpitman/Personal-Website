@@ -1,8 +1,11 @@
 ---
-title: "Web Developer Required… (Berkshire, UK)"
+title: Web Developer Required… (Berkshire, UK)
 date: 2005-02-25
-source: "http://nathanpitman.com/329/web-developer-required-berkshire-uk"
-archive: "https://web.archive.org/web/20100113134527/http://nathanpitman.com:80/329/web-developer-required-berkshire-uk"
+source: http://nathanpitman.com/329/web-developer-required-berkshire-uk
+archive: https://web.archive.org/web/20100113134527/http://nathanpitman.com:80/329/web-developer-required-berkshire-uk
+tags:
+  - "Jobs"
+  - "Web development"
 ---
 
 Via [Mirashade](https://web.archive.org/web/20100113134527/http://www.mirashade.com/)...
@@ -17,4 +20,4 @@ Via [Mirashade](https://web.archive.org/web/20100113134527/http://www.mirashade.
 
 If youï¿½re interested, and youï¿½re available to work at the Mirashade studio in Reading, Berkshire, UKï¿½ [check out the Mirashade site](https://web.archive.org/web/20100113134527/http://www.mirashade.com/about/?c=Employment).
 
-Tagged: [Jobs](https://web.archive.org/web/20100113134527/http://nathanpitman.com/category/jobs/), [Web development](https://web.archive.org/web/20100113134527/http://nathanpitman.com/category/web-development/)
+Tagged: [Jobs](/tag/jobs), [Web development](/tag/web-development)

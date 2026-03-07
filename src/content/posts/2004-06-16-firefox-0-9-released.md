@@ -1,8 +1,10 @@
 ---
-title: "Firefox 0.9 Released"
+title: Firefox 0.9 Released
 date: 2004-06-16
-source: "http://nathanpitman.com/196/firefox-09-released"
-archive: "https://web.archive.org/web/20090901081656/http://nathanpitman.com:80/196/firefox-09-released"
+source: http://nathanpitman.com/196/firefox-09-released
+archive: https://web.archive.org/web/20090901081656/http://nathanpitman.com:80/196/firefox-09-released
+tags:
+  - "Technology"
 ---
 
 [Mozilla](https://web.archive.org/web/20090901081656/http://www.mozilla.org/) have gone live with the penultimate preview release of [Firefox](https://web.archive.org/web/20090901081656/http://www.mozilla.org/products/firefox/).
@@ -18,4 +20,4 @@ The latest release features a number of improvements. The most noticeable being 
 
 A word of warning (via [Digital Media Minute](https://web.archive.org/web/20090901081656/http://www.digitalmediaminute.com/article/781/firefox-09-released)), do not install this version over any previous versions of Firefox. Either uninstall previous versions or install Firefox 0.9 to a different folder.
 
-Tagged: [Technology](https://web.archive.org/web/20090901081656/http://nathanpitman.com/category/technology/)
+Tagged: [Technology](/tag/technology)

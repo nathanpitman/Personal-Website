@@ -3,6 +3,9 @@ title: "Flickrlicious"
 date: 2006-05-16
 source: "http://nathanpitman.com/473/flickrlicious"
 archive: "https://web.archive.org/web/20100113160420/http://nathanpitman.com:80/473/flickrlicious"
+tags:
+  - "Chatter"
+  - "Design"
 ---
 
 Without so much as a hint [Flickr just went all Gamma](https://web.archive.org/web/20100113160420/http://blog.flickr.com/flickrblog/2006/05/alpha_beta_gamm.html) on us. **Finally out of Beta?** That little tag was almost a part of the brand itself you know.
@@ -11,4 +14,4 @@ The navigational changes make sense, but getting used to them will take a few da
 
 **Congrats** to the Flickr team on a great update.
 
-Tagged: [Chatter](https://web.archive.org/web/20100113160420/http://nathanpitman.com/category/chatter/), [Design](https://web.archive.org/web/20100113160420/http://nathanpitman.com/category/design/)
+Tagged: [Chatter](/tag/chatter), [Design](/tag/design)

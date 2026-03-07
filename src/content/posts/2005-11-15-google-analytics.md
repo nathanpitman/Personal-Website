@@ -1,8 +1,10 @@
 ---
-title: "Google Analytics"
+title: Google Analytics
 date: 2005-11-15
-source: "http://nathanpitman.com/421/google-analytics"
-archive: "https://web.archive.org/web/20100117023154/http://nathanpitman.com:80/421/google-analytics"
+source: http://nathanpitman.com/421/google-analytics
+archive: https://web.archive.org/web/20100117023154/http://nathanpitman.com:80/421/google-analytics
+tags:
+  - "Technology"
 ---
 
 [Google Analytics](https://web.archive.org/web/20100117023154/http://www.google.com/analytics/), this could be the serious **free** competition which products like [Mint](https://web.archive.org/web/20100117023154/http://www.haveamint.com/) and [Delineate](https://web.archive.org/web/20100117023154/http://delineateit.com/web/) really didn’t need.
@@ -17,4 +19,4 @@ Google Analytics delivers everything you’d expect from a high end stats soluti
 
 **Update:** A [nice write up on Google Analytics](https://web.archive.org/web/20100117023154/http://weblogs.jupiterresearch.com/analysts/peterson/archives/011878.html) by Eric Peterson.
 
-Tagged: [Technology](https://web.archive.org/web/20100117023154/http://nathanpitman.com/category/technology/)
+Tagged: [Technology](/tag/technology)

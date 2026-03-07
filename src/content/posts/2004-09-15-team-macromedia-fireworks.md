@@ -1,8 +1,11 @@
 ---
-title: "Team Macromedia (Fireworks)"
+title: Team Macromedia (Fireworks)
 date: 2004-09-15
-source: "http://nathanpitman.com/243/team-macromedia-fireworks"
-archive: "https://web.archive.org/web/20100106031938/http://nathanpitman.com/243/team-macromedia-fireworks"
+source: http://nathanpitman.com/243/team-macromedia-fireworks
+archive: https://web.archive.org/web/20100106031938/http://nathanpitman.com/243/team-macromedia-fireworks
+tags:
+  - "Adobe"
+  - "Fireworks"
 ---
 
 Last month I was invited to become a member of the [Team Macromedia](https://web.archive.org/web/20100106031938/http://www.macromedia.com/support/forums/team_macromedia/) programme for Fireworks.
@@ -17,4 +20,4 @@ I hope to contribute to Team Macromedia by continuing to foster interest amongst
 
 Check out [my bio on the Team Macromedia pages](https://web.archive.org/web/20100106031938/http://www.macromedia.com/support/forums/team_macromedia/team_members/218.html) and keep an eye out for me on the [Fireworks forums](https://web.archive.org/web/20100106031938/http://www.macromedia.com/support/forums/fireworks/).
 
-Tagged: [Adobe](https://web.archive.org/web/20100106031938/http://nathanpitman.com/category/adobe/), [Fireworks](https://web.archive.org/web/20100106031938/http://nathanpitman.com/category/fireworks/)
+Tagged: [Adobe](/tag/adobe), [Fireworks](/tag/fireworks)

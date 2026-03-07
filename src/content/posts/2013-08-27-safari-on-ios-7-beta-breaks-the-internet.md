@@ -3,6 +3,11 @@ title: "Safari on iOS 7 beta breaks the internet"
 date: 2013-08-27
 source: "http://nathanpitman.com/626/safari-on-ios-7-breaks-the-internet"
 archive: "https://web.archive.org/web/20130909054628/http://nathanpitman.com:80/626/safari-on-ios-7-breaks-the-internet"
+tags:
+  - "Design"
+  - "Apple"
+  - "Rant"
+  - "Web development"
 ---
 
 ![Safari iOS 7 and Position Fixed Bottom, clicking on any of the links in the position fixed bar does not do what you expect.](/images/Safari_ios_7.jpg "Safari iOS 7 and Position Fixed Bottom, clicking on any of the links in the position fixed bar does not do what you expect.")
@@ -15,4 +20,4 @@ Genius!
 
 And yes, I know… NDA.
 
-Tagged: [Design](https://web.archive.org/web/20130909054628/http://nathanpitman.com/category/design/), [Apple](https://web.archive.org/web/20130909054628/http://nathanpitman.com/category/apple/), [Rant](https://web.archive.org/web/20130909054628/http://nathanpitman.com/category/rant/), [Web development](https://web.archive.org/web/20130909054628/http://nathanpitman.com/category/web-development/)
+Tagged: [Design](/tag/design), [Apple](/tag/apple), [Rant](/tag/rant), [Web development](/tag/web-development)

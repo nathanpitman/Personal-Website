@@ -1,8 +1,11 @@
 ---
-title: "Flash Video Kit Announced"
+title: Flash Video Kit Announced
 date: 2004-08-17
-source: "http://nathanpitman.com/228/flash-video-kit-announced"
-archive: "https://web.archive.org/web/20100106215531/http://nathanpitman.com:80/228/flash-video-kit-announced"
+source: http://nathanpitman.com/228/flash-video-kit-announced
+archive: https://web.archive.org/web/20100106215531/http://nathanpitman.com:80/228/flash-video-kit-announced
+tags:
+  - "Adobe"
+  - "Flash"
 ---
 
 The [Macromedia Flash Video Kit](https://web.archive.org/web/20100106215531/http://www.macromedia.com/software/studio/flashvideokit/) is a set of extensions and resources to add Flash Video quickly and easily to your website. The Flash Video Kit contains the following items:
@@ -12,4 +15,4 @@ The [Macromedia Flash Video Kit](https://web.archive.org/web/20100106215531/http
 3. Flash Video Learner’s Guide: An introductory guide to using and deploying Flash Video.
 4. Flash Video Stream Service Lite Trial powered by VitalStream: Purchasers of the Flash Video Kit are entitled to a free 15-day trial of the Flash Video Streaming Service Lite powered by VitalStream. This service allows them to harness all the power of streaming Flash Video without the need to install and maintain their own Flash Communication Servers.
 
-Tagged: [Adobe](https://web.archive.org/web/20100106215531/http://nathanpitman.com/category/adobe/), [Flash](https://web.archive.org/web/20100106215531/http://nathanpitman.com/category/flash/)
+Tagged: [Adobe](/tag/adobe), [Flash](/tag/flash)

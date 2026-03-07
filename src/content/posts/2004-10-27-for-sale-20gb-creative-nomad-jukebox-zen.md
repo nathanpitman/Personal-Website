@@ -1,8 +1,11 @@
 ---
-title: "For Sale: 20GB Creative Nomad Jukebox Zen"
+title: 'For Sale: 20GB Creative Nomad Jukebox Zen'
 date: 2004-10-27
-source: "http://nathanpitman.com/276/for-sale-20gb-creative-nomad-jukebox-zen"
-archive: "https://web.archive.org/web/20090801030728/http://nathanpitman.com:80/276/for-sale-20gb-creative-nomad-jukebox-zen"
+source: http://nathanpitman.com/276/for-sale-20gb-creative-nomad-jukebox-zen
+archive: https://web.archive.org/web/20090801030728/http://nathanpitman.com:80/276/for-sale-20gb-creative-nomad-jukebox-zen
+tags:
+  - "Personal"
+  - "Technology"
 ---
 
 I’m selling my ‘Creative Nomad Jukebox Zen’ (Snappy product name!) on [eBay](https://web.archive.org/web/20090801030728/http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&rd=1&item=5726813993&ssPageName=STRK:MESE:IT). Ok so it’s no [iPod](https://web.archive.org/web/20090801030728/http://www.apple.com/ipod/) beater but if you’re after a less expensive mp3 player then this might do the job.
@@ -17,4 +20,4 @@ I’m selling my ‘Creative Nomad Jukebox Zen’ (Snappy product name!) on [eBa
 
 **Update:** Sorry, this item has now been sold.
 
-Tagged: [Personal](https://web.archive.org/web/20090801030728/http://nathanpitman.com/category/personal/), [Technology](https://web.archive.org/web/20090801030728/http://nathanpitman.com/category/technology/)
+Tagged: [Personal](/tag/personal), [Technology](/tag/technology)

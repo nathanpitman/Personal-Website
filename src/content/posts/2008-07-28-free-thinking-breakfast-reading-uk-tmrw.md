@@ -3,6 +3,8 @@ title: "Free ‘thinking’ Breakfast, Reading, UK… Tmrw!"
 date: 2008-07-28
 source: "http://nathanpitman.com/548/free-thinking-breakfast-reading-uk-tmrw"
 archive: "https://web.archive.org/web/20091209035452/http://nathanpitman.com:80/548/free-thinking-breakfast-reading-uk-tmrw"
+tags:
+  - "Chatter"
 ---
 
 My good friend Glen from [Sub Lime](https://web.archive.org/web/20091209035452/http://www.sub-lime.co.uk/) is looking for people to come along to a free ‘thinking’ Breakfast at Green Park in Reading tmrw AM…
@@ -28,4 +30,4 @@ The event is tomorrow (29th) and will start at 8:00 – 8:30 and finish at 10:00
 
 **Signup here:** [http://www.sub-lime.co.uk/regus](https://web.archive.org/web/20091209035452/http://www.sub-lime.co.uk/regus)
 
-Tagged: [Chatter](https://web.archive.org/web/20091209035452/http://nathanpitman.com/category/chatter/)
+Tagged: [Chatter](/tag/chatter)

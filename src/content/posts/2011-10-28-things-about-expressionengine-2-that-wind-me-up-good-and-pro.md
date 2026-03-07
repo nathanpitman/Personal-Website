@@ -3,6 +3,9 @@ title: "Things about ExpressionEngine 2 that wind me up good and proper"
 date: 2011-10-28
 source: "http://nathanpitman.com/612/things-about-expressionengine-2-that-wind-me-up-good-and-proper"
 archive: "https://web.archive.org/web/20111030042045/http://nathanpitman.com:80/612/things-about-expressionengine-2-that-wind-me-up-good-and-proper"
+tags:
+  - "ExpressionEngine"
+  - "Rant"
 ---
 
 Working day in and day out with ExpressionEngine 2 I’m seeing ‘A LOT’ of things that really peeve me off from a usability perspective. I keep meaning to make note of them so perhaps someone will take notice… this is going to be an evolving blog post which sets about doing just that.
@@ -19,4 +22,4 @@ Working day in and day out with ExpressionEngine 2 I’m seeing ‘A LOT’ of t
 
 More to come as they hit me.
 
-Tagged: [ExpressionEngine](https://web.archive.org/web/20111030042045/http://nathanpitman.com/category/expressionengine/), [Rant](https://web.archive.org/web/20111030042045/http://nathanpitman.com/category/rant/)
+Tagged: [ExpressionEngine](/tag/expressionengine), [Rant](/tag/rant)

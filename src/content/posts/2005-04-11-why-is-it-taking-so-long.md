@@ -1,8 +1,10 @@
 ---
-title: "Why is it taking so long?"
+title: Why is it taking so long?
 date: 2005-04-11
-source: "http://nathanpitman.com/337/why-is-it-taking-so-long"
-archive: "https://web.archive.org/web/20091225233230/http://nathanpitman.com:80/337/why-is-it-taking-so-long"
+source: http://nathanpitman.com/337/why-is-it-taking-so-long
+archive: https://web.archive.org/web/20091225233230/http://nathanpitman.com:80/337/why-is-it-taking-so-long
+tags:
+  - "This website"
 ---
 
 I thought I should post to let you all know why [this re-design](https://web.archive.org/web/20091225233230/http://nathanpitman.com/journal/312/re-design-step-1-specify-requirements) is taking so flippin long.
@@ -15,4 +17,4 @@ I thought I should post to let you all know why [this re-design](https://web.arc
 
 So… as I type I have a tissue stuffed up each nostril. That is why this re-design is taking so long. Sorry.
 
-Tagged: [This website](https://web.archive.org/web/20091225233230/http://nathanpitman.com/category/this-website/)
+Tagged: [This website](/tag/this-website)

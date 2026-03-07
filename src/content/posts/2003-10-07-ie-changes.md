@@ -1,8 +1,11 @@
 ---
-title: "IE changes"
+title: IE changes
 date: 2003-10-07
-source: "http://nathanpitman.com/92/ie-changes"
-archive: "https://web.archive.org/web/20100106033351/http://nathanpitman.com/92/ie-changes"
+source: http://nathanpitman.com/92/ie-changes
+archive: https://web.archive.org/web/20100106033351/http://nathanpitman.com/92/ie-changes
+tags:
+  - "Adobe"
+  - "Technology"
 ---
 
 What this means for developers is that any site which you have built using ‘plug-in’ technology such as Flash, Windows Media Player, QuickTime or Real Player will act differently.
@@ -13,4 +16,4 @@ Macromedia has identified some early workarounds, but these require significant 
 
 You can find out more about these solutions here: [http://www.macromedia.com/devnet/activecontent/](https://web.archive.org/web/20100106033351/http://www.macromedia.com/devnet/activecontent/)
 
-Tagged: [Adobe](https://web.archive.org/web/20100106033351/http://nathanpitman.com/category/adobe/), [Technology](https://web.archive.org/web/20100106033351/http://nathanpitman.com/category/technology/)
+Tagged: [Adobe](/tag/adobe), [Technology](/tag/technology)

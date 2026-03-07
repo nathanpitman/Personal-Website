@@ -3,6 +3,8 @@ title: "Creative Director Reqd - Reading, Berks, UK"
 date: 2007-05-31
 source: "http://nathanpitman.com/509/creative-director-reqd-reading-berks-uk"
 archive: "https://web.archive.org/web/20091220123449/http://nathanpitman.com:80/509/creative-director-reqd-reading-berks-uk"
+tags:
+  - "Jobs"
 ---
 
 ![](/images/166.gif)
@@ -15,4 +17,4 @@ You know how to distill key messages to target audiences. Understand simplicity 
 
 **Note:** Remember to let Jules know where you saw this ad! ;)
 
-Tagged: [Jobs](https://web.archive.org/web/20091220123449/http://nathanpitman.com/category/jobs/)
+Tagged: [Jobs](/tag/jobs)

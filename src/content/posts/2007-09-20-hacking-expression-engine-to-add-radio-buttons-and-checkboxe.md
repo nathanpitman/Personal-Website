@@ -3,6 +3,9 @@ title: "Hacking Expression Engine to add radio buttons and checkboxes to custom 
 date: 2007-09-20
 source: "http://nathanpitman.com/520/hacking-expression-engine-to-add-radio-buttons-and-checkboxes-to-custom-mem"
 archive: "https://web.archive.org/web/20090701120857/http://nathanpitman.com:80/520/hacking-expression-engine-to-add-radio-buttons-and-checkboxes-to-custom-mem"
+tags:
+  - "Code"
+  - "ExpressionEngine"
 ---
 
 Don’t get me wrong, I love [Expression Engine](https://web.archive.org/web/20090701120857/http://www.expressionengine.com/index.php?affiliate=nathanpitman) but sometimes you just come up against a brick wall and the only solution is to either pay someone to write a very clever extension or hack the system files about yourself (not for the faint hearted!).
@@ -17,4 +20,4 @@ I’ve [documented the steps that I took](https://web.archive.org/web/2009070112
 
 For further discussion on this topic please also see [the related Expression Engine discussion forum thread](https://web.archive.org/web/20090701120857/http://expressionengine.com/forums/viewthread/60304/).
 
-Tagged: [Code](https://web.archive.org/web/20090701120857/http://nathanpitman.com/category/code/), [ExpressionEngine](https://web.archive.org/web/20090701120857/http://nathanpitman.com/category/expressionengine/)
+Tagged: [Code](/tag/code), [ExpressionEngine](/tag/expressionengine)

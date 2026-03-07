@@ -3,6 +3,9 @@ title: "Customer service the right way"
 date: 2006-04-10
 source: "http://nathanpitman.com/468/customer-service-the-right-way"
 archive: "https://web.archive.org/web/20100107191424/http://nathanpitman.com:80/468/customer-service-the-right-way"
+tags:
+  - "Chatter"
+  - "Web development"
 ---
 
 Well it’s a fair old time since I had such a good customer service experience that I was left visibly ‘**gleaming**‘. As it happens I just had one this very evening.
@@ -15,4 +18,4 @@ According to the maual, this should have worked without complaint, to begin with
 
 That is *great* customer service.
 
-Tagged: [Chatter](https://web.archive.org/web/20100107191424/http://nathanpitman.com/category/chatter/), [Web development](https://web.archive.org/web/20100107191424/http://nathanpitman.com/category/web-development/)
+Tagged: [Chatter](/tag/chatter), [Web development](/tag/web-development)

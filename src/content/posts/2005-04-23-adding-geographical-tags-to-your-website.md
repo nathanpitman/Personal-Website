@@ -1,8 +1,10 @@
 ---
-title: "Adding geographical tags to your website"
+title: Adding geographical tags to your website
 date: 2005-04-23
-source: "http://nathanpitman.com/346/adding-geographical-tags-to-your-website"
-archive: "https://web.archive.org/web/20090522145154/http://nathanpitman.com:80/346/adding-geographical-tags-to-your-website/"
+source: http://nathanpitman.com/346/adding-geographical-tags-to-your-website
+archive: https://web.archive.org/web/20090522145154/http://nathanpitman.com:80/346/adding-geographical-tags-to-your-website/
+tags:
+  - "Code"
 ---
 
 Having noticed geographical data in the [meta](https://web.archive.org/web/20090522145154/http://www.shauninman.com/) [tags](https://web.archive.org/web/20090522145154/http://www.andybudd.com/) of [many](https://web.archive.org/web/20090522145154/http://www.smalltransport.com/) [blogs](https://web.archive.org/web/20090522145154/http://www.hicksdesign.co.uk/journal/) recently I decided to investigate a little further and work out how to indicate the geographical location associated with my website. It took a bit of digging about, so I thought I’d share the results with you all.
@@ -34,4 +36,4 @@ Now simply place your tags in you document head and start adding yourself to geo
 
 Hoorah!
 
-Tagged: [Code](https://web.archive.org/web/20090522145154/http://nathanpitman.com/category/code/)
+Tagged: [Code](/tag/code)

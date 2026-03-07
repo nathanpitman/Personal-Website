@@ -3,6 +3,9 @@ title: "First impressions of the 3rd gen Apple TV"
 date: 2012-03-18
 source: "http://nathanpitman.com/613/first-impressions-of-the-3rd-gen-apple-tv"
 archive: "https://web.archive.org/web/20120629062912/http://nathanpitman.com:80/613/first-impressions-of-the-3rd-gen-apple-tv"
+tags:
+  - "Apple"
+  - "Technology"
 ---
 
 I’ve never previously been convinced by the [Apple TV](https://web.archive.org/web/20120629062912/http://en.wikipedia.org/wiki/Apple_TV), for me it always fell short of what I could do with a Mac Mini hooked up to the TV in the lounge. I tried numerous different packages for media playback but always found myself back with good old Front Row – it’s simplicity and wife/child compatability being the stamp of approval required to make it a long term solution for audio/video playback in our lounge. Eventually as with all good things it came to an end… stuttering and spluttering I put the Mac Mini out to pasture and decided to have a shot at replacing it with a 3rd gen Apple TV.
@@ -19,4 +22,4 @@ For me the biggest surprise of all is [Netflix](https://web.archive.org/web/2012
 
 So, is it worth the £99 price tag? If you subscribe to iTunes Match and Netflix then it’s an absolute no brainer, if not then at this price it’s almost worth a punt anyway. Hopefully future iterations of the Apple TV will continue to make it more relevant to wider user base with the introduction of other streaming services (fingers crossed!).
 
-Tagged: [Apple](https://web.archive.org/web/20120629062912/http://nathanpitman.com/category/apple/), [Technology](https://web.archive.org/web/20120629062912/http://nathanpitman.com/category/technology/)
+Tagged: [Apple](/tag/apple), [Technology](/tag/technology)

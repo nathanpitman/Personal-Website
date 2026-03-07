@@ -3,6 +3,8 @@ title: "2 freelance web devs rqd"
 date: 2006-12-15
 source: "http://nathanpitman.com/494/2-freelance-web-devs-rqd"
 archive: "https://web.archive.org/web/20110807184542/http://nathanpitman.com:80/494/2-freelance-web-devs-rqd"
+tags:
+  - "Jobs"
 ---
 
 Just pimping a couple of freelance vacancies for a friendâ¦
@@ -23,4 +25,4 @@ You will initially be filling in for the senior developer for a period of 1-2 we
 
 Interested? Drop an email with your CV, rates and all the usual jazz to <claire.ellis@tmbmarcom.com> and tell em I sent you.
 
-Tagged: [Jobs](https://web.archive.org/web/20110807184542/http://nathanpitman.com/category/jobs/)
+Tagged: [Jobs](/tag/jobs)

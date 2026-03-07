@@ -1,8 +1,10 @@
 ---
-title: "Bookmark synchronisation"
+title: Bookmark synchronisation
 date: 2004-06-23
-source: "http://nathanpitman.com/203/bookmark-synchronisation"
-archive: "https://web.archive.org/web/20100105124130/http://nathanpitman.com:80/203/bookmark-synchronisation"
+source: http://nathanpitman.com/203/bookmark-synchronisation
+archive: https://web.archive.org/web/20100105124130/http://nathanpitman.com:80/203/bookmark-synchronisation
+tags:
+  - "Technology"
 ---
 
 Bookmark synchronisation is one of those annoying little issues. I have a PC at work, and a PC at home.., but the bookmarks are never synchronised, simply because there has been no easy way to do so.
@@ -15,4 +17,4 @@ Well… a guy by the name of ‘Torisugari’ has developed [a great Firefox ext
 
 You simply provide a FTP host, username and password and Firefox can auto upload/download the bookmarks file on startup and exit. The process is fast and efficient. Result!
 
-Tagged: [Technology](https://web.archive.org/web/20100105124130/http://nathanpitman.com/category/technology/)
+Tagged: [Technology](/tag/technology)

@@ -3,6 +3,9 @@ title: "Inevitable?"
 date: 2006-06-02
 source: "http://nathanpitman.com/474/inevitable"
 archive: "https://web.archive.org/web/20091220115724/http://nathanpitman.com:80/474/inevitable"
+tags:
+  - "Blogging"
+  - "Personal"
 ---
 
 I guess it was inevitable that at some point my desire to keep blogging here would start to falter. The 7th of June will not only mark 4 years of [married life](https://web.archive.org/web/20091220115724/http://nathanpitman.com/journal/147/), but also 4 years of blogging at nathanpitman.com.
@@ -15,4 +18,4 @@ Perhaps without my personal site gnawing at my ankles for a post I’ll be able 
 
 So, without further ado, [subscribe to the feed](https://web.archive.org/web/20091220115724/http://feeds.feedburner.com/nathanpitmandotcom) and feel free to [wander off elsewhere](https://web.archive.org/web/20091220115724/http://del.icio.us/nathanpitman/blog), and accept my apologies for the severe lack of updates over the coming months.
 
-Tagged: [Blogging](https://web.archive.org/web/20091220115724/http://nathanpitman.com/category/blogging/), [Personal](https://web.archive.org/web/20091220115724/http://nathanpitman.com/category/personal/)
+Tagged: [Blogging](/tag/blogging), [Personal](/tag/personal)

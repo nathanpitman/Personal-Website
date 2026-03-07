@@ -1,8 +1,10 @@
 ---
-title: "How not to apply for a job"
+title: How not to apply for a job
 date: 2005-05-26
-source: "http://nathanpitman.com/362/how-not-to-apply-for-a-job"
-archive: "https://web.archive.org/web/20100306161348/http://nathanpitman.com:80/362/how-not-to-apply-for-a-job"
+source: http://nathanpitman.com/362/how-not-to-apply-for-a-job
+archive: https://web.archive.org/web/20100306161348/http://nathanpitman.com:80/362/how-not-to-apply-for-a-job
+tags:
+  - "Employment"
 ---
 
 Kinda reminded by John Oxton’s [rant on lack of email manner](https://web.archive.org/web/20100306161348/http://joshuaink.com/blog/299/in-the-words-of-lionel-richie), I’ve been noticing a steady increase in the number of people who apply for Jobs at [Mirashade](https://web.archive.org/web/20100306161348/http://www.mirashade.com/) without care or consideration for a greeting of any kind.
@@ -29,4 +31,4 @@ Don’t:
 
 So, do you have any tips of your own? It’s hot and muggy in the office so I’m gonna take my socks off now and get back to not responding to all these rude job applications.
 
-Tagged: [Employment](https://web.archive.org/web/20100306161348/http://nathanpitman.com/category/employment/)
+Tagged: [Employment](/tag/employment)

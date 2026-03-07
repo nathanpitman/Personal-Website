@@ -1,8 +1,11 @@
 ---
-title: "Squeezebox!"
+title: Squeezebox!
 date: 2003-11-27
-source: "http://nathanpitman.com/6/squeezebox"
-archive: "https://web.archive.org/web/20100111160844/http://nathanpitman.com:80/6/squeezebox"
+source: http://nathanpitman.com/6/squeezebox
+archive: https://web.archive.org/web/20100111160844/http://nathanpitman.com:80/6/squeezebox
+tags:
+  - "Personal"
+  - "Technology"
 ---
 
 A few months back I bought a ‘network MP3 player’, my first purchase of this kind, the idea being that it would replace my old Yamaha multidisc CD player (Which regularly refuses to eject the CD tray completely, making nasty grinding noises as it does so).
@@ -13,4 +16,4 @@ Now, regardless of the fact that the unit, server software and customer service 
 
 Now if I could just convince my wife that we need another network music player… :)
 
-Tagged: [Personal](https://web.archive.org/web/20100111160844/http://nathanpitman.com/category/personal/), [Technology](https://web.archive.org/web/20100111160844/http://nathanpitman.com/category/technology/)
+Tagged: [Personal](/tag/personal), [Technology](/tag/technology)

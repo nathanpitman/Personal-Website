@@ -1,8 +1,11 @@
 ---
-title: "My employers are looking for a New Media Developer…"
+title: My employers are looking for a New Media Developer…
 date: 2003-10-13
-source: "http://nathanpitman.com/91/my-employers-are-looking-for-a-new-media-developer"
-archive: "https://web.archive.org/web/20111009173255/http://nathanpitman.com/91/my-employers-are-looking-for-a-new-media-developer"
+source: http://nathanpitman.com/91/my-employers-are-looking-for-a-new-media-developer
+archive: https://web.archive.org/web/20111009173255/http://nathanpitman.com/91/my-employers-are-looking-for-a-new-media-developer
+tags:
+  - "Design"
+  - "Jobs"
 ---
 
 Mirashade are a rapidly expanding, highly creative ‘media solutions’ company based in Reading, Berkshire (UK). We work in 2D, 3D, web, print, CD-ROM, DVD and Broadcast, so you’re sure to be kept busy with a broad range of dynamic and challenging projects.
@@ -15,4 +18,4 @@ The ideal candidate will have at least 1 years commercial experience using HTML,
 
 Salary dependant on experience. If you’re interested, then email me at work:
 
-Tagged: [Design](https://web.archive.org/web/20111009173255/http://nathanpitman.com/category/design/), [Jobs](https://web.archive.org/web/20111009173255/http://nathanpitman.com/category/jobs/)
+Tagged: [Design](/tag/design), [Jobs](/tag/jobs)

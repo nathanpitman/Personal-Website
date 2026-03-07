@@ -1,8 +1,11 @@
 ---
-title: "When upgrades turn bad"
+title: When upgrades turn bad
 date: 2005-11-28
-source: "http://nathanpitman.com/425/when-upgrades-turn-bad"
-archive: "https://web.archive.org/web/20090526172108/http://nathanpitman.com:80/425/when-upgrades-turn-bad"
+source: http://nathanpitman.com/425/when-upgrades-turn-bad
+archive: https://web.archive.org/web/20090526172108/http://nathanpitman.com:80/425/when-upgrades-turn-bad
+tags:
+  - "Adobe"
+  - "Technology"
 ---
 
 Maybe I’ve been doing something wrong, maybe I’m just thick but this morning I’ve had a *total* nightmare completing what should have been a simple task. Activating [Studio 8](https://web.archive.org/web/20090526172108/http://www.macromedia.com/software/studio/).
@@ -29,4 +32,4 @@ Not exactly the *correct* route, but in absence of any proper telephone support,
 
 **Update:** Drew is indeed right, seems I was using serials from a NFR (Not for Resale) copy of Studio MX. However there are a [bunch of other products you can upgrade from](https://web.archive.org/web/20090526172108/http://www.macromedia.com/store/en_gb/popup/software/studio/upgrade_eligibility.html).
 
-Tagged: [Adobe](https://web.archive.org/web/20090526172108/http://nathanpitman.com/category/adobe/), [Technology](https://web.archive.org/web/20090526172108/http://nathanpitman.com/category/technology/)
+Tagged: [Adobe](/tag/adobe), [Technology](/tag/technology)

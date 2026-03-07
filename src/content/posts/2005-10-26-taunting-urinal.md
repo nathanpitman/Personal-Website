@@ -1,8 +1,10 @@
 ---
-title: "Taunting Urinal"
+title: Taunting Urinal
 date: 2005-10-26
-source: "http://nathanpitman.com/413/taunting-urinal"
-archive: "https://web.archive.org/web/20100115114331/http://nathanpitman.com:80/413/taunting-urinal"
+source: http://nathanpitman.com/413/taunting-urinal
+archive: https://web.archive.org/web/20100115114331/http://nathanpitman.com:80/413/taunting-urinal
+tags:
+  - "Humour"
 ---
 
 Via [forgetfoo](https://web.archive.org/web/20100115114331/http://www.forgetfoo.com/?blogid=4832), this was just too good not to repeat.
@@ -11,4 +13,4 @@ Via [forgetfoo](https://web.archive.org/web/20100115114331/http://www.forgetfoo.
 
 Classic.
 
-Tagged: [Humour](https://web.archive.org/web/20100115114331/http://nathanpitman.com/category/humour/)
+Tagged: [Humour](/tag/humour)

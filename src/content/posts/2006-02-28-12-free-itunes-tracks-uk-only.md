@@ -1,8 +1,11 @@
 ---
-title: "12 Free iTunes tracks (UK only)"
+title: 12 Free iTunes tracks (UK only)
 date: 2006-02-28
-source: "http://nathanpitman.com/453/12-free-itunes-tracks-uk-only"
-archive: "https://web.archive.org/web/20090524025205/http://nathanpitman.com:80/453/12-free-itunes-tracks-uk-only"
+source: http://nathanpitman.com/453/12-free-itunes-tracks-uk-only
+archive: https://web.archive.org/web/20090524025205/http://nathanpitman.com:80/453/12-free-itunes-tracks-uk-only
+tags:
+  - "Chatter"
+  - "Marketing/Advertising"
 ---
 
 Via ‘The List’ I heard of a promotion which a UK website is running whereby they will credit you with 12 free iTunes tracks for signing up for a free account with them. Basically this is a huge freebie, so here’s how to bag your credits…
@@ -15,4 +18,4 @@ Via ‘The List’ I heard of a promotion which a UK website is running whereby 
 
 You’re done. Enjoy your credits!
 
-Tagged: [Chatter](https://web.archive.org/web/20090524025205/http://nathanpitman.com/category/chatter/), [Marketing/Advertising](https://web.archive.org/web/20090524025205/http://nathanpitman.com/category/marketing-advertising/)
+Tagged: [Chatter](/tag/chatter), [Marketing/Advertising](/tag/marketing-advertising)

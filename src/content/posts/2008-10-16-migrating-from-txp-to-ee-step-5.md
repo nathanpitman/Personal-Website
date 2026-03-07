@@ -3,6 +3,9 @@ title: "Migrating from TXP to EE - Step 5"
 date: 2008-10-16
 source: "http://nathanpitman.com/558/migrating-from-txp-to-ee-step-5"
 archive: "https://web.archive.org/web/20090518092434/http://nathanpitman.com:80/558/migrating-from-txp-to-ee-step-5"
+tags:
+  - "ExpressionEngine"
+  - "Textpattern"
 ---
 
 [ExpressionEngine](https://web.archive.org/web/20090518092434/http://www.expressionengine.com/index.php?affiliate=nathanpitman) does not provide a ‘native’ facility for recording links but the immense flexibility of ExpressionEngine Weblogs allows you to create your own links facility by just creating a new Weblog with the relevant custom fields (Title, URL & Description) and then setting up a related category group.
@@ -40,4 +43,4 @@ If you need to you can also tweak the number of minutes that the plug-in waits b
 
 [Conclusion…](/web/20090518092434/http://nathanpitman.com/journal/578/migrating-from-txp-to-ee-step-conclusion)
 
-Tagged: [ExpressionEngine](https://web.archive.org/web/20090518092434/http://nathanpitman.com/category/expressionengine/), [Textpattern](https://web.archive.org/web/20090518092434/http://nathanpitman.com/category/textpattern/)
+Tagged: [ExpressionEngine](/tag/expressionengine), [Textpattern](/tag/textpattern)

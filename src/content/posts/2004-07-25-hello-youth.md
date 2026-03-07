@@ -1,8 +1,10 @@
 ---
-title: "Hello youth!"
+title: Hello youth!
 date: 2004-07-25
-source: "http://nathanpitman.com/223/hello-youth"
-archive: "https://web.archive.org/web/20090608025218/http://nathanpitman.com:80/223/hello-youth"
+source: http://nathanpitman.com/223/hello-youth
+archive: https://web.archive.org/web/20090608025218/http://nathanpitman.com:80/223/hello-youth
+tags:
+  - "Personal"
 ---
 
 Almost 6 months to the day since I said [goodbye to my youth](https://web.archive.org/web/20090608025218/http://www.nathanpitman.com/blog/index.php?id=25), I seem somehow to have got it back.
@@ -13,4 +15,4 @@ Jo foolishly suggested that she have my car and I trade hers in for something mo
 
 Woohoo!
 
-Tagged: [Personal](https://web.archive.org/web/20090608025218/http://nathanpitman.com/category/personal/)
+Tagged: [Personal](/tag/personal)

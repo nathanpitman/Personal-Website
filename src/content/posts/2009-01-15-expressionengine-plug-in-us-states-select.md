@@ -3,6 +3,8 @@ title: "ExpressionEngine Plug-in: US States Select"
 date: 2009-01-15
 source: "http://nathanpitman.com/565/expressionengine-plug-in-us-states-select"
 archive: "https://web.archive.org/web/20090518024109/http://nathanpitman.com:80/565/expressionengine-plug-in-us-states-select"
+tags:
+  - "ExpressionEngine"
 ---
 
 This is just a variation of my UK Counties Select plug-in for [ExpressionEngine](https://web.archive.org/web/20090518024109/http://www.expressionengine.com/index.php?affiliate=nathanpitman) which as you might expect, returns a list of US states in the drop down rather than UK counties. Usage of the plug-in is as follows:
@@ -15,4 +17,4 @@ There are also some additional parameters you can pass that are detailed in the 
 
 Obviously let me know in the comments if you have any thoughts on how this can be improved. Enjoy!
 
-Tagged: [ExpressionEngine](https://web.archive.org/web/20090518024109/http://nathanpitman.com/category/expressionengine/)
+Tagged: [ExpressionEngine](/tag/expressionengine)

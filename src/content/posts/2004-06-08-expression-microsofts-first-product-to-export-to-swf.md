@@ -1,8 +1,11 @@
 ---
-title: "Expression (Microsoft’s first product to export to SWF)"
+title: Expression (Microsoft’s first product to export to SWF)
 date: 2004-06-08
-source: "http://nathanpitman.com/170/expression-microsofts-first-product-to-export-to-swf"
-archive: "https://web.archive.org/web/20091227133158/http://nathanpitman.com:80/170/expression-microsofts-first-product-to-export-to-swf"
+source: http://nathanpitman.com/170/expression-microsofts-first-product-to-export-to-swf
+archive: https://web.archive.org/web/20091227133158/http://nathanpitman.com:80/170/expression-microsofts-first-product-to-export-to-swf
+tags:
+  - "Flash"
+  - "Technology"
 ---
 
 All via [flex-mx.com](https://web.archive.org/web/20091227133158/http://www.flex-mx.com/archives/000823.html)
@@ -17,4 +20,4 @@ All via [flex-mx.com](https://web.archive.org/web/20091227133158/http://www.flex
 
 Well, it certainly sounds interesting, I’m downloading a copy right now, so I’ll have a play when I get a chance and post some more on how it stacks up…
 
-Tagged: [Flash](https://web.archive.org/web/20091227133158/http://nathanpitman.com/category/flash/), [Technology](https://web.archive.org/web/20091227133158/http://nathanpitman.com/category/technology/)
+Tagged: [Flash](/tag/flash), [Technology](/tag/technology)

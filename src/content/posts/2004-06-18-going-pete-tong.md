@@ -1,8 +1,11 @@
 ---
-title: "Going Pete Tong"
+title: Going Pete Tong
 date: 2004-06-18
-source: "http://nathanpitman.com/199/going-pete-tong"
-archive: "https://web.archive.org/web/20100107152612/http://nathanpitman.com:80/199/going-pete-tong"
+source: http://nathanpitman.com/199/going-pete-tong
+archive: https://web.archive.org/web/20100107152612/http://nathanpitman.com:80/199/going-pete-tong
+tags:
+  - "Personal"
+  - "Technology"
 ---
 
 Every thing’s going [Pete Tong!](https://web.archive.org/web/20100107152612/http://www.bbc.co.uk/radio1/dance/petetong/index.shtml) Yesterday:
@@ -16,4 +19,4 @@ Every thing’s going [Pete Tong!](https://web.archive.org/web/20100107152612/ht
 
 Hopefully today will be a better day.
 
-Tagged: [Personal](https://web.archive.org/web/20100107152612/http://nathanpitman.com/category/personal/), [Technology](https://web.archive.org/web/20100107152612/http://nathanpitman.com/category/technology/)
+Tagged: [Personal](/tag/personal), [Technology](/tag/technology)

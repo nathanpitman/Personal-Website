@@ -1,8 +1,10 @@
 ---
-title: "10 questions for Darren Miller (Going it alone)"
+title: 10 questions for Darren Miller (Going it alone)
 date: 2005-08-22
-source: "http://nathanpitman.com/394/10-questions-for-darren-miller-going-it-alone"
-archive: "https://web.archive.org/web/20100113151405/http://nathanpitman.com:80/394/10-questions-for-darren-miller-going-it-alone"
+source: http://nathanpitman.com/394/10-questions-for-darren-miller-going-it-alone
+archive: https://web.archive.org/web/20100113151405/http://nathanpitman.com:80/394/10-questions-for-darren-miller-going-it-alone
+tags:
+  - "Employment"
 ---
 
 In the third of five interviews with web designers and developers who are self employed I chat with [Darren Miller](https://web.archive.org/web/20100113151405/http://www.darrenm.net/). I got to know Darren whilst working at [TMB](https://web.archive.org/web/20100113151405/http://www.tmbmarcom.com/) on an event based video game for [HP](https://web.archive.org/web/20100113151405/http://www.hp.co.uk/). Darren is a new media designer and developer.
@@ -75,4 +77,4 @@ I’d made sure I didn’t have much going on around the move so I got away with
 - **Get a good accountant.**  
   Unless you enjoy filling in corporation tax returns. Personally the very thought of it makes me want to kill myself.
 
-Tagged: [Employment](https://web.archive.org/web/20100113151405/http://nathanpitman.com/category/employment/)
+Tagged: [Employment](/tag/employment)

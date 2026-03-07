@@ -3,6 +3,8 @@ title: "Oxton gives birth!"
 date: 2006-04-14
 source: "http://nathanpitman.com/470/oxton-gives-birth"
 archive: "https://web.archive.org/web/20091229024411/http://nathanpitman.com:80/470/oxton-gives-birth"
+tags:
+  - "Web development"
 ---
 
 It was beautiful I’m telling you, I was there when it happened, [Oxton](https://web.archive.org/web/20091229024411/http://www.joshuaink.com/) just gave birth… to [Bite Size Standards](https://web.archive.org/web/20091229024411/http://bitesizestandards.com/).
@@ -13,4 +15,4 @@ It was beautiful I’m telling you, I was there when it happened, [Oxton](https:
 
 So, [go visit](https://web.archive.org/web/20091229024411/http://bitesizestandards.com/), subscribe to the feed and digest the daily bites.
 
-Tagged: [Web development](https://web.archive.org/web/20091229024411/http://nathanpitman.com/category/web-development/)
+Tagged: [Web development](/tag/web-development)

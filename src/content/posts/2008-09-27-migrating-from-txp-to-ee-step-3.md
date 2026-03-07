@@ -3,6 +3,9 @@ title: "Migrating from TXP to EE - Step 3"
 date: 2008-09-27
 source: "http://nathanpitman.com/555/migrating-from-txp-to-ee-step-3"
 archive: "https://web.archive.org/web/20090518094453/http://nathanpitman.com:80/555/migrating-from-txp-to-ee-step-3"
+tags:
+  - "ExpressionEngine"
+  - "Textpattern"
 ---
 
 Now comes the exciting part. We’re going to import our old Textpattern artcicles into [ExpressionEngine](https://web.archive.org/web/20090518094453/http://www.expressionengine.com/index.php?affiliate=nathanpitman)!
@@ -25,4 +28,4 @@ All of your article entries should now include any inline images or media. Next 
 
 [Next Step…](/web/20090518094453/http://nathanpitman.com/journal/556/migrating-from-txp-to-ee-step-4)
 
-Tagged: [ExpressionEngine](https://web.archive.org/web/20090518094453/http://nathanpitman.com/category/expressionengine/), [Textpattern](https://web.archive.org/web/20090518094453/http://nathanpitman.com/category/textpattern/)
+Tagged: [ExpressionEngine](/tag/expressionengine), [Textpattern](/tag/textpattern)

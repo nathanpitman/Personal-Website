@@ -1,8 +1,11 @@
 ---
-title: "Rubberduck launch Sreenweaver MX"
+title: Rubberduck launch Sreenweaver MX
 date: 2003-01-09
-source: "http://nathanpitman.com/122/rubberduck-launch-sreenweaver-mx"
-archive: "https://web.archive.org/web/20090527052713/http://nathanpitman.com:80/122/rubberduck-launch-sreenweaver-mx"
+source: http://nathanpitman.com/122/rubberduck-launch-sreenweaver-mx
+archive: https://web.archive.org/web/20090527052713/http://nathanpitman.com:80/122/rubberduck-launch-sreenweaver-mx
+tags:
+  - "Flash"
+  - "Technology"
 ---
 
 Rubberduckï¿½s new version of its rich client desktop application production software enables Macromedia Flash developers to leverage their skills from the browser to the client desktop.
@@ -11,4 +14,4 @@ Rubberduckï¿½s new version of its rich client desktop application production 
 
 Screenweaver MX is available immediately on the Windows platform. A fully functional trial version is available for download at [www.screenweavermx.com](https://web.archive.org/web/20090527052713/http://www.screenweavermx.com/).
 
-Tagged: [Flash](https://web.archive.org/web/20090527052713/http://nathanpitman.com/category/flash/), [Technology](https://web.archive.org/web/20090527052713/http://nathanpitman.com/category/technology/)
+Tagged: [Flash](/tag/flash), [Technology](/tag/technology)

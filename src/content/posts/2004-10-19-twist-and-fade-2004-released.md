@@ -1,8 +1,11 @@
 ---
-title: "Twist and Fade 2004 released"
+title: Twist and Fade 2004 released
 date: 2004-10-19
-source: "http://nathanpitman.com/268/twist-and-fade-2004-released"
-archive: "https://web.archive.org/web/20100104182339/http://nathanpitman.com:80/268/twist-and-fade-2004-released"
+source: http://nathanpitman.com/268/twist-and-fade-2004-released
+archive: https://web.archive.org/web/20100104182339/http://nathanpitman.com:80/268/twist-and-fade-2004-released
+tags:
+  - "Extensions"
+  - "Fireworks"
 ---
 
 [Steven Grosvenor](https://web.archive.org/web/20100104182339/http://www.phireworx.com/) has finished work on his new ‘Twist and Fade’ command for Fireworks MX 2004.
@@ -16,4 +19,4 @@ Improvements in v4.0.8 include:
 
 It’s free and you can [download it here](https://web.archive.org/web/20100104182339/http://www.phireworx.com/files/commands/twistandfade2004/TwistandFade2004.mxp).
 
-Tagged: [Extensions](https://web.archive.org/web/20100104182339/http://nathanpitman.com/category/extensions/), [Fireworks](https://web.archive.org/web/20100104182339/http://nathanpitman.com/category/fireworks/)
+Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

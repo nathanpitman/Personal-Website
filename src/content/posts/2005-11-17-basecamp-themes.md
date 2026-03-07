@@ -1,8 +1,11 @@
 ---
-title: "Basecamp Themes"
+title: Basecamp Themes
 date: 2005-11-17
-source: "http://nathanpitman.com/423/basecamp-themes"
-archive: "https://web.archive.org/web/20090615140727/http://nathanpitman.com:80/423/basecamp-themes"
+source: http://nathanpitman.com/423/basecamp-themes
+archive: https://web.archive.org/web/20090615140727/http://nathanpitman.com:80/423/basecamp-themes
+tags:
+  - "Design"
+  - "Web applications"
 ---
 
 Just a couple of [Basecamp](https://web.archive.org/web/20090615140727/http://basecamphq.com/?referrer=ninefour) themes I’ve put together.
@@ -31,4 +34,4 @@ Just a couple of [Basecamp](https://web.archive.org/web/20090615140727/http://ba
 > Tab Hover Text: #FFD52C  
 > Links: #03c
 
-Tagged: [Design](https://web.archive.org/web/20090615140727/http://nathanpitman.com/category/design/), [Web applications](https://web.archive.org/web/20090615140727/http://nathanpitman.com/category/web-applications/)
+Tagged: [Design](/tag/design), [Web applications](/tag/web-applications)

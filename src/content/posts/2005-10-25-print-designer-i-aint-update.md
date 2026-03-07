@@ -1,8 +1,10 @@
 ---
-title: "Print designer I ain’t (update)"
+title: Print designer I ain’t (update)
 date: 2005-10-25
-source: "http://nathanpitman.com/412/print-designer-i-aint-update"
-archive: "https://web.archive.org/web/20100106034320/http://nathanpitman.com/412/print-designer-i-aint-update"
+source: http://nathanpitman.com/412/print-designer-i-aint-update
+archive: https://web.archive.org/web/20100106034320/http://nathanpitman.com/412/print-designer-i-aint-update
+tags:
+  - "Branding"
 ---
 
 Well as the title says, I’m no print designer, but with a few minutes to spare between children going to bed and the increasingly excellent [afterlife](https://web.archive.org/web/20100106034320/http://afterlife.itv.com/) I thought I’d have a shot at a concept for my business cards. The number of times in the last month I wish I’d had a bunch of these in my pocket is getting beyond a joke, so it’s time to pull my finger out.
@@ -19,4 +21,4 @@ So, as you can see, solid on the reverse with a portrait apsect and white on the
 
 So, with that in mind I decided to add a short and simple description of my services; “new media design & development”. I’ve also ditched the company address as I really can’t think that anyone would benefit from this on a business card in this day and age, especially when I’m not likely to meet clients at the ‘home office’ and don’t really want clients communicating in a non electronic manner. Do you think it’s safe to lose the address?
 
-Tagged: [Branding](https://web.archive.org/web/20100106034320/http://nathanpitman.com/category/branding/)
+Tagged: [Branding](/tag/branding)

@@ -3,6 +3,8 @@ title: "Automating an availability statement in PHP"
 date: 2008-07-16
 source: "http://nathanpitman.com/545/automating-an-availability-statement-in-php"
 archive: "https://web.archive.org/web/20091004020912/http://nathanpitman.com:80/545/automating-an-availability-statement-in-php"
+tags:
+  - "Web development"
 ---
 
 We have a small statement on the [Nine Four](https://web.archive.org/web/20091004020912/http://www.ninefour.co.uk/) website which advises new clients as to our current availability.
@@ -13,4 +15,4 @@ In general we need between 3 and 4 weeks notice to fit any significant new work 
 
 Simple really but I just thought I’d share.
 
-Tagged: [Web development](https://web.archive.org/web/20091004020912/http://nathanpitman.com/category/web-development/)
+Tagged: [Web development](/tag/web-development)

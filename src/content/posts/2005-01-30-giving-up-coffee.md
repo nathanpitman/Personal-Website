@@ -1,8 +1,10 @@
 ---
-title: "Giving up Coffee"
+title: Giving up Coffee
 date: 2005-01-30
-source: "http://nathanpitman.com/323/giving-up-coffee"
-archive: "https://web.archive.org/web/20091010080105/http://nathanpitman.com:80/323/giving-up-coffee"
+source: http://nathanpitman.com/323/giving-up-coffee
+archive: https://web.archive.org/web/20091010080105/http://nathanpitman.com:80/323/giving-up-coffee
+tags:
+  - "Personal"
 ---
 
 I’ve been giving up Coffee for 2 weeks now. So far I’ve only had one slip up (It was a hard day at work, I was weak).
@@ -13,4 +15,4 @@ I guess you might be thinking why I’ve given up Coffee… well mainly because 
 
 So, there you go, I’m no longer a Coffee drinker (for now), which is kind of at odds with being a web developer don’t you think?
 
-Tagged: [Personal](https://web.archive.org/web/20091010080105/http://nathanpitman.com/category/personal/)
+Tagged: [Personal](/tag/personal)

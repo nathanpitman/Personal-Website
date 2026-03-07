@@ -3,6 +3,8 @@ title: "Web Developer - London, UK"
 date: 2008-07-12
 source: "http://nathanpitman.com/543/web-developer-london-uk"
 archive: "https://web.archive.org/web/20090616071957/http://nathanpitman.com:80/543/web-developer-london-uk"
+tags:
+  - "Jobs"
 ---
 
 JPCreative – a successful and busy London based design & communications agency with a 10 year track record in delivering award winning creative solutions are seeking to add to our team with the introduction of a Middleweight Web Developer with great communication skills.
@@ -28,4 +30,4 @@ Salary: Neg. Based on experience
 
 **Please send your covering letter, current cv and salary expectations to:** [Claire@jpcreative.co.uk](https://web.archive.org/web/20090616071957/mailto:Claire@jpcreative.co.uk?subject=Application%20for%20web%20develop%20%20from%20nathanpitman.com).
 
-Tagged: [Jobs](https://web.archive.org/web/20090616071957/http://nathanpitman.com/category/jobs/)
+Tagged: [Jobs](/tag/jobs)

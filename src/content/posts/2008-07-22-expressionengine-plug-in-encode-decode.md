@@ -3,6 +3,8 @@ title: "ExpressionEngine Plug-in: Encode/Decode"
 date: 2008-07-22
 source: "http://nathanpitman.com/547/expressionengine-plug-in-encode-decode"
 archive: "https://web.archive.org/web/20090718143450/http://nathanpitman.com:80/547/expressionengine-plug-in-encode-decode"
+tags:
+  - "ExpressionEngine"
 ---
 
 Every time I come up against something which I once would have resorted to PHP to solve, I end up writing a little plug-in these days instead. It just feels less dirty that way…
@@ -19,4 +21,4 @@ The plug-in offers ‘base64’ and ‘url’ encoding and decoding but it would
 
 Obviously let me know in the comments if you have any thoughts on how this can be improved. Enjoy!
 
-Tagged: [ExpressionEngine](https://web.archive.org/web/20090718143450/http://nathanpitman.com/category/expressionengine/)
+Tagged: [ExpressionEngine](/tag/expressionengine)

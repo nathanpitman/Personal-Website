@@ -1,8 +1,10 @@
 ---
-title: "2 fingers up to Copy Control Audio CDs"
+title: 2 fingers up to Copy Control Audio CDs
 date: 2004-03-29
-source: "http://nathanpitman.com/34/2-fingers-up-to-copy-control-audio-cds"
-archive: "https://web.archive.org/web/20100113090704/http://nathanpitman.com:80/34/2-fingers-up-to-copy-control-audio-cds"
+source: http://nathanpitman.com/34/2-fingers-up-to-copy-control-audio-cds
+archive: https://web.archive.org/web/20100113090704/http://nathanpitman.com:80/34/2-fingers-up-to-copy-control-audio-cds
+tags:
+  - "Personal"
 ---
 
 I recently bought an audio CD only to discover that because of the ‘copy control’ features on the disc, the CD refused to play on my ‘standard’ car CD player. To begin with I thought there was something wrong with the player.
@@ -13,4 +15,4 @@ The irony of it all is that to get around this I just used a product called ‘C
 
 I think this really sucks, after all once I have purchased a CD it’s up to me how I want to use it, isn’t it? I don’t have a home CD player, I play audio through a ‘[SLIMP3](https://web.archive.org/web/20100113090704/http://www.slimdevices.com/)‘ which is networked to my PC, so being able to ‘record’ tracks that I have paid for so that I can listen to them in the manner which I wish is a requirement.
 
-Tagged: [Personal](https://web.archive.org/web/20100113090704/http://nathanpitman.com/category/personal/)
+Tagged: [Personal](/tag/personal)

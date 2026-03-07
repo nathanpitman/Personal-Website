@@ -1,8 +1,10 @@
 ---
-title: "Linux virgin no more"
+title: Linux virgin no more
 date: 2005-06-04
-source: "http://nathanpitman.com/367/linux-virgin-no-more"
-archive: "https://web.archive.org/web/20091231014943/http://nathanpitman.com:80/367/linux-virgin-no-more"
+source: http://nathanpitman.com/367/linux-virgin-no-more
+archive: https://web.archive.org/web/20091231014943/http://nathanpitman.com:80/367/linux-virgin-no-more
+tags:
+  - "Web development"
 ---
 
 So I’ve taken my first step. I downloaded the latest stable release of [Debian](https://web.archive.org/web/20091231014943/http://www.debian.org/) (3.0r5) via [BitTorrent](https://web.archive.org/web/20091231014943/http://www.bittorrent.com/), burnt it to CD and then completed a basic installation. I have been using a [fantastic walkthrough](https://web.archive.org/web/20091231014943/http://www.osnews.com/story.php?news_id=2016&page=1) that I found on OSnews.com and it’s helped to make sense of the less than jargon free choices you have to make during setup.
@@ -11,4 +13,4 @@ Currently I do not have a wireless network card for my linux box so I have yet t
 
 Once I have the box visible via a cabled connection then perhaps I’ll take the next step, purchasing a suitable wireless network card and configuring it. Off to google that right now… I’ll let you know how I get on.
 
-Tagged: [Web development](https://web.archive.org/web/20091231014943/http://nathanpitman.com/category/web-development/)
+Tagged: [Web development](/tag/web-development)

@@ -1,8 +1,10 @@
 ---
-title: "12 months as a father"
+title: 12 months as a father
 date: 2005-03-15
-source: "http://nathanpitman.com/332/12-months-as-a-father"
-archive: "https://web.archive.org/web/20090817091851/http://nathanpitman.com:80/332/12-months-as-a-father"
+source: http://nathanpitman.com/332/12-months-as-a-father
+archive: https://web.archive.org/web/20090817091851/http://nathanpitman.com:80/332/12-months-as-a-father
+tags:
+  - "Family"
 ---
 
 Yesterday my daughter had her very first Birthday party. It hardly seems like a year since [she was born](/web/20090817091851/http://nathanpitman.com/journal/32/im-a-dad) and the last 12 months have given me some of the happiest moments of my life, I can hardly imagine what the next 12 will bring.
@@ -21,4 +23,4 @@ And finally…
 
 Nothing ever prepares you for the love that you will have for your child or the unconditional love that they will have for you, every smile and giggle will melt your heart a thousand times over.
 
-Tagged: [Family](https://web.archive.org/web/20090817091851/http://nathanpitman.com/category/family/)
+Tagged: [Family](/tag/family)

@@ -1,8 +1,11 @@
 ---
-title: "Bookmark culling"
+title: Bookmark culling
 date: 2004-07-12
-source: "http://nathanpitman.com/215/bookmark-culling"
-archive: "https://web.archive.org/web/20100104105312/http://nathanpitman.com:80/215/bookmark-culling"
+source: http://nathanpitman.com/215/bookmark-culling
+archive: https://web.archive.org/web/20100104105312/http://nathanpitman.com:80/215/bookmark-culling
+tags:
+  - "Personal"
+  - "Technology"
 ---
 
 ![Bye bye bookmarks...](/images/38.gif "Bye bye bookmarks...")
@@ -13,4 +16,4 @@ You reach a point where you have so many bookmarks that you need a search engine
 
 Time for a fresh start.
 
-Tagged: [Personal](https://web.archive.org/web/20100104105312/http://nathanpitman.com/category/personal/), [Technology](https://web.archive.org/web/20100104105312/http://nathanpitman.com/category/technology/)
+Tagged: [Personal](/tag/personal), [Technology](/tag/technology)

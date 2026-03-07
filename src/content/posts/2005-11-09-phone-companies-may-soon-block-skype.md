@@ -1,8 +1,10 @@
 ---
-title: "Phone Companies May Soon Block Skype"
+title: Phone Companies May Soon Block Skype
 date: 2005-11-09
-source: "http://nathanpitman.com/419/phone-companies-may-soon-block-skype"
-archive: "https://web.archive.org/web/20100106033807/http://nathanpitman.com/419/phone-companies-may-soon-block-skype"
+source: http://nathanpitman.com/419/phone-companies-may-soon-block-skype
+archive: https://web.archive.org/web/20100106033807/http://nathanpitman.com/419/phone-companies-may-soon-block-skype
+tags:
+  - "Technology"
 ---
 
 [Phone Companies May Soon Block Skype](https://web.archive.org/web/20100106033807/http://mathaba.net/0_index.shtml?x=403148) (and other VOIP services).
@@ -11,4 +13,4 @@ archive: "https://web.archive.org/web/20100106033807/http://nathanpitman.com/419
 
 One step forward, two steps back.
 
-Tagged: [Technology](https://web.archive.org/web/20100106033807/http://nathanpitman.com/category/technology/)
+Tagged: [Technology](/tag/technology)

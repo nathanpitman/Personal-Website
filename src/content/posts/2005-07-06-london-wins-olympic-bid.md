@@ -1,8 +1,10 @@
 ---
-title: "London wins Olympic bid!"
+title: London wins Olympic bid!
 date: 2005-07-06
-source: "http://nathanpitman.com/374/london-wins-olympic-bid"
-archive: "https://web.archive.org/web/20090609020235/http://nathanpitman.com:80/374/london-wins-olympic-bid"
+source: http://nathanpitman.com/374/london-wins-olympic-bid
+archive: https://web.archive.org/web/20090609020235/http://nathanpitman.com:80/374/london-wins-olympic-bid
+tags:
+  - "Personal"
 ---
 
 Just heard on the radio that [London has won it’s bid to host the 2012 Olympics](https://web.archive.org/web/20090609020235/http://news.bbc.co.uk/sport1/hi/front_page/4655555.stm)!
@@ -17,4 +19,4 @@ From the BBC News website…
 
 Wow, this is amazing news, my daughter will be 8 in 2012 and we’ll be able to take her to see a once in a lifetime event.
 
-Tagged: [Personal](https://web.archive.org/web/20090609020235/http://nathanpitman.com/category/personal/)
+Tagged: [Personal](/tag/personal)

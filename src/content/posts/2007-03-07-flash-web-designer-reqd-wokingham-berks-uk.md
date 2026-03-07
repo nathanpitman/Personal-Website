@@ -3,6 +3,8 @@ title: "Flash/Web Designer Reqd - Wokingham, Berks, UK"
 date: 2007-03-07
 source: "http://nathanpitman.com/499/flash-web-designer-reqd-wokingham-berks-uk"
 archive: "https://web.archive.org/web/20100117024957/http://nathanpitman.com:80/499/flash-web-designer-reqd-wokingham-berks-uk"
+tags:
+  - "Jobs"
 ---
 
 Just pimping a vacancy for a friendâ¦
@@ -31,4 +33,4 @@ Extensive experience in full scale web and interactive media builds, as well as 
 
 If you would like to work for us please get in touch with us at [careers@volume.co.uk](https://web.archive.org/web/20100117024957/mailto:careers@volume.co.uk) with your CV. For more company information visit [www.volume.co.uk](https://web.archive.org/web/20100117024957/http://www.volume.co.uk/)
 
-Tagged: [Jobs](https://web.archive.org/web/20100117024957/http://nathanpitman.com/category/jobs/)
+Tagged: [Jobs](/tag/jobs)

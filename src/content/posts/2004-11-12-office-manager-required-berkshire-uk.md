@@ -1,8 +1,10 @@
 ---
-title: "Office Manager Required… (Berkshire, UK)"
+title: Office Manager Required… (Berkshire, UK)
 date: 2004-11-12
-source: "http://nathanpitman.com/286/office-manager-required-berkshire-uk"
-archive: "https://web.archive.org/web/20100109083204/http://nathanpitman.com:80/286/office-manager-required-berkshire-uk"
+source: http://nathanpitman.com/286/office-manager-required-berkshire-uk
+archive: https://web.archive.org/web/20100109083204/http://nathanpitman.com:80/286/office-manager-required-berkshire-uk
+tags:
+  - "Jobs"
 ---
 
 Via [Mirashade](https://web.archive.org/web/20100109083204/http://www.mirashade.com/)...
@@ -15,4 +17,4 @@ Via [Mirashade](https://web.archive.org/web/20100109083204/http://www.mirashade.
 
 If you’re interested, and you’re available to work at the Mirashade studio in Reading, Berkshire, UK… [check out the Mirashade site](https://web.archive.org/web/20100109083204/http://www.mirashade.com/about/?c=Employment).
 
-Tagged: [Jobs](https://web.archive.org/web/20100109083204/http://nathanpitman.com/category/jobs/)
+Tagged: [Jobs](/tag/jobs)

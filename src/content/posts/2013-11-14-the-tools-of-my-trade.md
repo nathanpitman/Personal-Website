@@ -3,6 +3,11 @@ title: "The tools of my trade"
 date: 2013-11-14
 source: "http://nathanpitman.com/629/the-tools-of-my-trade"
 archive: "https://web.archive.org/web/20131117100822/http://nathanpitman.com:80/629/the-tools-of-my-trade"
+tags:
+  - "Business"
+  - "Code"
+  - "Technology"
+  - "Web development"
 ---
 
 Sometimes people ask, so to save tweets here’s a quick summary:
@@ -19,4 +24,4 @@ Sometimes people ask, so to save tweets here’s a quick summary:
 
 :)
 
-Tagged: [Business](https://web.archive.org/web/20131117100822/http://nathanpitman.com/category/business/), [Code](https://web.archive.org/web/20131117100822/http://nathanpitman.com/category/code/), [Technology](https://web.archive.org/web/20131117100822/http://nathanpitman.com/category/technology/), [Web development](https://web.archive.org/web/20131117100822/http://nathanpitman.com/category/web-development/)
+Tagged: [Business](/tag/business), [Code](/tag/code), [Technology](/tag/technology), [Web development](/tag/web-development)

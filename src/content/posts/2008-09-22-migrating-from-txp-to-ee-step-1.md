@@ -3,6 +3,9 @@ title: "Migrating from TXP to EE - Step 1"
 date: 2008-09-22
 source: "http://nathanpitman.com/553/migrating-from-txp-to-ee-step-1"
 archive: "https://web.archive.org/web/20090524014744/http://nathanpitman.com:80/553/migrating-from-txp-to-ee-step-1"
+tags:
+  - "ExpressionEngine"
+  - "Textpattern"
 ---
 
 Ok so a lot of this will be obvious but hey, here we go… I’ve decided to tackle the migration by setting up an [ExpressionEngine](https://web.archive.org/web/20090524014744/http://www.expressionengine.com/index.php?affiliate=nathanpitman) Core Install on a sub domain ~~([http://ee.nathanpitman.com](https://web.archive.org/web/20090524014744/http://ee.nathanpitman.com/))~~ where I will be able to get everything up and running before I switch from the old Textpattern install for good.
@@ -19,4 +22,4 @@ Next we’ll be looking at how to export all our blog entries from Textpattern a
 
 [Next Step…](/web/20090524014744/http://nathanpitman.com/journal/migrating-from-txp-to-ee-step-2/)
 
-Tagged: [ExpressionEngine](https://web.archive.org/web/20090524014744/http://nathanpitman.com/category/expressionengine/), [Textpattern](https://web.archive.org/web/20090524014744/http://nathanpitman.com/category/textpattern/)
+Tagged: [ExpressionEngine](/tag/expressionengine), [Textpattern](/tag/textpattern)

@@ -1,8 +1,11 @@
 ---
-title: "A grown up kind of green"
+title: A grown up kind of green
 date: 2004-06-30
-source: "http://nathanpitman.com/211/a-grown-up-kind-of-green"
-archive: "https://web.archive.org/web/20100104105307/http://nathanpitman.com:80/211/a-grown-up-kind-of-green"
+source: http://nathanpitman.com/211/a-grown-up-kind-of-green
+archive: https://web.archive.org/web/20100104105307/http://nathanpitman.com:80/211/a-grown-up-kind-of-green
+tags:
+  - "Design"
+  - "Web development"
 ---
 
 After months of labour (not that kind) here at [Mirashade](https://web.archive.org/web/20100104105307/http://www.mirashade.com/) we’ve finally done a soft launch of our latest baby; [grownupgrren](https://web.archive.org/web/20100104105307/http://www.grownupgreen.org.uk/).
@@ -13,4 +16,4 @@ After months of labour (not that kind) here at [Mirashade](https://web.archive.o
 
 Of particular note is the admin system, which is glorious, but you can’t see that, so shortly I’ll post some screengrabs here for your delectation. :)
 
-Tagged: [Design](https://web.archive.org/web/20100104105307/http://nathanpitman.com/category/design/), [Web development](https://web.archive.org/web/20100104105307/http://nathanpitman.com/category/web-development/)
+Tagged: [Design](/tag/design), [Web development](/tag/web-development)

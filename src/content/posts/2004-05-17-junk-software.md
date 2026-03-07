@@ -1,8 +1,11 @@
 ---
-title: "Junk software"
+title: Junk software
 date: 2004-05-17
-source: "http://nathanpitman.com/88/junk-software"
-archive: "https://web.archive.org/web/20100106035602/http://nathanpitman.com/88/junk-software"
+source: http://nathanpitman.com/88/junk-software
+archive: https://web.archive.org/web/20100106035602/http://nathanpitman.com/88/junk-software
+tags:
+  - "Personal"
+  - "Technology"
 ---
 
 Tuesday last week I took delivery of a new PC. A [Dell](https://web.archive.org/web/20100106035602/http://www.dell.co.uk/) Dimension 4600… blah blah blah.
@@ -13,4 +16,4 @@ I just wish Dell had the option online to specify ‘please do not pre-install *
 
 Are Dell the only culprits? Or are other manufacturers taking the same route…?
 
-Tagged: [Personal](https://web.archive.org/web/20100106035602/http://nathanpitman.com/category/personal/), [Technology](https://web.archive.org/web/20100106035602/http://nathanpitman.com/category/technology/)
+Tagged: [Personal](/tag/personal), [Technology](/tag/technology)

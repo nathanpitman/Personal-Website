@@ -3,6 +3,9 @@ title: "God is in the details"
 date: 2007-05-16
 source: "http://nathanpitman.com/508/god-is-in-the-details"
 archive: "https://web.archive.org/web/20100102213534/http://nathanpitman.com:80/508/god-is-in-the-details"
+tags:
+  - "Design"
+  - "Web development"
 ---
 
 Over the past few months Iâve been working with the team at [Voyage](https://web.archive.org/web/20100102213534/http://www.bebrave.biz/) to develop and deliver their shiny new website. On the high of having the website complete they foolishly invited me to christen it with itâs inaugural [headline](https://web.archive.org/web/20100102213534/http://www.bebrave.biz/headlines) and tell you a little bit about the journey weâve taken from concept to reality.
@@ -21,4 +24,4 @@ Never knowing how many columns a headline might require, or how many work exampl
 
 Iâd like to think that the end result does a great deal to communicate what Voyage is about and that it will provide the company with the platform they hoped for to showcase their creative work. It has been a pleasure to work with the Voyage team on this project, they have high standards and know âexactlyâ what theyâre after. Good to know if youâre a prospective or current client of theirs. :)
 
-Tagged: [Design](https://web.archive.org/web/20100102213534/http://nathanpitman.com/category/design/), [Web development](https://web.archive.org/web/20100102213534/http://nathanpitman.com/category/web-development/)
+Tagged: [Design](/tag/design), [Web development](/tag/web-development)

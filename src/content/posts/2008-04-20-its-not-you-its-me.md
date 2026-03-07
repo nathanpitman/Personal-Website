@@ -3,6 +3,9 @@ title: "It’s not you, it’s me…"
 date: 2008-04-20
 source: "http://nathanpitman.com/531/its-not-you-its-me"
 archive: "https://web.archive.org/web/20100106035446/http://nathanpitman.com/531/its-not-you-its-me"
+tags:
+  - "Blogging"
+  - "Personal"
 ---
 
 I’m just not in love with ‘regular’ blogging like I was before. The spark has gone and it’s not coming back. Add to that the fact that I simply don’t have the time or the inclination to blog like I used to… it’s not you, it’s me.
@@ -13,4 +16,4 @@ For a long time I’ve been hoping to migrate this site from [Textpattern](https
 
 So if things get a little funky here, you know why. :)
 
-Tagged: [Blogging](https://web.archive.org/web/20100106035446/http://nathanpitman.com/category/blogging/), [Personal](https://web.archive.org/web/20100106035446/http://nathanpitman.com/category/personal/)
+Tagged: [Blogging](/tag/blogging), [Personal](/tag/personal)

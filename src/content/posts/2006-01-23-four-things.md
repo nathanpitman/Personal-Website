@@ -1,8 +1,10 @@
 ---
-title: "Four things"
+title: Four things
 date: 2006-01-23
-source: "http://nathanpitman.com/445/four-things"
-archive: "https://web.archive.org/web/20110928150203/http://nathanpitman.com/445/four-things"
+source: http://nathanpitman.com/445/four-things
+archive: https://web.archive.org/web/20110928150203/http://nathanpitman.com/445/four-things
+tags:
+  - "Chatter"
 ---
 
 Hey ho, it’s time for another meme, [John (that bloke that got nominated for 2 bloggies) Oxton](https://web.archive.org/web/20110928150203/http://joshuaink.com/blog/613/four-things) has passed this one along… so here goes. Apologies in advance if my answers are somewhat uninteresting.
@@ -72,4 +74,4 @@ Hey ho, it’s time for another meme, [John (that bloke that got nominated for 2
 - [Paul Farnell](https://web.archive.org/web/20110928150203/http://www.salted.com/)
 - [Anton Peck](https://web.archive.org/web/20110928150203/http://www.antonpeck.com/)
 
-Tagged: [Chatter](https://web.archive.org/web/20110928150203/http://nathanpitman.com/category/chatter/)
+Tagged: [Chatter](/tag/chatter)

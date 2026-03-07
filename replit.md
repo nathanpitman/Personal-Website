@@ -14,7 +14,7 @@ A static personal blog built with Astro, containing 430 recovered blog posts (20
 src/
   content/
     posts/          — 430 Markdown blog posts with YAML frontmatter
-  content.config.ts — Content collection schema (title, date, source, archive)
+  content.config.ts — Content collection schema (title, date, source, archive, tags)
   layouts/
     BaseLayout.astro — Shared HTML shell (nav, head, footer)
   components/
@@ -25,8 +25,11 @@ src/
     archives.astro        — All posts grouped by year/month
     about.astro           — Biographical page
     posts/[...slug].astro — Individual post pages
+    tag/[tag].astro       — Tag filtered listing pages
     feed.xml.ts           — RSS feed endpoint
     feed.json.ts          — JSON feed endpoint
+  utils/
+    slugify.ts            — Shared slug helper
 public/
   styles/main.css   — All site styles
   avatar.jpg        — Profile photo
@@ -54,6 +57,9 @@ title: "Post Title"
 date: YYYY-MM-DD
 source: "original URL"
 archive: "Wayback Machine URL"
+tags:
+  - "Tag1"
+  - "Tag2"
 ---
 ```
 

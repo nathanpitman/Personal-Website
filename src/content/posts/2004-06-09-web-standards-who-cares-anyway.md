@@ -1,8 +1,11 @@
 ---
-title: "Web standards: Who cares anyway?"
+title: 'Web standards: Who cares anyway?'
 date: 2004-06-09
-source: "http://nathanpitman.com/171/web-standards-who-cares-anyway"
-archive: "https://web.archive.org/web/20100107142801/http://nathanpitman.com:80/171/web-standards-who-cares-anyway"
+source: http://nathanpitman.com/171/web-standards-who-cares-anyway
+archive: https://web.archive.org/web/20100107142801/http://nathanpitman.com:80/171/web-standards-who-cares-anyway
+tags:
+  - "Code"
+  - "Web development"
 ---
 
 The Web Standards Project is asking you – [do you use web standards? And who the heck are you anyway?](https://web.archive.org/web/20100107142801/http://webstandards.org/press/releases/archive/2004/06/08/)
@@ -11,4 +14,4 @@ In the biggest survey since the WaSP’s inception, they are asking web designer
 
 [Take the Survey!](https://web.archive.org/web/20100107142801/http://www.webstandards.org/survey/200406)
 
-Tagged: [Code](https://web.archive.org/web/20100107142801/http://nathanpitman.com/category/code/), [Web development](https://web.archive.org/web/20100107142801/http://nathanpitman.com/category/web-development/)
+Tagged: [Code](/tag/code), [Web development](/tag/web-development)

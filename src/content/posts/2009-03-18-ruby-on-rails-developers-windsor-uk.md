@@ -3,6 +3,8 @@ title: "Ruby on Rails Developers - Windsor, UK"
 date: 2009-03-18
 source: "http://nathanpitman.com/576/ruby-on-rails-developers-windsor-uk"
 archive: "https://web.archive.org/web/20090518024053/http://nathanpitman.com:80/576/ruby-on-rails-developers-windsor-uk"
+tags:
+  - "Jobs"
 ---
 
 Global Personals Limited / WhiteLabelDating.com are looking for Ruby on Rails Developers to work from their Windsor office here in the UK. If you think you might fit the bill drop Ross Williams a line () and be sure to mention that I sent you. Job details follow:
@@ -43,4 +45,4 @@ We pay a Â£1000 bonus after your three month probation if youâve come dir
 
 The largest private online dating company in the UK with offices in Windsor, Miami, New York and Sydney.
 
-Tagged: [Jobs](https://web.archive.org/web/20090518024053/http://nathanpitman.com/category/jobs/)
+Tagged: [Jobs](/tag/jobs)

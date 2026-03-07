@@ -1,8 +1,10 @@
 ---
-title: "It’s been a hard week for my car."
+title: It’s been a hard week for my car.
 date: 2004-02-04
-source: "http://nathanpitman.com/19/its-been-a-hard-week-for-my-car"
-archive: "https://web.archive.org/web/20091209173034/http://nathanpitman.com:80/19/its-been-a-hard-week-for-my-car"
+source: http://nathanpitman.com/19/its-been-a-hard-week-for-my-car
+archive: https://web.archive.org/web/20091209173034/http://nathanpitman.com:80/19/its-been-a-hard-week-for-my-car
+tags:
+  - "Personal"
 ---
 
 On Monday I took my car to have it’s front discs and pads replaced by Humphries in Reading.
@@ -17,4 +19,4 @@ Today is Friday; I’ve just walked back from Humphries having dropped my car of
 
 Maybe next week will be better for my car.
 
-Tagged: [Personal](https://web.archive.org/web/20091209173034/http://nathanpitman.com/category/personal/)
+Tagged: [Personal](/tag/personal)

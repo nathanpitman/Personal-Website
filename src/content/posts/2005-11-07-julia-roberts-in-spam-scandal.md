@@ -1,8 +1,11 @@
 ---
-title: "Julia Roberts in SPAM scandal!"
+title: Julia Roberts in SPAM scandal!
 date: 2005-11-07
-source: "http://nathanpitman.com/417/julia-roberts-in-spam-scandal"
-archive: "https://web.archive.org/web/20110404100244/http://nathanpitman.com:80/417/julia-roberts-in-spam-scandal"
+source: http://nathanpitman.com/417/julia-roberts-in-spam-scandal
+archive: https://web.archive.org/web/20110404100244/http://nathanpitman.com:80/417/julia-roberts-in-spam-scandal
+tags:
+  - "Humour"
+  - "Marketing/Advertising"
 ---
 
 I keep getting this SPAM, perhaps once or twice a week. Unusually it actually brings a small smile to my face, not becuase I understand what it’s going on about, but just becuase I think the illustration is hilarious!
@@ -13,4 +16,4 @@ Maybe there are more in the series, featuring Julia Roberts unusually seated on 
 
 So come one, out of all that junk mail you get every day there must be the odd one which amuses.
 
-Tagged: [Humour](https://web.archive.org/web/20110404100244/http://nathanpitman.com/category/humour/), [Marketing/Advertising](https://web.archive.org/web/20110404100244/http://nathanpitman.com/category/marketing-advertising/)
+Tagged: [Humour](/tag/humour), [Marketing/Advertising](/tag/marketing-advertising)

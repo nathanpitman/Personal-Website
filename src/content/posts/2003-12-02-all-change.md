@@ -1,8 +1,10 @@
 ---
-title: "All change…"
+title: All change…
 date: 2003-12-02
-source: "http://nathanpitman.com/5/all-change"
-archive: "https://web.archive.org/web/20100106035701/http://nathanpitman.com/5/all-change"
+source: http://nathanpitman.com/5/all-change
+archive: https://web.archive.org/web/20100106035701/http://nathanpitman.com/5/all-change
+tags:
+  - "Personal"
 ---
 
 So, I finally got round to scrapping my old domain and shifting everything across to this site. I’ve spent what seems like hours, days and weeks re-designing my site over and over… finally settling on something which should be simple enough to evolve and grow with time.
@@ -17,4 +19,4 @@ In many ways it boils down to change. To write a snippet of code yourself, takin
 
 I guess the theme here is change. Learn how to change things, change is good.
 
-Tagged: [Personal](https://web.archive.org/web/20100106035701/http://nathanpitman.com/category/personal/)
+Tagged: [Personal](/tag/personal)

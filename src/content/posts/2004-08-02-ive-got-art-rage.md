@@ -1,8 +1,10 @@
 ---
-title: "I’ve got Art Rage!"
+title: I’ve got Art Rage!
 date: 2004-08-02
-source: "http://nathanpitman.com/226/ive-got-art-rage"
-archive: "https://web.archive.org/web/20100107191055/http://nathanpitman.com:80/226/ive-got-art-rage"
+source: http://nathanpitman.com/226/ive-got-art-rage
+archive: https://web.archive.org/web/20100107191055/http://nathanpitman.com:80/226/ive-got-art-rage
+tags:
+  - "Fireworks"
 ---
 
 One of my friends at work pointed me in the direction of a painting application he found last week called ‘“Art Rage”:http://www.ambientdesign.com/’. The paint effects are fantastic. What’s even better is that the application is free.
@@ -11,4 +13,4 @@ One of my friends at work pointed me in the direction of a painting application 
 
 You *have* to download this and have a play to see the results for yourself. If only Fireworks had painting tools like this!
 
-Tagged: [Fireworks](https://web.archive.org/web/20100107191055/http://nathanpitman.com/category/fireworks/)
+Tagged: [Fireworks](/tag/fireworks)

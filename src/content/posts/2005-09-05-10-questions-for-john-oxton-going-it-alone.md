@@ -1,8 +1,10 @@
 ---
-title: "10 questions for John Oxton (Going it alone)"
+title: 10 questions for John Oxton (Going it alone)
 date: 2005-09-05
-source: "http://nathanpitman.com/393/10-questions-for-john-oxton-going-it-alone"
-archive: "https://web.archive.org/web/20091117062638/http://nathanpitman.com:80/393/10-questions-for-john-oxton-going-it-alone"
+source: http://nathanpitman.com/393/10-questions-for-john-oxton-going-it-alone
+archive: https://web.archive.org/web/20091117062638/http://nathanpitman.com:80/393/10-questions-for-john-oxton-going-it-alone
+tags:
+  - "Employment"
 ---
 
 Finally I get around to posting my final ’10 questions’ for web designers and developers who are self employed (Sorry for the delay, [new arrivals](https://web.archive.org/web/20091117062638/http://nathanpitman.com/journal/397/im-a-dad-again) do throw a spanner in the works). This time I ‘metaphorically’ sat down for a chat with [John Oxton](https://web.archive.org/web/20091117062638/http://www.joshuaink.com/). John is a web developer based in the Cotswolds. Well known for his use of the ‘F’ word, he’s really a jolly nice chap. On with the questions!
@@ -103,4 +105,4 @@ O yeah, one more if I may, donât do favours for friends (they wonât th
 
 O sorry, the other thing is if you donât have a strong portfolio, set up a blog instead and write about what you do. I have had more enquires for work since I took my portfolio site down and replaced it with a blog… odd that! Okay, I am going now.
 
-Tagged: [Employment](https://web.archive.org/web/20091117062638/http://nathanpitman.com/category/employment/)
+Tagged: [Employment](/tag/employment)

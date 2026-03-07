@@ -1,12 +1,14 @@
 ---
-title: "It’s all in his head…"
+title: It’s all in his head…
 date: 2003-03-20
-source: "http://nathanpitman.com/113/its-all-in-his-head"
-archive: "https://web.archive.org/web/20100105222143/http://nathanpitman.com:80/113/its-all-in-his-head"
+source: http://nathanpitman.com/113/its-all-in-his-head
+archive: https://web.archive.org/web/20100105222143/http://nathanpitman.com:80/113/its-all-in-his-head
+tags:
+  - "Technology"
 ---
 
 ‘[All in the head‘ is Drews new outlet for strange thoughts and ponderings.](https://web.archive.org/web/20100105222143/http://www.allinthehead.com/)
 
 You have been warned…
 
-Tagged: [Technology](https://web.archive.org/web/20100105222143/http://nathanpitman.com/category/technology/)
+Tagged: [Technology](/tag/technology)

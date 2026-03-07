@@ -3,6 +3,8 @@ title: "The great Staples ‘OrderCare’ scam"
 date: 2008-10-06
 source: "http://nathanpitman.com/560/the-great-staples-ordercare-scam"
 archive: "https://web.archive.org/web/20090518094518/http://nathanpitman.com:80/560/the-great-staples-ordercare-scam"
+tags:
+  - "Chatter"
 ---
 
 As a business ([Nine Four](https://web.archive.org/web/20090518094518/http://www.ninefour.co.uk/)) we have used [Staples](https://web.archive.org/web/20090518094518/http://www.staples.co.uk/) to purchase office supplies on a regular basis for the past couple of years. The last time I used the Staples website to place an order I noticed that the total for my goods was a little higher than I expected, I reviewed the basket again and noticed that a line had been added with the label ‘OrderCare’ and a small additional sum, between 2 and 3 pounds if I remember rightly.
@@ -25,4 +27,4 @@ Imagine how much cash Staples are making every day out of businesses that are to
 
 I’ve taken our business elsewhere, perhaps you should do the same. [Viking Direct](https://web.archive.org/web/20090518094518/http://www.viking-direct.co.uk/) also offer a similar ‘extended warranty’ service but as you would expect, it defaults to off and can be set at an account level. **Good job**.
 
-Tagged: [Chatter](https://web.archive.org/web/20090518094518/http://nathanpitman.com/category/chatter/)
+Tagged: [Chatter](/tag/chatter)

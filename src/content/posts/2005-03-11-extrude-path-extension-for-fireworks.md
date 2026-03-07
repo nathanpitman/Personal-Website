@@ -1,8 +1,11 @@
 ---
-title: "‘Extrude Path’ Extension for Fireworks"
+title: ‘Extrude Path’ Extension for Fireworks
 date: 2005-03-11
-source: "http://nathanpitman.com/325/extrude-path-extension-for-fireworks"
-archive: "https://web.archive.org/web/20090816034119/http://nathanpitman.com:80/325/extrude-path-extension-for-fireworks"
+source: http://nathanpitman.com/325/extrude-path-extension-for-fireworks
+archive: https://web.archive.org/web/20090816034119/http://nathanpitman.com:80/325/extrude-path-extension-for-fireworks
+tags:
+  - "Extensions"
+  - "Fireworks"
 ---
 
 Check out Trevors new [Extrude Path Command](https://web.archive.org/web/20090816034119/http://senocular.com/fireworks/extensions.php?id=0.40) for Fireworks.
@@ -11,4 +14,4 @@ Check out Trevors new [Extrude Path Command](https://web.archive.org/web/2009081
 
 Extrude a single selected vector path vertically at a specified height.
 
-Tagged: [Extensions](https://web.archive.org/web/20090816034119/http://nathanpitman.com/category/extensions/), [Fireworks](https://web.archive.org/web/20090816034119/http://nathanpitman.com/category/fireworks/)
+Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

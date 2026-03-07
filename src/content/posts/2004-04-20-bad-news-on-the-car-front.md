@@ -1,8 +1,10 @@
 ---
-title: "Bad news on the car front"
+title: Bad news on the car front
 date: 2004-04-20
-source: "http://nathanpitman.com/71/bad-news-on-the-car-front"
-archive: "https://web.archive.org/web/20100104101730/http://nathanpitman.com:80/71/bad-news-on-the-car-front"
+source: http://nathanpitman.com/71/bad-news-on-the-car-front
+archive: https://web.archive.org/web/20100104101730/http://nathanpitman.com:80/71/bad-news-on-the-car-front
+tags:
+  - "Personal"
 ---
 
 I put my VW into the garage for a checkup. Since trading my [MR2](https://web.archive.org/web/20100104101730/http://www.nathanpitman.com/bio/index.php?id=25) in for it at [Whites](https://web.archive.org/web/20100104101730/http://www.whitesgroup.co.uk/) in Camberly a few months back, I’ve noticed gear selection problems.
@@ -11,4 +13,4 @@ I just had a call from the service centre to say that it needs a new gearbox. We
 
 I sure hope they are going to offer to pay for it. I’ll keep you posted…
 
-Tagged: [Personal](https://web.archive.org/web/20100104101730/http://nathanpitman.com/category/personal/)
+Tagged: [Personal](/tag/personal)

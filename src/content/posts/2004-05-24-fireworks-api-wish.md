@@ -1,8 +1,10 @@
 ---
-title: "Fireworks API wish"
+title: Fireworks API wish
 date: 2004-05-24
-source: "http://nathanpitman.com/138/fireworks-api-wish"
-archive: "https://web.archive.org/web/20100106032947/http://nathanpitman.com/138/fireworks-api-wish"
+source: http://nathanpitman.com/138/fireworks-api-wish
+archive: https://web.archive.org/web/20100106032947/http://nathanpitman.com/138/fireworks-api-wish
+tags:
+  - "Fireworks"
 ---
 
 So, I’ve been looking into writing some more Fireworks MX Extensions recently and something has cropped up. The one thing the Fireworks API really lacks is a method for grouping history steps.
@@ -26,4 +28,4 @@ As you can see the function call has a single argument (name) which allows the d
 
 Hey, if I’m lucky a member of the Fireworks software development team might be reading my blog. :)
 
-Tagged: [Fireworks](https://web.archive.org/web/20100106032947/http://nathanpitman.com/category/fireworks/)
+Tagged: [Fireworks](/tag/fireworks)

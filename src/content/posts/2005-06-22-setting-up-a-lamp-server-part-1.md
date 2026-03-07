@@ -1,8 +1,10 @@
 ---
-title: "Setting up a LAMP server, Part 1."
+title: Setting up a LAMP server, Part 1.
 date: 2005-06-22
-source: "http://nathanpitman.com/368/setting-up-a-lamp-server-part-1"
-archive: "https://web.archive.org/web/20090527121350/http://nathanpitman.com:80/368/Setting-up-a-LAMP-server-Part-1"
+source: http://nathanpitman.com/368/setting-up-a-lamp-server-part-1
+archive: https://web.archive.org/web/20090527121350/http://nathanpitman.com:80/368/Setting-up-a-LAMP-server-Part-1
+tags:
+  - "Web development"
 ---
 
 Here and there I’ve been finding time to continue with my [Debian](https://web.archive.org/web/20090527121350/http://www.debian.org/) install. I have the most basic of installs finished and so over the past few days I’ve been adding some ingredients of my own to make this install even more scrummy.
@@ -73,4 +75,4 @@ Samba will prompt you to enter a password, do so and then run:
 
 …to restart Samba. Once this is done fire up ‘My network places’ (Windows XP) and select ‘View workgroup computers’. You should see a machine called ‘Samba’. Select this and you should see a couple of available shares, select ‘sites’ and enter the username and password you gave Samba (above) to connect. Voila.
 
-Tagged: [Web development](https://web.archive.org/web/20090527121350/http://nathanpitman.com/category/web-development/)
+Tagged: [Web development](/tag/web-development)

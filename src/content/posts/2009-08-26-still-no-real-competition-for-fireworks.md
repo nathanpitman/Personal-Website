@@ -3,6 +3,9 @@ title: "Still no real competition for Fireworks"
 date: 2009-08-26
 source: "http://nathanpitman.com/589/still-no-real-competition-for-fireworks"
 archive: "https://web.archive.org/web/20090829111749/http://nathanpitman.com:80/589/still-no-real-competition-for-fireworks"
+tags:
+  - "Adobe"
+  - "Fireworks"
 ---
 
 With the recent announcement that Adobe will not be providing support for Creative Suite 3 (CS3) in Snow Leopard and my waning belief in Adobe’s ability to resurrect [Fireworks](https://web.archive.org/web/20090829111749/http://www.adobe.com/products/fireworks/) my interest in alternatives has again be piqued. Back when I wrote [my open letter](https://web.archive.org/web/20090829111749/http://nathanpitman.com/567/an-open-letter-to-software-developers-re-adobe-fireworks) to developers asking for someone to step forward and provide us web designers with a current and solid alternative to Fireworks I looked at [Pixelmator](https://web.archive.org/web/20090829111749/http://www.pixelmator.com/), [Acorn](https://web.archive.org/web/20090829111749/http://www.flyingmeat.com/acorn/) and [Gimp](https://web.archive.org/web/20090829111749/http://www.gimp.org/) ([DrawIt](https://web.archive.org/web/20090829111749/http://www.bohemiancoding.com/drawit/) is also worth checking out).
@@ -15,4 +18,4 @@ The most recent [blog post](https://web.archive.org/web/20090829111749/http://ww
 
 Here’s hoping the Pixelmator team keep up the excellent work, if they maintain the development pace they’ve set thus far (4 full point releases in two years) then we might see a release with Vector tools before Fireworks CS5 rears it’s head.
 
-Tagged: [Adobe](https://web.archive.org/web/20090829111749/http://nathanpitman.com/category/adobe/), [Fireworks](https://web.archive.org/web/20090829111749/http://nathanpitman.com/category/fireworks/)
+Tagged: [Adobe](/tag/adobe), [Fireworks](/tag/fireworks)

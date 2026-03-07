@@ -3,6 +3,9 @@ title: "Migrating from TXP to EE - Step 4"
 date: 2008-10-04
 source: "http://nathanpitman.com/556/migrating-from-txp-to-ee-step-4"
 archive: "https://web.archive.org/web/20090519081155/http://nathanpitman.com:80/556/migrating-from-txp-to-ee-step-4"
+tags:
+  - "ExpressionEngine"
+  - "Textpattern"
 ---
 
 Right so, a quick re-cap… we’ve exported our data from Textpattern, imported it into [ExpressionEngine](https://web.archive.org/web/20090519081155/http://www.expressionengine.com/index.php?affiliate=nathanpitman) and done a quick find and replace to fix up our embedded images.
@@ -21,4 +24,4 @@ Ok so I ran out of time a little today and didn’t have a chance to explain how
 
 [Next Step…](/web/20090519081155/http://nathanpitman.com/journal/558/migrating-from-txp-to-ee-step-5)
 
-Tagged: [ExpressionEngine](https://web.archive.org/web/20090519081155/http://nathanpitman.com/category/expressionengine/), [Textpattern](https://web.archive.org/web/20090519081155/http://nathanpitman.com/category/textpattern/)
+Tagged: [ExpressionEngine](/tag/expressionengine), [Textpattern](/tag/textpattern)

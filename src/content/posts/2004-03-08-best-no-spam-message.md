@@ -1,8 +1,10 @@
 ---
-title: "Best ‘NO SPAM’ message"
+title: Best ‘NO SPAM’ message
 date: 2004-03-08
-source: "http://nathanpitman.com/31/best-no-spam-message"
-archive: "https://web.archive.org/web/20100116223748/http://nathanpitman.com:80/31/best-no-spam-message"
+source: http://nathanpitman.com/31/best-no-spam-message
+archive: https://web.archive.org/web/20100116223748/http://nathanpitman.com:80/31/best-no-spam-message
+tags:
+  - "Personal"
 ---
 
 This morning I inadvertently came across what might be the most convincing ‘we promise not to Spam you’ message that I’ve seen so far on the web.
@@ -13,4 +15,4 @@ It lives at ‘[Flickr](https://web.archive.org/web/20100116223748/http://www.fl
 
 As I would have said during the 80’s at primary school. That’s cool!
 
-Tagged: [Personal](https://web.archive.org/web/20100116223748/http://nathanpitman.com/category/personal/)
+Tagged: [Personal](/tag/personal)

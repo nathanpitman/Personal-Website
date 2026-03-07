@@ -3,6 +3,8 @@ title: "OS X pet peeves"
 date: 2009-05-22
 source: "http://nathanpitman.com/585/os-x-pet-peeves"
 archive: "https://web.archive.org/web/20090527052738/http://nathanpitman.com:80/585/os-x-pet-peeves"
+tags:
+  - "Apple"
 ---
 
 Having lived day to day with a [Mac](https://web.archive.org/web/20090527052738/http://www.apple.com/mac/) now for a good few years I thought it was about time I documented some of my pet peeves as a one time Windows user. So here they are in the form of a brief wish list for OS X Snow Leopard. This is in the vein hope that Steve Jobs is a regular reader of my blog (*pft – yea right!*) and that he will do something about these very minor issues. :)
@@ -19,4 +21,4 @@ Perhaps I’m missing something obvious, but there is simply no way to just opti
 
 Please give us OS X users a way to have hidden files within specific folders revealed. I need to see hidden files by default on network shares and elsewhere – but not on my desktop. A simple option under Finder Preferences would be a step in the right direction.
 
-Tagged: [Apple](https://web.archive.org/web/20090527052738/http://nathanpitman.com/category/apple/)
+Tagged: [Apple](/tag/apple)

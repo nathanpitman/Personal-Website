@@ -1,8 +1,10 @@
 ---
-title: "New Beastie Boys Album is Evil (Apparently)"
+title: New Beastie Boys Album is Evil (Apparently)
 date: 2004-06-23
-source: "http://nathanpitman.com/204/new-beastie-boys-album-is-evil-apparently"
-archive: "https://web.archive.org/web/20100903195055/http://nathanpitman.com:80/204/new-beastie-boys-album-is-evil-apparently"
+source: http://nathanpitman.com/204/new-beastie-boys-album-is-evil-apparently
+archive: https://web.archive.org/web/20100903195055/http://nathanpitman.com:80/204/new-beastie-boys-album-is-evil-apparently
+tags:
+  - "Technology"
 ---
 
 I stumbled across [this post just now at SecurityFocus](https://web.archive.org/web/20100903195055/http://www.securityfocus.com/archive/1/366191/2004-06-13/2004-06-19/0), I’m dissapointed and hope the Beastie Boys themselves take issue with this and give their record company some stick.
@@ -17,4 +19,4 @@ I’m not sure exactly what it does yet, but I am sure regreting actually purcha
 
 I reminds me of my [experience](https://web.archive.org/web/20100903195055/http://www.nathanpitman.com/blog/index.php?id=34) with another audio CD some months back.
 
-Tagged: [Technology](https://web.archive.org/web/20100903195055/http://nathanpitman.com/category/technology/)
+Tagged: [Technology](/tag/technology)

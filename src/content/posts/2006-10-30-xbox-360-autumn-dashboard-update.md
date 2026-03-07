@@ -3,6 +3,8 @@ title: "Xbox 360 Autumn Dashboard Update"
 date: 2006-10-30
 source: "http://nathanpitman.com/491/xbox-360-autumn-dashboard-update"
 archive: "https://web.archive.org/web/20100106033109/http://nathanpitman.com/491/xbox-360-autumn-dashboard-update"
+tags:
+  - "Consoles"
 ---
 
 News on the [Autumn 360 dashboard update](https://web.archive.org/web/20100106033109/http://www.eurogamer.net/article.php?article_id=69305) is out. I’m well chuffed to see that they’re including support for streaming video from any PC running Windows Media Connect or similar (WMP11 or Zune Software). This was a much requested feature and true to their word Microsoft are actually listening to the users.
@@ -19,4 +21,4 @@ Video streaming from my Windows XP box works a treat though videos have to be pl
 
 **Update:** Actually, although it’s easy, the results are piss poor. Instead I suggest you take a look at the rather brilliant write up on Joystiq.com RE [Transcoding & streaming videos on Xbox 360](https://web.archive.org/web/20100106033109/http://www.joystiq.com/2006/11/07/how-to-transcode-and-stream-videos-on-xbox-360/). Not only is it considerably faster than using Windows Movie Maker, but the results are infiniteley better too! :)
 
-Tagged: [Consoles](https://web.archive.org/web/20100106033109/http://nathanpitman.com/category/consoles/)
+Tagged: [Consoles](/tag/consoles)

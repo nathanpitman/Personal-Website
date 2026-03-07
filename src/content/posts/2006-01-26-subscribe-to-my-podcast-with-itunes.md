@@ -1,8 +1,10 @@
 ---
-title: "Subscribe to my podcast with iTunes"
+title: Subscribe to my podcast with iTunes
 date: 2006-01-26
-source: "http://nathanpitman.com/446/subscribe-to-my-podcast-with-itunes"
-archive: "https://web.archive.org/web/20090814210349/http://nathanpitman.com:80/446/subscribe-to-my-podcast-with-itunes"
+source: http://nathanpitman.com/446/subscribe-to-my-podcast-with-itunes
+archive: https://web.archive.org/web/20090814210349/http://nathanpitman.com:80/446/subscribe-to-my-podcast-with-itunes
+tags:
+  - "This website"
 ---
 
 I know, you have to ask why… but now you can [subscribe to the podcast of my journal](https://web.archive.org/web/20090814210349/http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=117364340&s=143444) (spoken with [Talkr](https://web.archive.org/web/20090814210349/http://www.talkr.com/)) using iTunes.
@@ -11,4 +13,4 @@ I know, you have to ask why… but now you can [subscribe to the podcast of my j
 
 All a bit convoluted, but it kept me amused for a couple of minutes.
 
-Tagged: [This website](https://web.archive.org/web/20090814210349/http://nathanpitman.com/category/this-website/)
+Tagged: [This website](/tag/this-website)

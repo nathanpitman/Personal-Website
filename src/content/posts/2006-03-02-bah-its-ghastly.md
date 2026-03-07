@@ -1,8 +1,11 @@
 ---
-title: "Bah, it’s ghastly."
+title: Bah, it’s ghastly.
 date: 2006-03-02
-source: "http://nathanpitman.com/456/bah-its-ghastly"
-archive: "https://web.archive.org/web/20091017084207/http://nathanpitman.com:80/456/bah-its-ghastly"
+source: http://nathanpitman.com/456/bah-its-ghastly
+archive: https://web.archive.org/web/20091017084207/http://nathanpitman.com:80/456/bah-its-ghastly
+tags:
+  - "Textpattern"
+  - "This website"
 ---
 
 Well, I started faffing about with what was intended to be a small ‘re-align’ or whatever, now it’s turning into a ghastly mess with content flailing wildly all over the place and background images wandering off without any intention of returning to a sensible or desired location.
@@ -15,4 +18,4 @@ Bah, I’ve had it, it’s ghastly, it’s horrible, is there not a CMS out ther
 
 Rant off.
 
-Tagged: [Textpattern](https://web.archive.org/web/20091017084207/http://nathanpitman.com/category/textpattern/), [This website](https://web.archive.org/web/20091017084207/http://nathanpitman.com/category/this-website/)
+Tagged: [Textpattern](/tag/textpattern), [This website](/tag/this-website)

@@ -1,8 +1,10 @@
 ---
-title: "Nintendo Revolution unveiled"
+title: Nintendo Revolution unveiled
 date: 2005-05-17
-source: "http://nathanpitman.com/358/nintendo-revolution-unveiled"
-archive: "https://web.archive.org/web/20090522052642/http://nathanpitman.com:80/358/nintendo-revolution-unveiled"
+source: http://nathanpitman.com/358/nintendo-revolution-unveiled
+archive: https://web.archive.org/web/20090522052642/http://nathanpitman.com:80/358/nintendo-revolution-unveiled
+tags:
+  - "Design"
 ---
 
 What a week, first we had the [Xbox 360](https://web.archive.org/web/20090522052642/http://nathanpitman.com/journal/356/xbox-360-unveiled--rumours-of-early-ps3-launch), then the [PlayStation 3](https://web.archive.org/web/20090522052642/http://nathanpitman.com/journal/357/sony-playstation-3-unveiled), and now the Nintendo Revolution. Well I think without doubt the Nintendo wins on aesthetics.
@@ -13,4 +15,4 @@ What a [‘beautiful’ piece of hardware](https://web.archive.org/web/200905220
 
 Ok so the Revolution pretty much loses the fight in terms of processing power but as Nintendo’s Perrin Kaplan says: “It’s not all about having ‘turbo power’, It’s about what you do with it.”
 
-Tagged: [Design](https://web.archive.org/web/20090522052642/http://nathanpitman.com/category/design/)
+Tagged: [Design](/tag/design)

@@ -1,8 +1,10 @@
 ---
-title: "Textpattern 1.0?"
+title: Textpattern 1.0?
 date: 2005-01-20
-source: "http://nathanpitman.com/313/textpattern-10"
-archive: "https://web.archive.org/web/20091210072713/http://nathanpitman.com:80/313/textpattern-10"
+source: http://nathanpitman.com/313/textpattern-10
+archive: https://web.archive.org/web/20091210072713/http://nathanpitman.com:80/313/textpattern-10
+tags:
+  - "Textpattern"
 ---
 
 According to [the latest postings](https://web.archive.org/web/20091210072713/http://forum.textpattern.com/viewtopic.php?id=5173&p=5) on the texpattern support forums it looks like [Dean Allen](https://web.archive.org/web/20091210072713/http://www.textism.com/) might deliver version 1.0 of [Textpattern](https://web.archive.org/web/20091210072713/http://www.textpattern.com/) this Friday (21st Jan 05).
@@ -13,4 +15,4 @@ I’m kind of holding off on doing too much on [my re-design](https://web.archiv
 
 Exciting stuff, can’t wait. :)
 
-Tagged: [Textpattern](https://web.archive.org/web/20091210072713/http://nathanpitman.com/category/textpattern/)
+Tagged: [Textpattern](/tag/textpattern)

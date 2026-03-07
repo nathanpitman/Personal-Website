@@ -1,8 +1,10 @@
 ---
-title: "Fireworks Tips & Tricks Revealed"
+title: Fireworks Tips & Tricks Revealed
 date: 2004-12-23
-source: "http://nathanpitman.com/308/fireworks-tips-tricks-revealed"
-archive: "https://web.archive.org/web/20090619210931/http://nathanpitman.com:80/308/fireworks-tips-tricks-revealed"
+source: http://nathanpitman.com/308/fireworks-tips-tricks-revealed
+archive: https://web.archive.org/web/20090619210931/http://nathanpitman.com:80/308/fireworks-tips-tricks-revealed
+tags:
+  - "Fireworks"
 ---
 
 Five designers interviewed are asked to reveal some of their favorite Fireworks Tips & Tricks in the [December Macromedia Edge Newsletter](https://web.archive.org/web/20090619210931/http://www.macromedia.com/newsletters/edge/december2004/).
@@ -13,4 +15,4 @@ Five designers interviewed are asked to reveal some of their favorite Fireworks 
 
 :)
 
-Tagged: [Fireworks](https://web.archive.org/web/20090619210931/http://nathanpitman.com/category/fireworks/)
+Tagged: [Fireworks](/tag/fireworks)

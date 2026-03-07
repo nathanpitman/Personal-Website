@@ -1,8 +1,11 @@
 ---
-title: "Fireworks Remote Procedure Calls"
+title: Fireworks Remote Procedure Calls
 date: 2004-04-07
-source: "http://nathanpitman.com/41/fireworks-remote-procedure-calls"
-archive: "https://web.archive.org/web/20100112235804/http://nathanpitman.com:80/41/fireworks-remote-procedure-calls"
+source: http://nathanpitman.com/41/fireworks-remote-procedure-calls
+archive: https://web.archive.org/web/20100112235804/http://nathanpitman.com:80/41/fireworks-remote-procedure-calls
+tags:
+  - "Extensions"
+  - "Fireworks"
 ---
 
 Macromedia has made documentation available online for the [Fireworks Remote Procedure Calls](https://web.archive.org/web/20100112235804/http://www.macromedia.com/devnet/mx/fireworks/articles/rpc.html) or RPCs.
@@ -13,4 +16,4 @@ Nearly anything that can be done by a JavaScript program running inside of Firew
 
 Pretty neat stuff I’m sure you will agree. Hopefully we’ll see some developers taking advantage of this in the not so distant future.
 
-Tagged: [Extensions](https://web.archive.org/web/20100112235804/http://nathanpitman.com/category/extensions/), [Fireworks](https://web.archive.org/web/20100112235804/http://nathanpitman.com/category/fireworks/)
+Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

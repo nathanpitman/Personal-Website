@@ -1,8 +1,10 @@
 ---
-title: "Carson Summit Podcasts"
+title: Carson Summit Podcasts
 date: 2006-02-22
-source: "http://nathanpitman.com/451/carson-summit-podcasts"
-archive: "https://web.archive.org/web/20100105222927/http://nathanpitman.com:80/451/carson-summit-podcasts"
+source: http://nathanpitman.com/451/carson-summit-podcasts
+archive: https://web.archive.org/web/20100105222927/http://nathanpitman.com:80/451/carson-summit-podcasts
+tags:
+  - "Web applications"
 ---
 
 If, like me you missed the Carson Workshops [Future of Web Apps Summit](https://web.archive.org/web/20100105222927/http://www.carsonworkshops.com/summit/) you’ll be glad to know that the podcasts from the event are now live, and even better… free to download.
@@ -30,4 +32,4 @@ If, like me you missed the Carson Workshops [Future of Web Apps Summit](https://
 
 1. **Panel Discussion with all speakers + FeedBurner** [Discussion](https://web.archive.org/web/20100105222927/http://www.webuser.co.uk/carsonworkshops/Panel.mp3)
 
-Tagged: [Web applications](https://web.archive.org/web/20100105222927/http://nathanpitman.com/category/web-applications/)
+Tagged: [Web applications](/tag/web-applications)

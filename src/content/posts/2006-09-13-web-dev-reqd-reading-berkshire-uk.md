@@ -3,6 +3,8 @@ title: "Web Dev Reqd - Reading, Berkshire, UK"
 date: 2006-09-13
 source: "http://nathanpitman.com/485/web-dev-reqd-reading-berkshire-uk"
 archive: "https://web.archive.org/web/20091226075110/http://nathanpitman.com:80/485/web-dev-reqd-reading-berkshire-uk"
+tags:
+  - "Jobs"
 ---
 
 Just pimping a vacancy for a friend…
@@ -43,4 +45,4 @@ We work on Mac OS X and with (X)HTML, CSS, JavaScript, XML, PHP and MySQL. Our d
 
 Please [send us an e-mail](https://web.archive.org/web/20091226075110/mailto:jobs@design-ontap.co.uk?subject=Nathan&nbsp;sent&nbsp;me) (absolutely no CVâs please) to let us know why youâre the person for the job, together with a list of websites you have worked on, your involvement with them and what you like to get up to in your spare time.Good Luck! Design Ontap.
 
-Tagged: [Jobs](https://web.archive.org/web/20091226075110/http://nathanpitman.com/category/jobs/)
+Tagged: [Jobs](/tag/jobs)

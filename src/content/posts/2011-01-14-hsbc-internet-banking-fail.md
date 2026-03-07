@@ -3,6 +3,10 @@ title: "HSBC Internet Banking Fail"
 date: 2011-01-14
 source: "http://nathanpitman.com/602/hsbc-internet-banking-fail"
 archive: "https://web.archive.org/web/20110209054101/http://nathanpitman.com:80/602/hsbc-internet-banking-fail"
+tags:
+  - "Chatter"
+  - "Design"
+  - "Web applications"
 ---
 
 The fact that just over a month after switching from Santander to HSBC I’m already compiling a list of annoyances with their ‘online’ banking system says something I guess. Maybe I’m a bit of a moaner or maybe I just expected more from someone that claims their online banking system is ‘award winning’.
@@ -13,4 +17,4 @@ The fact that just over a month after switching from Santander to HSBC I’m alr
 
 This is an ongoing list which I’ll no doubt be adding to!
 
-Tagged: [Chatter](https://web.archive.org/web/20110209054101/http://nathanpitman.com/category/chatter/), [Design](https://web.archive.org/web/20110209054101/http://nathanpitman.com/category/design/), [Web applications](https://web.archive.org/web/20110209054101/http://nathanpitman.com/category/web-applications/)
+Tagged: [Chatter](/tag/chatter), [Design](/tag/design), [Web applications](/tag/web-applications)

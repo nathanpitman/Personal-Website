@@ -1,8 +1,11 @@
 ---
-title: "New tricks with Textile"
+title: New tricks with Textile
 date: 2005-10-19
-source: "http://nathanpitman.com/409/new-tricks-with-textile"
-archive: "https://web.archive.org/web/20090718143332/http://nathanpitman.com:80/409/new-tricks-with-textile"
+source: http://nathanpitman.com/409/new-tricks-with-textile
+archive: https://web.archive.org/web/20090718143332/http://nathanpitman.com:80/409/new-tricks-with-textile
+tags:
+  - "Code"
+  - "Textpattern"
 ---
 
 I’m using [textile](https://web.archive.org/web/20090718143332/http://www.textism.com/tools/textile/) on a project I’m currently [working](https://web.archive.org/web/20090718143332/http://www.ninefour.co.uk/) on and having come up against a bit of an issue I discovered a nifty little feature of textile which I’d never used before.
@@ -23,4 +26,4 @@ Well I have no idea what ‘encode’ (URL encode maybe) and ‘strict’ do but
 
 Success!
 
-Tagged: [Code](https://web.archive.org/web/20090718143332/http://nathanpitman.com/category/code/), [Textpattern](https://web.archive.org/web/20090718143332/http://nathanpitman.com/category/textpattern/)
+Tagged: [Code](/tag/code), [Textpattern](/tag/textpattern)

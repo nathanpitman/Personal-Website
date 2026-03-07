@@ -3,6 +3,8 @@ title: "Looking for a LAMP web app dev"
 date: 2007-03-09
 source: "http://nathanpitman.com/500/looking-for-a-lamp-web-app-dev"
 archive: "https://web.archive.org/web/20100106205055/http://nathanpitman.com:80/500/looking-for-a-lamp-web-app-dev"
+tags:
+  - "Jobs"
 ---
 
 Hey there. Over at [Nine Four](https://web.archive.org/web/20100106205055/http://www.ninefour.co.uk/) we’re looking for a freelance developer to work with us in deploying and developing our simple intranet software; ‘“coACT”:http://coact.ninefour.co.uk’.
@@ -19,4 +21,4 @@ If youâre interested, please [contact us](https://web.archive.org/web/20100
 
 **Looking forward to hearing from you!**
 
-Tagged: [Jobs](https://web.archive.org/web/20100106205055/http://nathanpitman.com/category/jobs/)
+Tagged: [Jobs](/tag/jobs)

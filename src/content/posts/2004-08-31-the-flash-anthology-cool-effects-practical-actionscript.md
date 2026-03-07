@@ -1,8 +1,10 @@
 ---
-title: "The Flash Anthology: Cool Effects & Practical ActionScript"
+title: 'The Flash Anthology: Cool Effects & Practical ActionScript'
 date: 2004-08-31
-source: "http://nathanpitman.com/233/the-flash-anthology-cool-effects-practical-actionscript"
-archive: "https://web.archive.org/web/20100117030950/http://nathanpitman.com:80/233/the-flash-anthology-cool-effects-practical-actionscript"
+source: http://nathanpitman.com/233/the-flash-anthology-cool-effects-practical-actionscript
+archive: https://web.archive.org/web/20100117030950/http://nathanpitman.com:80/233/the-flash-anthology-cool-effects-practical-actionscript
+tags:
+  - "Flash"
 ---
 
 ![The Flash Anthology](/images/55.jpg "The Flash Anthology")
@@ -16,4 +18,4 @@ You can buy the book directly from the publishers [SitePoint](https://web.archiv
 If you want a taster you can download 4 sample chapters from the [SitePoint](https://web.archive.org/web/20100117030950/http://www.sitepoint.com/books/flashant1/) site.  
  
 
-Tagged: [Flash](https://web.archive.org/web/20100117030950/http://nathanpitman.com/category/flash/)
+Tagged: [Flash](/tag/flash)

@@ -1,8 +1,10 @@
 ---
-title: "It’s all in the detail"
+title: It’s all in the detail
 date: 2004-07-29
-source: "http://nathanpitman.com/225/its-all-in-the-detail"
-archive: "https://web.archive.org/web/20100106040504/http://nathanpitman.com/225/its-all-in-the-detail"
+source: http://nathanpitman.com/225/its-all-in-the-detail
+archive: https://web.archive.org/web/20100106040504/http://nathanpitman.com/225/its-all-in-the-detail
+tags:
+  - "Design"
 ---
 
 Reading my daily blogs I stumbled accross a fantastic entry by [Cameron Moll](https://web.archive.org/web/20100106040504/http://www.cameronmoll.com/archives/000036.html) (Authentic Boredom) regarding the 8 things he wish he’d known when he started out as a designer/developer. #1 on the list made me smile simply because it’s exactly what I do on a daily basis.
@@ -11,4 +13,4 @@ strong>Details a great designer maketh. If thereï¿½s one thing Iï¿½ve repe
 
 Nice post Cameron. :)
 
-Tagged: [Design](https://web.archive.org/web/20100106040504/http://nathanpitman.com/category/design/)
+Tagged: [Design](/tag/design)

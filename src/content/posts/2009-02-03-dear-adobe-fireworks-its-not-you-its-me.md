@@ -3,6 +3,9 @@ title: "Dear Adobe Fireworks, it’s not you, it’s me."
 date: 2009-02-03
 source: "http://nathanpitman.com/566/dear-adobe-fireworks-its-not-you-its-me"
 archive: "https://web.archive.org/web/20090518024120/http://nathanpitman.com:80/566/dear-adobe-fireworks-its-not-you-its-me"
+tags:
+  - "Adobe"
+  - "Fireworks"
 ---
 
 When we first met it was love at first sight, your combination of vector and bitmap tools, your web layer and slices… I just couldn’t resist.
@@ -15,4 +18,4 @@ That’s not who I fell in love with and I just can’t live with it anymore, I 
 
 **Update:** [An open letter to software developers RE Adobe Fireworks](https://web.archive.org/web/20090518024120/http://nathanpitman.com/journal/567/an-open-letter-to-software-developers-re-adobe-fireworks)
 
-Tagged: [Adobe](https://web.archive.org/web/20090518024120/http://nathanpitman.com/category/adobe/), [Fireworks](https://web.archive.org/web/20090518024120/http://nathanpitman.com/category/fireworks/)
+Tagged: [Adobe](/tag/adobe), [Fireworks](/tag/fireworks)

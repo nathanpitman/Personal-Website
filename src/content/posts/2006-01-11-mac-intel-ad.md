@@ -1,8 +1,10 @@
 ---
-title: "Mac + Intel Ad"
+title: Mac + Intel Ad
 date: 2006-01-11
-source: "http://nathanpitman.com/440/mac-intel-ad"
-archive: "https://web.archive.org/web/20091209173359/http://nathanpitman.com:80/440/mac-intel-ad"
+source: http://nathanpitman.com/440/mac-intel-ad
+archive: https://web.archive.org/web/20091209173359/http://nathanpitman.com:80/440/mac-intel-ad
+tags:
+  - "Technology"
 ---
 
 If like me you watched the [Macworld Keynote Address](https://web.archive.org/web/20091209173359/http://macworld.apple.com.edgesuite.net/mw/index.html) earlier today or last night you may well have seen [the fantastic new TV ad](https://web.archive.org/web/20091209173359/http://www.apple.com/intel/ads/) which [Apple](https://web.archive.org/web/20091209173359/http://www.apple.com/) have devised to promote the switch from IBM PowerPC processors to Intel chips.
@@ -11,4 +13,4 @@ If like me you watched the [Macworld Keynote Address](https://web.archive.org/we
 
 **Instant classic.**
 
-Tagged: [Technology](https://web.archive.org/web/20091209173359/http://nathanpitman.com/category/technology/)
+Tagged: [Technology](/tag/technology)

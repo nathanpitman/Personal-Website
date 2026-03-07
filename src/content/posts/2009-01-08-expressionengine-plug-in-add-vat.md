@@ -3,6 +3,8 @@ title: "ExpressionEngine Plug-in: Add VAT"
 date: 2009-01-08
 source: "http://nathanpitman.com/564/expressionengine-plug-in-add-vat"
 archive: "https://web.archive.org/web/20090518024300/http://nathanpitman.com:80/564/expressionengine-plug-in-add-vat"
+tags:
+  - "ExpressionEngine"
 ---
 
 I’ve just written a new [ExpressionEngine](https://web.archive.org/web/20090518024300/http://www.expressionengine.com/index.php?affiliate=nathanpitman) plug-in called ‘**Add VAT**‘. This plug-in takes any numeric value and returns the value plus VAT. You also have to specify the VAT rate obviously.
@@ -17,4 +19,4 @@ I’m using the plug-in on a website I’m developing where I need to be able to
 
 If you have any further ideas as to how the plug-in could be developed do let me know. ![smile](https://web.archive.org/web/20090518024300im_/http://nathanpitman.com/images/smileys/smile.gif)
 
-Tagged: [ExpressionEngine](https://web.archive.org/web/20090518024300/http://nathanpitman.com/category/expressionengine/)
+Tagged: [ExpressionEngine](/tag/expressionengine)

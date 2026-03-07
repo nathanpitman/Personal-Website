@@ -3,6 +3,9 @@ title: "Migrating from TXP to EE - Step 2"
 date: 2008-09-26
 source: "http://nathanpitman.com/554/migrating-from-txp-to-ee-step-2"
 archive: "https://web.archive.org/web/20090518092414/http://nathanpitman.com:80/554/migrating-from-txp-to-ee-step-2"
+tags:
+  - "ExpressionEngine"
+  - "Textpattern"
 ---
 
 So now we have our [ExpressionEngine](https://web.archive.org/web/20090518092414/http://www.expressionengine.com/index.php?affiliate=nathanpitman) install pretty much ready we need to export our data from Textpattern. At this point it may be wise to upgrade your Textpattern install to the [latest release](https://web.archive.org/web/20090518092414/http://www.textpattern.com/download).
@@ -56,4 +59,4 @@ I know I promised to cover how we import this data into ExpressionEngine but Iâ€
 
 [Next Stepâ€¦](/web/20090518092414/http://nathanpitman.com/journal/migrating-from-txp-to-ee-step-3/)
 
-Tagged: [ExpressionEngine](https://web.archive.org/web/20090518092414/http://nathanpitman.com/category/expressionengine/), [Textpattern](https://web.archive.org/web/20090518092414/http://nathanpitman.com/category/textpattern/)
+Tagged: [ExpressionEngine](/tag/expressionengine), [Textpattern](/tag/textpattern)

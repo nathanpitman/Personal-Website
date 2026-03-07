@@ -1,8 +1,11 @@
 ---
-title: "Twisted Animator Required… (Berkshire, UK)"
+title: Twisted Animator Required… (Berkshire, UK)
 date: 2004-09-13
-source: "http://nathanpitman.com/240/twisted-animator-required-berkshire-uk"
-archive: "https://web.archive.org/web/20100113164458/http://nathanpitman.com:80/240/twisted-animator-required-berkshire-uk"
+source: http://nathanpitman.com/240/twisted-animator-required-berkshire-uk
+archive: https://web.archive.org/web/20100113164458/http://nathanpitman.com:80/240/twisted-animator-required-berkshire-uk
+tags:
+  - "Animation"
+  - "Jobs"
 ---
 
 Via [Mirashade](https://web.archive.org/web/20100113164458/http://www.mirashade.com/)...
@@ -15,4 +18,4 @@ Via [Mirashade](https://web.archive.org/web/20100113164458/http://www.mirashade.
 
 If you’re interested, and you’re available to work at the Mirashade studio in Reading, Berkshire, UK… [check out the Mirashade site](https://web.archive.org/web/20100113164458/http://www.mirashade.com/about/?c=Employment).
 
-Tagged: [Animation](https://web.archive.org/web/20100113164458/http://nathanpitman.com/category/animation/), [Jobs](https://web.archive.org/web/20100113164458/http://nathanpitman.com/category/jobs/)
+Tagged: [Animation](/tag/animation), [Jobs](/tag/jobs)

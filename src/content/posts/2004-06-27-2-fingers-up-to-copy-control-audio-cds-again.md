@@ -1,8 +1,11 @@
 ---
-title: "2 fingers up to Copy Control Audio CDs (Again)"
+title: 2 fingers up to Copy Control Audio CDs (Again)
 date: 2004-06-27
-source: "http://nathanpitman.com/206/2-fingers-up-to-copy-control-audio-cds-again"
-archive: "https://web.archive.org/web/20100111190559/http://nathanpitman.com:80/206/2-fingers-up-to-copy-control-audio-cds-again"
+source: http://nathanpitman.com/206/2-fingers-up-to-copy-control-audio-cds-again
+archive: https://web.archive.org/web/20100111190559/http://nathanpitman.com:80/206/2-fingers-up-to-copy-control-audio-cds-again
+tags:
+  - "Personal"
+  - "Technology"
 ---
 
 Following on from my post earlier in the year regarding the unacceptable situation which is [large record companies producing Audio CDs ‘with’ intentional errors to prevent ripping](https://web.archive.org/web/20100111190559/http://www.nathanpitman.com/blog/index.php?id=34), I stumbled across a number of related posts at the Register.
@@ -23,4 +26,4 @@ With copy-crippled CDs, people buy less music and manufacturers sell less equipm
 
 Well put.
 
-Tagged: [Personal](https://web.archive.org/web/20100111190559/http://nathanpitman.com/category/personal/), [Technology](https://web.archive.org/web/20100111190559/http://nathanpitman.com/category/technology/)
+Tagged: [Personal](/tag/personal), [Technology](/tag/technology)

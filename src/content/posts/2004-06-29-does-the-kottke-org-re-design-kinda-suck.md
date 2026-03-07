@@ -1,8 +1,10 @@
 ---
-title: "Does the kottke.org re-design kinda suck?"
+title: Does the kottke.org re-design kinda suck?
 date: 2004-06-29
-source: "http://nathanpitman.com/209/does-the-kottkeorg-re-design-kinda-suck"
-archive: "https://web.archive.org/web/20100105214300/http://nathanpitman.com:80/209/does-the-kottkeorg-re-design-kinda-suck"
+source: http://nathanpitman.com/209/does-the-kottkeorg-re-design-kinda-suck
+archive: https://web.archive.org/web/20100105214300/http://nathanpitman.com:80/209/does-the-kottkeorg-re-design-kinda-suck
+tags:
+  - "Design"
 ---
 
 Jason [kottke](https://web.archive.org/web/20100105214300/http://www.kottke.org/) has done a re-design. The garish green lives on, but the cleanliness and simplicity has gone. Hey maybe it’s just in transition, but I think it kinda sucks. :?
@@ -11,4 +13,4 @@ Jason [kottke](https://web.archive.org/web/20100105214300/http://www.kottke.org/
 
 What do you reckon?
 
-Tagged: [Design](https://web.archive.org/web/20100105214300/http://nathanpitman.com/category/design/)
+Tagged: [Design](/tag/design)

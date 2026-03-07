@@ -1,8 +1,10 @@
 ---
-title: "SiteVista Review"
+title: SiteVista Review
 date: 2005-11-01
-source: "http://nathanpitman.com/415/sitevista-review"
-archive: "https://web.archive.org/web/20110426030905/http://nathanpitman.com:80/415/sitevista-review"
+source: http://nathanpitman.com/415/sitevista-review
+archive: https://web.archive.org/web/20110426030905/http://nathanpitman.com:80/415/sitevista-review
+tags:
+  - "Web development"
 ---
 
 Well I bagged myself a [SiteVista](https://web.archive.org/web/20110426030905/http://www.sitevista.com/) account today, many thanks to Paul at [Salted](https://web.archive.org/web/20110426030905/http://www.salted.com/). For some time I’ve been considering purchasing an [iBook](https://web.archive.org/web/20110426030905/http://www.apple.com/ibook/) purely to test on Safari, but now, well there really is no need!
@@ -25,4 +27,4 @@ I’d be interested to know a little more about the set-up behind SiteVista, is 
 
 So, in conclusion, SiteVista is a tidy little application, if you don’t want the hassle of maintaining numerous versions of IE, and having to shell out for a Mac, ‘just for testing’ then [go get yourself an account](https://web.archive.org/web/20110426030905/http://www.sitevista.com/signup.asp).
 
-Tagged: [Web development](https://web.archive.org/web/20110426030905/http://nathanpitman.com/category/web-development/)
+Tagged: [Web development](/tag/web-development)

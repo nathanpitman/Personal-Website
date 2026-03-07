@@ -3,6 +3,8 @@ title: "Junior Creative Developer - London, UK"
 date: 2007-09-13
 source: "http://nathanpitman.com/519/junior-creative-developer-london-uk"
 archive: "https://web.archive.org/web/20091010114936/http://nathanpitman.com:80/519/junior-creative-developer-london-uk"
+tags:
+  - "Jobs"
 ---
 
 JPCreative, a successful and busy London based design & communications agency with a 9 year track record in delivering award winning creative solutions are seeking to add to our team with the introduction of a Junior Creative Developer.
@@ -39,4 +41,4 @@ Ultimately, an impossible to disguise raw passion for interactive design and dev
 
 **Please send your covering letter, current cv and salary expectations to:** [Claire@jpcreative.co.uk](https://web.archive.org/web/20091010114936/mailto:Claire@jpcreative.co.uk?subject=Application%20for%20junior%20creative%20dev%20from%20nathanpitman.com).
 
-Tagged: [Jobs](https://web.archive.org/web/20091010114936/http://nathanpitman.com/category/jobs/)
+Tagged: [Jobs](/tag/jobs)

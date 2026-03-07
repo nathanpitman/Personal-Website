@@ -1,8 +1,11 @@
 ---
-title: "‘File Info’ AutoShape for Fireworks"
+title: ‘File Info’ AutoShape for Fireworks
 date: 2004-12-22
-source: "http://nathanpitman.com/298/file-info-autoshape-for-fireworks"
-archive: "https://web.archive.org/web/20100104201139/http://nathanpitman.com:80/298/file-info-autoshape-for-fireworks"
+source: http://nathanpitman.com/298/file-info-autoshape-for-fireworks
+archive: https://web.archive.org/web/20100104201139/http://nathanpitman.com:80/298/file-info-autoshape-for-fireworks
+tags:
+  - "Extensions"
+  - "Fireworks"
 ---
 
 [Trevor McCauley](https://web.archive.org/web/20100104201139/http://www.senocular.com/) has released another(!) new Fireworks AutoShape called ‘“File Info”:http://www.senocular.com/downloads/index.php?subaction=showfull&id=1101933160&archive=&start\_from=&ucat=8&kind=8’.
@@ -27,4 +30,4 @@ Properties include:
 
 Very smart.
 
-Tagged: [Extensions](https://web.archive.org/web/20100104201139/http://nathanpitman.com/category/extensions/), [Fireworks](https://web.archive.org/web/20100104201139/http://nathanpitman.com/category/fireworks/)
+Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

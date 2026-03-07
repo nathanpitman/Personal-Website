@@ -1,8 +1,10 @@
 ---
-title: "Burnout 3 first impressions…"
+title: Burnout 3 first impressions…
 date: 2004-09-15
-source: "http://nathanpitman.com/241/burnout-3-first-impressions"
-archive: "https://web.archive.org/web/20091231042030/http://nathanpitman.com:80/241/burnout-3-first-impressions"
+source: http://nathanpitman.com/241/burnout-3-first-impressions
+archive: https://web.archive.org/web/20091231042030/http://nathanpitman.com:80/241/burnout-3-first-impressions
+tags:
+  - "Consoles"
 ---
 
 We have a copy of [Burnout 3](https://web.archive.org/web/20091231042030/http://burnout3.eagames.co.uk/flash_mx/player.asp) for the PS2 at [work](https://web.archive.org/web/20091231042030/http://www.mirashade.com/). We’ve given it a little play over the past few days.
@@ -17,4 +19,4 @@ It’s a fantastic game, a definite step forward from Burnout 2… But there are
 
 No race replays! Watching a replay of a race where you totally whipped your mates was one of Burnout 2’s best features. What happened to race replays [Criterion](https://web.archive.org/web/20091231042030/http://www.criteriongames.com/)???
 
-Tagged: [Consoles](https://web.archive.org/web/20091231042030/http://nathanpitman.com/category/consoles/)
+Tagged: [Consoles](/tag/consoles)

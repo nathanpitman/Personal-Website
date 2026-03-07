@@ -1,8 +1,10 @@
 ---
-title: "Will you be at the Carson Summit?"
+title: Will you be at the Carson Summit?
 date: 2006-01-16
-source: "http://nathanpitman.com/442/will-you-be-at-the-carson-summit"
-archive: "https://web.archive.org/web/20111009172453/http://nathanpitman.com/442/will-you-be-at-the-carson-summit"
+source: http://nathanpitman.com/442/will-you-be-at-the-carson-summit
+archive: https://web.archive.org/web/20111009172453/http://nathanpitman.com/442/will-you-be-at-the-carson-summit
+tags:
+  - "Web applications"
 ---
 
 Like probably every other web designer out there [@media 2006](https://web.archive.org/web/20111009172453/http://www.vivabit.com/atmedia2006/) is an event that I’d love to attend, however the **registration fee of Â£395 (+VAT)** really blows my chances out of the water.
@@ -15,4 +17,4 @@ Instead I’ve decided to book my place at one of the upcoming [Carson Workshops
 
 At just Â£75 (+VAT) it seems a bit of a steal if you ask me. If you’ve got your place reserved add your mugshot to the [Carson Summit Flickr group](https://web.archive.org/web/20111009172453/http://www.flickr.com/groups/summit2006/) and maybe I’ll see you there. :)
 
-Tagged: [Web applications](https://web.archive.org/web/20111009172453/http://nathanpitman.com/category/web-applications/)
+Tagged: [Web applications](/tag/web-applications)

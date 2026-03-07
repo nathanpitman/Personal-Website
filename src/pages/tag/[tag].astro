@@ -1,0 +1,71 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Sidebar from '../../components/Sidebar.astro';
+import { getCollection } from 'astro:content';
+import { slugify } from '../../utils/slugify';
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection('posts');
+  const tagMap = new Map<string, { name: string; slug: string }>();
+
+  for (const post of allPosts) {
+    for (const tag of post.data.tags) {
+      const s = slugify(tag);
+      if (!tagMap.has(s)) {
+        tagMap.set(s, { name: tag, slug: s });
+      }
+    }
+  }
+
+  return Array.from(tagMap.values()).map(({ name, slug }) => ({
+    params: { tag: slug },
+    props: { tagName: name, tagSlug: slug },
+  }));
+}
+
+const { tagName, tagSlug } = Astro.props;
+
+const allPosts = await getCollection('posts');
+const posts = allPosts
+  .filter(post => post.data.tags.some((t: string) => slugify(t) === tagSlug))
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+
+function formatDate(date: Date): string {
+  const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  const d = date.getDate().toString().padStart(2, '0');
+  const y = date.getFullYear().toString().slice(-2);
+  return `${months[date.getMonth()]} ${d}. ${y}`;
+}
+---
+
+<BaseLayout title={`Tag: ${tagName} — nathan pitman`} activeNav="recently">
+  <div class="page">
+
+    <main class="main">
+
+      <h1 class="tag-heading">Tag: {tagName}</h1>
+
+      {posts.map(async (post) => {
+        const { Content } = await post.render();
+        const slug = post.id.replace(/\.md$/, '');
+        return (
+          <article class="post">
+            <header class="post-header">
+              <div class="post-title-line">
+                <h2 class="post-title"><a href={`/posts/${slug}`}>{post.data.title}</a></h2>
+                <span class="post-date">{formatDate(post.data.date)}</span>
+              </div>
+            </header>
+            <div class="post-body">
+              <Content />
+            </div>
+          </article>
+        );
+      })}
+
+    </main>
+
+    <Sidebar />
+
+  </div>
+</BaseLayout>

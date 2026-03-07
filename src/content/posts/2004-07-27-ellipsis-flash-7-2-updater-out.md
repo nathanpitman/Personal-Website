@@ -1,8 +1,10 @@
 ---
-title: "Ellipsis (Flash 7.2) updater out"
+title: Ellipsis (Flash 7.2) updater out
 date: 2004-07-27
-source: "http://nathanpitman.com/224/ellipsis-flash-72-updater-out"
-archive: "https://web.archive.org/web/20100106035300/http://nathanpitman.com/224/ellipsis-flash-72-updater-out"
+source: http://nathanpitman.com/224/ellipsis-flash-72-updater-out
+archive: https://web.archive.org/web/20100106035300/http://nathanpitman.com/224/ellipsis-flash-72-updater-out
+tags:
+  - "Flash"
 ---
 
 Macromedia have gone public with the [Ellipsis updater](https://web.archive.org/web/20100106035300/http://www.macromedia.com/software/flash/special/7_2updater/) for Flash MX 2004. This update to Flash MX 2004 increases developer productivity by making the application lighter and more efficient to use. The updater offers substantial improvements in performance and stability and more comprehensive documentation, including:
@@ -15,4 +17,4 @@ Macromedia have gone public with the [Ellipsis updater](https://web.archive.org/
 
 The updater can be downloaded from the [Flash Support Center](https://web.archive.org/web/20100106035300/http://www.macromedia.com/software/flash/special/7_2updater/).
 
-Tagged: [Flash](https://web.archive.org/web/20100106035300/http://nathanpitman.com/category/flash/)
+Tagged: [Flash](/tag/flash)

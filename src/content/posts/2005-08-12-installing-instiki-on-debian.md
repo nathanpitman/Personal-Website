@@ -1,8 +1,10 @@
 ---
-title: "Installing Instiki on Debian"
+title: Installing Instiki on Debian
 date: 2005-08-12
-source: "http://nathanpitman.com/391/installing-instiki-on-debian"
-archive: "https://web.archive.org/web/20100106033419/http://nathanpitman.com/391/installing-instiki-on-debian"
+source: http://nathanpitman.com/391/installing-instiki-on-debian
+archive: https://web.archive.org/web/20100106033419/http://nathanpitman.com/391/installing-instiki-on-debian
+tags:
+  - "Linux"
 ---
 
 I decided it was about time I had a play with [Instiki](https://web.archive.org/web/20100106033419/http://www.instiki.org/) here at [Bite CP](https://web.archive.org/web/20100106033419/http://www.bitecp.com/) since we used to have an install back at [Mirashade](https://web.archive.org/web/20100106033419/http://www.mirashade.com/).
@@ -52,4 +54,4 @@ Scroll right down to the bottom of the file and add the follwoing line above the
 
 Now, reboot you Debian box and you’re good to go.
 
-Tagged: [Linux](https://web.archive.org/web/20100106033419/http://nathanpitman.com/category/linux/)
+Tagged: [Linux](/tag/linux)

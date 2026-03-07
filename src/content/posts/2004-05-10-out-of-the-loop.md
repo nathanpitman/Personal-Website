@@ -1,8 +1,11 @@
 ---
-title: "Out of the loop"
+title: Out of the loop
 date: 2004-05-10
-source: "http://nathanpitman.com/84/out-of-the-loop"
-archive: "https://web.archive.org/web/20091231014939/http://nathanpitman.com:80/84/out-of-the-loop"
+source: http://nathanpitman.com/84/out-of-the-loop
+archive: https://web.archive.org/web/20091231014939/http://nathanpitman.com:80/84/out-of-the-loop
+tags:
+  - "Flash"
+  - "Technology"
 ---
 
 Well, I’ve been a little out of the loop for the past week or so. I’m ‘on holiday’ at home until the end of this week with my ‘family’. :)
@@ -15,4 +18,4 @@ Mike Chambers has put together [a nice standalone Flash Application](https://web
 
 Right, better go. I think I can hear the milk monster waking.
 
-Tagged: [Flash](https://web.archive.org/web/20091231014939/http://nathanpitman.com/category/flash/), [Technology](https://web.archive.org/web/20091231014939/http://nathanpitman.com/category/technology/)
+Tagged: [Flash](/tag/flash), [Technology](/tag/technology)

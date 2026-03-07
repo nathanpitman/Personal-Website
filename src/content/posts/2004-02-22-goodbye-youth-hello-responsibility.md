@@ -1,8 +1,10 @@
 ---
-title: "Goodbye youth, Hello responsibility"
+title: Goodbye youth, Hello responsibility
 date: 2004-02-22
-source: "http://nathanpitman.com/25/goodbye-youth-hello-responsibility"
-archive: "https://web.archive.org/web/20100102214827/http://nathanpitman.com:80/25/goodbye-youth-hello-responsibility"
+source: http://nathanpitman.com/25/goodbye-youth-hello-responsibility
+archive: https://web.archive.org/web/20100102214827/http://nathanpitman.com:80/25/goodbye-youth-hello-responsibility
+tags:
+  - "Personal"
 ---
 
 Today it feels as if somehow I’m saying goodbye to my youth. This is the last day I will drive to and from work in my two seater, rear engined convertible sports car. Or as it’s affectionatley known by my wife; Nibble.
@@ -15,4 +17,4 @@ Sure, I will miss my MR2 Roadster, but one day we all have to grow up a little a
 
 Goodbye Nibble. :)
 
-Tagged: [Personal](https://web.archive.org/web/20100102214827/http://nathanpitman.com/category/personal/)
+Tagged: [Personal](/tag/personal)

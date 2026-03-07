@@ -3,6 +3,10 @@ title: "My thoughts on Apple TV Apps"
 date: 2013-05-05
 source: "http://nathanpitman.com/624/my-thoughts-on-apple-tv-apps"
 archive: "https://web.archive.org/web/20130510164106/http://nathanpitman.com:80/624/my-thoughts-on-apple-tv-apps"
+tags:
+  - "Chatter"
+  - "Apple"
+  - "Technology"
 ---
 
 > Something occurred to me last night. The Apple TV is the perfect candidate for web based apps with home screen shortcuts…
@@ -21,4 +25,4 @@ archive: "https://web.archive.org/web/20130510164106/http://nathanpitman.com:80/
 >
 > — Nathan Pitman (@nathanpitman) [May 4, 2013](https://web.archive.org/web/20130510164106/https://twitter.com/nathanpitman/status/330634530048335872)
 
-Tagged: [Chatter](https://web.archive.org/web/20130510164106/http://nathanpitman.com/category/chatter/), [Apple](https://web.archive.org/web/20130510164106/http://nathanpitman.com/category/apple/), [Technology](https://web.archive.org/web/20130510164106/http://nathanpitman.com/category/technology/)
+Tagged: [Chatter](/tag/chatter), [Apple](/tag/apple), [Technology](/tag/technology)

@@ -3,6 +3,8 @@ title: "ExpressionEngine Extension: Push to FoxyCart"
 date: 2010-03-04
 source: "http://nathanpitman.com/596/expressionengine-extension-push-to-foxycart"
 archive: "https://web.archive.org/web/20100307023931/http://nathanpitman.com:80/596/expressionengine-extension-push-to-foxycart"
+tags:
+  - "ExpressionEngine"
 ---
 
 While working on a project recently with the [FoxEE](https://web.archive.org/web/20100307023931/http://www.hccdevelopment.com/Web-Based-Software/Product/FoxEE/) E-commerce module for ExpressionEngine we discovered that it doesn’t integrate at all well with the [Solspace User Module](https://web.archive.org/web/20100307023931/http://www.solspace.com/software/detail/user/). This is understandable because the Solspace User Module circumvents the standard process for user registration and profile updates in ExpressionEngine. The upshot of this is that you simply ‘cannot’ make single sign on with FoxyCart work with FoxEE if your users are registering or updating their profile using the Solspace User Module. Now this is a bit of a problem since pretty much any E-commerce site built on ExpressionEngine will be using the Solspace User Module to allow users to easily manage their account details etc.
@@ -17,4 +19,4 @@ At line 13 you will have to enter your ‘FoxyCart Domain’ (mysite.foxycart.co
 
 Make sure you’re running PHP5 and have access to CURL on your server, upload the extension, enable it and you should be good to go. [For support I’ve created a topic on the ExpressionEngine forums](https://web.archive.org/web/20100307023931/http://expressionengine.com/forums/viewthread/148101/), hopefully if I’m not able to help with any problems you encounter then someone else might be able to chime in. :)
 
-Tagged: [ExpressionEngine](https://web.archive.org/web/20100307023931/http://nathanpitman.com/category/expressionengine/)
+Tagged: [ExpressionEngine](/tag/expressionengine)

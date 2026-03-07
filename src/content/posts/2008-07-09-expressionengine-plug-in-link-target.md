@@ -3,6 +3,8 @@ title: "ExpressionEngine Plug-in: Link Target"
 date: 2008-07-09
 source: "http://nathanpitman.com/542/expressionengine-plug-in-link-target"
 archive: "https://web.archive.org/web/20090614184927/http://nathanpitman.com:80/542/expressionengine-plug-in-link-target"
+tags:
+  - "ExpressionEngine"
 ---
 
 Not sure how useful this [ExpressionEngine](https://web.archive.org/web/20090614184927/http://www.expressionengine.com/index.php?affiliate=nathanpitman) Plug-in will be to others out there but we’re using it here at [Nine Four](https://web.archive.org/web/20090614184927/http://www.ninefour.co.uk/) on the [Wired In](https://web.archive.org/web/20090614184927/http://www.wiredin.org.uk/) website to link from an IFrame back to the parent window. This is something you would usually achieve with:
@@ -23,4 +25,4 @@ By default you have to specify a ‘url’ and ‘target’ parameter and the pl
 
 Obviously let me know in the comments if you have any thoughts on how this can be improved. Enjoy!
 
-Tagged: [ExpressionEngine](https://web.archive.org/web/20090614184927/http://nathanpitman.com/category/expressionengine/)
+Tagged: [ExpressionEngine](/tag/expressionengine)

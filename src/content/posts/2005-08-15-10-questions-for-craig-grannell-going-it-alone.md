@@ -1,8 +1,10 @@
 ---
-title: "10 questions for Craig Grannell (Going it alone)"
+title: 10 questions for Craig Grannell (Going it alone)
 date: 2005-08-15
-source: "http://nathanpitman.com/390/10-questions-for-craig-grannell-going-it-alone"
-archive: "https://web.archive.org/web/20091217084216/http://nathanpitman.com:80/390/10-questions-for-craig-grannell-going-it-alone"
+source: http://nathanpitman.com/390/10-questions-for-craig-grannell-going-it-alone
+archive: https://web.archive.org/web/20091217084216/http://nathanpitman.com:80/390/10-questions-for-craig-grannell-going-it-alone
+tags:
+  - "Employment"
 ---
 
 In the first of 5 interviews with web designers and developers who are self employed I chat with [Craig Grannell](https://web.archive.org/web/20091217084216/http://www.snubcommunications.com/). I first met Craig whilst working at [Designation](https://web.archive.org/web/20091217084216/http://www.designation.com/) way back in 1999. Craig’s business (Snub Communications) provides web design and copywriting services.
@@ -73,4 +75,4 @@ In the first of 5 interviews with web designers and developers who are self empl
 4. **Get an accountant.** Keep all your receipts, log all of your jobs (and when/if you’re paid) and get an accountant to do your tax returns.
 5. **Back-up.** You need a minimum of two levels of back-up â¹ get a one-touch external firewire drive to back-up your work to at least once every week (or daily, if possible) and also regularly back-up to DVDR.
 
-Tagged: [Employment](https://web.archive.org/web/20091217084216/http://nathanpitman.com/category/employment/)
+Tagged: [Employment](/tag/employment)

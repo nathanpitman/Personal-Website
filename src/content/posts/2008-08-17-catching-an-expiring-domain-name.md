@@ -3,6 +3,8 @@ title: "Catching an expiring domain name"
 date: 2008-08-17
 source: "http://nathanpitman.com/549/catching-an-expiring-domain-name"
 archive: "https://web.archive.org/web/20090714120858/http://nathanpitman.com:80/549/catching-an-expiring-domain-name"
+tags:
+  - "Branding"
 ---
 
 From the moment that I decided to go it alone and start my own business with my wife 3 years back I was keen to ensure that I bagged a .com as our primary domain. However it very soon became obvious that the chances of settling on a name that we were happy with and it being available as a .com were pretty much nil.
@@ -45,4 +47,4 @@ With less than 10 minutes to go I’m outbid. I was gutted, all of a sudden from
 
 It was more than we had hoped to spend but I think it was worth it. As a business your brand is probably one of your most valuable assets (in addition to your employees!) so in that context $579 seems like a small price to pay. Certainly beats $25,000!
 
-Tagged: [Branding](https://web.archive.org/web/20090714120858/http://nathanpitman.com/category/branding/)
+Tagged: [Branding](/tag/branding)

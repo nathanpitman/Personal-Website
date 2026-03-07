@@ -1,8 +1,10 @@
 ---
-title: "Customer Service Bandits"
+title: Customer Service Bandits
 date: 2005-07-18
-source: "http://nathanpitman.com/371/customer-service-bandits"
-archive: "https://web.archive.org/web/20090527120635/http://nathanpitman.com:80/371/customer-service-bandits"
+source: http://nathanpitman.com/371/customer-service-bandits
+archive: https://web.archive.org/web/20090527120635/http://nathanpitman.com:80/371/customer-service-bandits
+tags:
+  - "Chatter"
 ---
 
 You’d think it’s simple really. You purchase goods, be that online or in person. The goods are damaged when they arrive. You return the goods and ask for a refund. The company in question apologises and gives you a refund, end of story right… er wrong.
@@ -67,4 +69,4 @@ Ha ha ha, that’s so not funny. Here’s my response.
 
 Well, you’ll be glad to know that after that, I got my Â£5.
 
-Tagged: [Chatter](https://web.archive.org/web/20090527120635/http://nathanpitman.com/category/chatter/)
+Tagged: [Chatter](/tag/chatter)

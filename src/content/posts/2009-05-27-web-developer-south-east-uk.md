@@ -3,6 +3,8 @@ title: "Web Developer - South East, UK"
 date: 2009-05-27
 source: "http://nathanpitman.com/586/web-developer-south-east-uk"
 archive: "https://web.archive.org/web/20090601223346/http://nathanpitman.com:80/586/web-developer-south-east-uk"
+tags:
+  - "Jobs"
 ---
 
 Things at [Nine Four](https://web.archive.org/web/20090601223346/http://ninefour.co.uk/) have been going well, so much so in fact that myself, Paul and Jo have decided that we need of an additional pair of hands to join our remote team on a permanent basis. If you don’t already know we’re a small but busy digital media design and development agency made up of 3 permanent staff members and a network of trusted and respected freelancers. We’ve been profitable since our inception back in 2005 and work hard for our clients to provide business led creative and technical solutions to every day business needs.
@@ -19,4 +21,4 @@ Salary will be commensurate with your experience and you’ll also benefit from 
 
 **Interested?** Drop me an email () with some relevant work examples and an explanation of what you think you can bring to our team. **Not interested but on Twitter?** [Tweet this](https://web.archive.org/web/20090601223346/http://twitter.com/home?status=@ninefour%20looking%20to%20take%20on%20a%20web%20developer%20based%20in%20or%20around%20Berkshire%20on%20a%20perm%20basis-%20http://nathanpitman.com/586/) and help us find the right person for the job!
 
-Tagged: [Jobs](https://web.archive.org/web/20090601223346/http://nathanpitman.com/category/jobs/)
+Tagged: [Jobs](/tag/jobs)

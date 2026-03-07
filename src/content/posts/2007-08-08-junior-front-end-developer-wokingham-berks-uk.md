@@ -3,6 +3,8 @@ title: "Junior Front-end developer - Wokingham, Berks, UK"
 date: 2007-08-08
 source: "http://nathanpitman.com/516/junior-front-end-developer-wokingham-berks-uk"
 archive: "https://web.archive.org/web/20090602145429/http://nathanpitman.com:80/516/junior-front-end-developer-wokingham-berks-uk"
+tags:
+  - "Jobs"
 ---
 
 ### Volume is a marketing technology specialist providing creative and sophisticated solutions for well-known corporate clients.
@@ -38,4 +40,4 @@ Salary and benefits:
 
 If you would like to work for us please get in touch with us at  with your CV. For more company information visit [www.volume.co.uk](https://web.archive.org/web/20090602145429/http://www.volume.co.uk/ "http://www.volume.co.uk/").
 
-Tagged: [Jobs](https://web.archive.org/web/20090602145429/http://nathanpitman.com/category/jobs/)
+Tagged: [Jobs](/tag/jobs)

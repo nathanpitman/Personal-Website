@@ -3,6 +3,8 @@ title: "Kia Reliability"
 date: 2009-10-23
 source: "http://nathanpitman.com/592/kia-reliability"
 archive: "https://web.archive.org/web/20091026063446/http://nathanpitman.com:80/592/kia-reliability"
+tags:
+  - "Personal"
 ---
 
 Just a short post really to rant publicly about the shocking reliability of our now 2 year old Kia Sedona. It’s 5 days since our car was delivered to West London Motor Group Kia in High Wycombe on the back of an AA truck. Our 2nd breakdown in 2 years of ownership (I won’t go into detail about the crazy number of times its been back and forth to the dealership in that period for non fatal reliability and build quality issues).
@@ -15,4 +17,4 @@ So today, 5 days down the line our car still isn’t fixed and I have very littl
 
 Of course I’ve been on the phone to Kia Customer Services but they seem about as useful as a chocolate teapot. In fact they even lied blatantly about asking a manager about the situation and then made numerous excuses as to why we then couldn’t talk to that person ourselves. This car and the customer service we’ve received from Kia has been a total and utter disaster, from the day we took delivery of it right up until now. In 12 months the warranty expires and quite frankly that scares the shit out of me. If you take anything from this blog post, let it be this – **Whatever you do, don’t buy a Kia**.
 
-Tagged: [Personal](https://web.archive.org/web/20091026063446/http://nathanpitman.com/category/personal/)
+Tagged: [Personal](/tag/personal)

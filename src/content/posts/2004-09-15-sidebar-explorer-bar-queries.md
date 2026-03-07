@@ -1,8 +1,10 @@
 ---
-title: "Sidebar / Explorer Bar queries"
+title: Sidebar / Explorer Bar queries
 date: 2004-09-15
-source: "http://nathanpitman.com/242/sidebar-explorer-bar-queries"
-archive: "https://web.archive.org/web/20100116054845/http://nathanpitman.com:80/242/sidebar-explorer-bar-queries"
+source: http://nathanpitman.com/242/sidebar-explorer-bar-queries
+archive: https://web.archive.org/web/20100116054845/http://nathanpitman.com:80/242/sidebar-explorer-bar-queries
+tags:
+  - "Code"
 ---
 
 I’m working on a project at [work](https://web.archive.org/web/20100116054845/http://www.mirashade.com/) at the moment where I’m considering using a browser Sidebar (Firefox) / Explorer Bar (IE) in place of a JavaScript pop-up.
@@ -14,4 +16,4 @@ I can’t really say a great deal about the actual application, but I have a few
 
 Well, if you have any answers I’d be most happy to hear them. TIA! :)
 
-Tagged: [Code](https://web.archive.org/web/20100116054845/http://nathanpitman.com/category/code/)
+Tagged: [Code](/tag/code)

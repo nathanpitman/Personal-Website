@@ -1,8 +1,10 @@
 ---
-title: "10 questions for David Longworth (Going it alone)"
+title: 10 questions for David Longworth (Going it alone)
 date: 2005-08-26
-source: "http://nathanpitman.com/392/10-questions-for-david-longworth-going-it-alone"
-archive: "https://web.archive.org/web/20110502034547/http://nathanpitman.com:80/392/10-questions-for-david-longworth-going-it-alone"
+source: http://nathanpitman.com/392/10-questions-for-david-longworth-going-it-alone
+archive: https://web.archive.org/web/20110502034547/http://nathanpitman.com:80/392/10-questions-for-david-longworth-going-it-alone
+tags:
+  - "Employment"
 ---
 
 In the fourth of five interviews with web designers and developers who are self employed I chat with [David Longworth](https://web.archive.org/web/20110502034547/http://www.ukthoughts.co.uk/). Much like Jon Hicks, I’ve never actually met David… I just kinda dropped him an email and he’s been kind enough to give some of his time for my 10 questions. David is a web designer & design consultant based in the Uk and has a business called [Orange Tape Studios](https://web.archive.org/web/20110502034547/http://www.orangetape.com/).
@@ -69,4 +71,4 @@ In the fourth of five interviews with web designers and developers who are self 
 
 Sites like the [CSS Reboot](https://web.archive.org/web/20110502034547/http://www.cssreboot.com/) are also a great way to get linkage. I was getting a small amount of traffic that I was pretty happy with, but you know the more the merrier – then almost overnight things exploded and I had a full inbox and lots of site activity thanks to [Benjamin Adam](https://web.archive.org/web/20110502034547/http://www.benjaminadam.com/) and his great idea.
 
-Tagged: [Employment](https://web.archive.org/web/20110502034547/http://nathanpitman.com/category/employment/)
+Tagged: [Employment](/tag/employment)

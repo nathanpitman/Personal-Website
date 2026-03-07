@@ -1,8 +1,11 @@
 ---
-title: "‘Inspire’ AutoShape for Fireworks"
+title: ‘Inspire’ AutoShape for Fireworks
 date: 2004-10-02
-source: "http://nathanpitman.com/263/inspire-autoshape-for-fireworks"
-archive: "https://web.archive.org/web/20091225022939/http://nathanpitman.com:80/263/inspire-autoshape-for-fireworks"
+source: http://nathanpitman.com/263/inspire-autoshape-for-fireworks
+archive: https://web.archive.org/web/20091225022939/http://nathanpitman.com:80/263/inspire-autoshape-for-fireworks
+tags:
+  - "Extensions"
+  - "Fireworks"
 ---
 
 [Trevor McCauley](https://web.archive.org/web/20091225022939/http://www.senocular.com/) writes:
@@ -13,4 +16,4 @@ archive: "https://web.archive.org/web/20091225022939/http://nathanpitman.com:80/
 
 *If you feel you’re running out of ideas, maybe [this shape](https://web.archive.org/web/20091225022939/http://www.senocular.com/downloads/index.php?subaction=showfull&id=1096402677&ucat=8&kind=8) can send some inspiration your way.*
 
-Tagged: [Extensions](https://web.archive.org/web/20091225022939/http://nathanpitman.com/category/extensions/), [Fireworks](https://web.archive.org/web/20091225022939/http://nathanpitman.com/category/fireworks/)
+Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

@@ -1,8 +1,11 @@
 ---
-title: "Creating Advanced Custom Fireworks Panels"
+title: Creating Advanced Custom Fireworks Panels
 date: 2005-11-17
-source: "http://nathanpitman.com/422/creating-advanced-custom-fireworks-panels"
-archive: "https://web.archive.org/web/20091026190345/http://nathanpitman.com:80/422/creating-advanced-custom-fireworks-panels"
+source: http://nathanpitman.com/422/creating-advanced-custom-fireworks-panels
+archive: https://web.archive.org/web/20091026190345/http://nathanpitman.com:80/422/creating-advanced-custom-fireworks-panels
+tags:
+  - "Extensions"
+  - "Fireworks"
 ---
 
 [Trevor McCauley](https://web.archive.org/web/20091026190345/http://www.senocular.com/) has written a fantastic little (actually it’s 10 pages) tutorial on [creating advanced custom Fireworks Panels](https://web.archive.org/web/20091026190345/http://www.macromedia.com/devnet/fireworks/articles/creating_panels_pt2.html) using Flash.
@@ -18,4 +21,4 @@ It’s well worth a read, includes tutorial and sample files and covers;
 
 Nice work Trevor. :)
 
-Tagged: [Extensions](https://web.archive.org/web/20091026190345/http://nathanpitman.com/category/extensions/), [Fireworks](https://web.archive.org/web/20091026190345/http://nathanpitman.com/category/fireworks/)
+Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

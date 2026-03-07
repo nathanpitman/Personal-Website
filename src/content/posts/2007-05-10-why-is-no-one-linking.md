@@ -3,6 +3,8 @@ title: "Why is no one linking?"
 date: 2007-05-10
 source: "http://nathanpitman.com/506/why-is-no-one-linking"
 archive: "https://web.archive.org/web/20100329135233/http://nathanpitman.com:80/506/why-is-no-one-linking"
+tags:
+  - "Chatter"
 ---
 
 Ok, this ones been bubbling for some time now but today it’s boiled over. **I’ve had it** with news sites which (missing the point of the internet entirely) fail to provide inline links to relevant websites.
@@ -23,4 +25,4 @@ This couldn’t be further from [the truth](https://web.archive.org/web/20100329
 
 **So, again I ask: Why is no one linking?**
 
-Tagged: [Chatter](https://web.archive.org/web/20100329135233/http://nathanpitman.com/category/chatter/)
+Tagged: [Chatter](/tag/chatter)

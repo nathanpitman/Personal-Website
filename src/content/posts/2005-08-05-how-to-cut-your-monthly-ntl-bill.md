@@ -1,8 +1,10 @@
 ---
-title: "How to cut your monthly NTL bill"
+title: How to cut your monthly NTL bill
 date: 2005-08-05
-source: "http://nathanpitman.com/384/how-to-cut-your-monthly-ntl-bill"
-archive: "https://web.archive.org/web/20111010050410/http://nathanpitman.com/384/how-to-cut-your-monthly-ntl-bill"
+source: http://nathanpitman.com/384/how-to-cut-your-monthly-ntl-bill
+archive: https://web.archive.org/web/20111010050410/http://nathanpitman.com/384/how-to-cut-your-monthly-ntl-bill
+tags:
+  - "Chatter"
 ---
 
 I read a [post on ntl:hell](https://web.archive.org/web/20111010050410/http://forums.ntlhell.co.uk/index.php?showtopic=10594) recently about a disatisfied [NTL](https://web.archive.org/web/20111010050410/http://www.ntl.co.uk/) customer who called to cancel his account and got offered all sorts of discounts to stay.
@@ -11,4 +13,4 @@ Armed with this valuable information and the number for disconnections (0800 052
 
 So, if you’re unhappy with NTL don’t bother calling customer service, just call disconnections!
 
-Tagged: [Chatter](https://web.archive.org/web/20111010050410/http://nathanpitman.com/category/chatter/)
+Tagged: [Chatter](/tag/chatter)

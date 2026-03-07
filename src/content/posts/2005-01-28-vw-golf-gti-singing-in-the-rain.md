@@ -1,8 +1,10 @@
 ---
-title: "VW Golf GTI - Singing in the rain"
+title: VW Golf GTI - Singing in the rain
 date: 2005-01-28
-source: "http://nathanpitman.com/321/vw-golf-gti-singing-in-the-rain"
-archive: "https://web.archive.org/web/20100725074015/http://nathanpitman.com:80/321/vw-golf-gti-singing-in-the-rain"
+source: http://nathanpitman.com/321/vw-golf-gti-singing-in-the-rain
+archive: https://web.archive.org/web/20100725074015/http://nathanpitman.com:80/321/vw-golf-gti-singing-in-the-rain
+tags:
+  - "Marketing/Advertising"
 ---
 
 If you haven’t seen [the new VW Golf GTI ad](https://web.archive.org/web/20100725074015/http://ninefour-assets.s3.amazonaws.com/nathanpitman/images/uploads/vw_golfGTI_medium.mov) …
@@ -17,4 +19,4 @@ Via [DavidReviews.com](https://web.archive.org/web/20100725074015/http://www.dav
 
 *As a captivating piece of film, this ad is an undoubted success but what makes it especially admirable is that, unlike so many car commercials, the striking imagery is made relevant by the central concept – namely, that the new Golf GTi is “the original, updated”.*
 
-Tagged: [Marketing/Advertising](https://web.archive.org/web/20100725074015/http://nathanpitman.com/category/marketing-advertising/)
+Tagged: [Marketing/Advertising](/tag/marketing-advertising)

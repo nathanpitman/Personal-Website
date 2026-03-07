@@ -3,6 +3,8 @@ title: "Google Mail Labels. Maxlength=40."
 date: 2008-07-07
 source: "http://nathanpitman.com/540/google-mail-labels-maxlength40"
 archive: "https://web.archive.org/web/20100106033925/http://nathanpitman.com/540/google-mail-labels-maxlength40"
+tags:
+  - "Web applications"
 ---
 
 Well after hearing from [Darren](https://web.archive.org/web/20100106033925/http://www.darrenm.net/) that he was switching in full to using Google for business email I decided to investigate myself. Google have a fantastic offer for small businesses; up to 25 mail accounts with a 6Gb limit ‘each’ which runs through your own domain.
@@ -15,4 +17,4 @@ Nothing I can do about it unless I want to spend hours renaming all my folders, 
 
 If only there was a script that turned ‘folders with sub folders’ into ‘multiple labels’ then I would be saved.
 
-Tagged: [Web applications](https://web.archive.org/web/20100106033925/http://nathanpitman.com/category/web-applications/)
+Tagged: [Web applications](/tag/web-applications)

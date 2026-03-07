@@ -3,6 +3,9 @@ title: "Red Ring of Death!"
 date: 2008-05-23
 source: "http://nathanpitman.com/536/red-ring-of-death"
 archive: "https://web.archive.org/web/20090605055620/http://nathanpitman.com:80/536/red-ring-of-death"
+tags:
+  - "Consoles"
+  - "Personal"
 ---
 
 Just over 2 years after I first got my Xbox 360 and I have been graced with the 3 flashing red lights or “Red Ring of Death’ as it is affectionatley known.
@@ -21,4 +24,4 @@ Apparently it should take 3 weeks for my Xbox to be returned minus the three red
 
 Add to this the fact that it’s significantly quiter when idle than it was before, I’m well impressed. Good job. :)
 
-Tagged: [Consoles](https://web.archive.org/web/20090605055620/http://nathanpitman.com/category/consoles/), [Personal](https://web.archive.org/web/20090605055620/http://nathanpitman.com/category/personal/)
+Tagged: [Consoles](/tag/consoles), [Personal](/tag/personal)

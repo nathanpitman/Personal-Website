@@ -3,6 +3,9 @@ title: "Whatever you do, don’t buy a Kia Sedona."
 date: 2009-01-01
 source: "http://nathanpitman.com/563/whatever-you-do-dont-buy-a-kia-sedona"
 archive: "https://web.archive.org/web/20090518024043/http://nathanpitman.com:80/563/whatever-you-do-dont-buy-a-kia-sedona"
+tags:
+  - "Chatter"
+  - "Personal"
 ---
 
 15 months ago we purchased a brand spanking new [Kia Sedona](https://web.archive.org/web/20090518024043/http://www.kia.co.uk/sedonahome.asp) from our local dealership in Reading. Right from the day we took delivery of the car things have just not been right. Initially it was ill fitted and scratched dashboard panels but after a week we also noticed that there was an intermittent problem with the electric sliding doors.
@@ -54,4 +57,4 @@ I’ll continue to relay my story to every person I know and meet until I’ve l
 
 - [Parkers Kia Sedona Review](https://web.archive.org/web/20090518024043/http://www.parkers.co.uk/cars/owners-reviews/review.aspx?review=5018)
 
-Tagged: [Chatter](https://web.archive.org/web/20090518024043/http://nathanpitman.com/category/chatter/), [Personal](https://web.archive.org/web/20090518024043/http://nathanpitman.com/category/personal/)
+Tagged: [Chatter](/tag/chatter), [Personal](/tag/personal)

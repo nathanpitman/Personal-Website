@@ -1,8 +1,10 @@
 ---
-title: "Looking for talented interactive designers"
+title: Looking for talented interactive designers
 date: 2005-05-11
-source: "http://nathanpitman.com/354/looking-for-talented-interactive-designers"
-archive: "https://web.archive.org/web/20101204083758/http://nathanpitman.com:80/354/looking-for-talented-interactive-designers"
+source: http://nathanpitman.com/354/looking-for-talented-interactive-designers
+archive: https://web.archive.org/web/20101204083758/http://nathanpitman.com:80/354/looking-for-talented-interactive-designers
+tags:
+  - "Jobs"
 ---
 
 A contact of mine is on the lookout for a number of junior to middleweight interactive designers. I know that a large proportion of my readership might be interested so here are the details…
@@ -13,4 +15,4 @@ You should have at least 2+ years of experience working in a busy agency environ
 
 The vacancies are for permanent positions paying a starting salary of up to Â£28k. Please email CV’s to [info@rawnet.com](https://web.archive.org/web/20101204083758/mailto:info@rawnet.com?subject=Interactive&nbsp;Designer&nbsp;Ref:nathanpitman) and let them know that Nathan Pitman sent you. ;)
 
-Tagged: [Jobs](https://web.archive.org/web/20101204083758/http://nathanpitman.com/category/jobs/)
+Tagged: [Jobs](/tag/jobs)

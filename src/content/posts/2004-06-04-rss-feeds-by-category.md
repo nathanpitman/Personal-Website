@@ -1,8 +1,11 @@
 ---
-title: "RSS feeds by category"
+title: RSS feeds by category
 date: 2004-06-04
-source: "http://nathanpitman.com/165/rss-feeds-by-category"
-archive: "https://web.archive.org/web/20100104135710/http://nathanpitman.com:80/165/rss-feeds-by-category"
+source: http://nathanpitman.com/165/rss-feeds-by-category
+archive: https://web.archive.org/web/20100104135710/http://nathanpitman.com:80/165/rss-feeds-by-category
+tags:
+  - "Code"
+  - "Web development"
 ---
 
 Following [a recent post by Brandon on devnulled.com](https://web.archive.org/web/20100104135710/http://devnulled.com/archives/2004/06/offtopic_blog_entries.php) I’ve decided that it would be beneficial to make category based RSS (and Atom) feeds available for my site.
@@ -18,4 +21,4 @@ This means that if you’re really only interested in the ‘Fireworks’ stuff 
 
 **Note:** The feed URLs above are no available.
 
-Tagged: [Code](https://web.archive.org/web/20100104135710/http://nathanpitman.com/category/code/), [Web development](https://web.archive.org/web/20100104135710/http://nathanpitman.com/category/web-development/)
+Tagged: [Code](/tag/code), [Web development](/tag/web-development)

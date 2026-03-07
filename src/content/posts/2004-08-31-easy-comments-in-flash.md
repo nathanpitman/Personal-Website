@@ -1,8 +1,11 @@
 ---
-title: "Easy comments in Flash"
+title: Easy comments in Flash
 date: 2004-08-31
-source: "http://nathanpitman.com/232/easy-comments-in-flash"
-archive: "https://web.archive.org/web/20100107203335/http://nathanpitman.com:80/232/easy-comments-in-flash"
+source: http://nathanpitman.com/232/easy-comments-in-flash
+archive: https://web.archive.org/web/20100107203335/http://nathanpitman.com:80/232/easy-comments-in-flash
+tags:
+  - "Extensions"
+  - "Flash"
 ---
 
 My good friend Steven Grosvenor has written a new Command Panel for Flash which provides an interface to add comments to Flash files.
@@ -13,4 +16,4 @@ Comment Block, To Do, Bug, Kludge, Tricky
 
 It also has the option to include your signature and a date/timestamp. Very handy indeed.
 
-Tagged: [Extensions](https://web.archive.org/web/20100107203335/http://nathanpitman.com/category/extensions/), [Flash](https://web.archive.org/web/20100107203335/http://nathanpitman.com/category/flash/)
+Tagged: [Extensions](/tag/extensions), [Flash](/tag/flash)

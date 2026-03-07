@@ -3,6 +3,8 @@ title: "ExpressionEngine Plug-in: Member Online?"
 date: 2008-07-08
 source: "http://nathanpitman.com/541/expressionengine-plug-in-member-online"
 archive: "https://web.archive.org/web/20090616071925/http://nathanpitman.com:80/541/expressionengine-plug-in-member-online"
+tags:
+  - "ExpressionEngine"
 ---
 
 Whilst working on the [Wired In](https://web.archive.org/web/20090616071925/http://www.wiredin.org.uk/) website I came up against a little problem. I wanted to be ale to show if a specific user was online or offline, much like you would on a social networking site. However although there are tags to return a list of online users within [ExpressionEngine](https://web.archive.org/web/20090616071925/http://www.expressionengine.com/index.php?affiliate=nathanpitman), you cannot pass this a specific username with a view to returning a true/false response.
@@ -21,4 +23,4 @@ You could either use this to simply write a string out into the page, as I am, o
 
 At the moment I’m using this alongside the Solspace ‘“User Module”:http://www.solspace.com/software/detail/user/’ to build the community aspects of the Wired In website so I’ve only developed it so far as required to meet those requirements. If you have any further ideas as to how the plug-in could be developed do let me know. :)
 
-Tagged: [ExpressionEngine](https://web.archive.org/web/20090616071925/http://nathanpitman.com/category/expressionengine/)
+Tagged: [ExpressionEngine](/tag/expressionengine)
