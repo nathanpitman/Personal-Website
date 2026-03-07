@@ -14,7 +14,8 @@ A static personal blog built with Astro, containing 430 recovered blog posts (20
 src/
   content/
     posts/          — 430 Markdown blog posts with YAML frontmatter
-  content.config.ts — Content collection schema (title, date, source, archive, tags)
+    pages/          — Static pages as Markdown (e.g. about.md)
+  content.config.ts — Content collection schemas (posts + pages)
   layouts/
     BaseLayout.astro — Shared HTML shell (nav, head, footer)
   components/
