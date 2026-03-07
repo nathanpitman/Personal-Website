@@ -43,7 +43,7 @@ function formatDate(date: Date): string {
 
     <main class="main">
 
-      <h1 class="tag-heading">Archives / Tag / {tagName}</h1>
+      <h1 class="tag-heading">Archives / Tag: {tagName}</h1>
 
       {posts.map(async (post) => {
         const { Content } = await post.render();
