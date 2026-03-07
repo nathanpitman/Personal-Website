@@ -540,7 +540,7 @@ a:hover         { color: #0000ee; }
 }
 
 .side-project-desc {
-  color: var(--text-muted);
+  color: var(--text);
   font-size: 0.77rem;
   line-height: 1.5;
 }
