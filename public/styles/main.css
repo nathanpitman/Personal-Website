@@ -343,9 +343,29 @@ a:hover         { color: #0000ee; }
   margin-bottom: 26px;
   padding-bottom: 22px;
   border-bottom: 1px solid var(--border);
+}
+
+.site-identity-link {
   display: flex;
   align-items: center;
   gap: 12px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.site-identity-link:visited {
+  color: inherit;
+}
+
+.site-identity-link:hover {
+  color: inherit;
+  text-decoration: none;
+}
+
+.site-identity-link:active,
+.site-identity-link:active .hello,
+.site-identity-link:active .name {
+  color: #ee0000;
 }
 
 .site-avatar {
