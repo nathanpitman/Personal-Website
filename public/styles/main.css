@@ -78,6 +78,7 @@ a:hover         { color: #0000ee; }
 
 .site-nav {
   border-top: 1px solid var(--border-mid);
+  border-bottom: 3px solid var(--active-bg);
   background: #ffffff;
 }
 
