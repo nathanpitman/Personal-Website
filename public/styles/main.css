@@ -282,14 +282,23 @@ a:hover         { color: #0000ee; }
    ABOUT PAGE
    ----------------------------------------------------------------------------- */
 
-.about-heading,
-.tag-heading {
+.about-heading {
   font-family: var(--serif);
   font-size: 2.2rem;
   font-weight: 600;
   letter-spacing: -0.02em;
   line-height: 1.2;
   margin-bottom: 24px;
+  color: var(--text);
+}
+
+.tag-heading {
+  font-family: var(--serif);
+  font-size: 1.1rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 1.3;
+  margin-bottom: 20px;
   color: var(--text);
 }
 
