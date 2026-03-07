@@ -239,9 +239,9 @@ a:hover         { color: #0000ee; }
 }
 
 .archive-year-heading {
-  font-family: var(--serif);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   font-size: 2.4rem;
-  font-weight: 600;
+  font-weight: 800;
   color: var(--text);
   letter-spacing: -0.02em;
   line-height: 1;
@@ -281,9 +281,9 @@ a:hover         { color: #0000ee; }
    ----------------------------------------------------------------------------- */
 
 .about-heading {
-  font-family: var(--serif);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   font-size: 2.2rem;
-  font-weight: 600;
+  font-weight: 800;
   letter-spacing: -0.02em;
   line-height: 1.2;
   margin-bottom: 24px;
