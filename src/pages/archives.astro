@@ -1,0 +1,71 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SidebarArchives from '../components/SidebarArchives.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('posts');
+const sorted = allPosts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+
+const monthNames = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+
+interface ArchiveMonth {
+  month: string;
+  posts: { title: string; url: string }[];
+}
+
+interface ArchiveYear {
+  year: number;
+  months: ArchiveMonth[];
+}
+
+const archives: ArchiveYear[] = [];
+let currentYear: ArchiveYear | null = null;
+let currentMonth: ArchiveMonth | null = null;
+
+for (const post of sorted) {
+  const y = post.data.date.getFullYear();
+  const m = monthNames[post.data.date.getMonth()];
+  const slug = post.id.replace(/\.md$/, '');
+
+  if (!currentYear || currentYear.year !== y) {
+    currentYear = { year: y, months: [] };
+    archives.push(currentYear);
+    currentMonth = null;
+  }
+
+  if (!currentMonth || currentMonth.month !== m) {
+    currentMonth = { month: m, posts: [] };
+    currentYear.months.push(currentMonth);
+  }
+
+  currentMonth.posts.push({ title: post.data.title, url: `/posts/${slug}` });
+}
+---
+
+<BaseLayout title="Archives — nathan pitman" activeNav="archives">
+  <div class="page">
+
+    <main class="main">
+
+      {archives.map(({ year, months }) => (
+        <div class="archive-year">
+          <h2 class="archive-year-heading">{year}</h2>
+          {months.map(({ month, posts }) => (
+            <div class="archive-month">
+              <h3 class="archive-month-heading">{month}</h3>
+              <ul class="archive-posts">
+                {posts.map(post => (
+                  <li><a href={post.url}>{post.title}</a></li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </div>
+      ))}
+
+    </main>
+
+    <SidebarArchives />
+
+  </div>
+</BaseLayout>

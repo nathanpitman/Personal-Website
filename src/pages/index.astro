@@ -1,0 +1,51 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Sidebar from '../components/Sidebar.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('posts');
+const posts = allPosts
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
+  .slice(0, 15);
+
+function formatDate(date: Date): string {
+  const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  const d = date.getDate().toString().padStart(2, '0');
+  const y = date.getFullYear().toString().slice(-2);
+  return `${months[date.getMonth()]} ${d}. ${y}`;
+}
+---
+
+<BaseLayout title="hello, my name is nathan pitman." activeNav="recently">
+  <div class="page">
+
+    <main class="main">
+
+      {posts.map(async (post) => {
+        const { Content } = await post.render();
+        const slug = post.id.replace(/\.md$/, '');
+        return (
+          <article class="post">
+            <header class="post-header">
+              <div class="post-title-line">
+                <h2 class="post-title"><a href={`/posts/${slug}`}>{post.data.title}</a></h2>
+                <span class="post-date">{formatDate(post.data.date)}</span>
+              </div>
+            </header>
+            <div class="post-body">
+              <Content />
+            </div>
+          </article>
+        );
+      })}
+
+      <nav class="pagination" aria-label="Pagination">
+        <a href="/archives" class="pagination-link">View all posts in the archives &rarr;</a>
+      </nav>
+
+    </main>
+
+    <Sidebar />
+
+  </div>
+</BaseLayout>

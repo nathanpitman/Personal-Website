@@ -1,39 +1,68 @@
-# Blog Recovery from Internet Archive
+# Nathan Pitman — Personal Blog (Astro)
 
 ## Overview
-A Python script that recovers blog posts from the Internet Archive's Wayback Machine. It scrapes the archived blog at `nathanpitman.com`, extracts post content, converts HTML to Markdown, downloads images, and produces a folder structure ready for static site generators (Astro, Hugo, Jekyll).
+A static personal blog built with Astro, containing 430 recovered blog posts (2002–2013) from nathanpitman.com. Designed for deployment to GitHub Pages.
 
 ## Architecture
-- **Single script**: `recover_blog.py` handles the entire recovery pipeline
-- **Output**: 
-  - `posts/` — Markdown files with YAML frontmatter (`YYYY-MM-DD-slug.md`)
-  - `assets/images/` — Downloaded post images
-  - `posts.json` — Metadata for all recovered posts
+- **Framework**: Astro 4 (static output)
+- **Content**: Astro Content Collections with glob loader
+- **Styling**: Custom CSS with Google Fonts (Lora + Source Sans 3)
+- **Feeds**: RSS (`/feed.xml`) and JSON Feed (`/feed.json`)
 
-## Dependencies (Python)
-- `requests` — HTTP requests
-- `beautifulsoup4` — HTML parsing
-- `markdownify` — HTML to Markdown conversion
-- `tqdm` — Progress bars
-- `python-slugify` — URL-safe slug generation
-- `pyyaml` — YAML handling
-
-## How It Works
-1. Fetches the archive index page from Wayback Machine
-2. Extracts all blog post links from the index
-3. Queries CDX API once for all archived paths (`collapse=urlkey`), building a snapshot lookup map
-4. Resolves each post URL against the snapshot map (fallback: `/web/2014/{url}`)
-5. Visits each archived post and extracts title, date, content, images
-6. Converts HTML content to Markdown with frontmatter
-7. Downloads images with validation (magic bytes + Content-Type check, Wayback `im_` URL normalization)
-8. Saves everything to the output directories
-
-## Results
-- 430 posts recovered (2002–2013), 1 skipped (not archived), 0 errors
-- 132 validated images downloaded
-- All image files verified as actual image data (no HTML error pages)
-
-## Running
-```bash
-python recover_blog.py
+## Project Structure
 ```
+src/
+  content/
+    posts/          — 430 Markdown blog posts with YAML frontmatter
+  content.config.ts — Content collection schema (title, date, source, archive)
+  layouts/
+    BaseLayout.astro — Shared HTML shell (nav, head, footer)
+  components/
+    Sidebar.astro         — Standard sidebar (bio, recent posts, elsewhere, feeds)
+    SidebarArchives.astro — Archives sidebar (recent posts, feeds)
+  pages/
+    index.astro           — Journal/recently page (15 latest posts)
+    archives.astro        — All posts grouped by year/month
+    about.astro           — Biographical page
+    posts/[...slug].astro — Individual post pages
+    feed.xml.ts           — RSS feed endpoint
+    feed.json.ts          — JSON feed endpoint
+public/
+  styles/main.css   — All site styles
+  avatar.jpg        — Profile photo
+  images/           — 132 blog post images
+.github/
+  workflows/
+    deploy.yml      — GitHub Actions workflow for GitHub Pages deployment
+```
+
+## Running Locally
+```bash
+npm run dev      # Dev server on port 5000
+npm run build    # Production build to dist/
+npm run preview  # Preview production build on port 5000
+```
+
+## Deployment
+Push to `main` branch on GitHub. The `.github/workflows/deploy.yml` GitHub Action will build and deploy to GitHub Pages automatically. Set `site` in `astro.config.mjs` to match the GitHub Pages URL.
+
+## Content Format
+Posts use YAML frontmatter:
+```yaml
+---
+title: "Post Title"
+date: YYYY-MM-DD
+source: "original URL"
+archive: "Wayback Machine URL"
+---
+```
+
+## Dependencies
+- `astro` ^4.0.0
+- `@astrojs/rss` ^4.0.0
+
+## Legacy Files
+- `recover_blog.py` — Original blog recovery script (Wayback Machine scraper)
+- `posts/` — Original recovered markdown files (copied to `src/content/posts/`)
+- `assets/images/` — Original recovered images (copied to `public/images/`)
+- `posts.json` — Recovery metadata

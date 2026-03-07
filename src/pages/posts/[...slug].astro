@@ -1,0 +1,45 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Sidebar from '../../components/Sidebar.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  return posts.map(post => ({
+    params: { slug: post.id.replace(/\.md$/, '') },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await post.render();
+
+function formatDate(date: Date): string {
+  const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  const d = date.getDate().toString().padStart(2, '0');
+  const y = date.getFullYear().toString().slice(-2);
+  return `${months[date.getMonth()]} ${d}. ${y}`;
+}
+---
+
+<BaseLayout title={`${post.data.title} — nathan pitman`} activeNav="recently">
+  <div class="page">
+
+    <main class="main">
+      <article class="post">
+        <header class="post-header">
+          <div class="post-title-line">
+            <h2 class="post-title">{post.data.title}</h2>
+            <span class="post-date">{formatDate(post.data.date)}</span>
+          </div>
+        </header>
+        <div class="post-body">
+          <Content />
+        </div>
+      </article>
+    </main>
+
+    <Sidebar />
+
+  </div>
+</BaseLayout>

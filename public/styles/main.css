@@ -1,0 +1,604 @@
+/* =============================================================================
+   NATHAN PITMAN — main.css
+   Global styles shared across all pages.
+   ============================================================================= */
+
+
+/* -----------------------------------------------------------------------------
+   RESET & BOX MODEL
+   ----------------------------------------------------------------------------- */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+/* -----------------------------------------------------------------------------
+   DESIGN TOKENS
+   ----------------------------------------------------------------------------- */
+
+:root {
+  --white:       #ffffff;
+  --border:      #e2e0dc;
+  --border-mid:  #d0cdc8;
+  --text:        #222222;
+  --text-mid:    #555555;
+  --text-muted:  #999999;
+  --active-bg:   #999999;
+  --active-fg:   #ffffff;
+  --date-color:  #999999;
+
+  --serif: 'Lora', Georgia, serif;
+  --sans:  'Source Sans 3', system-ui, sans-serif;
+}
+
+
+/* -----------------------------------------------------------------------------
+   BASE
+   ----------------------------------------------------------------------------- */
+
+html {
+  font-size: 15px;
+  scroll-behavior: smooth;
+  background: #ffffff;
+}
+
+body {
+  background: #ffffff;
+  color: var(--text);
+  font-family: var(--serif);
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+
+/* -----------------------------------------------------------------------------
+   LINKS — absolute browser defaults
+   ----------------------------------------------------------------------------- */
+
+a               { color: #0000ee; }
+a:visited       { color: #551a8b; }
+a:active        { color: #ee0000; }
+a:hover         { color: #0000ee; }
+
+
+/* -----------------------------------------------------------------------------
+   PRIMARY NAVIGATION
+   ----------------------------------------------------------------------------- */
+
+.site-nav {
+  border-top: 1px solid var(--border-mid);
+  background: #ffffff;
+}
+
+.site-nav ul {
+  max-width: 1020px;
+  margin: 0 auto;
+  padding: 0 20px;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.site-nav li a {
+  display: block;
+  font-family: var(--sans);
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: var(--text-mid);
+  text-decoration: none;
+  padding: 9px 18px;
+  background: #ffffff;
+  transition: background 0.15s, color 0.15s;
+}
+
+.site-nav li a:hover {
+  color: var(--text);
+  text-decoration: none;
+  background: #f0f0f0;
+}
+
+.site-nav li.active a {
+  background: var(--active-bg);
+  color: var(--active-fg);
+}
+
+
+/* -----------------------------------------------------------------------------
+   PAGE LAYOUT — two-column grid
+   ----------------------------------------------------------------------------- */
+
+.page {
+  max-width: 1020px;
+  margin: 0 auto;
+  padding: 32px 20px 60px;
+  display: grid;
+  grid-template-columns: 1fr 280px;
+  gap: 48px;
+  align-items: start;
+}
+
+.main {
+  min-width: 0;
+}
+
+
+/* -----------------------------------------------------------------------------
+   JOURNAL — post list
+   ----------------------------------------------------------------------------- */
+
+.post {
+  margin-bottom: 44px;
+  padding-bottom: 44px;
+  border-bottom: 1px solid var(--border);
+}
+
+.post:last-child {
+  border-bottom: none;
+}
+
+/* Title + date on the same baseline */
+.post-header {
+  margin-bottom: 14px;
+}
+
+.post-title-line {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0 12px;
+  line-height: 1.25;
+}
+
+.post-title {
+  font-family: var(--serif);
+  font-size: 1.55rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.post-title a {
+  color: #0000ee;
+  text-decoration: underline;
+}
+
+.post-title a:visited { color: #551a8b; }
+.post-title a:active  { color: #ee0000; }
+.post-title a:hover   { color: #0000ee; }
+
+.post-date {
+  font-family: var(--serif);
+  font-size: 1.55rem;
+  font-weight: 400;
+  color: var(--date-color);
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+/* Featured image — bleeds left to mirror the original design */
+.post-image {
+  margin: 0 0 14px -20px;
+  border: 1px solid var(--border);
+  width: calc(100% + 20px);
+}
+
+.post-image img {
+  width: 100%;
+  display: block;
+}
+
+/* Post body — indented to match original layout */
+.post-body {
+  padding-left: 5%;
+  font-size: 0.95rem;
+  color: var(--text-mid);
+  line-height: 1.75;
+}
+
+.post-body p + p {
+  margin-top: 0.8em;
+}
+
+.post-body ul {
+  padding-left: 1.4em;
+  margin: 0.5em 0;
+}
+
+.post-body li {
+  margin-bottom: 0.15em;
+}
+
+/* Tagged: label + comma-separated links */
+.post-tags {
+  margin-top: 16px;
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.post-tags span {
+  color: var(--text-muted);
+}
+
+
+/* -----------------------------------------------------------------------------
+   ARCHIVES PAGE
+   ----------------------------------------------------------------------------- */
+
+.archive-year {
+  margin-bottom: 36px;
+}
+
+.archive-year-heading {
+  font-family: var(--serif);
+  font-size: 2.4rem;
+  font-weight: 600;
+  color: var(--text);
+  letter-spacing: -0.02em;
+  line-height: 1;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--border);
+}
+
+.archive-month {
+  margin-bottom: 18px;
+  padding-left: 20px;
+}
+
+.archive-month-heading {
+  font-family: var(--serif);
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 6px;
+}
+
+.archive-posts {
+  list-style: disc;
+  padding-left: 1.4em;
+  font-family: var(--serif);
+  font-size: 0.95rem;
+}
+
+.archive-posts li {
+  padding: 2px 0;
+  line-height: 1.5;
+}
+
+
+/* -----------------------------------------------------------------------------
+   ABOUT PAGE
+   ----------------------------------------------------------------------------- */
+
+.about-heading {
+  font-family: var(--serif);
+  font-size: 2.2rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+  margin-bottom: 24px;
+  color: var(--text);
+}
+
+/* Body text shares same indent as post-body */
+.about-body {
+  padding-left: 5%;
+  font-size: 0.95rem;
+  color: var(--text-mid);
+  line-height: 1.75;
+}
+
+.about-body p {
+  margin-bottom: 1em;
+}
+
+.about-body p:last-child {
+  margin-bottom: 0;
+}
+
+/* Inline image — same offset treatment as post images */
+.about-image {
+  margin: 20px 0 20px -20px;
+  width: calc(100% + 20px);
+  border: 1px solid var(--border);
+  display: block;
+}
+
+
+/* -----------------------------------------------------------------------------
+   SIDEBAR — shared wrapper and block styles
+   ----------------------------------------------------------------------------- */
+
+.sidebar {
+  min-width: 0;
+}
+
+/* Site identity block — avatar + name stacked */
+.site-identity {
+  margin-bottom: 26px;
+  padding-bottom: 22px;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.site-avatar {
+  width: 56px;
+  height: 56px;
+  flex-shrink: 0;
+  object-fit: cover;
+  display: block;
+}
+
+.site-identity-text {
+  line-height: 1.2;
+}
+
+.site-identity .hello {
+  font-family: var(--serif);
+  font-style: italic;
+  font-weight: 400;
+  font-size: 1rem;
+  color: var(--text-muted);
+  display: block;
+}
+
+.site-identity .name {
+  font-family: var(--serif);
+  font-style: italic;
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: var(--text);
+  display: block;
+}
+
+/* Individual sidebar sections */
+.sidebar-block {
+  margin-bottom: 24px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid var(--border);
+}
+
+.sidebar-block:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.sidebar-block-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.sidebar-block-title {
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text);
+}
+
+.sidebar-more {
+  font-family: var(--sans);
+  font-size: 0.72rem;
+}
+
+/* Who/what/why text */
+.who-text {
+  font-family: var(--sans);
+  font-size: 0.82rem;
+  color: var(--text-mid);
+  line-height: 1.6;
+}
+
+.who-text p + p {
+  margin-top: 0.5em;
+}
+
+/* Generic dotted sidebar link list */
+.sidebar-list {
+  list-style: none;
+  font-family: var(--sans);
+  font-size: 0.82rem;
+}
+
+.sidebar-list li {
+  padding: 4px 0;
+  border-bottom: 1px dotted var(--border);
+  line-height: 1.4;
+}
+
+.sidebar-list li:last-child {
+  border-bottom: none;
+}
+
+/* Elsewhere — icon + label links */
+.elsewhere-list {
+  list-style: none;
+  font-family: var(--sans);
+  font-size: 0.82rem;
+}
+
+.elsewhere-list li {
+  border-bottom: 1px dotted var(--border);
+}
+
+.elsewhere-list li:last-child {
+  border-bottom: none;
+}
+
+.elsewhere-list a {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  padding: 5px 0;
+  text-decoration: none;
+}
+
+.elsewhere-list a:hover {
+  text-decoration: underline;
+}
+
+.elsewhere-icon {
+  width: 13px;
+  height: 13px;
+  flex-shrink: 0;
+  opacity: 0.45;
+  color: var(--text);
+}
+
+/* Elsewhere — about page variant (title + description, no icons) */
+.elsewhere-about-list {
+  list-style: none;
+  font-family: var(--sans);
+  font-size: 0.82rem;
+}
+
+.elsewhere-about-list li {
+  padding: 7px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.elsewhere-about-list li:last-child {
+  border-bottom: none;
+}
+
+.elsewhere-about-list a {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 1px;
+}
+
+.elsewhere-about-desc {
+  color: var(--text-muted);
+  font-size: 0.77rem;
+  line-height: 1.5;
+}
+
+/* Side projects / noteworthy list */
+.noteworthy-list {
+  list-style: none;
+  font-family: var(--sans);
+  font-size: 0.82rem;
+}
+
+.noteworthy-list li {
+  padding: 8px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.noteworthy-list li:last-child {
+  border-bottom: none;
+}
+
+.noteworthy-list a {
+  font-weight: 600;
+  display: block;
+  margin-bottom: 2px;
+}
+
+.noteworthy-desc {
+  color: var(--text-muted);
+  font-size: 0.77rem;
+  line-height: 1.5;
+  display: block;
+}
+
+
+/* -----------------------------------------------------------------------------
+   FOOTER
+   ----------------------------------------------------------------------------- */
+
+.site-footer {
+  border-top: 1px solid var(--border-mid);
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+
+.site-footer-inner {
+  max-width: 1020px;
+  margin: 0 auto;
+  padding: 16px 20px;
+  text-align: left;
+}
+
+
+/* -----------------------------------------------------------------------------
+   RESPONSIVE — mobile layout
+   ----------------------------------------------------------------------------- */
+
+@media (max-width: 700px) {
+  .page {
+    grid-template-columns: 1fr;
+    gap: 0;
+    padding-top: 24px;
+  }
+
+  .main {
+    padding-bottom: 32px;
+    margin-bottom: 32px;
+    border-bottom: 2px solid var(--border-mid);
+  }
+
+  .sidebar {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px 28px;
+  }
+
+  .site-identity {
+    grid-column: 1 / -1;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .sidebar-block {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+
+  .sidebar-block.full-width {
+    grid-column: 1 / -1;
+  }
+
+  .post-title,
+  .post-date {
+    font-size: 1.3rem;
+  }
+}
+
+@media (max-width: 420px) {
+  .sidebar {
+    grid-template-columns: 1fr;
+  }
+
+  .site-identity {
+    grid-column: auto;
+  }
+
+  .sidebar-block.full-width {
+    grid-column: auto;
+  }
+
+  .site-nav li a {
+    padding: 8px 12px;
+    font-size: 0.76rem;
+  }
+}
