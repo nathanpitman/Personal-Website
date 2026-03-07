@@ -1,0 +1,35 @@
+---
+import { getCollection } from 'astro:content';
+import { slugify } from '../../utils/slugify';
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection('posts');
+  const tagSlugs = new Set<string>();
+
+  for (const post of allPosts) {
+    for (const tag of post.data.tags) {
+      tagSlugs.add(slugify(tag));
+    }
+  }
+
+  return Array.from(tagSlugs).map(slug => ({
+    params: { slug },
+  }));
+}
+
+const { slug } = Astro.params;
+const redirectUrl = `/tag/${slug}/`;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="refresh" content={`0;url=${redirectUrl}`} />
+  <link rel="canonical" href={redirectUrl} />
+  <title>Redirecting…</title>
+</head>
+<body>
+  <p>Redirecting to <a href={redirectUrl}>{redirectUrl}</a>…</p>
+</body>
+</html>
