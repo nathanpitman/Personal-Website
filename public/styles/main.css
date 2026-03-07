@@ -302,6 +302,11 @@ a:hover         { color: #0000ee; }
   color: var(--text);
 }
 
+.sidebar-list a.active-tag {
+  font-weight: 700;
+  color: var(--text);
+}
+
 /* Body text shares same indent as post-body */
 .about-body {
   padding-left: 5%;

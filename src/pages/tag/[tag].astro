@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import Sidebar from '../../components/Sidebar.astro';
+import SidebarTags from '../../components/SidebarTags.astro';
 import { getCollection } from 'astro:content';
 import { slugify } from '../../utils/slugify';
 
@@ -38,12 +38,12 @@ function formatDate(date: Date): string {
 }
 ---
 
-<BaseLayout title={`Tag: ${tagName} — nathan pitman`} activeNav="recently">
+<BaseLayout title={`Tag: ${tagName} — nathan pitman`} activeNav="archives" bodyClass={`tag-${tagSlug}`}>
   <div class="page">
 
     <main class="main">
 
-      <h1 class="tag-heading">Tag: {tagName}</h1>
+      <h1 class="tag-heading">Archives / Tag / {tagName}</h1>
 
       {posts.map(async (post) => {
         const { Content } = await post.render();
@@ -65,7 +65,7 @@ function formatDate(date: Date): string {
 
     </main>
 
-    <Sidebar />
+    <SidebarTags activeTag={tagSlug} />
 
   </div>
 </BaseLayout>

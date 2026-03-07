@@ -1,0 +1,84 @@
+---
+import { getCollection } from 'astro:content';
+import { slugify } from '../utils/slugify';
+
+interface Props {
+  activeTag?: string;
+}
+
+const { activeTag } = Astro.props;
+
+const allPosts = await getCollection('posts');
+const tagCounts = new Map<string, { name: string; slug: string; count: number }>();
+
+for (const post of allPosts) {
+  for (const tag of post.data.tags) {
+    const s = slugify(tag);
+    const existing = tagCounts.get(s);
+    if (existing) {
+      existing.count++;
+    } else {
+      tagCounts.set(s, { name: tag, slug: s, count: 1 });
+    }
+  }
+}
+
+const sortedTags = Array.from(tagCounts.values()).sort((a, b) =>
+  a.name.localeCompare(b.name, 'en', { sensitivity: 'base' })
+);
+---
+
+<aside class="sidebar" aria-label="Sidebar">
+
+  <div class="site-identity">
+    <img
+      class="site-avatar"
+      src="/avatar.jpg"
+      alt="Nathan Pitman"
+      width="56"
+      height="56"
+    />
+    <div class="site-identity-text">
+      <span class="hello">hello, my name is</span>
+      <span class="name">nathan pitman.</span>
+    </div>
+  </div>
+
+  <div class="sidebar-block">
+    <div class="sidebar-block-header">
+      <span class="sidebar-block-title">Tags</span>
+    </div>
+    <ul class="sidebar-list">
+      {sortedTags.map(tag => (
+        <li data-tag={tag.slug}>
+          <a href={`/tag/${tag.slug}`} class={tag.slug === activeTag ? 'active-tag' : ''}>{tag.name} ({tag.count})</a>
+        </li>
+      ))}
+    </ul>
+  </div>
+
+  <div class="sidebar-block">
+    <div class="sidebar-block-header">
+      <span class="sidebar-block-title">Subscribe</span>
+    </div>
+    <ul class="elsewhere-list">
+      <li>
+        <a href="/feed.xml" type="application/rss+xml">
+          <svg class="elsewhere-icon" viewBox="0 0 24 24" aria-hidden="true" fill="currentColor">
+            <path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19.01 7.38 20 6.18 20C4.98 20 4 19.01 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1z"/>
+          </svg>
+          RSS Feed
+        </a>
+      </li>
+      <li>
+        <a href="/feed.json" type="application/json">
+          <svg class="elsewhere-icon" viewBox="0 0 24 24" aria-hidden="true" fill="currentColor">
+            <path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19.01 7.38 20 6.18 20C4.98 20 4 19.01 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1z"/>
+          </svg>
+          JSON Feed
+        </a>
+      </li>
+    </ul>
+  </div>
+
+</aside>
