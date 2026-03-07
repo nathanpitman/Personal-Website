@@ -518,32 +518,31 @@ a:hover         { color: #0000ee; }
   line-height: 1.5;
 }
 
-/* Side projects / noteworthy list */
-.noteworthy-list {
+/* Side projects list */
+.side-projects-list {
   list-style: none;
   font-size: 0.82rem;
 }
 
-.noteworthy-list li {
+.side-projects-list li {
   padding: 8px 0;
   border-bottom: 1px solid var(--border);
 }
 
-.noteworthy-list li:last-child {
+.side-projects-list li:last-child {
   border-bottom: none;
 }
 
-.noteworthy-list a {
+.side-project-name {
   font-weight: 600;
   display: block;
   margin-bottom: 2px;
 }
 
-.noteworthy-desc {
+.side-project-desc {
   color: var(--text-muted);
   font-size: 0.77rem;
   line-height: 1.5;
-  display: block;
 }
 
 
