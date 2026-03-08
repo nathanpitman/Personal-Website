@@ -69,7 +69,7 @@ tags:
 - `@astrojs/rss` ^4.0.0
 
 ## Legacy Files
-- `recover_blog.py` — Original blog recovery script (Wayback Machine scraper)
-- `posts/` — Original recovered markdown files (copied to `src/content/posts/`)
-- `assets/images/` — Original recovered images (copied to `public/images/`)
-- `posts.json` — Recovery metadata
+- `scripts/recover_blog.py` — Original blog recovery script (Wayback Machine scraper), outputs to `import/`
+- `import/posts/` — Original recovered markdown files (copied to `src/content/posts/`)
+- `import/images/` — Original recovered images (copied to `public/images/`)
+- `import/posts.json` — Recovery metadata

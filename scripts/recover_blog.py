@@ -13,9 +13,9 @@ from datetime import datetime
 ARCHIVE_INDEX = "https://web.archive.org/web/20140206221944/http://nathanpitman.com/archives/"
 WAYBACK_CDX_API = "https://web.archive.org/cdx/search/cdx"
 
-POSTS_DIR = "posts"
-IMAGES_DIR = "assets/images"
-POSTS_JSON = "posts.json"
+POSTS_DIR = "import/posts"
+IMAGES_DIR = "import/images"
+POSTS_JSON = "import/posts.json"
 
 SESSION = requests.Session()
 SESSION.headers.update({
@@ -433,7 +433,7 @@ def process_images(content_html, post_slug, archive_url):
 
         local_filename = download_image(img_url, post_slug)
         if local_filename:
-            img["src"] = f"../assets/images/{local_filename}"
+            img["src"] = f"../images/{local_filename}"
             images_downloaded.append(local_filename)
 
     return str(soup), images_downloaded
