@@ -5,6 +5,7 @@ source: http://nathanpitman.com/406/first-words
 archive: https://web.archive.org/web/20100107152756/http://nathanpitman.com:80/406/first-words
 tags:
   - "Family"
+hidden: true
 ---
 
 [Neve](https://web.archive.org/web/20100107152756/http://nathanpitman.com/journal/380/learning-to-slide) is well and truly a toddler, infact in many ways she’s a little girl now and with that comes the first words, phrases and the amusement accompanied by them.

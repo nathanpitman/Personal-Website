@@ -5,6 +5,7 @@ source: http://nathanpitman.com/332/12-months-as-a-father
 archive: https://web.archive.org/web/20090817091851/http://nathanpitman.com:80/332/12-months-as-a-father
 tags:
   - "Family"
+hidden: true
 ---
 
 Yesterday my daughter had her very first Birthday party. It hardly seems like a year since [she was born](/web/20090817091851/http://nathanpitman.com/journal/32/im-a-dad) and the last 12 months have given me some of the happiest moments of my life, I can hardly imagine what the next 12 will bring.

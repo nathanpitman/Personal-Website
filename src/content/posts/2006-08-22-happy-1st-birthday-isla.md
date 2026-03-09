@@ -6,6 +6,7 @@ archive: "https://web.archive.org/web/20100113165319/http://nathanpitman.com:80/
 tags:
   - "Family"
   - "Personal"
+hidden: true
 ---
 
 ![](/images/155.jpg)

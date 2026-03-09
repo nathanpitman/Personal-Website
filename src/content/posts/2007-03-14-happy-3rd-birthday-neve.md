@@ -5,6 +5,7 @@ source: "http://nathanpitman.com/501/happy-3rd-birthday-neve"
 archive: "https://web.archive.org/web/20100113135853/http://nathanpitman.com:80/501/happy-3rd-birthday-neve"
 tags:
   - "Family"
+hidden: true
 ---
 
 Neve had her 3rd Birthday Party at the weekend. Here she is feeling a little embarrassed about being the centre of attention, and about to blow the candles out. :)

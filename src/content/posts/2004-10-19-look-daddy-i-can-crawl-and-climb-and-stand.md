@@ -5,6 +5,7 @@ source: http://nathanpitman.com/271/look-daddy-i-can-crawl-and-climb-and-stand
 archive: https://web.archive.org/web/20100107193143/http://nathanpitman.com:80/271/look-daddy-i-can-crawl-and-climb-and-stand
 tags:
   - "Family"
+hidden: true
 ---
 
 Now that [Neve has started crawling](https://web.archive.org/web/20100107193143/http://www.nathanpitman.com/blog/index.php?id=266) she has decided that it’s time to up the ante and work on climbing and standing too! There’s no stopping the little girl, especially when the target is Jo’s shiny mobile phone.

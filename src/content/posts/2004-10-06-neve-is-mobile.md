@@ -6,6 +6,7 @@ archive: https://web.archive.org/web/20100107012132/http://nathanpitman.com:80/2
 tags:
   - "Family"
   - "Photography"
+hidden: true
 ---
 
 This afternoon my daughter Neve did her first *real* proper bit of crawling, none of this lazy; one crawl then lie flat on the belly for a rest lark, *proper* crawling, covering a metre and a half I’d guess before taking a break!

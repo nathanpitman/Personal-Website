@@ -8,6 +8,7 @@ tags:
   - "Family"
   - "Apple"
   - "Technology"
+hidden: true
 ---
 
 We’ve had out family [iPad](https://web.archive.org/web/20110405142853/http://www.apple.com/ipad) for some time now and whilst it truly is a ‘magical’ device it still falls a little short of being the perfect family computer. For many the iPad is a ‘personal’ device but for others it serves as a ‘shared’ device. Ours is used by all members of the family and often found in the lounge on the coffee table, or in the kitchen, or in one of the kids bedrooms!
