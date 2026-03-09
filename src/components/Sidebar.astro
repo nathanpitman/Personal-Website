@@ -9,6 +9,7 @@ const { page = '' } = Astro.props;
 
 const allPosts = await getCollection('posts');
 const recentPosts = allPosts
+  .filter(post => !post.data.hidden)
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
   .slice(0, 10);
 ---

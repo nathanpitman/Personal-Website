@@ -11,7 +11,7 @@ const { activeTag } = Astro.props;
 const allPosts = await getCollection('posts');
 const tagCounts = new Map<string, { name: string; slug: string; count: number }>();
 
-for (const post of allPosts) {
+for (const post of allPosts.filter(post => !post.data.hidden)) {
   for (const tag of post.data.tags) {
     const s = slugify(tag);
     const existing = tagCounts.get(s);

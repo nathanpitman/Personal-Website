@@ -5,6 +5,7 @@ import { getCollection } from 'astro:content';
 
 const allPosts = await getCollection('posts');
 const posts = allPosts
+  .filter(post => !post.data.hidden)
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
   .slice(0, 15);
 
