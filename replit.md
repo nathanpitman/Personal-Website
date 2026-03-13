@@ -164,9 +164,43 @@ After processing all posts, the script writes `import/posts.json` containing the
 
 **Polite crawling**: A 1-second sleep between post requests and a 0.5-second sleep after each image download keeps the script from hammering the Wayback Machine. HTTP errors use exponential backoff with up to 3 retries.
 
+### Stripping Wayback Machine URLs from Post Body Links
+
+A significant post-processing problem emerged after the initial recovery: every hyperlink inside the body of every post was pointing back to the Internet Archive rather than to the original destination.
+
+This happens because the Wayback Machine rewrites all `href` attributes in the HTML of any page it serves, wrapping them in its own URL prefix so that clicks stay within the archive. A link that originally read:
+
+```
+http://www.macromedia.com/software/flashcom/
+```
+
+became, in the archived HTML:
+
+```
+https://web.archive.org/web/20100111190538/http://www.macromedia.com/software/flashcom/
+```
+
+The recovery script faithfully preserved these as it converted the HTML to Markdown, meaning the recovered posts contained hundreds of links in the form:
+
+```markdown
+[link text](https://web.archive.org/web/<timestamp>/http://original-site.com/page)
+```
+
+Clicking any of them would take a reader to the Internet Archive instead of the intended destination. This needed to be resolved across the full corpus of posts.
+
+The fix was to unwrap these URLs — stripping the `https://web.archive.org/web/<timestamp>/` prefix from every link in every post body to restore the original target URL. The pattern is straightforward:
+
+```
+https://web.archive.org/web/20100111190538/http://original-site.com/page
+                                           ↓
+http://original-site.com/page
+```
+
+This only applies to links in the post body content. The `archive:` field in each post's YAML frontmatter intentionally retains its Wayback URL — that field exists specifically to record the archive snapshot that was used as the source, for provenance.
+
 ### From Recovery Output to Published Site
 
-Once `scripts/recover_blog.py` had run and populated `import/posts/` and `import/images/`, the recovered files were copied into the Astro project:
+Once `scripts/recover_blog.py` had run, URLs had been cleaned, and `import/posts/` and `import/images/` were populated, the recovered files were copied into the Astro project:
 
 - `import/posts/*.md` → `src/content/posts/`
 - `import/images/*` → `public/images/`
