@@ -3,6 +3,14 @@
 ## Overview
 A static personal blog built with Astro, containing 430 recovered blog posts (2002–2013) from nathanpitman.com. Designed for deployment to GitHub Pages.
 
+## Key Considerations
+
+Two principles guided every decision in this project.
+
+**Authentic recreation.** The goal was not simply to publish the recovered content somewhere — it was to bring the site back as close to its original form as possible. That meant recreating the visual identity: the two-column layout, the indented post body, the serif typography, the restrained design language that characterised personal blogs of that era. Because the original site no longer existed to reference directly, the design was produced as a modern interpretation rather than a pixel-for-pixel copy, updated for today's screens (fully responsive, mobile-native) while remaining faithful to the spirit and aesthetic of the original. The original's unusual date format, the image bleed effect, the "hello, my name is" sidebar introduction — these details were deliberately preserved.
+
+**Don't break the internet.** Despite the site having been offline for some years, its URLs still exist in the wild — in bookmarks, in other people's blog posts, in search engine indexes. A core requirement was that every historical URL should continue to work exactly as it did before, so that anyone following an old link would arrive at the right post rather than a 404. This meant the URL structure of the Astro site had to match the original site's permalink format precisely. By honouring the original slugs and path structure in the recovered Markdown filenames and Astro routing, all historical backlinks remain valid — doing a small part to keep the web intact despite the site's hiatus.
+
 ## Architecture
 - **Framework**: Astro 4 (static output)
 - **Content**: Astro Content Collections with glob loader
