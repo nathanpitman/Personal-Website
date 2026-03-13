@@ -101,7 +101,7 @@ The link extractor (`extract_post_links`) parses the archives HTML and pulls out
 - Wayback-wrapped URLs (e.g. `/web/20120301/http://nathanpitman.com/some-post`) — it strips the Wayback prefix to recover the clean original URL
 - Plain `nathanpitman.com` links
 
-It also applies a skip list to avoid pulling in non-post pages like `/category/`, `/tag/`, `/page/`, `/wp-admin/`, `/feed`, and `/about`. Only paths with at least two URL segments were considered posts.
+It also applies a skip list to avoid pulling in non-post pages like `/category/`, `/tag/`, `/page/`, `/wp-admin/`, `/feed`, and `/about`. The `/wp-admin/` pattern was included as a defensive catch-all for any CMS admin paths that might appear in the archive index. Only paths with at least two URL segments were considered posts.
 
 #### Stage 3 — Building the Snapshot Map via the CDX API
 
@@ -140,7 +140,7 @@ The date parser handles many formats including the original blog's unusual `Mont
 - The "Speak Your Mind" comments section and everything below it
 - The `.posted` date div
 
-**Image handling** (`process_images` + `download_image`): Scans the content for `<img>` tags, skips non-content images (avatars, emoji, tracking pixels, WordPress includes), and downloads the rest. A key challenge here was the Wayback Machine's URL scheme — image URLs needed to be normalized to use the `im_` modifier (e.g. `/web/20120301im_/http://...`) which forces the raw, undecorated image file rather than the archived HTML wrapper. The script validates each downloaded file by checking its byte signature (JPEG, PNG, GIF, WebP, SVG) to avoid saving broken downloads. Image filenames are sanitised and stored in `import/images/`, with `<img>` `src` attributes rewritten to `../images/<filename>`.
+**Image handling** (`process_images` + `download_image`): Scans the content for `<img>` tags, skips non-content images (avatars, emoji, tracking pixels, CMS system paths), and downloads the rest. A key challenge here was the Wayback Machine's URL scheme — image URLs needed to be normalized to use the `im_` modifier (e.g. `/web/20120301im_/http://...`) which forces the raw, undecorated image file rather than the archived HTML wrapper. The script validates each downloaded file by checking its byte signature (JPEG, PNG, GIF, WebP, SVG) to avoid saving broken downloads. Image filenames are sanitised and stored in `import/images/`, with `<img>` `src` attributes rewritten to `../images/<filename>`.
 
 **Markdown conversion** (`html_to_markdown`): Uses `markdownify` with ATX-style headings (`##`) and hyphen bullets. Runs of three or more blank lines are collapsed to two.
 
@@ -219,7 +219,7 @@ The Astro site picks these up automatically via Content Collections. No manual e
 
 ## Expanding the Recovery: Tags
 
-Tags did not exist in any structured form recoverable from the Wayback Machine. The original blog used WordPress category and tag URLs (e.g. `/category/`, `/tag/`), but those were deliberately excluded from the recovery script's link extractor because they are index pages rather than posts. Reconstructing meaningful tags for 430 posts therefore required a separate, deliberate effort after the initial content recovery was complete.
+Tags did not exist in any structured form recoverable from the Wayback Machine. The original site ran on Textpattern from its early years before being migrated to ExpressionEngine in 2009 (documented in the "Migrating from TXP to EE - Conclusion" post), and both platforms used category and tag index URLs (e.g. `/category/`, `/tag/`) that were deliberately excluded from the recovery script's link extractor because they are index pages rather than posts. Reconstructing meaningful tags for 430 posts therefore required a separate, deliberate effort after the initial content recovery was complete.
 
 ### How Tags Were Added
 
