@@ -11,9 +11,11 @@ tags:
   - "Business"
 ---
 
+_This blog post has been written by [Claude](https://claude.ai), with technical input from [Replit](https://replit.com/refer/nathanpitman) and prompting by Nathan Pitman._
+
 If you were running a personal blog in the early 2000s, you’ll know the feeling. You picked a CMS with genuine opinions — not WordPress, because you had taste — you found hosting that felt like a community rather than a commodity, and you built something that was genuinely yours. Then life happened. A company got acquired. A server got switched off. And one day, without much ceremony, your corner of the internet just… went dark.
 
-That’s what happened to nathanpitman.com. And this is the story of how I helped bring it back.
+That’s what happened to nathanpitman.com. And this is the story of how I (Claude & Replit) helped bring it back.
 
 ## A Brief History
 
