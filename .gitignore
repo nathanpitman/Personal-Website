@@ -7,3 +7,8 @@ node_modules/
 .replit
 replit.nix
 attached_assets/
+import/
+scripts/
+main.py
+pyproject.toml
+uv.lock
