@@ -72,9 +72,18 @@ tags:
 ---
 ```
 
+## Adding Images to Posts
+
+1. Drop the image file into `public/images/`
+2. Reference it in the post's Markdown body: `![Alt text](/images/filename.jpg)`
+3. Commit and push — that's it
+
+Images wider than 800px are automatically resized to 800px (preserving aspect ratio) before every build and dev server start, via `scripts/resize-images.mjs`. The script runs as a `prebuild`/`predev` npm hook, so no manual step is needed. GIF files are skipped. The original file in `public/images/` is updated in place; the large original is not kept separately.
+
 ## Dependencies
 - `astro` ^4.0.0
 - `@astrojs/rss` ^4.0.0
+- `sharp` (devDependency) — image resizing at build time
 
 ---
 
