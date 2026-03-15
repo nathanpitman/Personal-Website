@@ -80,148 +80,15 @@ tags:
 
 ## Blog Recovery Approach
 
-The 430 posts spanning 2002–2013 were recovered from the Internet Archive (Wayback Machine) using an automated Python pipeline. The original site no longer existed, so the entire content corpus was reconstructed from archived snapshots. Here is a detailed account of how that was done.
+The 430 posts spanning 2002–2013 were recovered from the Internet Archive (Wayback Machine) using an automated Python pipeline. The original site no longer existed, so the entire content corpus was reconstructed from archived snapshots. The recovery script and its intermediate output have since been removed from the repository, but the process is summarised here for the record.
 
-### The Recovery Script
+A self-contained Python script drove the recovery end-to-end. It seeded from a late-2014 snapshot of the site's archives page — chosen because it was one of the last captures before the site went dark — and extracted every blog post link from that index. It then queried the Wayback Machine's CDX API to build a snapshot map for all known paths on `nathanpitman.com`, resolving each post URL to the best available archived version.
 
-The core tool is `scripts/recover_blog.py`, a self-contained Python script that takes the site from zero to a full set of Markdown files in a single run. It follows a five-stage pipeline, which it even prints out as it runs:
+For each post the script fetched the archived HTML, extracted the title, date, and body content using a cascade of CSS selectors (to cope with at least two major site redesigns across the blog's 11-year life), and converted the result to Markdown. Dates were parsed from several formats including the original blog's unusual `Month DD. YY` two-digit-year style. Images were downloaded using the Wayback Machine's `im_` URL modifier to retrieve raw image bytes rather than the archive's HTML wrapper, and each downloaded file was validated by byte signature. Every post was written as a Markdown file with YAML frontmatter containing `title`, `date`, `source` (original URL), and `archive` (Wayback snapshot URL), preserving full provenance.
 
-1. Fetch the archive index page
-2. Extract blog post links
-3. Build a Wayback Machine snapshot map
-4. Process each post
-5. Save metadata
+A post-processing pass was needed to strip Wayback Machine URL prefixes from hyperlinks inside the post bodies. The Wayback Machine rewrites every `href` in the HTML it serves, so the initial recovery produced hundreds of links pointing back into the archive rather than to their original destinations. These were unwrapped to restore the original target URLs. The `archive:` field in each post's frontmatter intentionally retains its Wayback URL — that field exists specifically to record the source snapshot.
 
-#### Stage 1 — Seeding from the Archives Page
-
-The script starts from a known-good snapshot of the site's archives page:
-
-```
-https://web.archive.org/web/20140206221944/http://nathanpitman.com/archives/
-```
-
-This particular snapshot (from February 2014) was chosen because it was one of the last captures before the site went dark, meaning it had the most complete list of post links. It served as the table of contents for the entire recovery.
-
-#### Stage 2 — Extracting Post Links
-
-The link extractor (`extract_post_links`) parses the archives HTML and pulls out every link that looks like a blog post. It handles two URL forms:
-
-- Wayback-wrapped URLs (e.g. `/web/20120301/http://nathanpitman.com/some-post`) — it strips the Wayback prefix to recover the clean original URL
-- Plain `nathanpitman.com` links
-
-It also applies a skip list to avoid pulling in non-post pages like `/category/`, `/tag/`, `/page/`, `/wp-admin/`, `/feed`, and `/about`. The `/wp-admin/` pattern was included as a defensive catch-all for any CMS admin paths that might appear in the archive index. Only paths with at least two URL segments were considered posts.
-
-#### Stage 3 — Building the Snapshot Map via the CDX API
-
-Rather than guessing at Wayback URLs, the script queries the **Wayback Machine CDX API** to build a map of every archived path on `nathanpitman.com`. The CDX API returns a structured list of timestamps and original URLs for all known snapshots, filtered to only HTTP 200 responses.
-
-This snapshot map is then used to resolve each post URL to its best archived version. If the CDX lookup misses a URL (rare), it falls back to a generic 2014-era Wayback URL.
-
-A 1-second delay between requests (`REQUEST_DELAY = 1.0`) was used throughout to be a respectful client and avoid rate limiting.
-
-#### Stage 4 — Processing Each Post
-
-For each post URL, `process_post` does the following:
-
-**Fetching**: Retrieves the archived HTML. If the Wayback Machine returns its "has not archived that URL" or "Hrm." error pages, the post is skipped rather than saving junk.
-
-**Title extraction** (`extract_title`): Looks for the title in this order of preference:
-- An `<h2 class="title">` element (the original blog's markup)
-- Any `<h2>` inside the `.entry` div
-- Common CSS class patterns like `entry-title` or `post-title`
-- The HTML `<title>` tag (with site name stripped off)
-- Falls back to "Untitled"
-
-**Date extraction** (`extract_date_from_post`): Looks for dates in:
-- A `<span class="posted">` element (the original blog's date format, e.g. "March 14. 04")
-- Any element with a class matching `date`, `time`, `posted`, `published`, etc.
-- The `datetime` attribute on `<time>` elements
-- The Wayback timestamp in the archive URL itself (used as a last resort)
-- Falls back to `2014-01-01` if nothing else is found
-
-The date parser handles many formats including the original blog's unusual `Month DD. YY` style (two-digit years).
-
-**Content extraction** (`extract_post_content`): Finds the article body, stripping out:
-- The post's own `<h2 class="title">` (to avoid duplication in Markdown)
-- `<script>`, `<style>`, `<form>` tags
-- Comments, share buttons, social widgets, related posts, sidebars, and nav elements
-- The "Speak Your Mind" comments section and everything below it
-- The `.posted` date div
-
-**Image handling** (`process_images` + `download_image`): Scans the content for `<img>` tags, skips non-content images (avatars, emoji, tracking pixels, CMS system paths), and downloads the rest. A key challenge here was the Wayback Machine's URL scheme — image URLs needed to be normalized to use the `im_` modifier (e.g. `/web/20120301im_/http://...`) which forces the raw, undecorated image file rather than the archived HTML wrapper. The script validates each downloaded file by checking its byte signature (JPEG, PNG, GIF, WebP, SVG) to avoid saving broken downloads. Image filenames are sanitised and stored in `import/images/`, with `<img>` `src` attributes rewritten to `../images/<filename>`.
-
-**Markdown conversion** (`html_to_markdown`): Uses `markdownify` with ATX-style headings (`##`) and hyphen bullets. Runs of three or more blank lines are collapsed to two.
-
-**Filename generation**: Each post gets a filename in the form `YYYY-MM-DD-<slug>.md`. The slug is derived from the post title (up to 60 characters). If the title is uninformative ("untitled", "journal"), the URL path segment is used instead. Duplicate filenames get a suffix from the original URL slug.
-
-**Frontmatter**: Each Markdown file is written with YAML frontmatter containing `title`, `date`, `source` (original URL), and `archive` (Wayback URL). This preserves full provenance for every post.
-
-#### Stage 5 — Metadata Manifest
-
-After processing all posts, the script writes `import/posts.json` containing the full list of recovered posts (sorted by date), total counts for recovered/skipped/failed posts, image counts, and a list of any errors. This manifest served as a useful audit log to confirm the recovery was complete.
-
-### Key Challenges and How They Were Handled
-
-**Inconsistent site designs across years**: The original blog's HTML structure changed over its 11-year life (2002–2013), spanning at least two major redesigns. The content and title extractors use a cascade of selectors — trying the original blog's specific CSS classes first, then falling back to generic semantic patterns — to handle these variations gracefully.
-
-**Date format variety**: Early posts used a custom `Month DD. YY` date format (two-digit year). The date parser handles this plus ISO 8601, US/UK numeric formats, and various long-form month name formats, with a fallback to the archive snapshot timestamp.
-
-**Wayback image wrapping**: Images served through the Wayback Machine are normally wrapped in an HTML frame with the archive toolbar. Using the `im_` URL modifier bypasses this and retrieves the raw image bytes. Without this, image downloads would have saved HTML pages instead of actual images.
-
-**Duplicate detection**: The `used_filenames` set ensures that if two posts produce the same date + slug combination, the second one gets the original URL slug appended, preventing silent overwrites.
-
-**Polite crawling**: A 1-second sleep between post requests and a 0.5-second sleep after each image download keeps the script from hammering the Wayback Machine. HTTP errors use exponential backoff with up to 3 retries.
-
-### Stripping Wayback Machine URLs from Post Body Links
-
-A significant post-processing problem emerged after the initial recovery: every hyperlink inside the body of every post was pointing back to the Internet Archive rather than to the original destination.
-
-This happens because the Wayback Machine rewrites all `href` attributes in the HTML of any page it serves, wrapping them in its own URL prefix so that clicks stay within the archive. A link that originally read:
-
-```
-http://www.macromedia.com/software/flashcom/
-```
-
-became, in the archived HTML:
-
-```
-https://web.archive.org/web/20100111190538/http://www.macromedia.com/software/flashcom/
-```
-
-The recovery script faithfully preserved these as it converted the HTML to Markdown, meaning the recovered posts contained hundreds of links in the form:
-
-```markdown
-[link text](https://web.archive.org/web/<timestamp>/http://original-site.com/page)
-```
-
-Clicking any of them would take a reader to the Internet Archive instead of the intended destination. This needed to be resolved across the full corpus of posts.
-
-The fix was to unwrap these URLs — stripping the `https://web.archive.org/web/<timestamp>/` prefix from every link in every post body to restore the original target URL. The pattern is straightforward:
-
-```
-https://web.archive.org/web/20100111190538/http://original-site.com/page
-                                           ↓
-http://original-site.com/page
-```
-
-This only applies to links in the post body content. The `archive:` field in each post's YAML frontmatter intentionally retains its Wayback URL — that field exists specifically to record the archive snapshot that was used as the source, for provenance.
-
-### From Recovery Output to Published Site
-
-Once `scripts/recover_blog.py` had run, URLs had been cleaned, and `import/posts/` and `import/images/` were populated, the recovered files were copied into the Astro project:
-
-- `import/posts/*.md` → `src/content/posts/`
-- `import/images/*` → `public/images/`
-
-The Astro site picks these up automatically via Content Collections. No manual editing of individual posts was needed.
-
----
-
-## Legacy Files
-- `scripts/recover_blog.py` — Original blog recovery script (Wayback Machine scraper), outputs to `import/`
-- `import/posts/` — Original recovered markdown files (copied to `src/content/posts/`)
-- `import/images/` — Original recovered images (copied to `public/images/`)
-- `import/posts.json` — Recovery metadata
+The pipeline delivered 430 Markdown posts and 132 recovered images, which were copied into the Astro project's content collections and public assets respectively. The Astro site picks these up automatically; no manual editing of individual posts was needed.
 
 ---
 
@@ -310,7 +177,7 @@ The visual design of the rebuilt site is a **modern interpretation of the origin
 
 ### Design Origins
 
-The initial design template was created by Claude as an HTML/CSS mockup, capturing the general look and feel of the kind of personal blog that existed in the mid-2000s. That template was then interpreted and transformed into a working Astro component structure by Replit — breaking the monolithic HTML into `BaseLayout.astro`, the sidebar components, and individual page templates, while wiring it all into Astro's Content Collections and routing system.
+The initial design template was created by Claude as an HTML/CSS mockup, derived directly from screenshots of the original nathanpitman.com website provided by the site's author. Those screenshots — along with the full original site — remain captured on the Internet Archive's Wayback Machine. That template was then interpreted and transformed into a working Astro component structure by Replit — breaking the monolithic HTML into `BaseLayout.astro`, the sidebar components, and individual page templates, while wiring it all into Astro's Content Collections and routing system.
 
 ### Typography
 
