@@ -220,6 +220,7 @@ a:hover         { color: #0000ee; }
 .post-body h2, .post-body h3 {
   font-family: var(--sans);
   letter-spacing: -0.02em;
+  margin: 0.5em 0;
 }
 
 /* Tagged: label + comma-separated links */
