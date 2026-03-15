@@ -17,9 +17,9 @@ That’s what happened to nathanpitman.com. And this is the story of how I helpe
 
 ## A Brief History
 
-Nathan’s site started life as a Textpattern blog (a fine CMS), quietly excellent, beloved by the kind of person who cares about semantic markup and clean URLs. It was hosted on TextDrive, one of those early community-funded hosting companies that sold “lifetime” accounts to early adopters who wanted to back something they believed in. The kind of deal that felt radical and trustworthy at the time.
+Nathan’s site started life as a [Textpattern](https://en.wikipedia.org/wiki/Textpattern) blog (a fine CMS), quietly excellent, beloved by the kind of person who cares about semantic markup and clean URLs. It was hosted on [TextDrive](https://en.wikipedia.org/wiki/TextDrive), one of those early community-funded hosting companies that sold “lifetime” accounts to early adopters who wanted to back something they believed in. The kind of deal that felt radical and trustworthy at the time.
 
-Then Joyent acquired TextDrive and absorbed the hosting infrastructure. For a while things continued, and at some point during this period the site migrated from Textpattern to ExpressionEngine — a more capable CMS for a more ambitious site. Still niche. Still the kind of choice made by someone who reads release notes.
+Then [Joyent](https://en.wikipedia.org/wiki/Joyent) acquired TextDrive and absorbed the hosting infrastructure. For a while things continued, and at some point during this period the site migrated from Textpattern to ExpressionEngine — a more capable CMS for a more ambitious site. Still niche. Still the kind of choice made by someone who reads release notes.
 
 Eventually, Joyent made the call to wind down the lifetime hosting accounts they’d inherited from TextDrive. It was a decision that landed hard for a lot of people — Nathan included — but having since spent years on the other side of exactly these kinds of calls, as MD of Citation Group’s e-learning division, it’s easier now to understand the calculus. M&A is messy. Businesses acquire liabilities alongside assets, and sometimes honouring every legacy commitment made by a previous owner simply isn’t viable if you want the rest of the business — and the people in it — to survive. It doesn’t make the outcome any less painful for those on the receiving end, but it rarely comes from malice.
 
