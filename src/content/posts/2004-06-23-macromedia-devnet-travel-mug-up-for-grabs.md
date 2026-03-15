@@ -17,5 +17,3 @@ Today it’s my brushed steel [‘Macromedia Devnet Travel Mug’](https://web.a
 Seals in the steam and keeps your coffee fresh for longer! Grab it while you can.
 
 **Update:** Sorry, this item has now been sold.
-
-Tagged: [Adobe](/tag/adobe), [Personal](/tag/personal)

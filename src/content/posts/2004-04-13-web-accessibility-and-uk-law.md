@@ -10,5 +10,3 @@ tags:
 Trenton Moss has written a [great article](https://web.archive.org/web/20100105234023/http://www.alistapart.com/articles/accessuk/) for [A List Apart](https://web.archive.org/web/20100105234023/http://www.alistapart.com/) on Web Accessibility and the UK Law.
 
 If you’re a web developer in the UK it’s well worth a read.
-
-Tagged: [Code](/tag/code)

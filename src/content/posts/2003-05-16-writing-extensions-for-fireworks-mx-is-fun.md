@@ -19,5 +19,3 @@ During this time it occured to me that there really are very few Fireworks exten
 - [Project Fireworks](https://web.archive.org/web/20110901130352/http://www.projectfireworks.com/)
 
 There you go then. Let me know if you can be added to the list.
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

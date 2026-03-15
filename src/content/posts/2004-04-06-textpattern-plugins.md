@@ -9,5 +9,3 @@ tags:
 ---
 
 Drew has been blogging about the fantastic feature in [Textpattern](https://web.archive.org/web/20100103234148/http://www.textpattern.com/) which allows developers to quickly and easily write ‘plugins’ using standard PHP. Check out Drews post on the subject [here](https://web.archive.org/web/20100103234148/http://www.allinthehead.com/retro/192/textpattern-plugins).
-
-Tagged: [Code](/tag/code), [Textpattern](/tag/textpattern)

@@ -18,5 +18,3 @@ People ([Alan](https://web.archive.org/web/20090607090752/http://weblogs.macrome
 - New from Template ([NewFromTemplate.mxp](/web/20090607090752/http://nathanpitman.com/files/NewFromTemplate.mxp))
 
 Right now I don’t have any plans to develop further Fireworks Extensions, most of my free time is consumed by a [mad toddler](https://web.archive.org/web/20090607090752/http://nathanpitman.com/journal/363/boing-boing) right now. ;)
-
-Tagged: [Fireworks](/tag/fireworks)

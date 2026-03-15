@@ -14,5 +14,3 @@ I’m planning to set up my first [Linux](https://web.archive.org/web/2011100917
 Perhaps you’ve done this before? If you have, you might be able to give me some pointers.
 
 **My requirements** are simple. I want to serve web pages across my local home network, use **PHP** and **MySQL**, be able to access the ‘httpd’ folder as a **mapped drive on Windows**, and perhaps install some other services such as **subversion**.
-
-Tagged: [Web development](/tag/web-development)

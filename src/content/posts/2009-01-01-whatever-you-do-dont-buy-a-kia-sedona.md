@@ -56,5 +56,3 @@ I’ll continue to relay my story to every person I know and meet until I’ve l
 **Update:** I’ve taken it upon myself to write some frank and honest reviews on a number of motoring websites to help warn others off buying Kia.
 
 - [Parkers Kia Sedona Review](https://web.archive.org/web/20090518024043/http://www.parkers.co.uk/cars/owners-reviews/review.aspx?review=5018)
-
-Tagged: [Chatter](/tag/chatter), [Personal](/tag/personal)

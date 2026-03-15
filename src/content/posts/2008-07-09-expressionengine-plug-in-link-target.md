@@ -24,5 +24,3 @@ By default you have to specify a ‘url’ and ‘target’ parameter and the pl
 > **Download:** [pi.np\_linktarget.php.zip](/web/20090614184927/http://nathanpitman.com/files/pi.np_linktarget.php.zip)
 
 Obviously let me know in the comments if you have any thoughts on how this can be improved. Enjoy!
-
-Tagged: [ExpressionEngine](/tag/expressionengine)

@@ -20,5 +20,3 @@ I love the MR2 so much that I’ve owned two in recent years, it’s reliable en
 If you’re seriously interested then drop me an email ‘nathan at nine four dot co dot uk’ or call me on 01344 860156. Please leave a message if there’s no answer.
 
 **Update:** The car is now sold.
-
-Tagged: [Personal](/tag/personal)

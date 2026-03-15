@@ -18,5 +18,3 @@ However, this simply does not work, it throws PHP errors all over the place. In 
 `$baseURL = "d:/Inetpub/wwwroot/mysite/";`
 
 Surely this isn’t necessary? Sure it works, but it’s a tad ugly. Do I simply have something wrong with my PHP installation on Windows, or am I missing something else?
-
-Tagged: [Code](/tag/code)

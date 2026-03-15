@@ -44,5 +44,3 @@ Our offer:
 - 22 days holiday
 
 To find out more and apply for this position visit the [Distribution Technology employment website](https://web.archive.org/web/20091209173416/http://www.workatdt.com/contact_us/position/Digital%20Designer).
-
-Tagged: [Jobs](/tag/jobs)

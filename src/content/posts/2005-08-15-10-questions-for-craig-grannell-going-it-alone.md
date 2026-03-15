@@ -74,5 +74,3 @@ In the first of 5 interviews with web designers and developers who are self empl
 3. **Be honest.** If you screw up, say so â¹ don’t try to fool a client. If you’re going to miss a deadline, for whatever reason, tell the client with as much advance warning as possible.
 4. **Get an accountant.** Keep all your receipts, log all of your jobs (and when/if you’re paid) and get an accountant to do your tax returns.
 5. **Back-up.** You need a minimum of two levels of back-up â¹ get a one-touch external firewire drive to back-up your work to at least once every week (or daily, if possible) and also regularly back-up to DVDR.
-
-Tagged: [Employment](/tag/employment)

@@ -14,5 +14,3 @@ Macromedia have announced Flash Paper 2 and Contribute 3. Together boths product
 “Contribute 3”:http://www.macromedia.com/software/contribute/ lets everyone in an organization publish to websites and bring them alive with up-to-date content and information. There is no easier way to keep web content current and relevant.
 
 “FlashPaper 2”:http://www.macromedia.com/software/flashpaper/ allows anyone to convert printable files into Macromedia Flash documents or PDF files with one click.
-
-Tagged: [Technology](/tag/technology)

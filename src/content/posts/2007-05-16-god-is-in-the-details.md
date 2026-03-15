@@ -23,5 +23,3 @@ We faced a number of technical challenges in marrying a horizontal layout with t
 Never knowing how many columns a headline might require, or how many work examples might appear on the home page at any given time certainly gave us some headaches but we knew that we couldnât compromise on the creative approach and so we didnât, instead we persisted and found solutions to the problems.
 
 Iâd like to think that the end result does a great deal to communicate what Voyage is about and that it will provide the company with the platform they hoped for to showcase their creative work. It has been a pleasure to work with the Voyage team on this project, they have high standards and know âexactlyâ what theyâre after. Good to know if youâre a prospective or current client of theirs. :)
-
-Tagged: [Design](/tag/design), [Web development](/tag/web-development)

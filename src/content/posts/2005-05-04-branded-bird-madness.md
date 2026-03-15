@@ -12,5 +12,3 @@ What’s the deal with all the [bird](https://web.archive.org/web/20090911045620
 ![Barmy bird brands](/images/95.jpg "Barmy bird brands")
 
 Is this the next drop shadow, the next trend. Maybe I should get me a bird in my logo… or a Badger.
-
-Tagged: [Branding](/tag/branding)

@@ -11,5 +11,3 @@ A little late I know, but since I was supposed to have been attending the Carson
 
 - [Drew McLellan](https://web.archive.org/web/20090814210148/http://allinthehead.com/retro/280/the-future-of-web-apps-summit)
 - [Jonathan Leighton](https://web.archive.org/web/20090814210148/http://turnipspatch.com/the-carson-summit/)
-
-Tagged: [Web applications](/tag/web-applications)

@@ -20,5 +20,3 @@ As a beta tester you will be expected to:
 - Participate in online beta program forums through August 2005.
 
 If you think you can meet the above requirements and would like to apply, complete an [online application](https://web.archive.org/web/20100106035102/http://www.macromedia.com/go/FW_beta_candidate_survey) for the beta programme.
-
-Tagged: [Adobe](/tag/adobe), [Fireworks](/tag/fireworks)

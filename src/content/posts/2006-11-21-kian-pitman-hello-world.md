@@ -17,5 +17,3 @@ A quick call to the Labour ward and shortly after we’re ready to go. Jo feels 
 ![](/images/160.jpg)
 
 I’m so proud to have a son and even prouder of my wife Jo for keeping her legs crossed for long enough to mean that I didn’t need to google ‘“how to deliver a baby”:http://www.google.co.uk/search?q=how+to+deliver+a+baby’.
-
-Tagged: [Family](/tag/family)

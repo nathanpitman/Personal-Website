@@ -16,5 +16,3 @@ It’s been a really interesting project to have become involved in and it’s g
 Further to this they provide a truly exceptional level of service, wrapping your gifts and adding a personal message tag for you at no extra cost.
 
 Being the nice people they are [Innova Gifts](https://web.archive.org/web/20091214135413/http://www.innovagifts.co.uk/) are offering you, my readers, a **10% discount** on any orders you make between now and the 31st of October 2006. Just purchase something from the site using the following reference code ‘6CDNP1006’ during the checkout process to qualify. :)
-
-Tagged: [Web development](/tag/web-development)

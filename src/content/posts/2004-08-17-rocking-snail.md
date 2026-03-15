@@ -19,5 +19,3 @@ The seat is intended for 9 months plus, Neve is only 5 months, but she seems to 
 One thing is for sure, even when you’ve had a really bad day, a little girlie with smiles like this can brighten life in an instant.
 
 ![Rocking Snail is loadsa fun](/images/50.jpg "Rocking Snail is loadsa fun")
-
-Tagged: [Family](/tag/family)

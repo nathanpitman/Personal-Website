@@ -104,5 +104,3 @@ Also, avoid cliches when giving advice, cliches suck and can cause validation pr
 O yeah, one more if I may, donât do favours for friends (they wonât thank you for it), do discounts.
 
 O sorry, the other thing is if you donât have a strong portfolio, set up a blog instead and write about what you do. I have had more enquires for work since I took my portfolio site down and replaced it with a blog… odd that! Okay, I am going now.
-
-Tagged: [Employment](/tag/employment)

@@ -12,5 +12,3 @@ Following the acquisition of [Blogger](https://web.archive.org/web/2010010720460
 ![The chic new CSS driven Blogger site](/images/13.jpg "The chic new CSS driven Blogger site")
 
 If you’re looking to set up a blog then I’d say you couldn’t go far wrong with Blogger, although of course if you have access to MySQL on a Unix box I’d have to suggest [Textpattern](https://web.archive.org/web/20100107204601/http://www.textpattern.com/). ;)
-
-Tagged: [Technology](/tag/technology)

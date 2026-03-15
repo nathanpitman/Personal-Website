@@ -18,5 +18,3 @@ Every thing’s going [Pete Tong!](https://web.archive.org/web/20100107152612/ht
 - After 2 weeks of blistering sunshine, it’s raining again.
 
 Hopefully today will be a better day.
-
-Tagged: [Personal](/tag/personal), [Technology](/tag/technology)

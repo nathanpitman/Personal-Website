@@ -12,5 +12,3 @@ Another vacancy for anyone who’s looking, or knows someone that’s looking. P
 ![](/images/150.gif)
 
 Interested? Drop an email to  and tell em I sent you.
-
-Tagged: [Jobs](/tag/jobs)

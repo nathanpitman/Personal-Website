@@ -18,5 +18,3 @@ It’s a fantastic game, a definite step forward from Burnout 2… But there are
 - There are no race replays!!! What!?!?
 
 No race replays! Watching a replay of a race where you totally whipped your mates was one of Burnout 2’s best features. What happened to race replays [Criterion](https://web.archive.org/web/20091231042030/http://www.criteriongames.com/)???
-
-Tagged: [Consoles](/tag/consoles)

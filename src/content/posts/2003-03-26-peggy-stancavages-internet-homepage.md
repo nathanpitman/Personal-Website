@@ -12,5 +12,3 @@ So today I went to check the news on [Actionscript.com](https://web.archive.org/
 *“Let Peggy’s expertise and market knowledge work for you”*
 
 Well personally I’d rather not, [Actionscript.com](https://web.archive.org/web/20100104144616/http://www.actionscript.com/), , where art though…?
-
-Tagged: [Flash](/tag/flash)

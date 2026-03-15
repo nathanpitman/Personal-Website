@@ -14,5 +14,3 @@ Well now it seems that NTL have [plans to supercharge their broadband even furth
 NTL, in their ultimate customer satisfying wisdom have decided to make existing customers cough up an extra ï¿½25 administration charge to make the switch! What! That’s outragous, I’m a customer that pays on time, every month without fail… I have my telephone service, digital tv service and boradband internet service with NTL… I’m a good customer right? So why do I have to fork out an extra ï¿½25 whilst those late to the table get the good stuff for less…?
 
 It’s wrong. Someone at NTL needs to read a book on good business practice… look after your loyal customers.
-
-Tagged: [Chatter](/tag/chatter)

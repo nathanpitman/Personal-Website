@@ -17,5 +17,3 @@ Via [Mirashade](https://web.archive.org/web/20100113164458/http://www.mirashade.
 *We’ll judge candidates on attitude, portfolio and personality so formal qualifications are not a requirement.*
 
 If you’re interested, and you’re available to work at the Mirashade studio in Reading, Berkshire, UK… [check out the Mirashade site](https://web.archive.org/web/20100113164458/http://www.mirashade.com/about/?c=Employment).
-
-Tagged: [Animation](/tag/animation), [Jobs](/tag/jobs)

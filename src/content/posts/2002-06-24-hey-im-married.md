@@ -8,5 +8,3 @@ tags:
 ---
 
 Hey! I’m back, married and most happy…
-
-Tagged: [Personal](/tag/personal)

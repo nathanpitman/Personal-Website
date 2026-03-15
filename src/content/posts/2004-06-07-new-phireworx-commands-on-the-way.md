@@ -21,5 +21,3 @@ I hear on the grapevine from Steven Grosvenor at [Phireworx](https://web.archive
 - SFX Set 1: A really special set of effects for FW MX 2004+ only.
 
 Sounds great, can’t wait to see these in action. Keep your eyes peeled, obviously I’ll report on these here the moment they are available.
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

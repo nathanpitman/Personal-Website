@@ -8,5 +8,3 @@ tags:
 ---
 
 Things are on the move… RSS and Atom feeds have shifted a little (apologies) as have some pages. I’ll let you know when I’m all finished… Thanks.
-
-Tagged: [Personal](/tag/personal)

@@ -16,5 +16,3 @@ Youâve done a bit of research & checked us out on the website [voyage](http
 You know how to distill key messages to target audiences. Understand simplicity is key. Never over-egg. Fabulous grasp of a brief. Believe that research is fundamental to what we do. Love group brainstorming. Never, ever run out of ideas. Love buzz and creating it. Know how to charge others up. Obsessed with typography. Clever with words, and wordology. You are very hands on & have extensive knowledge banks to call on when your team needs your help. Have been known to sketch. Have extensive notebooks in which you write everything down & draw on for reference. Probably remember the days you did it all by hand. Saw the first Mac Classic in & have got your eye on the iPhone. You are probably fed up with traveling in and out of London or you have hit that glass ceiling & feel frustrated. And Reading, well Reading seems like a cool place to beâ¦ maybe, just maybe its time for a change. Phone Jules and persuade me you could be our new Creative Directorâ¦ 07989 565 074
 
 **Note:** Remember to let Jules know where you saw this ad! ;)
-
-Tagged: [Jobs](/tag/jobs)

@@ -16,5 +16,3 @@ I start shifting email across a few days back, starting with folders containing 
 Nothing I can do about it unless I want to spend hours renaming all my folders, shortening the names or manually re-labeling all the email to use multiple labels once inside Google Mail.
 
 If only there was a script that turned ‘folders with sub folders’ into ‘multiple labels’ then I would be saved.
-
-Tagged: [Web applications](/tag/web-applications)

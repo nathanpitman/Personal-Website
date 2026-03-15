@@ -18,5 +18,3 @@ I guess that to the untrained eye it would have looked suitably complicated and 
 In many ways it boils down to change. To write a snippet of code yourself, taking that extra time up front reaps benefits in the long run. You understand the code, then later you come back and change it for another purpose, understanding more and more as you go. Although tools like Dreamweaver are undoubtedly great for getting started, they hinder development if you rely on the ‘unchangeable’ built in behaviours.
 
 I guess the theme here is change. Learn how to change things, change is good.
-
-Tagged: [Personal](/tag/personal)

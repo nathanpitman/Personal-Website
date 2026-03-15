@@ -53,5 +53,3 @@ Scroll right down to the bottom of the file and add the follwoing line above the
 `ruby /var/www/Instiki/instiki.rb -d`
 
 Now, reboot you Debian box and you’re good to go.
-
-Tagged: [Linux](/tag/linux)

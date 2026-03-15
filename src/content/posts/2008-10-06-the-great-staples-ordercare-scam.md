@@ -26,5 +26,3 @@ Add to all of the above that there is no way to have ‘OrderCare’ default to 
 Imagine how much cash Staples are making every day out of businesses that are totally unaware of the fact that they are paying an additional charge for something they did not ask for.
 
 I’ve taken our business elsewhere, perhaps you should do the same. [Viking Direct](https://web.archive.org/web/20090518094518/http://www.viking-direct.co.uk/) also offer a similar ‘extended warranty’ service but as you would expect, it defaults to off and can be set at an account level. **Good job**.
-
-Tagged: [Chatter](/tag/chatter)

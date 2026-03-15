@@ -12,5 +12,3 @@ So I’ve taken my first step. I downloaded the latest stable release of [Debian
 Currently I do not have a wireless network card for my linux box so I have yet to set up any sources for updates etc and have yet to make the box visible on my network. My next step is probably to plug the machine directly into my wireless router and make it visible. Then configuring Apt to use FTP or HTTP and install Samba.
 
 Once I have the box visible via a cabled connection then perhaps I’ll take the next step, purchasing a suitable wireless network card and configuring it. Off to google that right now… I’ll let you know how I get on.
-
-Tagged: [Web development](/tag/web-development)

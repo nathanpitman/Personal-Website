@@ -10,5 +10,3 @@ tags:
 It’s my birthday.., it’s my birthday… It’s my birthday, it’s my biiiirthdaaay… do do, do do do do, do do do do…
 
 Sorry, that was a rather self indulgent post. :)
-
-Tagged: [Personal](/tag/personal)

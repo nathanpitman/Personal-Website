@@ -17,5 +17,3 @@ On a daily basis this role job would focus on supporting 2 new media developers 
 The ideal candidate will have at least 1 years commercial experience using HTML, CSS and JavaScript, and be happy to learn more about languages such as ActionScript and Lingo. Experience with the Macromedia Studio MX suite is an absolute must and a basic knowledge of Macromedia Director would be a plus.
 
 Salary dependant on experience. If you’re interested, then email me at work:
-
-Tagged: [Design](/tag/design), [Jobs](/tag/jobs)

@@ -15,5 +15,3 @@ Looks like [they](https://web.archive.org/web/20091214135253/http://www.macromed
 Very strange to finally see things starting to happen, but kinda exciting at the same time.
 
 **Update:** Even more interesting is [some discussion](https://web.archive.org/web/20091214135253/http://www.visible-form.com/blog/000230.html) of plans to integrate the PDF and SWF formats.
-
-Tagged: [Adobe](/tag/adobe), [Branding](/tag/branding)

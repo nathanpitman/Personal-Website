@@ -17,5 +17,3 @@ One of these ‘tweaks’ involved a total rewrite of logic behind a section (Ye
 According to the maual, this should have worked without complaint, to begin with it did. However as I continued to link my existing entries to the relevant event records I stumbled across some weirdness. A quick search on the [Expression Engine forums](https://web.archive.org/web/20100107191424/http://www.pmachine.com/forums/) turned up [a thread](https://web.archive.org/web/20100107191424/http://www.pmachine.com/forums/viewthread/32405/) which documented a similar problem, I posted a response outlining my problem and within a few hours of that initial posting I have a patched file from the development team which fixes the bug.
 
 That is *great* customer service.
-
-Tagged: [Chatter](/tag/chatter), [Web development](/tag/web-development)

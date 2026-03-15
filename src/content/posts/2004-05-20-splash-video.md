@@ -13,5 +13,3 @@ Well, Neve had so much fun in the bath last night, I thought I would share her s
 The video was recorded using a Casio QV-R40 Digital Camera, imported into Flash MX 2004 Pro, and then exported as an FLV which has been embedded into a Flash Media Playback Component.
 
 **Note:** I’ve optimised the FLV for broadband (256k) playback.
-
-Tagged: [Flash](/tag/flash), [Personal](/tag/personal)

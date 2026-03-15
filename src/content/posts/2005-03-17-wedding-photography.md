@@ -13,5 +13,3 @@ I just finished working on a site for a cohort of mine. Mr Simon Kemp is perhaps
 ![Hyde-end Studios Website](/images/86.jpg "Hyde-end Studios Website")
 
 Let me know what you think.
-
-Tagged: [Code](/tag/code), [Design](/tag/design)

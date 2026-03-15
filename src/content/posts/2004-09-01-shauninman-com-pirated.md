@@ -16,5 +16,3 @@ Oh yes, this is where I saw it…
 ![The original](/images/58.jpg "The original")
 
 Correct me if I’m wrong (Which I don’t think I am), I reckon [Shaun Inman](https://web.archive.org/web/20091209025501/http://www.shauninman.com/) has been pirated. :/
-
-Tagged: [Design](/tag/design)

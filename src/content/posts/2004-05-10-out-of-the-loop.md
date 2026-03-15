@@ -17,5 +17,3 @@ However; this morning after feeding the [milk monster](https://web.archive.org/w
 Mike Chambers has put together [a nice standalone Flash Application](https://web.archive.org/web/20091231014939/http://www.markme.com/mesh/archives/004880.cfm) for displaying the most recent posts to the Macromedia XML News Aggregator. It’s called **MXNA Feed Scroller** (catchy!) and uses the MXNA web service API to populate itself. You can download the source code and tinker with it to your hearts content. Nice work!
 
 Right, better go. I think I can hear the milk monster waking.
-
-Tagged: [Flash](/tag/flash), [Technology](/tag/technology)

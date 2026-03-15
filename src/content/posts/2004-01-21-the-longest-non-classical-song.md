@@ -12,5 +12,3 @@ Whilst listening to some of our old favourite tracks the other night Jo and I st
 However, a quick search through our music folder revealed much longer tracks from artists such as Orbital and Spiritualized. ‘Cop shoot cop…’ is the last track on the [Spiritualized album ‘Ladies & Gentlemen We Are Floating In Space’](https://web.archive.org/web/20090608030604/http://www.amazon.co.uk/exec/obidos/ASIN/B000024B0E/qid=1074604671/sr=1-1/ref=sr_1_11_1/026-7723364-5642057) and is an impressive 16 minutes.
 
 What is the longest ‘non-classical’ song?
-
-Tagged: [Personal](/tag/personal)

@@ -15,5 +15,3 @@ The [Comment Adder Panel](https://web.archive.org/web/20100107203335/http://www.
 Comment Block, To Do, Bug, Kludge, Tricky
 
 It also has the option to include your signature and a date/timestamp. Very handy indeed.
-
-Tagged: [Extensions](/tag/extensions), [Flash](/tag/flash)

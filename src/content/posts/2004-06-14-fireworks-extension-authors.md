@@ -9,5 +9,3 @@ tags:
 ---
 
 Links to Fireworks Extension Authors have moved to the ‘“source // extensions”:http://www.nathanpitman.com/source/extensions.php’ section, but are also replicated on the in progress ‘“fireworks developer network”:http://www.nathanpitman.com/fdn/’ page. Just so you know where to go looking.
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

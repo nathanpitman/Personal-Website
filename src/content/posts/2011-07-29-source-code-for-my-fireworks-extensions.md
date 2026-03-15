@@ -13,5 +13,3 @@ I will warn you, this ain’t going to be pretty but a few people have been aski
 > [FireworksExtensionsSource.zip](https://web.archive.org/web/20110806142621/http://nathanpitman.com/files/FireworksExtensionsSource.zip)
 
 I simply have no interest in writing extensions for Fireworks anymore… hopefully someone else might be able to pick these up and do something positive with them.
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

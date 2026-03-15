@@ -44,5 +44,3 @@ We work on Mac OS X and with (X)HTML, CSS, JavaScript, XML, PHP and MySQL. Our d
 - AJAX and DOM scripting
 
 Please [send us an e-mail](https://web.archive.org/web/20091226075110/mailto:jobs@design-ontap.co.uk?subject=Nathan&nbsp;sent&nbsp;me) (absolutely no CVâs please) to let us know why youâre the person for the job, together with a list of websites you have worked on, your involvement with them and what you like to get up to in your spare time.Good Luck! Design Ontap.
-
-Tagged: [Jobs](/tag/jobs)

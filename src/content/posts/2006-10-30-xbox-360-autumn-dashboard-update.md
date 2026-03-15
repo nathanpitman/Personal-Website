@@ -20,5 +20,3 @@ First thing I headed off to check was the new Live Arcade menu area, there are s
 Video streaming from my Windows XP box works a treat though videos have to be plain vanilla Windows Media Video (WMV) to show up in the 360 media blade. ~~Thankfully it’s an easy (albeit lengthy) task to take any DivX encoded AVI’s and convert them to WMVs using Windows Movie Maker (or whatever it’s called).~~
 
 **Update:** Actually, although it’s easy, the results are piss poor. Instead I suggest you take a look at the rather brilliant write up on Joystiq.com RE [Transcoding & streaming videos on Xbox 360](https://web.archive.org/web/20100106033109/http://www.joystiq.com/2006/11/07/how-to-transcode-and-stream-videos-on-xbox-360/). Not only is it considerably faster than using Windows Movie Maker, but the results are infiniteley better too! :)
-
-Tagged: [Consoles](/tag/consoles)

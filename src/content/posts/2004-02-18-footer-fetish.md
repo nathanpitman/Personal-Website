@@ -12,5 +12,3 @@ It’s official, I have a footer fetish. I ‘like’ sites with nice footers. I
 So.., I’m going to start compiling a list of sites with nice footers. Headers don’t count, I’m only into footers, although a good ‘header & footer’ combo can do the trick.
 
 Help me on my way to recovery, point me in the direction of some footer goodness. Thanks.
-
-Tagged: [Design](/tag/design)

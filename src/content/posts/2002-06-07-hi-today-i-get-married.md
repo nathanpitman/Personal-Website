@@ -8,5 +8,3 @@ tags:
 ---
 
 Woohoo!
-
-Tagged: [Personal](/tag/personal)

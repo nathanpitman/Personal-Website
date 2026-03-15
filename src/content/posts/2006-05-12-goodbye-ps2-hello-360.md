@@ -19,5 +19,3 @@ In many ways the decision to finally go out and get a 360 has been fuelled by th
 The PS3 will launch come November and will most likely be the most fantastic console to ever grace retailers shelves. But factor in the entry price, and consider whether Sony can really pull off the whole ‘Live’ experience to (and beyond) the standard which Microsoft have set. One things for sure, competition in the marketplace is good for us players, it’s certain to push our respective chosen brands to give us that little bit more.
 
 Oh, and my gamer tag is ‘ninefour’ is you fancy kicking my ass at PGR3. :)
-
-Tagged: [Consoles](/tag/consoles), [Personal](/tag/personal)

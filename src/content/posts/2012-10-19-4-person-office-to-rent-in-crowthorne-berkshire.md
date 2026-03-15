@@ -22,5 +22,3 @@ They’ve been great landlords so we’d like to help them out. Here are the det
 - Available on a license to occupy basis (no business rates or services to pay for!) at £500 PCM with one months notice.
 
 If you’re interested or know someone that might be point them in my direction or [contact Patrick directly through their website](https://web.archive.org/web/20121027044223/http://www.bancroftdevelopments.com/contact-us.php). Just tell them I sent you. :)
-
-Tagged: [Personal](/tag/personal)

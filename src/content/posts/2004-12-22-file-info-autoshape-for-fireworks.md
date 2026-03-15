@@ -29,5 +29,3 @@ Properties include:
 - Fireworks Version
 
 Very smart.
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

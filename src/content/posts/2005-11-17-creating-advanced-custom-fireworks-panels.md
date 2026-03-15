@@ -20,5 +20,3 @@ It’s well worth a read, includes tutorial and sample files and covers;
 - Taking advantage of Fireworks events
 
 Nice work Trevor. :)
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

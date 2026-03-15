@@ -12,5 +12,3 @@ The [Redesigned Mozilla site](https://web.archive.org/web/20090527173340/http://
 ![Mozilla Redesign](/images/59.jpg "Mozilla Redesign")
 
 Simple, clean and fresh.
-
-Tagged: [Design](/tag/design)

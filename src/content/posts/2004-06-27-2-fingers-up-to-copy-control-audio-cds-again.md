@@ -25,5 +25,3 @@ In conclusion The Register makes this very valid point:
 With copy-crippled CDs, people buy less music and manufacturers sell less equipment. And eventually the industry will realize it can make more money by ceasing to pursue doomed attempts to prevent copying music.
 
 Well put.
-
-Tagged: [Personal](/tag/personal), [Technology](/tag/technology)

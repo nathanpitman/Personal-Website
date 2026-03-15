@@ -14,5 +14,3 @@ In general we need between 3 and 4 weeks notice to fit any significant new work 
 `<p class="availability">Were available to work on new projects from the 21st of March 2009.</p>`
 
 Simple really but I just thought I’d share.
-
-Tagged: [Web development](/tag/web-development)

@@ -51,5 +51,3 @@ We work on Mac OS X and with (X)HTML, CSS, JavaScript, XML, PHP and MySQL. Our d
 Please send us an [e-mail](https://web.archive.org/web/20100424235628/mailto:jobs@iq-development.com?subject=Application%20from%20nathanpitman.com) to let us know why you’re the person for the job, together with a list of websites you have worked on, your involvement with them, and what you like to get up to in your spare time.
 
 Good Luck! IQ Development.
-
-Tagged: [Jobs](/tag/jobs)

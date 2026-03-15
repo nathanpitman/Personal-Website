@@ -11,5 +11,3 @@ tags:
 ![All the best blogs have favicons](/images/23.jpg "All the best blogs have favicons")
 
 Oh yes they do.
-
-Tagged: [Design](/tag/design), [Personal](/tag/personal)

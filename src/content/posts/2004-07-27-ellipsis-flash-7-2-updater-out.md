@@ -16,5 +16,3 @@ Macromedia have gone public with the [Ellipsis updater](https://web.archive.org/
 - Over 100 bug fixes. Read the details in the [release notes](https://web.archive.org/web/20100106035300/http://www.macromedia.com/support/documentation/en/flash/mx2004/releasenotes.html).
 
 The updater can be downloaded from the [Flash Support Center](https://web.archive.org/web/20100106035300/http://www.macromedia.com/software/flash/special/7_2updater/).
-
-Tagged: [Flash](/tag/flash)

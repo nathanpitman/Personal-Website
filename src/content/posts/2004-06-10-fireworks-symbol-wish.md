@@ -12,5 +12,3 @@ I wish Fireworks had the ability to edit symbols in place as you can in Flash. A
 ![Edit in place](/images/22.jpg "Edit in place")
 
 There’s already space for the required changes to the interface, my mockup above shows how the breadcrumb for the symbol editing could easily slot in next to the export preview buttons. :)
-
-Tagged: [Fireworks](/tag/fireworks)

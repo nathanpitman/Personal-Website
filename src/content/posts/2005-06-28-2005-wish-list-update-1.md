@@ -17,5 +17,3 @@ Way back in December last year when it was ‘neat-n-trendy’ to post wish list
 4. -I could find the time to finish reading [Are You Dave Gorman?](https://web.archive.org/web/20090529015654/http://www.amazon.co.uk/exec/obidos/ASIN/0091884713/)-
 
 Yes, I finally found the time to finish reading [Are You Dave Gorman?](https://web.archive.org/web/20090529015654/http://www.amazon.co.uk/exec/obidos/ASIN/0091884713/). What a fantastic book, it’s taken me the best part of a year to finish but perhaps this has made it even more enjoyable.
-
-Tagged: [Personal](/tag/personal)

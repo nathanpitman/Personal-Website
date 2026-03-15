@@ -24,5 +24,3 @@ If this sounds like you, then get in touch.
 You are an experienced creative and youâll have a portfolio that demonstrates your ability to create great brands with campaignability. Youâll love presenting your ideas & keeping your projects ship shape. Youâve got passion & skills to motivate, youâre a team player & believe you can build on the fantastic work weâve produced so far.
 
 If this position sounds right up your street then get in touch.
-
-Tagged: [Jobs](/tag/jobs)

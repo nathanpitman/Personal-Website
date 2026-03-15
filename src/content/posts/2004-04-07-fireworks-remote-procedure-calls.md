@@ -15,5 +15,3 @@ Macromedia has made documentation available online for the [Fireworks Remote Pro
 Nearly anything that can be done by a JavaScript program running inside of Fireworks can be done by an application via the Fireworks RPC. For example, an application running on the same machine as Fireworks can open Fireworks documents, slice them, optimize them, and then export them; or the application can create a new Fireworks document, draw into it, and then preview it in a browser.”
 
 Pretty neat stuff I’m sure you will agree. Hopefully we’ll see some developers taking advantage of this in the not so distant future.
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

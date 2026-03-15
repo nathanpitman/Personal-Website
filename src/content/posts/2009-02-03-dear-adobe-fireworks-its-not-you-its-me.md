@@ -17,5 +17,3 @@ You started spending a lot of time changing your look, diluting your true self w
 That’s not who I fell in love with and I just can’t live with it anymore, I need to get out there and find someone who really understands my needs. I’m sorry but it’s over.
 
 **Update:** [An open letter to software developers RE Adobe Fireworks](https://web.archive.org/web/20090518024120/http://nathanpitman.com/journal/567/an-open-letter-to-software-developers-re-adobe-fireworks)
-
-Tagged: [Adobe](/tag/adobe), [Fireworks](/tag/fireworks)

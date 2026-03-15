@@ -16,5 +16,3 @@ It’s be a pretty hard month, I don’t think anything ever quite prepares you 
 This morning Neve smiled at me for the first time as I said goodbye before leaving for work.
 
 I’m a very happy person. :)
-
-Tagged: [Personal](/tag/personal)

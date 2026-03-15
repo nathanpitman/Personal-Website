@@ -13,5 +13,3 @@ According to Kleanthis Economou (Project Fireworks), [FireFrame](https://web.arc
 The package includes 100 ready made photo frame effects, and even allows the user to add their own frames.
 
 This is the first commercial extension that Kleanthis has released, following the recent trend to charge for extensions.
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

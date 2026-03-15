@@ -23,5 +23,3 @@ Very exciting stuff.
 - [Demo Video](https://web.archive.org/web/20090801030707/http://www.nathanpitman.com/blog/images/uploads/moock_fp8_med.wmv) (14.5mb 320×240, 30fps)
 
 **Update:** Kevin Lynch has posted on [his blog](https://web.archive.org/web/20090801030707/http://www.klynch.com/archives/000072.html) about his presentation in Tokyo.
-
-Tagged: [Flash](/tag/flash)

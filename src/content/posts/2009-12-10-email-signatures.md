@@ -12,5 +12,3 @@ Email signatures are a mess, every email app handles them differently… you hav
 Signatures could live in the ‘cloud’ and you could pass variables in the http request to determine exactly how the signature should be returned. A web service could be used to serve signatures with dynamic content or you could simply place a static .txt or .html file on your web server.
 
 Would it really be that hard to sort this out?
-
-Tagged: [Chatter](/tag/chatter)

@@ -26,5 +26,3 @@ The browser tests don’t *always* seem to work as expected, asking SiteVista to
 I’d be interested to know a little more about the set-up behind SiteVista, is there a factory full of monkeys hurridly typing in URLs and hitting ‘print screen’ or (more likely) some hefty server side scripting going on. I’m sure [Paul, David and Matt](https://web.archive.org/web/20110426030905/http://www.salted.com/about-us) can enlighten us if prodded.
 
 So, in conclusion, SiteVista is a tidy little application, if you don’t want the hassle of maintaining numerous versions of IE, and having to shell out for a Mac, ‘just for testing’ then [go get yourself an account](https://web.archive.org/web/20110426030905/http://www.sitevista.com/signup.asp).
-
-Tagged: [Web development](/tag/web-development)

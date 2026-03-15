@@ -15,5 +15,3 @@ Anyhow… what I discovered when I started the PC up was quite a huge amount of 
 I just wish Dell had the option online to specify ‘please do not pre-install *any* junk’ on my PC.
 
 Are Dell the only culprits? Or are other manufacturers taking the same route…?
-
-Tagged: [Personal](/tag/personal), [Technology](/tag/technology)

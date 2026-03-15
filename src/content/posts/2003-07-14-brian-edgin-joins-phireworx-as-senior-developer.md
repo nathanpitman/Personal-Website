@@ -9,5 +9,3 @@ tags:
 ---
 
 Phireworx have announced that Brian Edgin has joined them as a Senior Developer. Brian has spent the last two and half years doing interface and new feature design on the Fireworks development team at Macromedia. Although Brian may be leaving Macromedia to pursue other opportunities, his heart is still close to Fireworks. “It is amazing how extensible Fireworks is!” Brian says, “Most of us have only begun to scratch the surface.”
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

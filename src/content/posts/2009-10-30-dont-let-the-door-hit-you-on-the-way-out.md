@@ -8,5 +8,3 @@ tags:
 ---
 
 Today is a day I will forever remember for today we are finally rid of our badly built, unreliable, fault ridden Kia Sedona. We had to endure 2 years of appalling customer service and laughable offers of recompense but this morning we took great pleasure in bidding that lump of junk a not so fond farewell. Good bye RX57 BLN, you will not be missed but I pity your next owner.
-
-Tagged: [Personal](/tag/personal)

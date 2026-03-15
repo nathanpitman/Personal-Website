@@ -19,5 +19,3 @@ All via [flex-mx.com](https://web.archive.org/web/20091227133158/http://www.flex
 *Deadend product or not, it’s been getting lots of attention… Haven’t had the chance to play around with this yet, but I’ve heard it’s on par with “CorelDRAW, Adobe Illustrator and Macromedia Freehand”.*
 
 Well, it certainly sounds interesting, I’m downloading a copy right now, so I’ll have a play when I get a chance and post some more on how it stacks up…
-
-Tagged: [Flash](/tag/flash), [Technology](/tag/technology)

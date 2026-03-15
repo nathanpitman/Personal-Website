@@ -17,5 +17,3 @@ Now, I’m not saying that this is my last post. Far from it. I’m sure I’ll 
 Perhaps without my personal site gnawing at my ankles for a post I’ll be able to find the space to pull together a website for the business and really begin to make the most of the opportunities that are presenting themselves.
 
 So, without further ado, [subscribe to the feed](https://web.archive.org/web/20091220115724/http://feeds.feedburner.com/nathanpitmandotcom) and feel free to [wander off elsewhere](https://web.archive.org/web/20091220115724/http://del.icio.us/nathanpitman/blog), and accept my apologies for the severe lack of updates over the coming months.
-
-Tagged: [Blogging](/tag/blogging), [Personal](/tag/personal)

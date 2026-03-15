@@ -20,5 +20,3 @@ Despite the home based nature of the position there is a definite requirement to
 Salary will be commensurate with your experience and you’ll also benefit from company pension contributions, a decent holiday allowance and ‘very’ flexible hours.
 
 **Interested?** Drop me an email () with some relevant work examples and an explanation of what you think you can bring to our team. **Not interested but on Twitter?** [Tweet this](https://web.archive.org/web/20090601223346/http://twitter.com/home?status=@ninefour%20looking%20to%20take%20on%20a%20web%20developer%20based%20in%20or%20around%20Berkshire%20on%20a%20perm%20basis-%20http://nathanpitman.com/586/) and help us find the right person for the job!
-
-Tagged: [Jobs](/tag/jobs)

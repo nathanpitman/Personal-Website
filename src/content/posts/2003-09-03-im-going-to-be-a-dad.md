@@ -8,5 +8,3 @@ tags:
 ---
 
 I’m going to be a Dad and today I saw our baby for the first time when we went for our 12 week Ultrasound Scan. This was the most amazing experience of my life to date I think, I never anticipated that you would be able to see so much at such an early stage.
-
-Tagged: [Personal](/tag/personal)

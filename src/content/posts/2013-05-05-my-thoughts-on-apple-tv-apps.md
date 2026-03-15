@@ -24,5 +24,3 @@ tags:
 > Apples ‘web apps only’ approach didn’t wash with the 1st iPhone because there wasn’t sufficient connectivity. Not an issue for Apple TV.
 >
 > — Nathan Pitman (@nathanpitman) [May 4, 2013](https://web.archive.org/web/20130510164106/https://twitter.com/nathanpitman/status/330634530048335872)
-
-Tagged: [Chatter](/tag/chatter), [Apple](/tag/apple), [Technology](/tag/technology)

@@ -27,5 +27,3 @@ As you can see the function call has a single argument (name) which allows the d
 ![Fireworks: Grouped History Steps](/images/18.jpg "Fireworks: Grouped History Steps")
 
 Hey, if I’m lucky a member of the Fireworks software development team might be reading my blog. :)
-
-Tagged: [Fireworks](/tag/fireworks)

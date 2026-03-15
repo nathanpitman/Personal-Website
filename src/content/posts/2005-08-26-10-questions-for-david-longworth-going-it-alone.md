@@ -70,5 +70,3 @@ In the fourth of five interviews with web designers and developers who are self 
 **David:** The most important piece of advice I can offer is that you should really have a blog/website of your own. There are two distinct advantages to this, one being you can show off you design skills while having a laugh writing and discussing with other people about whatever you like, the second is that through the links that you (might) get, you also get potential clients you your inbox. Take this answer you are reading, it would not have been here if Nathan hadnât found my email address on my site.
 
 Sites like the [CSS Reboot](https://web.archive.org/web/20110502034547/http://www.cssreboot.com/) are also a great way to get linkage. I was getting a small amount of traffic that I was pretty happy with, but you know the more the merrier – then almost overnight things exploded and I had a full inbox and lots of site activity thanks to [Benjamin Adam](https://web.archive.org/web/20110502034547/http://www.benjaminadam.com/) and his great idea.
-
-Tagged: [Employment](/tag/employment)

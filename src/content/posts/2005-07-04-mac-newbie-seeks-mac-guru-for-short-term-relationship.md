@@ -13,5 +13,3 @@ On Friday I finished up at Mirashade and today was my first day at my new place,
 The most significant change for me is that at Bite right now I’m using a Mac, I think it’s a dual G5 with about 1.5Gb of RAM, so not bad by any stretch of the imagination. **However…** as a Mac ‘OSX’ newbie I could really do with some tips. I’ve already sussed the whole ‘ExposÃ©’ thing but I really need some more tricks up my sleeve if I’m going to make passers by go ‘oooh’ and ‘aaah’ as I work my magic (hmm).
 
 **Please help me.** Tell me about the great **shortcuts you use everyday**, the **software you just cannot live without** for web development, **which IM and Mail clients you use** and finally… is it tricky to set up an IMAP server? Hmm… maybe that’s one for another day.
-
-Tagged: [Apple](/tag/apple), [Technology](/tag/technology)

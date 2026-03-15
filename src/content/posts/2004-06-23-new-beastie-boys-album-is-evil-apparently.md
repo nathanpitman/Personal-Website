@@ -18,5 +18,3 @@ It seems that Capitol Records has some sort of new copy protection system, that 
 I’m not sure exactly what it does yet, but I am sure regreting actually purchasing said media now… they don’t deserve my money if they choose to pull stupid stunts like this. Installing software without your permission sounds like viral malware behaviour to me. I certainly hope the AV companies put signatures into their products for this crap.
 
 I reminds me of my [experience](https://web.archive.org/web/20100903195055/http://www.nathanpitman.com/blog/index.php?id=34) with another audio CD some months back.
-
-Tagged: [Technology](/tag/technology)

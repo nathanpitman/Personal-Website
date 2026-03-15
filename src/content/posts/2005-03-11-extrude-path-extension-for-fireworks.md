@@ -13,5 +13,3 @@ Check out Trevors new [Extrude Path Command](https://web.archive.org/web/2009081
 ![Fun with Trevors Extrude Command](/images/84.gif "Fun with Trevors Extrude Command")
 
 Extrude a single selected vector path vertically at a specified height.
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

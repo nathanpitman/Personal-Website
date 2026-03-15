@@ -16,5 +16,3 @@ The fact that just over a month after switching from Santander to HSBC I’m alr
 - **Beneficiaries:** Want to use the HSBC online banking system to maintain a beneficiary list where two beneficiaries might have the same sort code and account number, forget it. You can’t do that. As much as I hate to say it – even Santander could manage this one. The problem here isn’t so much that the ‘legacy system’ behind the front end can’t handle multiple beneficiaries with the same account number and sort code, the problem is the user interface… rather that spouting a useless error code (HE7) at me why not just tell me what the problem is and advise as to how I can work around it.
 
 This is an ongoing list which I’ll no doubt be adding to!
-
-Tagged: [Chatter](/tag/chatter), [Design](/tag/design), [Web applications](/tag/web-applications)

@@ -27,5 +27,3 @@ For our most recent project we have devised the following list:
 > [Safari 1.2](https://web.archive.org/web/20111009203526/http://www.apple.com/safari/)
 
 How does this compare to your browser devlopment list? Let me know…
-
-Tagged: [Technology](/tag/technology), [Web development](/tag/web-development)

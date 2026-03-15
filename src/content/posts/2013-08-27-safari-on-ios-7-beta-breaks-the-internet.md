@@ -19,5 +19,3 @@ Of course by the time a user has clicked once (which apparently results in somet
 Genius!
 
 And yes, I know… NDA.
-
-Tagged: [Design](/tag/design), [Apple](/tag/apple), [Rant](/tag/rant), [Web development](/tag/web-development)

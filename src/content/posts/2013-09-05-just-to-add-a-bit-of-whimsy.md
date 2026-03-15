@@ -12,5 +12,3 @@ Drag this bookmarklet link to your bookmarks bar in Google Chrome, browse to [Ya
 [Whimsy!](javascript:document.body.style.webkitTransform="rotate(9deg)";void(0);)
 
 You’re welcome.
-
-Tagged: [Humour](/tag/humour)

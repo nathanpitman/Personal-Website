@@ -12,5 +12,3 @@ More often than not I find myself building websites with the outlook of developi
 **So my question is this;** Should we be actively developing for tomorrow, not today, using new technology wherever possible and providing only those with bleeding edge browsers (Safari 3 & Firefox 3) with the perfect experience? Is it now acceptable to present users of yesterdays, and even today’s web browsers with a degraded experience?
 
 Consider that most websites might have a shelf life of 2 – 3 years, and you soon realise that the website you are developing might only be viewed using today’s web browsers for 6 months of it’s life, with the majority then migrating to Internet Explorer 7 and 8 (or whatever it may be) and dilapidated browsers like Internet Explorer 6 fading into the dark and distant background.
-
-Tagged: [Web development](/tag/web-development)

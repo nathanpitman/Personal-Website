@@ -86,5 +86,3 @@ The day is also punctuated with copious cups of tea, or diet coke. I don’t hav
 **Nathan:** And finally, what single tip would you give to someone who is considering going freelance to help make the leap into the unknown that little less daunting?
 
 **Jon:** It may be hard work and stressful at times, but the sheer satisfaction is unmissable. After a while you look back and realise that you’re doing everything yourself, and your only ‘boss’ is your client. You can’t beat that feeling – trust me! If you never make that leap, you’ll never get to experience it.
-
-Tagged: [Employment](/tag/employment)

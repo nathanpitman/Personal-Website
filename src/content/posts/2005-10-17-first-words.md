@@ -33,5 +33,3 @@ And the favourite…
 - **No** (Accompanied by shaking of the head)
 
 I know a bunch of you have children at a similar age, so what funny phrases and sayings do yours have?
-
-Tagged: [Family](/tag/family)

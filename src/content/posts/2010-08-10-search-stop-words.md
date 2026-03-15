@@ -12,5 +12,3 @@ While writing a simple search plug-in for [ExpressionEngine](https://web.archive
 > **Download:** [search\_stop\_words.csv](https://web.archive.org/web/20100823010421/http://nathanpitman.com/files/search_stop_words.csv)
 
 Have fun! :)
-
-Tagged: [Web development](/tag/web-development)

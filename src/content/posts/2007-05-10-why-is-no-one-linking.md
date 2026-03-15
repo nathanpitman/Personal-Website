@@ -24,5 +24,3 @@ I can only imagine that this behaviour is dictated because the news provider in 
 This couldn’t be further from [the truth](https://web.archive.org/web/20100329135233/http://www.linkingmatters.com/StepByStepLinkingStrategy-3.html). Make it easy for your users to ‘get at’ the information they’re after by placing it inline and they will feel that your website is more useful, relevant and worth revisiting. It’s not rocket science.
 
 **So, again I ask: Why is no one linking?**
-
-Tagged: [Chatter](/tag/chatter)

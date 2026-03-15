@@ -13,5 +13,3 @@ I just finished working on ‘another’ site for the wife of a cohort of mine. 
 ![Devant Website](/images/87.jpg "Devant Website")
 
 Let me know what you think.
-
-Tagged: [Code](/tag/code), [Design](/tag/design)

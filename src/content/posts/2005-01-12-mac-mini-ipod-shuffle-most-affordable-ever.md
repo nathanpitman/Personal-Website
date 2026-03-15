@@ -17,5 +17,3 @@ First up is the [Mac mini](https://web.archive.org/web/20091209052931/http://www
 Next up is the [iPod shuffle](https://web.archive.org/web/20091209052931/http://www.apple.com/uk/ipodshuffle/), although I reckon a [Capcom](https://web.archive.org/web/20091209052931/http://www.capcom.com/) Streetfighter inspired tag of ‘Super iPod mini’ woulda worked just as well, then the 1Gb model coulda been called the ‘Super iPod mini turbo edition’.
 
 The iPod shuffle does away with all the cleverness and keeps things simple. You load your tracks, it shuffles them. Not entirely sure how that might work out but it could be kinda cool I think, and for only ï¿½69 I could well bring myself to snap one up as soon as just for the hell of it. :)
-
-Tagged: [Design](/tag/design), [Technology](/tag/technology)

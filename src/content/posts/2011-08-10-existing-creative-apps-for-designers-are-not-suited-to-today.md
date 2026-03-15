@@ -14,5 +14,3 @@ tags:
 [![](/images/project_meteor.png)](https://web.archive.org/web/20110817004950/http://projectmeteor.org/)
 
 [Project Meteor](https://web.archive.org/web/20110817004950/http://projectmeteor.org/) is a campaign for the web design app we all need, if you agree that current tools don’t cut it – visit the site and add your voice to the campaign by tweeting for the cause.
-
-Tagged: [Adobe](/tag/adobe), [Design](/tag/design), [Fireworks](/tag/fireworks)

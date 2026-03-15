@@ -18,5 +18,3 @@ It never ceases to amaze me how many amazing add-ons there are for ExpressionEng
 - [Solspace Freeform](https://web.archive.org/web/20120809232737/http://www.solspace.com/software/license/freeform/free/) (Log-in required for free version)
 
 This is an evolving list, I’ll update and amend it as I go… and let me know in the comments if you think I’m missing anything obvious. :)
-
-Tagged: [ExpressionEngine](/tag/expressionengine)

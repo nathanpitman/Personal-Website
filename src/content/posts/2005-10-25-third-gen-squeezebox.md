@@ -13,5 +13,3 @@ tags:
 ![3rd gen Squeezebox is gorgeous](/images/116.jpg "3rd gen Squeezebox is gorgeous")
 
 The design combines brushed aluminium, solid steel and a highly polished surface through which you can view the 320×32 pixel greyscale display. Excellent, I want one!
-
-Tagged: [Design](/tag/design), [Technology](/tag/technology)

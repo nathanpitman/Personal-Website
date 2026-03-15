@@ -19,5 +19,3 @@ You will maintain existing client websites alongside working on several new, exc
 We’re a young, sociable, 20-person company based near Windsor Castle and you can easily get here from either London (Waterloo/Paddington) or Reading.
 
 If you think you’re a Rawnet person then please email [DeveloperCV@rawnet.com](https://web.archive.org/web/20091214165024/mailto:DeveloperCV@rawnet.com?subject=Application%20for%20Coldfusion%20dev%20from%20nathanpitman.com) and attach your CV and a covering letter. If you have a website/blog then please include the URL. We expect to be able to Google you!
-
-Tagged: [Jobs](/tag/jobs)

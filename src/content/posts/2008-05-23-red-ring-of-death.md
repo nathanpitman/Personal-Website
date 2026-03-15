@@ -23,5 +23,3 @@ Apparently it should take 3 weeks for my Xbox to be returned minus the three red
 **Update:** My Xbox 360 arrived back home today, just 1 week to the day after it left, it’s been to Germany, had the mortherboard replaced and a new faceplate (Thanks Microsoft!), the old faceplate had been vandalised by my son. I also got a months free Xbox Live Gold Membership.
 
 Add to this the fact that it’s significantly quiter when idle than it was before, I’m well impressed. Good job. :)
-
-Tagged: [Consoles](/tag/consoles), [Personal](/tag/personal)

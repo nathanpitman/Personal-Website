@@ -15,5 +15,3 @@ So, this is the first of a number of posts which will explain the how, why when 
 :)
 
 Update: [Step 1](https://web.archive.org/web/20090523190407/http://nathanpitman.com/journal/553/migrating-from-txp-to-ee-step-1), [Step 2](https://web.archive.org/web/20090523190407/http://nathanpitman.com/journal/554/migrating-from-txp-to-ee-step-2), [Step 3](https://web.archive.org/web/20090523190407/http://nathanpitman.com/journal/555/migrating-from-txp-to-ee-step-3), [Step 4](https://web.archive.org/web/20090523190407/http://nathanpitman.com/journal/556/migrating-from-txp-to-ee-step-4), [Step 5](https://web.archive.org/web/20090523190407/http://nathanpitman.com/journal/558/migrating-from-txp-to-ee-step-5), [Conclusion](/web/20090523190407/http://nathanpitman.com/journal/578/migrating-from-txp-to-ee-step-conclusion).
-
-Tagged: [ExpressionEngine](/tag/expressionengine), [Textpattern](/tag/textpattern)

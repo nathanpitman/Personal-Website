@@ -13,5 +13,3 @@ I just finished up working on a website this week for a new client ([Smile Photo
 ![Smile Photography](/images/138.jpg "Smile Photography")
 
 I’m pretty happy with it, I’m in love with the simplicity and cleanliness and I think that’s just what’s required for a site which will primarily be used by visitors once only to browse and order prints.
-
-Tagged: [Code](/tag/code), [Design](/tag/design)

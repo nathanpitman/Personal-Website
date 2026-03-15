@@ -13,5 +13,3 @@ I’ve done a bit of an upgrade, I’ve finally gotton round to implimenting ‘
 I’ve pulled across all previous blog entries, but have yet to drag the comments across.
 
 If anything looks pear shaped or positively odd, please let me know. :)
-
-Tagged: [Personal](/tag/personal), [Textpattern](/tag/textpattern)

@@ -12,5 +12,3 @@ This week I had a rather nice email from a lady called Alice at Packt Publishing
 The book, written by [Leonard Murphy](https://web.archive.org/web/20090521150001/http://www.leonardmurphy.co.uk/) is aimed at [ExpressionEngine](https://web.archive.org/web/20090521150001/http://www.expressionengine.com/index.php?affiliate=nathanpitman) beginners. Alice has been kind enough to send me a copy for review so once I’ve had a chance to read it I’ll report back and let you know my thoughts.
 
 In the mean time why not take a look at a [sample chapter](/web/20090521150001/http://nathanpitman.com/files/3797_ExpressionEngine_Sample_Chapter.pdf).
-
-Tagged: [ExpressionEngine](/tag/expressionengine)

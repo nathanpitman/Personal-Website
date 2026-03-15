@@ -32,5 +32,3 @@ Extensive experience in full scale web and interactive media builds, as well as 
 - Pension contributions
 
 If you would like to work for us please get in touch with us at [careers@volume.co.uk](https://web.archive.org/web/20100117024957/mailto:careers@volume.co.uk) with your CV. For more company information visit [www.volume.co.uk](https://web.archive.org/web/20100117024957/http://www.volume.co.uk/)
-
-Tagged: [Jobs](/tag/jobs)

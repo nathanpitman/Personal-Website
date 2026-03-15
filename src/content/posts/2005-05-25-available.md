@@ -26,5 +26,3 @@ I’m based in the **UK** and not looking to leave any time soon. Specifically t
 ### What next?
 
 Well, perhaps you know of an opportunity, know of someone who might know of an opportunity or know of someone who might know of someone who might know of an opportunity… you get the idea… simply leave a comment in response to this post, or **get in touch** with me via any of the contact methods detailed in [my CV](/web/20090924123225/http://nathanpitman.com/files/nathan_cv_05_05_web.pdf).
-
-Tagged: [Employment](/tag/employment)

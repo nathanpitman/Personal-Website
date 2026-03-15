@@ -42,5 +42,3 @@ You should now have a nice unordered list displaying your 10 most recent Delicio
 If you need to you can also tweak the number of minutes that the plug-in waits before it refreshes the feed display, I’d opt for 60 minutes. The Magpie plug-in defaults to 3 hours if you don’t specify a refresh value.
 
 [Conclusion…](/web/20090518092434/http://nathanpitman.com/journal/578/migrating-from-txp-to-ee-step-conclusion)
-
-Tagged: [ExpressionEngine](/tag/expressionengine), [Textpattern](/tag/textpattern)

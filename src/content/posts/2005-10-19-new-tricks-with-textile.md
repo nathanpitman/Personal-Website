@@ -25,5 +25,3 @@ So, I took a poke about in the textile class file and discovered that ‘Textile
 Well I have no idea what ‘encode’ (URL encode maybe) and ‘strict’ do but ‘image’ will remove images and ‘lite’ prevents textile from wrapping it’s output in paragraph tags.
 
 Success!
-
-Tagged: [Code](/tag/code), [Textpattern](/tag/textpattern)

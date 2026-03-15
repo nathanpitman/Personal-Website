@@ -10,5 +10,3 @@ tags:
 On Monday I reached the grand old age of 26…, it’s really quite depressing to realise that I’m now well on my way to 30.
 
 There was a time when I felt young, I had the whole rest of my life ahead of me, but now I feel like I’m up against the clock, every minute, day, week and month counts.
-
-Tagged: [Personal](/tag/personal)

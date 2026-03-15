@@ -13,5 +13,3 @@ I hear from [Steven Grosvenor](https://web.archive.org/web/20090616203441/http:/
 ![Twist and Fade 2004](/images/65.jpg "Twist and Fade 2004")
 
 It’s been a long time in development but should make an appearance in early October 2004.
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

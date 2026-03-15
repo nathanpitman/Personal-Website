@@ -29,5 +29,3 @@ I’ll be publishing the views of these individuals over the next week or so, bu
 > Well… I’m sure you all know of Mr Hicks. He’s done all sorts of neat things and seems to be pretty respected around these parts.
 
 So, that’s the feisty five. Keep your eyes peeled. The first answers will be published shortly.
-
-Tagged: [Employment](/tag/employment)

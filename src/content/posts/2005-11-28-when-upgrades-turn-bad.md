@@ -31,5 +31,3 @@ Last resort, I do a quick search on google for ‘“PFD700”:http://www.google
 Not exactly the *correct* route, but in absence of any proper telephone support, it seemed the only logical option.
 
 **Update:** Drew is indeed right, seems I was using serials from a NFR (Not for Resale) copy of Studio MX. However there are a [bunch of other products you can upgrade from](https://web.archive.org/web/20090526172108/http://www.macromedia.com/store/en_gb/popup/software/studio/upgrade_eligibility.html).
-
-Tagged: [Adobe](/tag/adobe), [Technology](/tag/technology)

@@ -16,5 +16,3 @@ There are also some additional parameters you can pass that are detailed in the 
 > **Download:** [pi.np\_us\_states\_select.php.zip](/web/20090518024109/http://nathanpitman.com/files/pi.np_us_states_select.php.zip)
 
 Obviously let me know in the comments if you have any thoughts on how this can be improved. Enjoy!
-
-Tagged: [ExpressionEngine](/tag/expressionengine)

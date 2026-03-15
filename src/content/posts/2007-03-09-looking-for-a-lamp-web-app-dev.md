@@ -20,5 +20,3 @@ If youâre interested, please [contact us](https://web.archive.org/web/20100
 5. List of previous projects (with URLs) and your exact involvement
 
 **Looking forward to hearing from you!**
-
-Tagged: [Jobs](/tag/jobs)

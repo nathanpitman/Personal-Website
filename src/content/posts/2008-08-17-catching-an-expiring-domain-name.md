@@ -46,5 +46,3 @@ A week later I was regularly refreshing the SnapNames auction page to check the 
 With less than 10 minutes to go I’m outbid. I was gutted, all of a sudden from nowhere the other bidder had upped the ante. After a few minutes Jo and I decided to up our maximum bid. SnapNames extends the auction end time by 5 minutes every time a new winning bid is placed so we knew we had to be bold. We entered a maximum bid of $800 and sat tight. 10 minutes or so later we were the proud new owners of [ninefour.com](https://web.archive.org/web/20090714120858/http://www.ninefour.com/), the final bid being $579.
 
 It was more than we had hoped to spend but I think it was worth it. As a business your brand is probably one of your most valuable assets (in addition to your employees!) so in that context $579 seems like a small price to pay. Certainly beats $25,000!
-
-Tagged: [Branding](/tag/branding)

@@ -13,5 +13,3 @@ I’ve finished the Fireworks ‘Main Toolbar’ Command Panel and it’s now av
 ![Snazzy new Fireworks Main Toolbar](/images/40.jpg "Snazzy new Fireworks Main Toolbar")
 
 The panel is a SWF command panel version of the Main Toolbar in Fireworks. It’s more compact and better looking than the default Main Toolbar (I ‘stole’ the icons from ‘Dreamweaver MX 2004’). I Dock it above the Optimize panel for easy access.
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

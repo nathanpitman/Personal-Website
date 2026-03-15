@@ -13,5 +13,3 @@ Another website I’ve been working on recently just went live. [Pro-Bel](https:
 ![Pro-Bel - Engineering the Broadcast Future](/images/139.jpg "Pro-Bel - Engineering the Broadcast Future")
 
 I rolled their new website using [Expression Engine](https://web.archive.org/web/20090524024915/http://www.expressionengine.com/index.php?affiliate=nathanpitman) for Content Management. It’s a great off the shelf CMS with huge flexibility so I’m feeling like I made [the right decision](https://web.archive.org/web/20090524024915/http://nathanpitman.com/journal/404/) in selecting it way back in October. :)
-
-Tagged: [Design](/tag/design), [Web development](/tag/web-development)

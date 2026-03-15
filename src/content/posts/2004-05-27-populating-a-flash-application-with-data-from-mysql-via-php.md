@@ -13,5 +13,3 @@ There’s a [great new tutorial](https://web.archive.org/web/20090709182853/http
 ![Database driven Flash Application](/web/20090709182853im_/http://nathanpitman.com/bio/images/uploads/19.jpg "Database driven Flash Application")
 
 The tutorial is written by [Sajid Saiyed](https://web.archive.org/web/20090709182853/http://blog.ssdesigninteractive.com/) of SSDesignInteractive.
-
-Tagged: [Code](/tag/code), [Flash](/tag/flash)

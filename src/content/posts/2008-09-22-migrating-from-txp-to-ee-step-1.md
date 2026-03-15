@@ -21,5 +21,3 @@ Finally, before we move on to exporting our blog entries from Textpattern we nee
 Next we’ll be looking at how to export all our blog entries from Textpattern and pull them into ExpressionEngine. :)
 
 [Next Step…](/web/20090524014744/http://nathanpitman.com/journal/migrating-from-txp-to-ee-step-2/)
-
-Tagged: [ExpressionEngine](/tag/expressionengine), [Textpattern](/tag/textpattern)

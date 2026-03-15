@@ -16,5 +16,3 @@ Macromedia have posted a nice tutorial on the Fireworks Developer Center on [cre
 4. Packaging Your Shape as a Fireworks Extension
 
 A must read for Fireworks Extension authors I’m sure.
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

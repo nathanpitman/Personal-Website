@@ -19,5 +19,3 @@ Our mission as Team Macromedia members is to provide high caliber peer-to-peer c
 I hope to contribute to Team Macromedia by continuing to foster interest amongst the community in the Extensibility of Macromedia Fireworks, and also in the continued development and ‘sharing’ of non-commercial Fireworks Extensions.
 
 Check out [my bio on the Team Macromedia pages](https://web.archive.org/web/20100106031938/http://www.macromedia.com/support/forums/team_macromedia/team_members/218.html) and keep an eye out for me on the [Fireworks forums](https://web.archive.org/web/20100106031938/http://www.macromedia.com/support/forums/fireworks/).
-
-Tagged: [Adobe](/tag/adobe), [Fireworks](/tag/fireworks)

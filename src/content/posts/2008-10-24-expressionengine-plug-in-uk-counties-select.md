@@ -18,5 +18,3 @@ I could add options to specify a class, id etc but for now this does the job jus
 > **Download:** [pi.np\_uk\_counties\_select.php.zip](https://web.archive.org/web/20090518024248/http://github.com/nathanpitman/np.uk_counties_select.ee_addon/zipball/master)
 
 Obviously let me know in the comments if you have any thoughts on how this can be improved. Enjoy!
-
-Tagged: [ExpressionEngine](/tag/expressionengine)

@@ -9,5 +9,3 @@ tags:
 ---
 
 ShapeShifter Set 2 for Fireworks MX allows you to quickly and easily add callouts and speech bubbles to your active document. It’s free to download from the [Phireworx site](https://web.archive.org/web/20110927143212/http://www.phireworx.com/).
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

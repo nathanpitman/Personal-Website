@@ -12,5 +12,3 @@ tags:
 Not really much you can say when the images themselves speak with such volume, but here I am regardless trying to think of something to write, but my mind is empty.
 
 **Update:** [This post](https://web.archive.org/web/20100105143959/http://www.clagnut.com/blog/1516/) by Richard is absolutely spot on. Well said.
-
-Tagged: [Chatter](/tag/chatter)

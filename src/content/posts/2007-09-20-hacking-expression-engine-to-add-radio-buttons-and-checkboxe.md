@@ -19,5 +19,3 @@ So, with a little help from the fanatical [EllisLab](https://web.archive.org/web
 I’ve [documented the steps that I took](https://web.archive.org/web/20090701120857/http://expressionengine.com/wiki/Enable_radio_buttons_and_checkboxes_for_custom_member_profile_fields/) in a Wiki article on the Expression Engine website. :)
 
 For further discussion on this topic please also see [the related Expression Engine discussion forum thread](https://web.archive.org/web/20090701120857/http://expressionengine.com/forums/viewthread/60304/).
-
-Tagged: [Code](/tag/code), [ExpressionEngine](/tag/expressionengine)

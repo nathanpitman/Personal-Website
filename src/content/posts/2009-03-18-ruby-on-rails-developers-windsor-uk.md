@@ -44,5 +44,3 @@ We pay a Â£1000 bonus after your three month probation if youâve come dir
 **Company Description**
 
 The largest private online dating company in the UK with offices in Windsor, Miami, New York and Sydney.
-
-Tagged: [Jobs](/tag/jobs)

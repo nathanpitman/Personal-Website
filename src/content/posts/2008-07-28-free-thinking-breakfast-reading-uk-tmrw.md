@@ -29,5 +29,3 @@ The event is tomorrow (29th) and will start at 8:00 – 8:30 and finish at 10:00
 10. Live Prize Draw; Barclays Credit Management Tool for a year, Regus Business World Card and21 days free UK accommodation
 
 **Signup here:** [http://www.sub-lime.co.uk/regus](https://web.archive.org/web/20091209035452/http://www.sub-lime.co.uk/regus)
-
-Tagged: [Chatter](/tag/chatter)

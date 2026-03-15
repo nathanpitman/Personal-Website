@@ -23,5 +23,3 @@ I thought that I’d share some of the things I have learned about being a fathe
 And finally…
 
 Nothing ever prepares you for the love that you will have for your child or the unconditional love that they will have for you, every smile and giggle will melt your heart a thousand times over.
-
-Tagged: [Family](/tag/family)

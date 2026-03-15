@@ -13,5 +13,3 @@ tags:
 *\*I think a big reason there aren’t more Auto Shapes out there is because people just don’t know how to make them. Hopefully this will shed some light on the subject.\** – Trevor McCauley.
 
 What a guy. :)
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

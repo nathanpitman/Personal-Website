@@ -33,5 +33,3 @@ Just a couple of [Basecamp](https://web.archive.org/web/20090615140727/http://ba
 > Tab Hover Background: #990099  
 > Tab Hover Text: #FFD52C  
 > Links: #03c
-
-Tagged: [Design](/tag/design), [Web applications](/tag/web-applications)

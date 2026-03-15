@@ -15,5 +15,3 @@ The Wave Auto Shape is basically an adjustable sine wave. You can change the num
 ![Wave AutoShape](/images/27.gif "Wave AutoShape")
 
 At present this extension is only available to [download from the CommunityMX site](https://web.archive.org/web/20090615074207/http://www.communitymx.com/content/article.cfm?cid=71568) although I’m sure in time it will appear on the exchange.
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

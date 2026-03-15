@@ -8,5 +8,3 @@ tags:
 ---
 
 Happy Birthday to me, today I’m 27! :)
-
-Tagged: [Personal](/tag/personal)

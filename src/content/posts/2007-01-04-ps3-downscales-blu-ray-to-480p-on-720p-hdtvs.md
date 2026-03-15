@@ -17,5 +17,3 @@ What? That is some crazy shit. To quote one of the commenter’s on the article:
 > It blows my mind that Sony put the Blu-ray drive into the PS3 as a trojan horse that I’m forced to pay for, but it can’t even support my 720P (Sony!) HD television…
 
 I’d be interested to hear from anyone out there with a PS3 as to what experience they have with playback of Blu-ray movies on a 720p HDTV.
-
-Tagged: [Consoles](/tag/consoles), [Technology](/tag/technology)

@@ -14,5 +14,3 @@ You know you need a coffee when…
 You’ve been reviewing the effects of your change at the wrong URL.
 
 **Slap!** I’m putting 3 spoonfulls of sugar in this one, might wake me up a bit. And yes, I did stop [giving up cofee](https://web.archive.org/web/20091209021210/http://nathanpitman.com/journal/323/giving-up-coffee).
-
-Tagged: [Web development](/tag/web-development)

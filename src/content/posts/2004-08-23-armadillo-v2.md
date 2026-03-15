@@ -12,5 +12,3 @@ tags:
 ![Armadillo v2](/images/53.jpg "Armadillo v2")
 
 If you don’t already frequent his blog then take a gander, not only does it look nice, but it reads well to. Nice work Drew. :)
-
-Tagged: [Design](/tag/design)

@@ -72,5 +72,3 @@ Ok, so I know I said that [Mr Oxton](https://web.archive.org/web/20091117062650/
 Thanks for the interview, Nathan!
 
 **Nathan:** No worries, thanks for your time Paul.
-
-Tagged: [Employment](/tag/employment)

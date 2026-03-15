@@ -74,5 +74,3 @@ Samba will prompt you to enter a password, do so and then run:
 `/etc/init.d/samba restart`
 
 …to restart Samba. Once this is done fire up ‘My network places’ (Windows XP) and select ‘View workgroup computers’. You should see a machine called ‘Samba’. Select this and you should see a couple of available shares, select ‘sites’ and enter the username and password you gave Samba (above) to connect. Voila.
-
-Tagged: [Web development](/tag/web-development)

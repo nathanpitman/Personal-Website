@@ -17,5 +17,3 @@ It’s like 1 step forward, 2 steps back.., great I can manage my content from a
 Bah, I’ve had it, it’s ghastly, it’s horrible, is there not a CMS out there which is designed around storing my templates, snippets and CSS in the normal manner, in a simple physical folder.
 
 Rant off.
-
-Tagged: [Textpattern](/tag/textpattern), [This website](/tag/this-website)

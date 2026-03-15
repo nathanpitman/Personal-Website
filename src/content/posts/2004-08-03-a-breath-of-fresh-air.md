@@ -17,5 +17,3 @@ The initial designs were penned by Chris. I did some design development and then
 I’d love to hear your feedback and comments on any aspect of the design and implimentation. There are still some areas that need work, but we were keen to get the site ‘out there’.
 
 **Update:** Mirashade.com is now featured in the [CSS Vault](https://web.archive.org/web/20100113090659/http://cssvault.com/gallery/mirashade.php) and at [CSS Beauty](https://web.archive.org/web/20100113090659/http://www.cssbeauty.com/archives/permalink/mirashade.php) and [Unmatched Style](https://web.archive.org/web/20100113090659/http://www.unmatchedstyle.com/archived/2004/12/mirashade.php).
-
-Tagged: [Design](/tag/design), [Textpattern](/tag/textpattern)

@@ -16,5 +16,3 @@ I thought I should post to let you all know why [this re-design](https://web.arc
 **Contributing factor #3:** Having evaded the cold and flu ‘thing’ which the two ladies of the house have had, last night my immune system finally gave up the fight.., I guess it was just like, “ok that’s it… I’ve had enough… I want some sympathy”.
 
 So… as I type I have a tissue stuffed up each nostril. That is why this re-design is taking so long. Sorry.
-
-Tagged: [This website](/tag/this-website)

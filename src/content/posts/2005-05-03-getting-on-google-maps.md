@@ -21,5 +21,3 @@ I enter my details, list my business as ‘nathanpitman.com’ select the releva
 All I can do now is wait, will I get listed, and when I do, will I show up on the Google Map… only time will tell!
 
 **Update:** I’m [listed on yell](https://web.archive.org/web/20100113140222/http://www.yell.com/ucs/UcsSearchAction.do?keywords=&companyName=nathanpitman&location=Berkshire&Submit.x=15&Submit.y=8&searchType=classic) but still not showing up on the google map… :/
-
-Tagged: [Code](/tag/code), [This website](/tag/this-website)

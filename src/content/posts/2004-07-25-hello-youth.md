@@ -14,5 +14,3 @@ Jo foolishly suggested that she have my car and I trade hers in for something mo
 ![My new MR2 Roadster. Woohoo!](/images/43.jpg "My new MR2 Roadster. Woohoo!")
 
 Woohoo!
-
-Tagged: [Personal](/tag/personal)

@@ -13,5 +13,3 @@ After my [recent rant](https://web.archive.org/web/20091210071344/http://nathanp
 ![Save Template as File in Expression Engine](/images/143.jpg "Save Template as File in Expression Engine")
 
 Get the low-down on how to use the ‘Save Template as File’ feature [right here](https://web.archive.org/web/20091210071344/http://eedocs.pmachine.com/templates/flat_file_templates.html). In the Manual no less, I know… **RTFM**!
-
-Tagged: [Code](/tag/code), [ExpressionEngine](/tag/expressionengine)

@@ -11,5 +11,3 @@ tags:
 A nice and simple new AutoShape from [Steven Grosvenor](https://web.archive.org/web/20100104180205/http://www.phireworx.com/) which allows you to create a [glassy orb](https://web.archive.org/web/20100104180205/http://www.phireworx.com/content/members/smartshapes/simpleorb/SimpleOrb.mxp), with control over shadow opacity, base color, overlay color and globe shadow color.
 
 ![Orb SmartShape](/images/67.gif "Orb SmartShape")
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

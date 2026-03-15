@@ -19,5 +19,3 @@ Via [Mirashade](https://web.archive.org/web/20100113134527/http://www.mirashade.
 *Experience of PHP">LAMP administration and object orientated coding techniques an advantage.*
 
 If youï¿½re interested, and youï¿½re available to work at the Mirashade studio in Reading, Berkshire, UKï¿½ [check out the Mirashade site](https://web.archive.org/web/20100113134527/http://www.mirashade.com/about/?c=Employment).
-
-Tagged: [Jobs](/tag/jobs), [Web development](/tag/web-development)

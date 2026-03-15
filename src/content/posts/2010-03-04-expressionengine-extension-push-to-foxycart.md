@@ -18,5 +18,3 @@ To clarify, you only need this extension if you are using the Solspace User Modu
 At line 13 you will have to enter your ‘FoxyCart Domain’ (mysite.foxycart.com for example) and at line 14 your FoxyCart API token. Finally you’ll need to change the mapping of the FoxyCart fields to the ExpressionEngine custom member profile fields on lines 100 through to 119. This should be pretty obvious… if not then perhaps you already bit off more than you can chew! :)
 
 Make sure you’re running PHP5 and have access to CURL on your server, upload the extension, enable it and you should be good to go. [For support I’ve created a topic on the ExpressionEngine forums](https://web.archive.org/web/20100307023931/http://expressionengine.com/forums/viewthread/148101/), hopefully if I’m not able to help with any problems you encounter then someone else might be able to chime in. :)
-
-Tagged: [ExpressionEngine](/tag/expressionengine)

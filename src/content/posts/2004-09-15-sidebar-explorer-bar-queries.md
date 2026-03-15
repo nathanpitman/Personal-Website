@@ -15,5 +15,3 @@ I can’t really say a great deal about the actual application, but I have a few
 2. Is it possible to use JavaScript to adjust the width of a Sidebar in IE or Firefox?
 
 Well, if you have any answers I’d be most happy to hear them. TIA! :)
-
-Tagged: [Code](/tag/code)

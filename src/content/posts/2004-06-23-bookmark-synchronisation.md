@@ -16,5 +16,3 @@ Well… a guy by the name of ‘Torisugari’ has developed [a great Firefox ext
 ![Possibly the best Firefox Extension in the world](/images/30.jpg "Possibly the best Firefox Extension in the world")
 
 You simply provide a FTP host, username and password and Firefox can auto upload/download the bookmarks file on startup and exit. The process is fast and efficient. Result!
-
-Tagged: [Technology](/tag/technology)

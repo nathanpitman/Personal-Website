@@ -9,5 +9,3 @@ tags:
 ---
 
 Mr Edoardo Zubler has reworked his fantastic ‘Advanced New Document’ command for Fireworks MX. You can download the standard version from [his site](https://web.archive.org/web/20100106221458/http://www.aftershape.com/extensions/) and purchase the PRO version. Both sport a particuarly gorgeous interface. Nice work Edo…
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

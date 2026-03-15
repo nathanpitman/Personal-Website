@@ -40,5 +40,3 @@ An interest or experience in video editing, PHP and hosting solutions would also
 Ultimately, an impossible to disguise raw passion for interactive design and development coupled with some solid, but junior level skills, will be enough to see you start a rapid ascent at a great agency!
 
 **Please send your covering letter, current cv and salary expectations to:** [Claire@jpcreative.co.uk](https://web.archive.org/web/20091010114936/mailto:Claire@jpcreative.co.uk?subject=Application%20for%20junior%20creative%20dev%20from%20nathanpitman.com).
-
-Tagged: [Jobs](/tag/jobs)

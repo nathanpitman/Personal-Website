@@ -12,5 +12,3 @@ Via [forgetfoo](https://web.archive.org/web/20100115114331/http://www.forgetfoo.
 ![plain wrong?](/web/20100115114331im_/http://nathanpitman.com/images/uploads/118.jpg "plain wrong?")
 
 Classic.
-
-Tagged: [Humour](/tag/humour)

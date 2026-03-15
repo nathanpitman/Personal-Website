@@ -23,5 +23,3 @@ Just give the element you want to ‘toggle’ on and off an ID and then pass th
 `<a href="javascript: toggle('track_list_2');">Show/Hide</a>`
 
 That’s all. :)
-
-Tagged: [Code](/tag/code)

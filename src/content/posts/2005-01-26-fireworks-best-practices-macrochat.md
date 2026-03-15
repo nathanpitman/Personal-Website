@@ -16,5 +16,3 @@ On Friday just gone, Alan Musselman (Macromedia Senior Product Support Engineer)
 - Why/when to use batch processing
 
 If, like me, you missed the live broadcast, you can watch back the [archived presentation](https://web.archive.org/web/20111009200449/http://mmchats.breezecentral.com/p94471009/?launcher=false&skip-survey=true).
-
-Tagged: [Fireworks](/tag/fireworks)

@@ -14,5 +14,3 @@ We work with some truly exciting businesses and individuals here… from chariti
 Interested? Drop me an email () with some relevant work examples and an explanation of what you think you can bring to our team. Salary will be commensurate with experience.
 
 **Not interested but on Twitter?** [Tweet this](https://web.archive.org/web/20100127195111/http://twitter.com/home?status=@ninefour%20looking%20to%20take%20on%20a%20part-time%20PHP/MySQL%20web%20developer%20-%20http://nathanpitman.com/595/) and help us find the right person for the job!
-
-Tagged: [Jobs](/tag/jobs)

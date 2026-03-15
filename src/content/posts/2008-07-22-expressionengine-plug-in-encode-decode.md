@@ -20,5 +20,3 @@ The plug-in offers ‘base64’ and ‘url’ encoding and decoding but it would
 > **Download:** [pi.np\_encodedecode.php.zip](/web/20090718143450/http://nathanpitman.com/files/pi.np_encodedecode.php.zip)
 
 Obviously let me know in the comments if you have any thoughts on how this can be improved. Enjoy!
-
-Tagged: [ExpressionEngine](/tag/expressionengine)

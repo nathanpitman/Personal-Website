@@ -19,5 +19,3 @@ The ZIP archive includes:
 - Macromedia Extension Package (MXP)
 
 Help yourself and let me know if you make any improvements.
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

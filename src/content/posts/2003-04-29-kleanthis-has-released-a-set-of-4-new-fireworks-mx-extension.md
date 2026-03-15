@@ -16,5 +16,3 @@ Kleanthis has released a set of 4 new Fireworks MX extensions. I downloaded thes
 - [Rectangle Assistant](https://web.archive.org/web/20100113001142/http://www.projectfireworks.com/Lab.aspx?show=extension_rectangle_assistant.html)
 
 As you’d expect from Kleanthis, these extensions are brilliantly put together, work well and look great. Worth the download.
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

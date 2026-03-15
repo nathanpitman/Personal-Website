@@ -9,5 +9,3 @@ tags:
 ---
 
 [Senocular](https://web.archive.org/web/20100106021431/http://www.senocular.com/) identifies that some Fireworks MX extensions may cause Fireworks MX 2004 to [unexpectedly error out and quit on startup](https://web.archive.org/web/20100106021431/http://www.senocular.com/news.php?subaction=showcomments&id=1082486107). I’d be interested to know if anyone has experienced such problems with any of my Fireworks extensions..?
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

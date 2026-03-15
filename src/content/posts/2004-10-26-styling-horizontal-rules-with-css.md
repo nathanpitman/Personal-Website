@@ -26,5 +26,3 @@ div.horRule hr {
 }`
 
 If a user is browsing your site with a device that doesn’t support CSS then they’ll still see the standard HR.
-
-Tagged: [Code](/tag/code)

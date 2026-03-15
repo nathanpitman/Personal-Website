@@ -19,5 +19,3 @@ The latest release features a number of improvements. The most noticeable being 
 6. **Extension/Theme Manager:** New Extension and Theme Managers provide a convenient and secure way to manage and update the hundreds of add-ons that set Firefox apart from other browsers.
 
 A word of warning (via [Digital Media Minute](https://web.archive.org/web/20090901081656/http://www.digitalmediaminute.com/article/781/firefox-09-released)), do not install this version over any previous versions of Firefox. Either uninstall previous versions or install Firefox 0.9 to a different folder.
-
-Tagged: [Technology](/tag/technology)

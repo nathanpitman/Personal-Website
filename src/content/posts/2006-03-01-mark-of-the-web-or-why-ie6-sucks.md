@@ -40,5 +40,3 @@ So, what can you do if you want to run an HTML based application off your local 
 After a bit of digging I came across a fantastic little product called ‘“Server2Go”:http://www.server2go-web.de/’. This is a fully functional free Apache web server that you can drag and drop onto a CD-ROM. This allows you to run your HTML application ‘through’ a real web server which exists only while that browser session is open, so to all intents are purposes your users are browsing ‘online content’ and so IE is quite happy to execute JavaScript and other Active Content.
 
 Problem Solved! :)
-
-Tagged: [Code](/tag/code), [Web development](/tag/web-development)

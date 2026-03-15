@@ -18,5 +18,3 @@ On Thursday I took my car to have it’s MOT at [Octagon Toyota in Reading](http
 Today is Friday; I’ve just walked back from Humphries having dropped my car off to have them sort the sticking brakes.
 
 Maybe next week will be better for my car.
-
-Tagged: [Personal](/tag/personal)

@@ -12,5 +12,3 @@ I put my VW into the garage for a checkup. Since trading my [MR2](https://web.ar
 I just had a call from the service centre to say that it needs a new gearbox. Well, i’ve only done between 1,000 and 2,000 miles at the most since owning it, probably less.
 
 I sure hope they are going to offer to pay for it. I’ll keep you posted…
-
-Tagged: [Personal](/tag/personal)

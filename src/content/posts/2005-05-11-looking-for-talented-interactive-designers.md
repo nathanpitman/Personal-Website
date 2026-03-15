@@ -14,5 +14,3 @@ A contact of mine is on the lookout for a number of junior to middleweight inter
 You should have at least 2+ years of experience working in a busy agency environment on both large and small projects. Your experience should ideally cover online and offline digital media. Using Illustrator, Photoshop and Flash, you must demonstrate impressive conceptual skills and be able to deliver strong creative ideas to a clients brief. Technical excellence is expected and being able to demonstrate examples of quality CSS and Actionscript would be advantageous.
 
 The vacancies are for permanent positions paying a starting salary of up to Â£28k. Please email CV’s to [info@rawnet.com](https://web.archive.org/web/20101204083758/mailto:info@rawnet.com?subject=Interactive&nbsp;Designer&nbsp;Ref:nathanpitman) and let them know that Nathan Pitman sent you. ;)
-
-Tagged: [Jobs](/tag/jobs)

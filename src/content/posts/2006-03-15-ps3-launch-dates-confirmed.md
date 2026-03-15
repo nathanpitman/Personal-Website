@@ -14,5 +14,3 @@ Ken Kutaragi, president of Sony Computer Entertainment, took center stage at the
 **However**, he also revealed that **Sony plans to release the system in Japan, North America, and Europe simultaneously this November**.
 
 PS3 will be in stores before the end of the year – within the first 10 days of November, to be exact.
-
-Tagged: [Consoles](/tag/consoles)

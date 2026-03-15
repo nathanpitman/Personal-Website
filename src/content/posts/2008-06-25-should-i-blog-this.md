@@ -13,5 +13,3 @@ I think it’s fair to say that once you’ve got to know a number of well respe
 Sometimes I have to step back and remind myself that actually this is ‘my blog’ and I can write whatever I want on it, hell I can even be wrong if I want, there’s nothing wrong with being totally and absolutely off target once in a while.
 
 Sorry, just wanted to make a note of that. As you were!
-
-Tagged: [Blogging](/tag/blogging), [Personal](/tag/personal)

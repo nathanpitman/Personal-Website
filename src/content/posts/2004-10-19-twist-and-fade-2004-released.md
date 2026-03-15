@@ -18,5 +18,3 @@ Improvements in v4.0.8 include:
 - New Sliders with dual feedback, via slider for coarse changes, or via input boxes for exact changes
 
 It’s free and you can [download it here](https://web.archive.org/web/20100104182339/http://www.phireworx.com/files/commands/twistandfade2004/TwistandFade2004.mxp).
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

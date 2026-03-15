@@ -12,5 +12,3 @@ The mozillaZine Forums are citing a [12th or 14th of June release](https://web.a
 ![The new default Firefox theme: 'Winstripe'](/web/20100113090652im_/http://nathanpitman.com/bio/images/uploads/20.jpg "The new default Firefox theme: 'Winstripe'")
 
 Kevin Gerich has also recently revealed that this new build will include a [new default theme](https://web.archive.org/web/20100113090652/http://kmgerich.com/archive/000062.html). He also promises to post some insights into the making of this new theme in the coming days. Should be a good read.
-
-Tagged: [Technology](/tag/technology)

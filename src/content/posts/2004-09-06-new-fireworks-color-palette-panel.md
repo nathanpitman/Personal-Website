@@ -18,5 +18,3 @@ Viktor Goltvyanitsa has released a new version of his Fireworks [Color Palette C
 You can opt to buy the ‘Full’ version for $14.95 or download the ‘Lite’ version for free.
 
 The Lite version doesn’t include the facility to perform color transformation from RGB to CMYK and also only provides between 3 and 12 blender steps as opposed to between 3 and 36.
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

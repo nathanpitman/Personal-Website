@@ -12,5 +12,3 @@ tags:
 *Grrr, argh… hmph.*
 
 One step forward, two steps back.
-
-Tagged: [Technology](/tag/technology)

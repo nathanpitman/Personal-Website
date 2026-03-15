@@ -15,5 +15,3 @@ I keep getting this SPAM, perhaps once or twice a week. Unusually it actually br
 Maybe there are more in the series, featuring Julia Roberts unusually seated on other animals, who knows.
 
 So come one, out of all that junk mail you get every day there must be the odd one which amuses.
-
-Tagged: [Humour](/tag/humour), [Marketing/Advertising](/tag/marketing-advertising)

@@ -16,5 +16,3 @@ Tommorow I’ll be trading him in for a ‘sensible family car’ at my local [V
 Sure, I will miss my MR2 Roadster, but one day we all have to grow up a little and be responsible. I just hope the next owner loves the experience as much as I have.
 
 Goodbye Nibble. :)
-
-Tagged: [Personal](/tag/personal)

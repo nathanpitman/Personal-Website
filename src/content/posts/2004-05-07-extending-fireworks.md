@@ -9,5 +9,3 @@ tags:
 ---
 
 Great new article on the Fireworks Developer Center about [Extending Fireworks](https://web.archive.org/web/20091220195418/http://www.macromedia.com/devnet/mx/fireworks/articles/extending.html) written by Kleanthis Economou. Go check it out.
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

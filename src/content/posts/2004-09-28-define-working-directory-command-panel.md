@@ -11,5 +11,3 @@ tags:
 Trevor McCauley posts ‘another’ useful Fireworks extension: ‘“Define Working Directory”:http://www.senocular.com/downloads/index.php?subaction=showfull&id=1096066539&ucat=8&kind=8’.
 
 *This command panel provides a simple method of defining a default Save path for new documents using directories which you specify. Directory settings are automatically used when a new file is created.*
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

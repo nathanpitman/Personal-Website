@@ -12,5 +12,3 @@ If like me you watched the [Macworld Keynote Address](https://web.archive.org/we
 ![Intel and Mac](/images/131.jpg "Intel and Mac")
 
 **Instant classic.**
-
-Tagged: [Technology](/tag/technology)

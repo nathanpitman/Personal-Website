@@ -14,5 +14,3 @@ Sometimes it’s desirable to hide content on your website from users a specifie
 Initially I thought I might need a plug-in to achieve the desired result but it was great to discover I could do just what I wanted out of the box. :)
 
 **Update:** As pointed out by Philip there are [some issues](https://web.archive.org/web/20110717182237/http://twitter.com/synx508/status/91496649033138178) with this approach so tread carefully people, I’ve only tested this concept in a scenario where the current date falls within the same month/year etc.
-
-Tagged: [ExpressionEngine](/tag/expressionengine)

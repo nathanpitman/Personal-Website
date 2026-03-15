@@ -18,5 +18,3 @@ My employers [Mirashade](https://web.archive.org/web/20091209035447/http://www.m
 *Salary is dependent on experience.*
 
 For more info and the job application form check out the [employment page](https://web.archive.org/web/20091209035447/http://www.mirashade.com/holding/employment/) on our site. :)
-
-Tagged: [Jobs](/tag/jobs)

@@ -14,5 +14,3 @@ Don’t get me wrong, \*I love you [Textdrive](https://web.archive.org/web/20100
 Just a bit of a heads up guys. Hopefully you can sort it out sometime soon. Either that or throw me a free [Mixed Grill](https://web.archive.org/web/20100106034536/http://www.textdrive.com/mixedgrill).
 
 *Mmm Peppers…*
-
-Tagged: [This website](/tag/this-website)

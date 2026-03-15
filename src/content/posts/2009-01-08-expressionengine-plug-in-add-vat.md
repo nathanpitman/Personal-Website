@@ -18,5 +18,3 @@ I’m using the plug-in on a website I’m developing where I need to be able to
 > **Download:** [pi.np\_add\_vat.php.zip](/web/20090518024300/http://nathanpitman.com/files/pi.np_add_vat.php.zip)
 
 If you have any further ideas as to how the plug-in could be developed do let me know. ![smile](https://web.archive.org/web/20090518024300im_/http://nathanpitman.com/images/smileys/smile.gif)
-
-Tagged: [ExpressionEngine](/tag/expressionengine)

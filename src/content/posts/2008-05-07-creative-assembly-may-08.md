@@ -9,5 +9,3 @@ tags:
 ---
 
 Another great turn out last night for our 2nd [Creative Assembly](https://web.archive.org/web/20090814210400/http://www.creativeassembly.net/) meeting. Thanks again to everyone who made it and for those that didn’t, not to worry because you can [come and join us](https://web.archive.org/web/20090814210400/http://upcoming.yahoo.com/event/598736/) on Tuesday the 3rd of June! :)
-
-Tagged: [Chatter](/tag/chatter), [Employment](/tag/employment)

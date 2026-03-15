@@ -12,5 +12,3 @@ I stumbled across this [amazing keyboard design](https://web.archive.org/web/200
 ![Every key of the Optimus keyboard is a stand-alone display showing exactly what it is controlling at this very moment.](/images/130.jpg "Every key of the Optimus keyboard is a stand-alone display showing exactly what it is controlling at this very moment.")
 
 No idea how much it’s going to cost, they reckon less than a good mobile phone. They’re even talking of OEM opportunities. Nice.
-
-Tagged: [Technology](/tag/technology)

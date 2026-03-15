@@ -18,5 +18,3 @@ Balancing up the pro’s and con’s of each option it soon became clear that my
 7 months later and I’m a total convert. I couldn’t love my MacBook more and I’m looking forward to replacing my Dell desktop which I use predominantly during the day with a higher spec Mac later this year.
 
 There you go, **I’m out of the closet**.
-
-Tagged: [Apple](/tag/apple)

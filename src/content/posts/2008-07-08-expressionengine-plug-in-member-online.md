@@ -22,5 +22,3 @@ You could either use this to simply write a string out into the page, as I am, o
 > **Download:** [pi.np\_memberonline.php.zip](/web/20090616071925/http://nathanpitman.com/files/pi.np_memberonline.php.zip)
 
 At the moment I’m using this alongside the Solspace ‘“User Module”:http://www.solspace.com/software/detail/user/’ to build the community aspects of the Wired In website so I’ve only developed it so far as required to meet those requirements. If you have any further ideas as to how the plug-in could be developed do let me know. :)
-
-Tagged: [ExpressionEngine](/tag/expressionengine)

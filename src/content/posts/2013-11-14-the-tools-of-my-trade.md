@@ -23,5 +23,3 @@ Sometimes people ask, so to save tweets here’s a quick summary:
 - Deployment: Git! (or SFTP with [Transmit](https://web.archive.org/web/20131117100822/http://panic.com/transmit/))
 
 :)
-
-Tagged: [Business](/tag/business), [Code](/tag/code), [Technology](/tag/technology), [Web development](/tag/web-development)

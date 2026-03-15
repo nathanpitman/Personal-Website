@@ -73,5 +73,3 @@ Hey ho, it’s time for another meme, [John (that bloke that got nominated for 2
 - [Jonathan Leighton](https://web.archive.org/web/20110928150203/http://www.turnipspatch.com/)
 - [Paul Farnell](https://web.archive.org/web/20110928150203/http://www.salted.com/)
 - [Anton Peck](https://web.archive.org/web/20110928150203/http://www.antonpeck.com/)
-
-Tagged: [Chatter](/tag/chatter)

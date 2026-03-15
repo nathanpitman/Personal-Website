@@ -13,5 +13,3 @@ Without so much as a hint [Flickr just went all Gamma](https://web.archive.org/w
 The navigational changes make sense, but getting used to them will take a few days. Of particular note is the fantastic new ‘“Organizer”:http://www.flickr.com/photos/organize/’ no longer with any added Flash.
 
 **Congrats** to the Flickr team on a great update.
-
-Tagged: [Chatter](/tag/chatter), [Design](/tag/design)

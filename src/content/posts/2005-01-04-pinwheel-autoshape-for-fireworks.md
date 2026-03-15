@@ -15,5 +15,3 @@ The Pinwheel Auto Shape creates a ‘Pinwheel’ consisting of 2 to 16 consecuti
 ![Pinwheel AutoShape](/images/76.gif "Pinwheel AutoShape")
 
 As an additional feature, you can use the sub select tool to alter the path of the primary spiral (the one previewed when altering the shape that is formed between the control points) and have all other consecutive spirals mimic the change. Altering the shape with control points after doing this will undo the effects.
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

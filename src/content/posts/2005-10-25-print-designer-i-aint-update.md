@@ -20,5 +20,3 @@ So, as you can see, solid on the reverse with a portrait apsect and white on the
 ![Do I really need the address?](/images/117.jpg "Do I really need the address?")
 
 So, with that in mind I decided to add a short and simple description of my services; “new media design & development”. I’ve also ditched the company address as I really can’t think that anyone would benefit from this on a business card in this day and age, especially when I’m not likely to meet clients at the ‘home office’ and don’t really want clients communicating in a non electronic manner. Do you think it’s safe to lose the address?
-
-Tagged: [Branding](/tag/branding)

@@ -31,5 +31,3 @@ If, like me you missed the Carson Workshops [Future of Web Apps Summit](https://
    [Designing Web 2.0-native Products for Fun and Profit](https://web.archive.org/web/20100105222927/http://www.webuser.co.uk/carsonworkshops/TomCoates.mp3)
 
 1. **Panel Discussion with all speakers + FeedBurner** [Discussion](https://web.archive.org/web/20100105222927/http://www.webuser.co.uk/carsonworkshops/Panel.mp3)
-
-Tagged: [Web applications](/tag/web-applications)

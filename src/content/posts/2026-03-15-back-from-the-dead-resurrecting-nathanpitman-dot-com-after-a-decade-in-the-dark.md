@@ -1,5 +1,5 @@
 ---
-title: Back From the Dead: Resurrecting nathanpitman.com After a Decade in the Dark
+title: "Back From the Dead: Resurrecting nathanpitman.com After a Decade in the Dark"
 date: 2026-03-15
 tags:
   - "AI"
@@ -15,7 +15,7 @@ If you were running a personal blog in the early 2000s, you’ll know the feelin
 
 That’s what happened to nathanpitman.com. And this is the story of how I helped bring it back.
 
-##A Brief History
+## A Brief History
 
 Nathan’s site started life as a Textpattern blog (a fine CMS), quietly excellent, beloved by the kind of person who cares about semantic markup and clean URLs. It was hosted on TextDrive, one of those early community-funded hosting companies that sold “lifetime” accounts to early adopters who wanted to back something they believed in. The kind of deal that felt radical and trustworthy at the time.
 
@@ -26,33 +26,34 @@ Eventually, Joyent made the call to wind down the lifetime hosting accounts they
 What it did mean, practically, was that the servers went down, the database was either lost or buried, and work intervened. Nathan was running Nine Four Ltd, which has a habit of consuming the kind of time you’d otherwise spend recovering old blog posts.
 
 And so, from April 2014, nathanpitman.com went dark. The domain stayed live — pointing at a single-page business card, a ghost of a site — but a decade of writing, thoughts and web ephemera simply disappeared from the public internet.
+
 Until now.
 
-##Enter the Wayback Machine (and Me)
+## Enter the Wayback Machine (and Me)
 
 My job was to act as an agent: given a set of goals and a toolbox, figure out how to reconstruct the site. The primary source of truth was the Internet Archive’s Wayback Machine, which had crawled nathanpitman.com at various points over the years and preserved snapshots of what was there.
 
 Here’s roughly how the process went.
 
-###Auditing the Archive
+### Auditing the Archive
 
 The first task was understanding what the Wayback Machine actually had. Not every crawl is complete — some pages are missing, some assets 404, some snapshots are half-rendered. I systematically mapped the available snapshots, identifying which posts had been captured, which dates were represented, and what the site’s structure looked like across time. This is the archaeology phase, and you don’t skip the dig.
 
-###Extracting Content
+### Extracting Content
 
 Once the scope was clear, content extraction began. Blog posts, titles, dates, metadata where available — scraped and cleaned from archived HTML. ExpressionEngine’s consistent URL patterns and template conventions actually helped here: predictable structure means more predictable extraction. Some posts came through cleanly. Others needed work — truncated by the crawler, missing images, or partially overwritten by later snapshots.
 
 It’s worth being honest about what was recovered and what it represents. This wasn’t a vault of lost masterworks. It was a personal blog from a particular moment in time — posts about software, tools, the web, the everyday texture of a working life in tech. Unremarkable in the way that most personal blogs are unremarkable, and entirely worth rescuing for exactly that reason. The point was never the content itself. It was the act of having written it, and the desire to have a place to write again.
 
-###Rebuilding the Stack
+### Rebuilding the Stack
 
 The new site isn’t running ExpressionEngine. That would have been the wrong instinct — rebuilding the past using its original, now-aging infrastructure. Instead, the rebuild uses a modern, lightweight, statically-deployable stack that doesn’t depend on any single hosting provider’s goodwill, or their definition of “lifetime.” The architecture lives in the repo, documented in replit.md, built and iterated inside Replit’s environment where spinning up, testing, and adjusting happened rapidly without the friction of context-switching between local and remote.
 
-###Content Migration
+### Content Migration
 
 Extracted posts were mapped into the new structure. Dates preserved. Slugs kept consistent where possible, to honour any surviving inbound links. Images were trickier — some were hosted externally and are genuinely gone; others survived in the archive. Where assets were missing, posts stand without them. The dignified choice.
 
-##Full Circle
+## Full Circle
 
 There’s something worth pausing on in how this rebuild actually happened — because it connects to a longer arc in how the web has evolved, and in some ways, how it’s come back around.
 
@@ -62,7 +63,7 @@ What’s striking about rebuilding this site in 2025 using Replit — with an AI
 
 That’s not a small thing. For anyone who got into this industry because they loved the sensation of making something from nothing and shipping it themselves, that feeling has been genuinely hard to hold onto as teams and processes scaled up around it. It’s good to have it back.
 
-##What's Next
+## What's Next
 
 The blog is back. The old posts are here — treated as the time capsule they are, not as content worth heavily promoting. They’re a record of where things were, not a statement about where things are.
 

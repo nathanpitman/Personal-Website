@@ -24,5 +24,3 @@ A general developer with a high skill level in: PHP4/5, MySQL, CSS, Javascript (
 You will initially be filling in for the senior developer for a period of 1-2 weeks, so commercial experience and an ability to filter through other people’s code etc with little technical direction is a must. The developer should also be comfortable in developing solutions that could be used to read external RSS/XML feeds to store and display on an internal site. Knowledge of AJAX would also be very useful here.
 
 Interested? Drop an email with your CV, rates and all the usual jazz to <claire.ellis@tmbmarcom.com> and tell em I sent you.
-
-Tagged: [Jobs](/tag/jobs)

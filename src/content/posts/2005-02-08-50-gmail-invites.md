@@ -8,5 +8,3 @@ tags:
 ---
 
 I have another ~~50~~ 47 [Gmail](https://web.archive.org/web/20091123232933/http://www.gmail.com/) invites if anyone is interested… leave a comment with your current email address and I’ll invite you. :)
-
-Tagged: [Technology](/tag/technology)

@@ -19,5 +19,3 @@ Well, now that I have a better understanding of how I can use XML together with 
 **Update:** Anyone know how I can ‘format’ the excerpt field to render out links and HTML chars correctly??? I’m guessing I need to attach a stylesheet in some way…?
 
 **Update:** I think I’ve sussed the HTML chars issue and have implimented some simple styling of “a” tags within the excerpt field. Neat. ![smile](https://web.archive.org/web/20090521230346im_/http://nathanpitman.com/images/smileys/smile.gif)
-
-Tagged: [Code](/tag/code), [Flash](/tag/flash)

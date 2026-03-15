@@ -13,5 +13,3 @@ Macromedia have gone public on ‘“Studio 8”:http://www.macromedia.com/softw
 ![Studio 8 Announced](/images/105.jpg "Studio 8 Announced")
 
 In a [less than unexpected](https://web.archive.org/web/20100113103632/http://nathanpitman.com/journal/306/my-2005-wish-list) move they have seen sense and dropped the pointless ‘MX’ tag and reverted back to a simple version numbering.
-
-Tagged: [Adobe](/tag/adobe), [Branding](/tag/branding)

@@ -31,5 +31,3 @@ Jan Esmann is an artist who has written [a collection of photo editing and resto
 - Brightness Editor
 
 The plug-ins are priced individually but you can also purchase the entire set for ï¿½100. No idea whether the plug-ins are any cop, but there seem to be a lot of positive testimonials on the his site.
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

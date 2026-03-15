@@ -9,5 +9,3 @@ tags:
 ---
 
 The guys over at EllisLab are asking [why choose ExpressionEngine](https://web.archive.org/web/20110617235224/http://expressionengine.com/blog/entry/show_us_your_mug/)? Right off the top of my head, here’s my response…
-
-Tagged: [ExpressionEngine](/tag/expressionengine), [Web development](/tag/web-development)

@@ -22,5 +22,3 @@ I restart my MacBook, log-in, the wallpaper pops up then after an excruciating w
 **Update:** Argh! It happened again on Wednesday night (11/07/07) but was easy to sure thanks to Onyx.
 
 **Update:** The Spotlight index got corrupted ‘again’ today (31/07/07) but was again easy to fix with Onyx. Twice in one month is a bit much though. :/
-
-Tagged: [Apple](/tag/apple)

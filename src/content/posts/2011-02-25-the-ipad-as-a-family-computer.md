@@ -16,5 +16,3 @@ We’ve had out family [iPad](https://web.archive.org/web/20110405142853/http://
 What the iPad (or more specifically iOS) really lacks is multi user accounts though. Both my wife and I use the iPad a fair bit – I’d love to be able to check my mail on it but that means giving 3 young children access to my work mail account (hmmm!). By the same token the girls hate having to wade through screen after screen of ‘boy games’ and well myself and my wife can’t both be signed into Facebook at the same time.
 
 The iPad is a social device which lends itself naturally to being shared, here’s hoping Apple makes more of this in a future software update! :)
-
-Tagged: [Chatter](/tag/chatter), [Family](/tag/family), [Apple](/tag/apple), [Technology](/tag/technology)

@@ -17,5 +17,3 @@ The most recent [blog post](https://web.archive.org/web/20090829111749/http://ww
 > …please donât expect vector tools in Spider…
 
 Here’s hoping the Pixelmator team keep up the excellent work, if they maintain the development pace they’ve set thus far (4 full point releases in two years) then we might see a release with Vector tools before Fireworks CS5 rears it’s head.
-
-Tagged: [Adobe](/tag/adobe), [Fireworks](/tag/fireworks)

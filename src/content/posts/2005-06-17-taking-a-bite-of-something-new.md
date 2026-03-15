@@ -12,5 +12,3 @@ From the 4th of July I’m taking a bite of something new. After 2 and a bit yea
 ![Bite CP](/images/100.jpg "Bite CP")
 
 It’s a fantastic opportunity to work with an experienced and talented team and help to grow the business over the coming years. I simply cannot wait to get stuck in. :)
-
-Tagged: [Employment](/tag/employment)

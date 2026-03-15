@@ -13,5 +13,3 @@ Rubberduckï¿½s new version of its rich client desktop application production 
 ï¿½Screenweaver MX extends the traditional Flash capabilities by acting as a bridge between Flash and the operating systemï¿½ says Martijn de Visser co-founder of Rubberduck. ï¿½It provides Flash developers with a toolset to create rich client desktop applications without having to acquire new skillsï¿½.
 
 Screenweaver MX is available immediately on the Windows platform. A fully functional trial version is available for download at [www.screenweavermx.com](https://web.archive.org/web/20090527052713/http://www.screenweavermx.com/).
-
-Tagged: [Flash](/tag/flash), [Technology](/tag/technology)

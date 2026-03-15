@@ -58,5 +58,3 @@ With all of the above done we should now be able to visit the public URL for thi
 I know I promised to cover how we import this data into ExpressionEngine but I’ve been rambling on for a while now so I’ll leave that until my next post. ![smile](https://web.archive.org/web/20090518092414im_/http://nathanpitman.com/images/smileys/smile.gif)
 
 [Next Step…](/web/20090518092414/http://nathanpitman.com/journal/migrating-from-txp-to-ee-step-3/)
-
-Tagged: [ExpressionEngine](/tag/expressionengine), [Textpattern](/tag/textpattern)

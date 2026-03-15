@@ -20,5 +20,3 @@ Following [a recent post by Brandon on devnulled.com](https://web.archive.org/we
 This means that if you’re really only interested in the ‘Fireworks’ stuff then you can subscribe just to that category. More categories to come soon… :)
 
 **Note:** The feed URLs above are no available.
-
-Tagged: [Code](/tag/code), [Web development](/tag/web-development)

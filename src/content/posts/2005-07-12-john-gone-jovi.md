@@ -14,5 +14,3 @@ This morning whilst doing the rounds I discovered that [John Oxton](https://web.
 Hopefully John will resurface some time soon, coz I’m really gonna miss reading about that rather amusing fat hairy welsh ass from now until then.
 
 Hope things get better for you soon John.
-
-Tagged: [Blogging](/tag/blogging)

@@ -22,5 +22,3 @@ I’ve not had a chance to sit down and look at any of these tools in earnest, i
 - Sencha Animator – [http://www.sencha.com/products/animator/](https://web.archive.org/web/20111003003633/http://www.sencha.com/products/animator/)
 
 It will be interesting to see how these applications develop over the coming months and whether any on them particular gain traction with the community as the ‘go to’ tool for online animation, just as Flash did back in it’s glory days. Let me know if you’ve seen a tool that I’ve missed and I’ll add it to the list! :)
-
-Tagged: [Adobe](/tag/adobe), [Animation](/tag/animation), [Design](/tag/design), [Flash](/tag/flash), [Web development](/tag/web-development)

@@ -12,5 +12,3 @@ Hmm… shall I, shan’t I (Is that a real word?)? The question is should I do a
 ![Dare I add drop shadows?](/images/33.jpg "Dare I add drop shadows?")
 
 Opinions please. :)
-
-Tagged: [Design](/tag/design)

@@ -10,5 +10,3 @@ tags:
 ![](/images/83.jpg)
 
 In Bracknell, Berkshire, UK. :)
-
-Tagged: [Personal](/tag/personal)

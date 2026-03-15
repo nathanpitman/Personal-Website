@@ -15,5 +15,3 @@ I think I’ve noticed a bit of a new **thing** (Actually someone else probably 
 |  |  |
 
 Well now I gotta get me one of them. **Seen any others?**
-
-Tagged: [Animation](/tag/animation), [Design](/tag/design)

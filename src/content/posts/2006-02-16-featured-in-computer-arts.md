@@ -13,5 +13,3 @@ tags:
 Well I’ve not seen it yet but I’m in there somewhere apparently. Via a feature written by [Craig Grannell](https://web.archive.org/web/20100107152028/http://www.snubcommunications.com/reverttosaved/).
 
 If you have a copy to hand, bang us over a coupla scans will you… :)
-
-Tagged: [Employment](/tag/employment), [Marketing/Advertising](/tag/marketing-advertising)

@@ -12,5 +12,3 @@ I know, you have to ask why… but now you can [subscribe to the podcast of my j
 ![Subscribe to my journal with iTunes](/images/135.jpg "Subscribe to my journal with iTunes")
 
 All a bit convoluted, but it kept me amused for a couple of minutes.
-
-Tagged: [This website](/tag/this-website)

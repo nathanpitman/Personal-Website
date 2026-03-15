@@ -15,5 +15,3 @@ The device that I opted for was the ‘[Slim Devices](https://web.archive.org/we
 Now, regardless of the fact that the unit, server software and customer service was stunning, there was one thing which was holding me back from being blown away by my little SLIMP3, I had to drill through one internal wall, out through an external wall down, and then back through the external wall again to get the network cable to the lounge. Now, I ‘could’ have set up a wireless LAN connection, but I didn’t. Now that the hard work is done I couldn’t live without my SLIMP3, and now I hear that they have released the ‘Squeezebox’, a SLIMP3 player with an integrated wireless LAN and standard Ethernet connection… bliss.
 
 Now if I could just convince my wife that we need another network music player… :)
-
-Tagged: [Personal](/tag/personal), [Technology](/tag/technology)

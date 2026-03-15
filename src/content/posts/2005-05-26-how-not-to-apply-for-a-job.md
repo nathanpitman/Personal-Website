@@ -30,5 +30,3 @@ Don’t:
 5. make spelling mistakes
 
 So, do you have any tips of your own? It’s hot and muggy in the office so I’m gonna take my socks off now and get back to not responding to all these rude job applications.
-
-Tagged: [Employment](/tag/employment)

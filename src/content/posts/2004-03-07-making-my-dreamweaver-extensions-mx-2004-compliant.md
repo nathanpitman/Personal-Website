@@ -15,5 +15,3 @@ It was a hassle to edit 13 MXIs, re-package and test them. But at least now itâ€
 You can find the [revised extensions](https://web.archive.org/web/20100107141856/http://www.nathanpitman.com/source/extensions.php) with incremented version numbers on the extensions page.
 
 Have fun and let me know if anything is still broke.
-
-Tagged: [Adobe](/tag/adobe), [Extensions](/tag/extensions)

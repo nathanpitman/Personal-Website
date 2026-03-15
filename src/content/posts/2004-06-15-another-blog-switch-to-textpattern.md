@@ -8,5 +8,3 @@ tags:
 ---
 
 Hoorah for Dean Allen, another of the blogs I read ([hicksdesign](https://web.archive.org/web/20100104153914/http://www.hicksdesign.co.uk/journal/510/textpattern-migration)) has switched to [textpattern](https://web.archive.org/web/20100104153914/http://www.textpattern.com/). Good choice John. :)
-
-Tagged: [Textpattern](/tag/textpattern)

@@ -8,5 +8,3 @@ tags:
 ---
 
 I just caught this over at [Google Videos](https://web.archive.org/web/20100105124511/http://googlevideos.blogspot.com/2006/01/winning-ticket.html). Total Classic.
-
-Tagged: [Humour](/tag/humour)

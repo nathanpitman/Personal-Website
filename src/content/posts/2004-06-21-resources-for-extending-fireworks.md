@@ -9,5 +9,3 @@ tags:
 ---
 
 Kim Cavanaugh has written a couple of articles on extending Fireworks which are hosted at Community MX. The fist covers [Filters](https://web.archive.org/web/20090616203736/http://www.communitymx.com/content/article.cfm?page=1&cid=48D51) (Plug-ins) and the second looks at [Extensions](https://web.archive.org/web/20090616203736/http://www.communitymx.com/abstract.cfm?cid=D6E52). Well worth a read. :)
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

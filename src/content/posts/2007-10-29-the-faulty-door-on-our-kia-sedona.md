@@ -12,5 +12,3 @@ The electric sliding door on our brand new Kia Sedona leaves something to be des
 The car is now on it’s 3rd visit to the dealership to try and resolve the problem (which they cannot reproduce). I think my next step is a call to BBC Watchdog and demand a full refund on the vehicle.
 
 **Update:** 15 months on and we’re still having [problems with our Kia Sedona](/web/20090518094541/http://nathanpitman.com/journal/563/kia-sedona-reliability).
-
-Tagged: [Personal](/tag/personal)

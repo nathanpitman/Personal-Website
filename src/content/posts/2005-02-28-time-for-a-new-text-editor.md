@@ -17,5 +17,3 @@ I’ve had it with Macromedia Homesite, it’s just not enough anymore, come to 
 - Good code colouring
 
 Can’t think of anymore right now. Let me know if you have any suggestions.
-
-Tagged: [Web development](/tag/web-development)

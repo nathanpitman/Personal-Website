@@ -14,5 +14,3 @@ Five designers interviewed are asked to reveal some of their favorite Fireworks 
 *\*Symbols are massively underused and can save you hours and hours when you’re working on large projects.\**
 
 :)
-
-Tagged: [Fireworks](/tag/fireworks)

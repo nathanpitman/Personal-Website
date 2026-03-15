@@ -12,5 +12,3 @@ tags:
 ![Firefox 1.0 - faster, safer and more efficient than any other web browser.](/web/20110927133049im_/http://nathanpitman.com/images/uploads/72.gif "Firefox 1.0 - faster, safer and more efficient than any other web browser.")
 
 It doesn’t appear to be on the public pages of mozilla.org yet but the folders and files are there. [Go get it!](https://web.archive.org/web/20110927133049/http://207.200.85.49/pub/mozilla.org/firefox/releases/1.0/)
-
-Tagged: [Technology](/tag/technology)

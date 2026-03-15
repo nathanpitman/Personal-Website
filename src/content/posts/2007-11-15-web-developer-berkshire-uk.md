@@ -23,5 +23,3 @@ JavaScript and/or ActionScript skills would be advantageous.
 This is an excellent opportunity to become part of a growing business and play a key role in it’s development. If you want the job then [get in touch](https://web.archive.org/web/20100106013658/http://www.ninefour.co.uk/) and perhaps we can hook up for a chat.
 
 Salary will be commensurate with experience.
-
-Tagged: [Jobs](/tag/jobs)

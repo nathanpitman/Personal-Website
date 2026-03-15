@@ -14,5 +14,3 @@ For some bizarre reason I thought it’d make total sense to manually import all
 So, getting back to the point… Would I be breaking some unwritten ‘blogging’ law if I was to ‘“step back in time”:http://www.azlyrics.com/lyrics/kylieminogue/stepbackintime.html’ and start ‘editing’ or ‘deleting’ [old blog entries](https://web.archive.org/web/20090924123211/http://nathanpitman.com/archives/2002/04) or do you think that’s totally cool?
 
 Actually I’m not even sure why I’m asking you, this is my blog, and I’ll delete what I want when I want. God I’m far too considerate, asking permission from my readers before I make some minor content change. Someone slap me quick before I start asking if I can leave the table to go to the toilet (Sir?).
-
-Tagged: [This website](/tag/this-website)

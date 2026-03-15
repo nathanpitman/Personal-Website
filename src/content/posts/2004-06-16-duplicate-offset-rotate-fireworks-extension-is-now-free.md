@@ -13,5 +13,3 @@ My [Duplicate, Offset & Rotate Fireworks Extension](https://web.archive.org/web/
 ![Duplicate, Offset & Rotate ](/images/37.jpg "Duplicate, Offset & Rotate ")
 
 In line with this change I have also reduced the price of the [Fireworks MX Source Pack](https://web.archive.org/web/20090830173258/http://www.nathanpitman.com/source/extensions.php?id=40) from ï¿½4.95 to ï¿½2.95.
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

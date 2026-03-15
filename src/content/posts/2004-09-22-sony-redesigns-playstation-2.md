@@ -15,5 +15,3 @@ Sony have announced a [new, redesigned version of its Playstation 2](https://web
 Making its debut in stores from November 1st, the newly designed PlayStation 2 is half the weight of the original design, and the internal volume of the console has been reduced by an incredible 75%. The new design is only 2.8cm thick, compared to the 7.8cm of the original console.
 
 Despite the smaller size, the new PlayStation 2 features an integrated Ethernet port for online gaming.
-
-Tagged: [Consoles](/tag/consoles), [Technology](/tag/technology)

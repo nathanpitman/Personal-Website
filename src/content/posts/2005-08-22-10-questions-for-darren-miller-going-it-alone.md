@@ -76,5 +76,3 @@ I’d made sure I didn’t have much going on around the move so I got away with
   The worst thing that could happen to me is for work to dry up to the extent that I have to get a real job. By having a few months cash to hand you buy yourself time to get new business and avoid having to take this drastic measure!
 - **Get a good accountant.**  
   Unless you enjoy filling in corporation tax returns. Personally the very thought of it makes me want to kill myself.
-
-Tagged: [Employment](/tag/employment)

@@ -14,5 +14,3 @@ The [Macromedia Flash Video Kit](https://web.archive.org/web/20100106215531/http
 2. Sorenson Squeeze 3.5 Lite for Flash MX: A special version of Sorenson Squeeze produced by [Sorenson Media](https://web.archive.org/web/20100106215531/http://www.sorenson.com/) especially for the Flash Video Kit that converts (encodes) common video file formats into Flash Video format (FLV).
 3. Flash Video Learner’s Guide: An introductory guide to using and deploying Flash Video.
 4. Flash Video Stream Service Lite Trial powered by VitalStream: Purchasers of the Flash Video Kit are entitled to a free 15-day trial of the Flash Video Streaming Service Lite powered by VitalStream. This service allows them to harness all the power of streaming Flash Video without the need to install and maintain their own Flash Communication Servers.
-
-Tagged: [Adobe](/tag/adobe), [Flash](/tag/flash)

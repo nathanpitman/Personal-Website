@@ -18,5 +18,3 @@ From the BBC News website…
 *It will be the first time the Olympics has been held in Britain since 1948.*
 
 Wow, this is amazing news, my daughter will be 8 in 2012 and we’ll be able to take her to see a once in a lifetime event.
-
-Tagged: [Personal](/tag/personal)

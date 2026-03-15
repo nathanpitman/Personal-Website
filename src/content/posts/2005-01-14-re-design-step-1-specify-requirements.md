@@ -40,5 +40,3 @@ Here’s what the revised structure might look like:
   - contact
 
 So, I’m pretty clear regarding the blog and bio sections, ‘bio’ will remain pretty much as is, ‘blog’ will be simplified to make finding what you’re after easier and quicker, but ‘source’… I have no idea… does anyone use this stuff? Let me know what you think.
-
-Tagged: [Design](/tag/design)

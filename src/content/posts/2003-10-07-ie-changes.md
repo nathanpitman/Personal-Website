@@ -15,5 +15,3 @@ Every instance of plug-in content will prompt the user to click an ‘OK’ butt
 Macromedia has identified some early workarounds, but these require significant changes to existing site code.
 
 You can find out more about these solutions here: [http://www.macromedia.com/devnet/activecontent/](https://web.archive.org/web/20100106033351/http://www.macromedia.com/devnet/activecontent/)
-
-Tagged: [Adobe](/tag/adobe), [Technology](/tag/technology)

@@ -9,5 +9,3 @@ tags:
 ---
 
 Senocular has a [new Fireworks AutoShape](https://web.archive.org/web/20101028091337/http://senocular.com/fireworks/extensions.php?id=0.17) available on his site which allows you to easily create ‘Heart’ shapes. It consists of 4 points for controlling features entitled “Breadth”, “Cleft”, “Vertex”, and “Vertex Arc”.
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

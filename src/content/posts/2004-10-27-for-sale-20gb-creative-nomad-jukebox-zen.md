@@ -19,5 +19,3 @@ I’m selling my ‘Creative Nomad Jukebox Zen’ (Snappy product name!) on [eBa
 [Happy bidding](https://web.archive.org/web/20090801030728/http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&rd=1&item=5726813993&ssPageName=STRK:MESE:IT). :)
 
 **Update:** Sorry, this item has now been sold.
-
-Tagged: [Personal](/tag/personal), [Technology](/tag/technology)

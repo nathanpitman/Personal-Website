@@ -14,5 +14,3 @@ It lives at ‘[Flickr](https://web.archive.org/web/20100116223748/http://www.fl
 “Our hatred for spam is difficult to articulate. We promise unreservedly never to share your email address with anyone without your explicit permission.”
 
 As I would have said during the 80’s at primary school. That’s cool!
-
-Tagged: [Personal](/tag/personal)

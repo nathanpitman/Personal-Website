@@ -9,5 +9,3 @@ tags:
 ---
 
 Senoculars new [Stroke Path command](https://web.archive.org/web/20091205192832/http://www.senocular.com/downloads/index.php?subaction=showfull&id=1095589501&ucat=8&kind=8) lets you take a selected element in Fireworks (bitmap, vector drawing, group, etc.) and duplicate it along a selected path. The settings dialog gives you option of adjusting path direction, rotation orientation, spacing, and accuracy.
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

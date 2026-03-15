@@ -33,5 +33,3 @@ Now save and upload your amended import script. Back in Textpattern you’ll als
 So your Textpattern export will now include the original article ID and the import process will maintain this (so long as you have deleted all other weblog entries prior to import).
 
 So, that’s it. I’m all done… I migrated… now I just have to find the time to finish off the new design and implement it! Happy Migrating!!!
-
-Tagged: [ExpressionEngine](/tag/expressionengine), [Textpattern](/tag/textpattern)

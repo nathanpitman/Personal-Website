@@ -12,5 +12,3 @@ Well, we’ve certainly had a fair share of hoax images of recent in the run up 
 ![](/images/142.jpg)
 
 Somehow I doubt it’s the real thing, since when did leaked photos of upcoming products ever make it out of Apple in the past? One things for sure though, this is certainly what everyone and their dog wants? It will be interesting to see if Apple can deliver on the dream.
-
-Tagged: [Technology](/tag/technology)

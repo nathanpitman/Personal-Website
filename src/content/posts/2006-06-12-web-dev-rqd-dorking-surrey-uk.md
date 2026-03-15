@@ -41,5 +41,3 @@ Permanent
 Dorking, Surrey, UK.
 
 Interested? Drop an email with your CV, salary expectations and all the usual jazz to [claire.ellis@tmbmarcom.com](https://web.archive.org/web/20091231042035/mailto:claire.ellis@tmbmarcom.com?subject=Nathan%20sent%20me) and tell em I sent you.
-
-Tagged: [Jobs](/tag/jobs)

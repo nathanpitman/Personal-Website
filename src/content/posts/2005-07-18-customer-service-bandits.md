@@ -68,5 +68,3 @@ Ha ha ha, that’s so not funny. Here’s my response.
 ### Was that a ‘V’ for Victory?
 
 Well, you’ll be glad to know that after that, I got my Â£5.
-
-Tagged: [Chatter](/tag/chatter)

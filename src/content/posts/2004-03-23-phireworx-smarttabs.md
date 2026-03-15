@@ -13,5 +13,3 @@ tags:
 This allows you to; Easily Add / Remove Tabs, Control the tab stacking order, Easily resize the tab page and use the subselection tool to change tabs and labels.
 
 For a limited time this extension is available for $7.95, with prices increasing to $9.95 at the end of March.
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

@@ -18,5 +18,3 @@ Via [DavidReviews.com](https://web.archive.org/web/20100725074015/http://www.dav
 *In any case, Gene Kelly was very progressive in his thinking on dance and if this ad has him turning in his grave, it will surely be because he is trying to emulate the elaborate dance moves that the masters of digital manipulation show him achieving in this terrific commercial.*
 
 *As a captivating piece of film, this ad is an undoubted success but what makes it especially admirable is that, unlike so many car commercials, the striking imagery is made relevant by the central concept – namely, that the new Golf GTi is “the original, updated”.*
-
-Tagged: [Marketing/Advertising](/tag/marketing-advertising)

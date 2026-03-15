@@ -12,5 +12,3 @@ Changes are afoot. On Friday the 30th of August Nine Four Ltd was incorporated.
 ![Nine Four Ltd, Web Design, Bracknell, Berkshire.](/images/108.gif "Nine Four Ltd, Web Design, Bracknell, Berkshire.")
 
 More news soon.
-
-Tagged: [Employment](/tag/employment)

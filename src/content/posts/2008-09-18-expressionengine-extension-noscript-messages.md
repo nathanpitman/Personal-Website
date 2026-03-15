@@ -16,5 +16,3 @@ I kept a note of my hack and when I had to upgrade this particular install to th
 > **Download:** [ext.noscript\_messages.php.zip](/web/20090520003125/http://nathanpitman.com/files/ext.noscript_messages.php.zip)
 
 Obviously let me know in the comments if you have any thoughts on how this can be improved. Enjoy!
-
-Tagged: [ExpressionEngine](/tag/expressionengine)

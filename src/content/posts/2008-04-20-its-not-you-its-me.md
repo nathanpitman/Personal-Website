@@ -15,5 +15,3 @@ So it’s time to think about how to adapt this site to better reflect the time 
 For a long time I’ve been hoping to migrate this site from [Textpattern](https://web.archive.org/web/20100106035446/http://www.textpattern.com/) to [Expression Engine](https://web.archive.org/web/20100106035446/http://www.expressionengine.com/index.php?affiliate=nathanpitman) so this seems like the ideal opportunity to do so. I’ve had an [initial tinker](https://web.archive.org/web/20100106035446/http://expressionengine.com/forums/viewthread/52585/) and it looks like I should be able to migrate all the content fairly easily. From there I’m going to have a play with the fantastically clever [Expression Engine ‘FeedGrab’ plug-in](https://web.archive.org/web/20100106035446/http://www.brandnewbox.co.uk/logbook/article/feedgrab_expression_engine_plugin/) by Andrew Weaver which should allow me to pull together the various strands of data associated with me from across the internet and present them in one location.
 
 So if things get a little funky here, you know why. :)
-
-Tagged: [Blogging](/tag/blogging), [Personal](/tag/personal)

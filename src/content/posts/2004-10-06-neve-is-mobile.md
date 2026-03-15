@@ -14,5 +14,3 @@ This afternoon my daughter Neve did her first *real* proper bit of crawling, non
 ![Cute look](/images/69.jpg "Cute look")
 
 When I look back at [my blog entry from the day she was born](https://web.archive.org/web/20100107012132/http://www.nathanpitman.com/blog/index.php?id=32) I can’t believe that she’s already nearly 7 months old. These are moments to treasure forever.
-
-Tagged: [Family](/tag/family), [Photography](/tag/photography)

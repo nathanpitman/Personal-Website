@@ -16,5 +16,3 @@ if (!in_array($weblog_id, $weblogs)) {
 }`
 
 Obviously the ‘weblogs’ array is an array of weblog id’s that you do not want the ‘tag tab’ to be displayed for. You could do this round the other way, writing an array of weblogs that should include the tag tab but I felt this was the better option in my scenario.
-
-Tagged: [ExpressionEngine](/tag/expressionengine)

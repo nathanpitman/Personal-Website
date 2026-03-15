@@ -15,5 +15,3 @@ It seems that Macromedia totally changed the way in which commands are inserted 
 Net result is that although my extensions will work ‘mostly’ (I think, let me know) with the latest release, the way they are inserted into the toolbar is all a bit Pete Tong.
 
 Suffice to say I’m going to try and resolve this…
-
-Tagged: [Adobe](/tag/adobe), [Extensions](/tag/extensions)

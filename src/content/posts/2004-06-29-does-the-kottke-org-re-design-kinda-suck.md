@@ -12,5 +12,3 @@ Jason [kottke](https://web.archive.org/web/20100105214300/http://www.kottke.org/
 ![kottke.org home of fine hypertext products](/images/34.gif "kottke.org home of fine hypertext products")
 
 What do you reckon?
-
-Tagged: [Design](/tag/design)

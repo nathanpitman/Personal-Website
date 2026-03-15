@@ -8,5 +8,3 @@ tags:
 ---
 
 Brilliant!
-
-Tagged: [Humour](/tag/humour)

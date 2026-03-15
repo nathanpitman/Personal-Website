@@ -13,5 +13,3 @@ On the 22nd of Apirl I’ll be starting work at my new home ‘[Mirashade](https
 My new job title: Senior Newmedia Developer.
 
 Hopefully I’ll be spending more time on interactive projects and less time on print, plus I’ll be much nearer to home. It’s all good. :)
-
-Tagged: [Employment](/tag/employment), [Personal](/tag/personal)

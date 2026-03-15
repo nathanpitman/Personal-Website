@@ -14,5 +14,3 @@ I’ve just been taking a look at [ExpressionEngine](https://web.archive.org/web
 Obviously there are other contenders, [Mambo](https://web.archive.org/web/20100117024952/http://www.mamboserver.com/) and [Drupal](https://web.archive.org/web/20100117024952/http://drupal.org/) to mention a few and I’ll be taking a look at both over the next few days.
 
 My experience in the past has always been with bespoke content management solutions for such projects, but I’m not convinved that’s the right path to tread when I’m most likely going to be doing all the work myself, and to be brutal I’d rather pay for something that’s had all the bugs shaken out already so I can concentrate on design and development upon a stable base.
-
-Tagged: [Web development](/tag/web-development)

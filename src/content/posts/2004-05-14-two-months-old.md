@@ -10,5 +10,3 @@ tags:
 My daughter Neve is two months old today. This is a photo of her with my Dad, which I took at the weekend. :)
 
 ![My Daughter Neve with my Dad](/images/14.jpg "My Daughter Neve with my Dad")
-
-Tagged: [Personal](/tag/personal)

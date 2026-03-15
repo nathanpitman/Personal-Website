@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Sidebar from '../components/Sidebar.astro';
 import { getCollection } from 'astro:content';
+import { slugify } from '../utils/slugify';
 
 const allPosts = await getCollection('posts');
 const posts = allPosts
@@ -36,6 +37,13 @@ function formatDate(date: Date): string {
             <div class="post-body">
               <Content />
             </div>
+            {(post.data.tags ?? []).length > 0 && (
+              <p class="post-tags">
+                Tagged: {(post.data.tags ?? []).map((tag: string, i: number) => (
+                  <><a href={`/tag/${slugify(tag)}`}>{tag}</a>{i < (post.data.tags ?? []).length - 1 ? ', ' : ''}</>
+                ))}
+              </p>
+            )}
           </article>
         );
       })}

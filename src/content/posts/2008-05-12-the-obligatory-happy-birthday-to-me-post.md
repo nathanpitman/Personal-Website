@@ -10,5 +10,3 @@ tags:
 Happy Birthday to me. 31 today. :)
 
 That’s it. Ta ta.
-
-Tagged: [Personal](/tag/personal)

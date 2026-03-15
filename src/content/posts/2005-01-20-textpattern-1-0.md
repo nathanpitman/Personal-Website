@@ -14,5 +14,3 @@ According to [the latest postings](https://web.archive.org/web/20091210072713/ht
 I’m kind of holding off on doing too much on [my re-design](https://web.archive.org/web/20091210072713/http://www.nathanpitman.com/blog/?id=312) so that I don’t trash anything during the upgrade from RC1.
 
 Exciting stuff, can’t wait. :)
-
-Tagged: [Textpattern](/tag/textpattern)

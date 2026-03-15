@@ -14,5 +14,3 @@ I have a copy of [Macromedia Contribute up for auction](https://web.archive.org/
 Starting price of ï¿½10.00 plus ï¿½2.00 postage. The auction ends on the 16th of July. Happy bidding. :)
 
 **Update:** This auction has ended, but has been re-opened [here](https://web.archive.org/web/20090616203411/http://www.nathanpitman.com/blog/index.php?id=212).
-
-Tagged: [Adobe](/tag/adobe)

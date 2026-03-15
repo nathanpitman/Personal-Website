@@ -9,5 +9,3 @@ hidden: true
 ---
 
 I have some very good news, it’s a creative thing, I bet you can’t guess… ;) Soon I will tell…
-
-Tagged: [Family](/tag/family)

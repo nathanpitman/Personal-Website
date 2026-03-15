@@ -14,5 +14,3 @@ There’s something slightly odd about the [new iMac](https://web.archive.org/we
 Usually when I hear that there’s a new piece of mac hardware I visit [apple.com](https://web.archive.org/web/20100106040718/http://www.apple.com/) and make the appropriate ‘ooh’ and ‘aah’ noises, but this time it was more of a ‘oo…er… hmm’.
 
 Maybe the new iMac just ‘looks’ un-balanced, maybe it’s just me… what do you think?
-
-Tagged: [Design](/tag/design)

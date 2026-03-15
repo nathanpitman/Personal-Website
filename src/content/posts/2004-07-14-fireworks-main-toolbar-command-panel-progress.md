@@ -11,5 +11,3 @@ tags:
 I’ve been tinkering during spare moments with a simple little command panel to replace the ever so ugly ‘main toolbar’ in Fireworks MX / MX 2004.
 
 It’s almost finished, I just need to complete work on the ‘import’ function, then I reckon it’s ready to go.
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

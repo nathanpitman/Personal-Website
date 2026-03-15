@@ -21,5 +21,3 @@ The only hurdle I had to face was (Surprisignly for Linux distros) not software 
 With Ubuntu up and running I did a quick install of [SSH](https://web.archive.org/web/20091209173054/http://www.google.co.uk/search?q=ssh), unplugged the peripherals (and returned them before wifey noticed) then SSH’d in from my PC to uncompress and install [XAMPP](https://web.archive.org/web/20091209173054/http://www.apachefriends.org/en/xampp.html). For designers/developers like me I think XAMPP is great, one single install and you have pretty much everything you’ll need for day to day LAMP development, including the GD image libraries.
 
 **Success!**
-
-Tagged: [Linux](/tag/linux), [Web development](/tag/web-development)

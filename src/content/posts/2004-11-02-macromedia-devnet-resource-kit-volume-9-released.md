@@ -10,5 +10,3 @@ tags:
 *“Volume 9”:http://www.macromedia.com/software/drk/productinfo/product\_overview/volume9/ delivers the latest functionality to your Macromedia MX 2004 tools with new Macromedia Flash MX 2004 components, Dreamweaver MX 2004 extensions, sample applications and utilities for ColdFusion MX, and Fireworks MX 2004 extensions.*
 
 Hmm… bit of a typo on the Macromedia site coz there certainly ain’t no Fireworks Extensions… shame.
-
-Tagged: [Adobe](/tag/adobe)

@@ -21,5 +21,3 @@ Working day in and day out with ExpressionEngine 2 I’m seeing ‘A LOT’ of t
 - **Forgetful Dialogs** – The new File dialog is a big improvement over the complete mess that came before it, however all I really want is for it to have some memory. Make life easier for me if I’m uploading 30 images… pre-select that same upload location I used last time… you’re gonna save me 60 clicks!
 
 More to come as they hit me.
-
-Tagged: [ExpressionEngine](/tag/expressionengine), [Rant](/tag/rant)

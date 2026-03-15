@@ -12,5 +12,3 @@ Without further delay, let me announce Baby Pitman #3! Due early to mid November
 ![Baby Pitman #3.](/images/148.jpg "Baby Pitman #3.")
 
 Surely it’s a boy, the hand is already grasping a virtual bottle of beer.
-
-Tagged: [Personal](/tag/personal)

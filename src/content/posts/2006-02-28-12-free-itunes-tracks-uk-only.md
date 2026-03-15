@@ -17,5 +17,3 @@ Via ‘The List’ I heard of a promotion which a UK website is running whereby 
 5. Open iTunes and from the Music Store select ‘Account > Redeem’ to redeem your song codes.
 
 You’re done. Enjoy your credits!
-
-Tagged: [Chatter](/tag/chatter), [Marketing/Advertising](/tag/marketing-advertising)

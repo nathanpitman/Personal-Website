@@ -10,5 +10,3 @@ tags:
 Ok, so I’m a bit slow on the uptake, but I thought I should report it here. Macromedia have released Volume 6 of the DevNet Resource Kit.
 
 Volume 6 delivers a new set of Macromedia Flash MX 2004 components, Dreamweaver MX 2004 extensions, and a host of components, tags, and utilities for ColdFusion MX. The CD also contains sample applications and an archive of the last three months of articles on the Developer Center website.
-
-Tagged: [Adobe](/tag/adobe)

@@ -29,5 +29,3 @@ Kind regards
 Nathan Pitman
 
 **Update:** It seems [Adobe are working on an updater](https://web.archive.org/web/20090518024049/http://blogs.adobe.com/fireworks/2009/03/updater_planned_for_fireworks.html) for Fireworks CS4 to rectify the text shifting bug.
-
-Tagged: [Adobe](/tag/adobe), [Fireworks](/tag/fireworks)

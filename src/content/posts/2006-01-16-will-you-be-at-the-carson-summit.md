@@ -16,5 +16,3 @@ First off I have to get any expenses past the ~~financial controller~~ wife, the
 Instead I’ve decided to book my place at one of the upcoming [Carson Workshops](https://web.archive.org/web/20111009172453/http://www.carsonworkshops.com/); **The Carson Summit – The Future of Web Apps**. There’s a really exciting [list of speakers](https://web.archive.org/web/20111009172453/http://www.carsonworkshops.com/summit/index.html) including respected figures from **Delicious**, **37 Signals** and **Flickr** to name just a few.
 
 At just Â£75 (+VAT) it seems a bit of a steal if you ask me. If you’ve got your place reserved add your mugshot to the [Carson Summit Flickr group](https://web.archive.org/web/20111009172453/http://www.flickr.com/groups/summit2006/) and maybe I’ll see you there. :)
-
-Tagged: [Web applications](/tag/web-applications)

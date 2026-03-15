@@ -14,5 +14,3 @@ I’m rather excited about the news that the [SiteVista](https://web.archive.org
 I use SiteVista on a regular basis, in the most part as a tool to help me refine and bug fix HTML email templates. With Outlook 2007 well and truly out there it’s great to have a platform to hand that you can quickly and easily test on, even if in most cases you end up weeping at the result of Microsoft’s dabbling with the Outlook rendering engine.
 
 The news of a revised interface and lightning-fast testing makes me feel all wobbly at the knees! Don’t keep us waiting too long guys! :)
-
-Tagged: [Web development](/tag/web-development)

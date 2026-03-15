@@ -35,5 +35,3 @@ Now simply place your tags in you document head and start adding yourself to geo
 - [GeoURL](https://web.archive.org/web/20090522145154/http://geourl.org/ping/)
 
 Hoorah!
-
-Tagged: [Code](/tag/code)

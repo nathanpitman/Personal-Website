@@ -12,5 +12,3 @@ hidden: true
 ![](/images/155.jpg)
 
 The Birthday girl with her cake. Which she ate rather large amounts of. Little pig. The party at the weekend was lots of fun. Thanks to everyone who was able to make it. :)
-
-Tagged: [Family](/tag/family), [Personal](/tag/personal)

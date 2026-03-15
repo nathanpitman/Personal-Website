@@ -15,5 +15,3 @@ According to his site this is a ‘nifty tool for rapid batch resizing of folder
 I’ve not had a chance to play with the extension myself yet, but it seems pretty straight forward and simple, although I’m a little confused as to how it differs to the built in batch processing tools that Fireworks includes. I guess it’s just a different route to achieving the same end result.
 
 I understand that Steven has a number of other commands on the way in the very near future. Good stuff.
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)

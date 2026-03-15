@@ -28,5 +28,3 @@ Our client is an integrated full service agency, complete with in-house design t
 An attractive salary is available commensurate with you experience.
 
 **To apply** drop [James Attewell](https://web.archive.org/web/20101225135554/mailto:james@ccrecruit.co.uk?subject=Job%20Application%20from%20nathanpitman.com&body=RE:%20http://nathanpitman.com/journal/502/web-developer-reqd-windsor-berks-uk) an email.
-
-Tagged: [Jobs](/tag/jobs)

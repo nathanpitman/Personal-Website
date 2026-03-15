@@ -17,5 +17,3 @@ As you probably know just 2 weeks back my wife gave birth to our second daughter
 I guess it boils down to this: At some point in your career the desire to make a change, do something different and be brave just becomes so intense that you simply have to go with it. To fight against the motivation would be insane, and the way I see it… if I never try, I’ll look back in 10 years time I wish I had, but by then it might be too late.
 
 At the end of the day if it all goes [Pete Tong](https://web.archive.org/web/20090831030523/http://www.petetong.com/), then so be it. I have the love of my family and friends and I love what I’m setting out to do, what more could you ask for in life.
-
-Tagged: [Employment](/tag/employment), [Personal](/tag/personal)

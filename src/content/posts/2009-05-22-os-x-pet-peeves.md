@@ -20,5 +20,3 @@ Perhaps I’m missing something obvious, but there is simply no way to just opti
 ### Show Hidden Files
 
 Please give us OS X users a way to have hidden files within specific folders revealed. I need to see hidden files by default on network shares and elsewhere – but not on my desktop. A simple option under Finder Preferences would be a step in the right direction.
-
-Tagged: [Apple](/tag/apple)

@@ -9,5 +9,3 @@ hidden: true
 ---
 
 Sometimes my daughter Neve is soooo cute. I just had to blog this. :)
-
-Tagged: [Family](/tag/family)

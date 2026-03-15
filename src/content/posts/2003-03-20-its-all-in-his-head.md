@@ -10,5 +10,3 @@ tags:
 ‘[All in the head‘ is Drews new outlet for strange thoughts and ponderings.](https://web.archive.org/web/20100105222143/http://www.allinthehead.com/)
 
 You have been warned…
-
-Tagged: [Technology](/tag/technology)

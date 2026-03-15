@@ -16,5 +16,3 @@ Use [Duplicate, Offset & Rotate](https://web.archive.org/web/20100110210054/http
 - Step and repeat any object
 
 That’s not all, you can mix and match the effects which you apply, choose to disable or enable the duplication, offset and rotation layers with just one single click. Fireworks will even remember your settings between sessions.
-
-Tagged: [Extensions](/tag/extensions), [Fireworks](/tag/fireworks)
