@@ -217,6 +217,11 @@ a:hover         { color: #0000ee; }
   margin-bottom: 0.15em;
 }
 
+.post-body h2, .post-body h3 {
+  font-family: var(--sans);
+  letter-spacing: -0.02em;
+}
+
 /* Tagged: label + comma-separated links */
 .post-tags {
   margin-top: 16px;
