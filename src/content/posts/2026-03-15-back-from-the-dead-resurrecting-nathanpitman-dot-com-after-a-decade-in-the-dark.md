@@ -75,4 +75,4 @@ But the impulse is the same as it always was: find something interesting, work o
 
 That’s what a personal blog is for. It’s good to have one again.
 
-_The full technical record of how this site was rebuilt lives in [replit.md](https://github.com/nathanpitman/Personal-Website/blob/main/replit.md) in the project repository. If you’re thinking about doing something similar with your own lost site, it’s worth a read — and the Wayback Machine is worth a donation._
+_The full technical record of how this site was rebuilt lives in [replit.md](https://github.com/nathanpitman/Personal-Website/blob/main/replit.md) in the project repository. If you’re thinking about doing something similar with your own lost site, it’s worth a read — and [the Wayback Machine is worth a donation](https://archive.org/donate)._
