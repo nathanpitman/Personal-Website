@@ -1,5 +1,6 @@
 ---
 title: "Migrating from TXP to EE - Step 1"
+description: "Step 1 of a series documenting migration from Textpattern to ExpressionEngine — setting up EE."
 date: 2008-09-22
 source: "http://nathanpitman.com/553/migrating-from-txp-to-ee-step-1"
 archive: "https://web.archive.org/web/20090524014744/http://nathanpitman.com:80/553/migrating-from-txp-to-ee-step-1"

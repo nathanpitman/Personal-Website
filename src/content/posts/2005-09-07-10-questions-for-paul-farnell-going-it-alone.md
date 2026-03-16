@@ -1,5 +1,6 @@
 ---
 title: 10 questions for Paul Farnell (Going it alone)
+description: "Bonus interview with Paul Farnell of SiteVista on running his own web business and the realities of self-employment."
 date: 2005-09-07
 source: http://nathanpitman.com/401/10-questions-for-paul-farnell-going-it-alone
 archive: https://web.archive.org/web/20091117062650/http://nathanpitman.com:80/401/10-questions-for-paul-farnell-going-it-alone

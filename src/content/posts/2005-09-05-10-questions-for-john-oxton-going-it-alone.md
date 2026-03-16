@@ -1,5 +1,6 @@
 ---
 title: 10 questions for John Oxton (Going it alone)
+description: "Fifth and final interview in the Going it alone series — John Oxton on freelancing in web design and development."
 date: 2005-09-05
 source: http://nathanpitman.com/393/10-questions-for-john-oxton-going-it-alone
 archive: https://web.archive.org/web/20091117062638/http://nathanpitman.com:80/393/10-questions-for-john-oxton-going-it-alone

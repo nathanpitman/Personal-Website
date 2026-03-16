@@ -1,5 +1,6 @@
 ---
 title: "Whatever you do, don’t buy a Kia Sedona."
+description: "A detailed, frustrated account of 15 months of reliability problems with a new Kia Sedona — a strong warning to potential buyers."
 date: 2009-01-01
 source: "http://nathanpitman.com/563/whatever-you-do-dont-buy-a-kia-sedona"
 archive: "https://web.archive.org/web/20090518024043/http://nathanpitman.com:80/563/whatever-you-do-dont-buy-a-kia-sedona"

@@ -1,5 +1,6 @@
 ---
 title: "Xbox 360 Autumn Dashboard Update"
+description: "Thoughts on the Xbox 360's autumn 2006 dashboard update — what changed and what it means for users."
 date: 2006-10-30
 source: "http://nathanpitman.com/491/xbox-360-autumn-dashboard-update"
 archive: "https://web.archive.org/web/20100106033109/http://nathanpitman.com/491/xbox-360-autumn-dashboard-update"

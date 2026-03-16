@@ -1,5 +1,6 @@
 ---
 title: SiteVista Review
+description: "A hands-on review of SiteVista, a cross-browser testing service — impressions after getting an account."
 date: 2005-11-01
 source: http://nathanpitman.com/415/sitevista-review
 archive: https://web.archive.org/web/20110426030905/http://nathanpitman.com:80/415/sitevista-review

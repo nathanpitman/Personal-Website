@@ -1,5 +1,6 @@
 ---
 title: Mark of the web (or why IE6 sucks)
+description: "An exploration of IE6's Mark of the Web security feature and why it causes so many headaches for web developers."
 date: 2006-03-01
 source: http://nathanpitman.com/454/mark-of-the-web-or-why-ie6-sucks
 archive: https://web.archive.org/web/20090524024842/http://nathanpitman.com:80/454/mark-of-the-web-or-why-ie6-sucks

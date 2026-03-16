@@ -1,5 +1,6 @@
 ---
 title: "Migrating from TXP to EE - Step 2"
+description: "Step 2: exporting data from Textpattern in preparation for import into ExpressionEngine."
 date: 2008-09-26
 source: "http://nathanpitman.com/554/migrating-from-txp-to-ee-step-2"
 archive: "https://web.archive.org/web/20090518092414/http://nathanpitman.com:80/554/migrating-from-txp-to-ee-step-2"

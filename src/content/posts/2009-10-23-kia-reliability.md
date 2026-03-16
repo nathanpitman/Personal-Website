@@ -1,5 +1,6 @@
 ---
 title: "Kia Reliability"
+description: "A follow-up rant about ongoing reliability issues with a Kia Sedona — more problems, more frustration."
 date: 2009-10-23
 source: "http://nathanpitman.com/592/kia-reliability"
 archive: "https://web.archive.org/web/20091026063446/http://nathanpitman.com:80/592/kia-reliability"

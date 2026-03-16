@@ -1,5 +1,6 @@
 ---
 title: "OS X pet peeves"
+description: "A list of small but persistent annoyances in Mac OS X from the perspective of a longtime Windows convert."
 date: 2009-05-22
 source: "http://nathanpitman.com/585/os-x-pet-peeves"
 archive: "https://web.archive.org/web/20090527052738/http://nathanpitman.com:80/585/os-x-pet-peeves"

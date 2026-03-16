@@ -1,5 +1,6 @@
 ---
 title: "Migrating from TXP to EE - Step 5"
+description: "Step 5: setting up links and finishing touches after migrating from Textpattern to ExpressionEngine."
 date: 2008-10-16
 source: "http://nathanpitman.com/558/migrating-from-txp-to-ee-step-5"
 archive: "https://web.archive.org/web/20090518092434/http://nathanpitman.com:80/558/migrating-from-txp-to-ee-step-5"

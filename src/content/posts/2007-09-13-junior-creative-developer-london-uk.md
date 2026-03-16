@@ -1,5 +1,6 @@
 ---
 title: "Junior Creative Developer - London, UK"
+description: "A job posting for a junior creative developer position based in London."
 date: 2007-09-13
 source: "http://nathanpitman.com/519/junior-creative-developer-london-uk"
 archive: "https://web.archive.org/web/20091010114936/http://nathanpitman.com:80/519/junior-creative-developer-london-uk"

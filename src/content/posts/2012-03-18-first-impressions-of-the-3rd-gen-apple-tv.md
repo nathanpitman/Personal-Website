@@ -1,5 +1,6 @@
 ---
 title: "First impressions of the 3rd gen Apple TV"
+description: "First impressions after replacing a Mac Mini home theatre setup with the new third-generation Apple TV."
 date: 2012-03-18
 source: "http://nathanpitman.com/613/first-impressions-of-the-3rd-gen-apple-tv"
 archive: "https://web.archive.org/web/20120629062912/http://nathanpitman.com:80/613/first-impressions-of-the-3rd-gen-apple-tv"

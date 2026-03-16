@@ -1,5 +1,6 @@
 ---
 title: "The great Staples ‘OrderCare’ scam"
+description: "An account of a frustrating experience with Staples' OrderCare protection scheme — and why it turned out to be a waste of money."
 date: 2008-10-06
 source: "http://nathanpitman.com/560/the-great-staples-ordercare-scam"
 archive: "https://web.archive.org/web/20090518094518/http://nathanpitman.com:80/560/the-great-staples-ordercare-scam"

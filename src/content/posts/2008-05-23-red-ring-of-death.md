@@ -1,5 +1,6 @@
 ---
 title: "Red Ring of Death!"
+description: "A personal account of experiencing the Xbox 360's infamous Red Ring of Death hardware failure."
 date: 2008-05-23
 source: "http://nathanpitman.com/536/red-ring-of-death"
 archive: "https://web.archive.org/web/20090605055620/http://nathanpitman.com:80/536/red-ring-of-death"

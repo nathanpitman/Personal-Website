@@ -1,5 +1,6 @@
 ---
 title: "When Spotlight Attacks"
+description: "On Mac OS X Spotlight causing unexpected problems — and how to fix them."
 date: 2007-06-28
 source: "http://nathanpitman.com/512/when-spotlight-attacks"
 archive: "https://web.archive.org/web/20090823042016/http://nathanpitman.com:80/512/when-spotlight-attacks"

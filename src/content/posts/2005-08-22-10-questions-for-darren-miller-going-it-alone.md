@@ -1,5 +1,6 @@
 ---
 title: 10 questions for Darren Miller (Going it alone)
+description: "Third in a series — Darren Miller discusses going freelance as a web designer and developer."
 date: 2005-08-22
 source: http://nathanpitman.com/394/10-questions-for-darren-miller-going-it-alone
 archive: https://web.archive.org/web/20100113151405/http://nathanpitman.com:80/394/10-questions-for-darren-miller-going-it-alone

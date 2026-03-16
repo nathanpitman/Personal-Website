@@ -1,5 +1,6 @@
 ---
 title: 10 questions for Jon Hicks (Going it alone)
+description: "Second in a series of interviews with self-employed web professionals. Jon Hicks on the realities of working for yourself."
 date: 2005-08-17
 source: http://nathanpitman.com/389/10-questions-for-jon-hicks-going-it-alone
 archive: https://web.archive.org/web/20100107200850/http://nathanpitman.com:80/389/10-questions-for-jon-hicks-going-it-alone

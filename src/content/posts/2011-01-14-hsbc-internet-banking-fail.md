@@ -1,5 +1,6 @@
 ---
 title: "HSBC Internet Banking Fail"
+description: "A list of frustrations with HSBC's online banking system, just a month after switching from Santander."
 date: 2011-01-14
 source: "http://nathanpitman.com/602/hsbc-internet-banking-fail"
 archive: "https://web.archive.org/web/20110209054101/http://nathanpitman.com:80/602/hsbc-internet-banking-fail"

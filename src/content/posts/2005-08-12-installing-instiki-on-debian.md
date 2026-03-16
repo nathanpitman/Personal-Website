@@ -1,5 +1,6 @@
 ---
 title: Installing Instiki on Debian
+description: "Notes on getting the Instiki wiki running on Debian for an internal team wiki."
 date: 2005-08-12
 source: http://nathanpitman.com/391/installing-instiki-on-debian
 archive: https://web.archive.org/web/20100106033419/http://nathanpitman.com/391/installing-instiki-on-debian

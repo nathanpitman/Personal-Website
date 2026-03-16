@@ -1,5 +1,6 @@
 ---
 title: "Migrating from TXP to EE - Step 3"
+description: "Step 3: importing Textpattern articles into ExpressionEngine."
 date: 2008-09-27
 source: "http://nathanpitman.com/555/migrating-from-txp-to-ee-step-3"
 archive: "https://web.archive.org/web/20090518094453/http://nathanpitman.com:80/555/migrating-from-txp-to-ee-step-3"

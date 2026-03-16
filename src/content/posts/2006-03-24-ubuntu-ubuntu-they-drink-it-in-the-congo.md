@@ -1,5 +1,6 @@
 ---
 title: "Ubuntu, Ubuntu they drink it in the congo"
+description: "First impressions of Ubuntu Linux — installation notes and early thoughts on switching from Windows."
 date: 2006-03-24
 source: "http://nathanpitman.com/467/ubuntu-ubuntu-they-drink-it-in-the-congo"
 archive: "https://web.archive.org/web/20091209173054/http://nathanpitman.com:80/467/ubuntu-ubuntu-they-drink-it-in-the-congo"

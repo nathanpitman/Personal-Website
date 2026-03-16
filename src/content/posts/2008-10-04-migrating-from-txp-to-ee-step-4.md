@@ -1,5 +1,6 @@
 ---
 title: "Migrating from TXP to EE - Step 4"
+description: "Step 4: fixing up content after the Textpattern-to-ExpressionEngine migration."
 date: 2008-10-04
 source: "http://nathanpitman.com/556/migrating-from-txp-to-ee-step-4"
 archive: "https://web.archive.org/web/20090519081155/http://nathanpitman.com:80/556/migrating-from-txp-to-ee-step-4"

@@ -1,5 +1,6 @@
 ---
 title: Print designer I ain’t (update)
+description: "An update on a print design project — reflecting on the difference between screen and print work."
 date: 2005-10-25
 source: http://nathanpitman.com/412/print-designer-i-aint-update
 archive: https://web.archive.org/web/20100106034320/http://nathanpitman.com/412/print-designer-i-aint-update

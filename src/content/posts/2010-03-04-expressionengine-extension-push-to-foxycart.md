@@ -1,5 +1,6 @@
 ---
 title: "ExpressionEngine Extension: Push to FoxyCart"
+description: "Announcing a custom ExpressionEngine extension for integrating with FoxyCart e-commerce."
 date: 2010-03-04
 source: "http://nathanpitman.com/596/expressionengine-extension-push-to-foxycart"
 archive: "https://web.archive.org/web/20100307023931/http://nathanpitman.com:80/596/expressionengine-extension-push-to-foxycart"

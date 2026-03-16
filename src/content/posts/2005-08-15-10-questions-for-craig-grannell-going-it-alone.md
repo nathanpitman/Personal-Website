@@ -1,5 +1,6 @@
 ---
 title: 10 questions for Craig Grannell (Going it alone)
+description: "First in a series of interviews with self-employed web designers and developers. Craig Grannell shares his experience going freelance."
 date: 2005-08-15
 source: http://nathanpitman.com/390/10-questions-for-craig-grannell-going-it-alone
 archive: https://web.archive.org/web/20091217084216/http://nathanpitman.com:80/390/10-questions-for-craig-grannell-going-it-alone

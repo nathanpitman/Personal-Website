@@ -1,5 +1,6 @@
 ---
 title: "Web Developer - South East, UK"
+description: "A job posting for a web developer to join Nine Four in the south east of England."
 date: 2009-05-27
 source: "http://nathanpitman.com/586/web-developer-south-east-uk"
 archive: "https://web.archive.org/web/20090601223346/http://nathanpitman.com:80/586/web-developer-south-east-uk"

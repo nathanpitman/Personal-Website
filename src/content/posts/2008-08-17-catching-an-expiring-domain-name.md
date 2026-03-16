@@ -1,5 +1,6 @@
 ---
 title: "Catching an expiring domain name"
+description: "A guide to the process of trying to catch and register an expiring domain name before anyone else does."
 date: 2008-08-17
 source: "http://nathanpitman.com/549/catching-an-expiring-domain-name"
 archive: "https://web.archive.org/web/20090714120858/http://nathanpitman.com:80/549/catching-an-expiring-domain-name"

@@ -1,5 +1,6 @@
 ---
 title: "Things about ExpressionEngine 2 that wind me up good and proper"
+description: "A frank list of usability frustrations with ExpressionEngine 2 from daily professional use."
 date: 2011-10-28
 source: "http://nathanpitman.com/612/things-about-expressionengine-2-that-wind-me-up-good-and-proper"
 archive: "https://web.archive.org/web/20111030042045/http://nathanpitman.com:80/612/things-about-expressionengine-2-that-wind-me-up-good-and-proper"

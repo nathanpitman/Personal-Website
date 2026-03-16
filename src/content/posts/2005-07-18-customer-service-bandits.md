@@ -1,5 +1,6 @@
 ---
 title: Customer Service Bandits
+description: "A frustrating experience trying to get a refund from MFI after receiving damaged furniture — a cautionary tale about poor customer service."
 date: 2005-07-18
 source: http://nathanpitman.com/371/customer-service-bandits
 archive: https://web.archive.org/web/20090527120635/http://nathanpitman.com:80/371/customer-service-bandits

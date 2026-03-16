@@ -1,5 +1,6 @@
 ---
 title: "An open letter to software developers RE Adobe Fireworks"
+description: "An open letter urging software developers to support Adobe Fireworks as a serious design tool."
 date: 2009-02-16
 source: "http://nathanpitman.com/567/an-open-letter-to-software-developers-re-adobe-fireworks"
 archive: "https://web.archive.org/web/20090518024049/http://nathanpitman.com:80/567/an-open-letter-to-software-developers-re-adobe-fireworks"

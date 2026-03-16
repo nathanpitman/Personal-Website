@@ -1,5 +1,6 @@
 ---
 title: 10 questions for David Longworth (Going it alone)
+description: "Fourth in the series — David Longworth on self-employment as a web professional."
 date: 2005-08-26
 source: http://nathanpitman.com/392/10-questions-for-david-longworth-going-it-alone
 archive: https://web.archive.org/web/20110502034547/http://nathanpitman.com:80/392/10-questions-for-david-longworth-going-it-alone

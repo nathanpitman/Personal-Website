@@ -1,5 +1,6 @@
 ---
 title: When upgrades turn bad
+description: "A cautionary tale about a software or system upgrade that went wrong and the resulting headache."
 date: 2005-11-28
 source: http://nathanpitman.com/425/when-upgrades-turn-bad
 archive: https://web.archive.org/web/20090526172108/http://nathanpitman.com:80/425/when-upgrades-turn-bad

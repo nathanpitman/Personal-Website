@@ -1,5 +1,6 @@
 ---
 title: Setting up a LAMP server, Part 1.
+description: "Step-by-step guide to setting up a Debian LAMP server, covering remote SSH administration and making the box visible on a Windows home network."
 date: 2005-06-22
 source: http://nathanpitman.com/368/setting-up-a-lamp-server-part-1
 archive: https://web.archive.org/web/20090527121350/http://nathanpitman.com:80/368/Setting-up-a-LAMP-server-Part-1

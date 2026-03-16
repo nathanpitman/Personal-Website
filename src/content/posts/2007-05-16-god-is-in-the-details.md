@@ -1,5 +1,6 @@
 ---
 title: "God is in the details"
+description: "Reflections on the importance of attention to detail in web design and development work."
 date: 2007-05-16
 source: "http://nathanpitman.com/508/god-is-in-the-details"
 archive: "https://web.archive.org/web/20100102213534/http://nathanpitman.com:80/508/god-is-in-the-details"
