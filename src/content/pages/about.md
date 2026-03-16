@@ -6,7 +6,7 @@ title: A little bit about nathan
 
 His first professional break came at a small local print agency, where he was quickly thrown in at the deep end when the company landed the contract to produce the [Virgin Global Challenger](https://en.wikipedia.org/wiki/Virgin_Global_Challenger) website — the official digital home of Richard Branson's solo round-the-world balloon attempt. It was very early days for the internet, and Nathan found himself uploading live images and information via satellite from Marrakech during the launch. The site attracted three million visits over three months. A decent start.
 
-Over the following years Nathan played an instrumental role in building Designation into a well-regarded creative solutions provider, producing interactive work for clients such as De La Rue, Nortel, Agfa and Yellow Pages, and speaking at a London conference on the business benefits of the web — to an audience of Virgin Group company directors, no less.
+Over the following years Nathan played an instrumental role in establishing odb/Designation into a well-regarded creative solutions provider, producing interactive work for clients such as De La Rue, Nortel, Agfa and Yellow Pages, and speaking at a London conference on the business benefits of the web — to an audience of Virgin Group company directors, no less.
 
 A stint at TMB Marketing & Communications sharpened his motion design skills through tools like Macromedia Flash and Adobe After Effects. At Mirashade he pushed further into programming and database languages — PHP, MySQL — and helped build a Content Management System from the ground up. A brief but formative spell as Head of New Media at Bite CP did exactly what it said on the tin: it convinced him to leave and start something of his own.
 
