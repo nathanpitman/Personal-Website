@@ -12,8 +12,8 @@ export async function GET(context: any) {
     feed_url: `${siteUrl}/feed.json`,
     description: 'Journal entries from nathanpitman.com',
     items: sorted.slice(0, 20).map(post => ({
-      id: `${siteUrl}/posts/${post.id.replace(/\.md$/, '')}/`,
-      url: `${siteUrl}/posts/${post.id.replace(/\.md$/, '')}/`,
+      id: `${siteUrl}/posts/${post.slug}/`,
+      url: `${siteUrl}/posts/${post.slug}/`,
       title: post.data.title,
       date_published: post.data.date.toISOString(),
     })),

@@ -12,7 +12,7 @@ export async function GET(context: any) {
     items: sorted.slice(0, 20).map(post => ({
       title: post.data.title,
       pubDate: post.data.date,
-      link: `/posts/${post.id.replace(/\.md$/, '')}/`,
+      link: `/posts/${post.slug}/`,
     })),
   });
 }

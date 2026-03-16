@@ -66,7 +66,7 @@ const recentPosts = allPosts
       <p class="who-text" style="margin-bottom: 10px;">The 10 most recent entries from the journal.</p>
       <ul class="sidebar-list">
         {recentPosts.map(post => (
-          <li><a href={`/posts/${post.id.replace(/\.md$/, '')}`}>{post.data.title}</a></li>
+          <li><a href={`/posts/${post.slug}`}>{post.data.title}</a></li>
         ))}
       </ul>
     </div>

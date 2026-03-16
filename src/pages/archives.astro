@@ -27,7 +27,7 @@ let currentMonth: ArchiveMonth | null = null;
 for (const post of sorted) {
   const y = post.data.date.getFullYear();
   const m = monthNames[post.data.date.getMonth()];
-  const slug = post.id.replace(/\.md$/, '');
+  const slug = post.slug;
 
   if (!currentYear || currentYear.year !== y) {
     currentYear = { year: y, months: [] };

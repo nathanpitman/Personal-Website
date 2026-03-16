@@ -25,7 +25,7 @@ function formatDate(date: Date): string {
 
       {posts.map(async (post) => {
         const { Content } = await post.render();
-        const slug = post.id.replace(/\.md$/, '');
+        const slug = post.slug;
         return (
           <article class="post">
             <header class="post-header">
