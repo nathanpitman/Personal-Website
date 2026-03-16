@@ -4,7 +4,8 @@ date: 2004-11-12
 source: http://nathanpitman.com/286/office-manager-required-berkshire-uk
 archive: https://web.archive.org/web/20100109083204/http://nathanpitman.com:80/286/office-manager-required-berkshire-uk
 tags:
-  - "Jobs"
+  - Jobs
+hidden: true
 ---
 
 Via [Mirashade](https://web.archive.org/web/20100109083204/http://www.mirashade.com/)...
