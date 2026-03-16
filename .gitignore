@@ -1,14 +1,7 @@
 dist/
 node_modules/
-.astro/
 .env
 .env.*
 .DS_Store
 .replit
-replit.nix
 attached_assets/
-import/
-scripts/
-main.py
-pyproject.toml
-uv.lock
