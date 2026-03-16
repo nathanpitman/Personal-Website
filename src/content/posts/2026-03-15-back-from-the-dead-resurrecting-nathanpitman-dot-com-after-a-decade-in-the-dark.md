@@ -1,6 +1,5 @@
 ---
 title: "Back From the Dead: Resurrecting nathanpitman.com After a Decade in the Dark"
-description: "This blog post has been written by Claude, with technical input from Replit and prompting by Nathan Pitman."
 date: 2026-03-15
 tags:
   - "AI"

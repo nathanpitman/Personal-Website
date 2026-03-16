@@ -1,6 +1,5 @@
 ---
 title: 10 questions for Darren Miller (Going it alone)
-description: "In the third of five interviews with web designers and developers who are self employed I chat with Darren Miller. I got to know Darren whilst working at..."
 date: 2005-08-22
 source: http://nathanpitman.com/394/10-questions-for-darren-miller-going-it-alone
 archive: https://web.archive.org/web/20100113151405/http://nathanpitman.com:80/394/10-questions-for-darren-miller-going-it-alone

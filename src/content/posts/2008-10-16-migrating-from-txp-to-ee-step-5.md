@@ -1,6 +1,5 @@
 ---
 title: "Migrating from TXP to EE - Step 5"
-description: "ExpressionEngine does not provide a ‘native’ facility for recording links but the immense flexibility of ExpressionEngine Weblogs allows you to create your..."
 date: 2008-10-16
 source: "http://nathanpitman.com/558/migrating-from-txp-to-ee-step-5"
 archive: "https://web.archive.org/web/20090518092434/http://nathanpitman.com:80/558/migrating-from-txp-to-ee-step-5"

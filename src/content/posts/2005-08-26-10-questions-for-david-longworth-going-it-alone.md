@@ -1,6 +1,5 @@
 ---
 title: 10 questions for David Longworth (Going it alone)
-description: "In the fourth of five interviews with web designers and developers who are self employed I chat with David Longworth. Much like Jon Hicks, I’ve never..."
 date: 2005-08-26
 source: http://nathanpitman.com/392/10-questions-for-david-longworth-going-it-alone
 archive: https://web.archive.org/web/20110502034547/http://nathanpitman.com:80/392/10-questions-for-david-longworth-going-it-alone

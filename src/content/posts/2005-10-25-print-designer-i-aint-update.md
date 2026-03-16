@@ -1,6 +1,5 @@
 ---
 title: Print designer I ain’t (update)
-description: "Well as the title says, I’m no print designer, but with a few minutes to spare between children going to bed and the increasingly excellent afterlife I..."
 date: 2005-10-25
 source: http://nathanpitman.com/412/print-designer-i-aint-update
 archive: https://web.archive.org/web/20100106034320/http://nathanpitman.com/412/print-designer-i-aint-update

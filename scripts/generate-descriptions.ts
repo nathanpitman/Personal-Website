@@ -153,7 +153,6 @@ async function main() {
   let processed = 0;
   let skipped = 0;
   let apiCalls = 0;
-  let apiFallbacks = 0;
 
   for (const filePath of files) {
     const fileName = basename(filePath);
@@ -184,7 +183,14 @@ async function main() {
         skipped++;
         continue;
       }
-    } else if (anthropic) {
+    } else {
+      if (!anthropic) {
+        console.log(
+          `  SKIP ${fileName} — ${wordCount} words, requires API key`
+        );
+        skipped++;
+        continue;
+      }
       try {
         if (apiCalls > 0) {
           await delay(API_DELAY_MS);
@@ -192,36 +198,17 @@ async function main() {
         const result = await generateWithAPI(parsed.body);
         apiCalls++;
         if (!result) {
-          description = extractFirstParagraph(parsed.body);
-          method = "first-paragraph (API returned no text)";
-          if (!description) {
-            console.log(`  SKIP ${fileName} — no extractable content`);
-            skipped++;
-            continue;
-          }
-        } else {
-          description = result;
-          method = "API";
-        }
-      } catch (err: unknown) {
-        const message = err instanceof Error ? err.message : String(err);
-        console.log(
-          `  WARN ${fileName} — API call failed (${message}), falling back to first-paragraph`
-        );
-        apiFallbacks++;
-        description = extractFirstParagraph(parsed.body);
-        method = "first-paragraph (API fallback)";
-        if (!description) {
-          console.log(`  SKIP ${fileName} — no extractable content`);
+          console.log(`  SKIP ${fileName} — API returned no text`);
           skipped++;
           continue;
         }
-      }
-    } else {
-      description = extractFirstParagraph(parsed.body);
-      method = "first-paragraph (no API key)";
-      if (!description) {
-        console.log(`  SKIP ${fileName} — no extractable content`);
+        description = result;
+        method = "API";
+      } catch (err: unknown) {
+        const message = err instanceof Error ? err.message : String(err);
+        console.log(
+          `  SKIP ${fileName} — API call failed: ${message}`
+        );
         skipped++;
         continue;
       }
@@ -237,7 +224,7 @@ async function main() {
 
   console.log(`\nDone.`);
   console.log(
-    `  Processed: ${processed} | Skipped: ${skipped} | API calls: ${apiCalls} | API fallbacks: ${apiFallbacks}`
+    `  Processed: ${processed} | Skipped: ${skipped} | API calls: ${apiCalls}`
   );
 }
 

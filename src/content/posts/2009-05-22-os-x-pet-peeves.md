@@ -1,6 +1,5 @@
 ---
 title: "OS X pet peeves"
-description: "Having lived day to day with a Mac now for a good few years I thought it was about time I documented some of my pet peeves as a one time Windows user. So..."
 date: 2009-05-22
 source: "http://nathanpitman.com/585/os-x-pet-peeves"
 archive: "https://web.archive.org/web/20090527052738/http://nathanpitman.com:80/585/os-x-pet-peeves"

@@ -1,6 +1,5 @@
 ---
 title: "Migrating from TXP to EE - Step 1"
-description: "Ok so a lot of this will be obvious but hey, here we go… I’ve decided to tackle the migration by setting up an ExpressionEngine Core Install on a sub domain..."
 date: 2008-09-22
 source: "http://nathanpitman.com/553/migrating-from-txp-to-ee-step-1"
 archive: "https://web.archive.org/web/20090524014744/http://nathanpitman.com:80/553/migrating-from-txp-to-ee-step-1"

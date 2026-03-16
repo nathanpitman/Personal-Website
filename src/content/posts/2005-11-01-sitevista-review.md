@@ -1,6 +1,5 @@
 ---
 title: SiteVista Review
-description: "Well I bagged myself a SiteVista account today, many thanks to Paul at Salted. For some time I’ve been considering purchasing an iBook purely to test on..."
 date: 2005-11-01
 source: http://nathanpitman.com/415/sitevista-review
 archive: https://web.archive.org/web/20110426030905/http://nathanpitman.com:80/415/sitevista-review

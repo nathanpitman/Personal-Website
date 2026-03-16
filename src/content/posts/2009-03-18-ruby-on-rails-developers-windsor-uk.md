@@ -1,6 +1,5 @@
 ---
 title: "Ruby on Rails Developers - Windsor, UK"
-description: "Global Personals Limited / WhiteLabelDating.com are looking for Ruby on Rails Developers to work from their Windsor office here in the UK. If you think you..."
 date: 2009-03-18
 source: "http://nathanpitman.com/576/ruby-on-rails-developers-windsor-uk"
 archive: "https://web.archive.org/web/20090518024053/http://nathanpitman.com:80/576/ruby-on-rails-developers-windsor-uk"
