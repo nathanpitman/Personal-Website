@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nathanpitman.com/sitemap-index.xml
