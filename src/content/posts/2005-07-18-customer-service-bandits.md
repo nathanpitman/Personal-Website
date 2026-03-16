@@ -1,5 +1,6 @@
 ---
 title: Customer Service Bandits
+description: "You’d think it’s simple really. You purchase goods, be that online or in person. The goods are damaged when they arrive. You return the goods and ask for a..."
 date: 2005-07-18
 source: http://nathanpitman.com/371/customer-service-bandits
 archive: https://web.archive.org/web/20090527120635/http://nathanpitman.com:80/371/customer-service-bandits

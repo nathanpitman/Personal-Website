@@ -1,5 +1,6 @@
 ---
 title: 10 questions for Paul Farnell (Going it alone)
+description: "Ok, so I know I said that Mr Oxton was my final interview, but I was chatting to Paul Farnell of SiteVista fame and just couldn’t resist but to ask if he..."
 date: 2005-09-07
 source: http://nathanpitman.com/401/10-questions-for-paul-farnell-going-it-alone
 archive: https://web.archive.org/web/20091117062650/http://nathanpitman.com:80/401/10-questions-for-paul-farnell-going-it-alone

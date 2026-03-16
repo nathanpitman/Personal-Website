@@ -1,5 +1,6 @@
 ---
 title: When upgrades turn bad
+description: "Maybe I’ve been doing something wrong, maybe I’m just thick but this morning I’ve had a total nightmare completing what should have been a simple task...."
 date: 2005-11-28
 source: http://nathanpitman.com/425/when-upgrades-turn-bad
 archive: https://web.archive.org/web/20090526172108/http://nathanpitman.com:80/425/when-upgrades-turn-bad

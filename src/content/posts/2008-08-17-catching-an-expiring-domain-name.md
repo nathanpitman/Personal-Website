@@ -1,5 +1,6 @@
 ---
 title: "Catching an expiring domain name"
+description: "From the moment that I decided to go it alone and start my own business with my wife 3 years back I was keen to ensure that I bagged a .com as our primary..."
 date: 2008-08-17
 source: "http://nathanpitman.com/549/catching-an-expiring-domain-name"
 archive: "https://web.archive.org/web/20090714120858/http://nathanpitman.com:80/549/catching-an-expiring-domain-name"

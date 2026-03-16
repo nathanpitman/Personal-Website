@@ -1,5 +1,6 @@
 ---
 title: "Creative Director Reqd - Reading, Berks, UK"
+description: "About You"
 date: 2007-05-31
 source: "http://nathanpitman.com/509/creative-director-reqd-reading-berks-uk"
 archive: "https://web.archive.org/web/20091220123449/http://nathanpitman.com:80/509/creative-director-reqd-reading-berks-uk"

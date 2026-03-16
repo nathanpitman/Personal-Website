@@ -1,5 +1,6 @@
 ---
 title: "Xbox 360 Autumn Dashboard Update"
+description: "News on the Autumn 360 dashboard update is out. I’m well chuffed to see that they’re including support for streaming video from any PC running Windows Media..."
 date: 2006-10-30
 source: "http://nathanpitman.com/491/xbox-360-autumn-dashboard-update"
 archive: "https://web.archive.org/web/20100106033109/http://nathanpitman.com/491/xbox-360-autumn-dashboard-update"

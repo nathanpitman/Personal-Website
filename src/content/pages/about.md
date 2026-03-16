@@ -1,5 +1,6 @@
 ---
 title: A little bit about nathan
+description: "Nathan has been involved in interactive design and development since the mid-nineties — back when a single person could reasonably be expected to do..."
 ---
 
 [Nathan](/) has been involved in interactive design and development since the mid-nineties — back when a single person could reasonably be expected to do everything, and most clients still weren't entirely sure what a website was for. He came up through the Berkshire College of Art & Design, where he used early multimedia packages as an alternative to the expected pen-and-paper deliverables, presenting final concepts on screen at a time when almost nobody else was doing the same thing.

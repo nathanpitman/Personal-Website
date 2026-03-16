@@ -1,5 +1,6 @@
 ---
 title: "Red Ring of Death!"
+description: "Just over 2 years after I first got my Xbox 360 and I have been graced with the 3 flashing red lights or “Red Ring of Death’ as it is affectionatley known."
 date: 2008-05-23
 source: "http://nathanpitman.com/536/red-ring-of-death"
 archive: "https://web.archive.org/web/20090605055620/http://nathanpitman.com:80/536/red-ring-of-death"

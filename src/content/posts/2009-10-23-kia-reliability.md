@@ -1,5 +1,6 @@
 ---
 title: "Kia Reliability"
+description: "Just a short post really to rant publicly about the shocking reliability of our now 2 year old Kia Sedona. It’s 5 days since our car was delivered to West..."
 date: 2009-10-23
 source: "http://nathanpitman.com/592/kia-reliability"
 archive: "https://web.archive.org/web/20091026063446/http://nathanpitman.com:80/592/kia-reliability"

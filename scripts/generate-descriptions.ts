@@ -184,14 +184,7 @@ async function main() {
         skipped++;
         continue;
       }
-    } else {
-      if (!anthropic) {
-        console.log(
-          `  SKIP ${fileName} — ${wordCount} words but no API key available`
-        );
-        skipped++;
-        continue;
-      }
+    } else if (anthropic) {
       try {
         if (apiCalls > 0) {
           await delay(API_DELAY_MS);
@@ -199,18 +192,36 @@ async function main() {
         const result = await generateWithAPI(parsed.body);
         apiCalls++;
         if (!result) {
-          console.log(`  ERROR ${fileName} — API returned no text`);
-          errors++;
-          continue;
+          description = extractFirstParagraph(parsed.body);
+          method = "first-paragraph (API returned no text)";
+          if (!description) {
+            console.log(`  SKIP ${fileName} — no extractable content`);
+            skipped++;
+            continue;
+          }
+        } else {
+          description = result;
+          method = "API";
         }
-        description = result;
-        method = "API";
       } catch (err: unknown) {
         const message = err instanceof Error ? err.message : String(err);
         console.log(
-          `  ERROR ${fileName} — API call failed: ${message}`
+          `  WARN ${fileName} — API call failed (${message}), falling back to first-paragraph`
         );
-        errors++;
+        description = extractFirstParagraph(parsed.body);
+        method = "first-paragraph (API fallback)";
+        if (!description) {
+          console.log(`  SKIP ${fileName} — no extractable content`);
+          skipped++;
+          continue;
+        }
+      }
+    } else {
+      description = extractFirstParagraph(parsed.body);
+      method = "first-paragraph (no API key)";
+      if (!description) {
+        console.log(`  SKIP ${fileName} — no extractable content`);
+        skipped++;
         continue;
       }
     }

@@ -1,5 +1,6 @@
 ---
 title: "Web Dev Rqd - Dorking, Surrey, UK."
+description: "Just pimping a vacancy for a friend…"
 date: 2006-06-12
 source: "http://nathanpitman.com/475/web-dev-rqd-dorking-surrey-uk"
 archive: "https://web.archive.org/web/20091231042035/http://nathanpitman.com:80/475/web-dev-rqd-dorking-surrey-uk"

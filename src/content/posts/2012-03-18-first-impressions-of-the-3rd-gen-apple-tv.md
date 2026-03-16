@@ -1,5 +1,6 @@
 ---
 title: "First impressions of the 3rd gen Apple TV"
+description: "I’ve never previously been convinced by the Apple TV, for me it always fell short of what I could do with a Mac Mini hooked up to the TV in the lounge. I..."
 date: 2012-03-18
 source: "http://nathanpitman.com/613/first-impressions-of-the-3rd-gen-apple-tv"
 archive: "https://web.archive.org/web/20120629062912/http://nathanpitman.com:80/613/first-impressions-of-the-3rd-gen-apple-tv"

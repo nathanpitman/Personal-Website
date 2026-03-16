@@ -1,5 +1,6 @@
 ---
 title: "God is in the details"
+description: "Over the past few months Iâve been working with the team at Voyage to develop and deliver their shiny new website. On the high of having the website..."
 date: 2007-05-16
 source: "http://nathanpitman.com/508/god-is-in-the-details"
 archive: "https://web.archive.org/web/20100102213534/http://nathanpitman.com:80/508/god-is-in-the-details"

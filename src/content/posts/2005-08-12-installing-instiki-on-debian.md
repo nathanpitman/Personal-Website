@@ -1,5 +1,6 @@
 ---
 title: Installing Instiki on Debian
+description: "I decided it was about time I had a play with Instiki here at Bite CP since we used to have an install back at Mirashade."
 date: 2005-08-12
 source: http://nathanpitman.com/391/installing-instiki-on-debian
 archive: https://web.archive.org/web/20100106033419/http://nathanpitman.com/391/installing-instiki-on-debian

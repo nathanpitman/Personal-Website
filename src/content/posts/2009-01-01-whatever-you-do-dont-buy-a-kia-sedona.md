@@ -1,5 +1,6 @@
 ---
 title: "Whatever you do, don’t buy a Kia Sedona."
+description: "15 months ago we purchased a brand spanking new Kia Sedona from our local dealership in Reading. Right from the day we took delivery of the car things have..."
 date: 2009-01-01
 source: "http://nathanpitman.com/563/whatever-you-do-dont-buy-a-kia-sedona"
 archive: "https://web.archive.org/web/20090518024043/http://nathanpitman.com:80/563/whatever-you-do-dont-buy-a-kia-sedona"

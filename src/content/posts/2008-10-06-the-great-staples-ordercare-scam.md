@@ -1,5 +1,6 @@
 ---
 title: "The great Staples ‘OrderCare’ scam"
+description: "As a business (Nine Four) we have used Staples to purchase office supplies on a regular basis for the past couple of years. The last time I used the Staples..."
 date: 2008-10-06
 source: "http://nathanpitman.com/560/the-great-staples-ordercare-scam"
 archive: "https://web.archive.org/web/20090518094518/http://nathanpitman.com:80/560/the-great-staples-ordercare-scam"
