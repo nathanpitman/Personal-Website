@@ -2,7 +2,7 @@ import { readdir, readFile, writeFile, stat } from "fs/promises";
 import { join, extname, basename } from "path";
 import Anthropic from "@anthropic-ai/sdk";
 
-const CONTENT_DIR = "src/content";
+const CONTENT_DIR = "src/content/posts";
 const API_DELAY_MS = 200;
 const MODEL = "claude-sonnet-4-20250514";
 
@@ -153,7 +153,7 @@ async function main() {
   let processed = 0;
   let skipped = 0;
   let apiCalls = 0;
-  let errors = 0;
+  let apiFallbacks = 0;
 
   for (const filePath of files) {
     const fileName = basename(filePath);
@@ -208,6 +208,7 @@ async function main() {
         console.log(
           `  WARN ${fileName} — API call failed (${message}), falling back to first-paragraph`
         );
+        apiFallbacks++;
         description = extractFirstParagraph(parsed.body);
         method = "first-paragraph (API fallback)";
         if (!description) {
@@ -236,7 +237,7 @@ async function main() {
 
   console.log(`\nDone.`);
   console.log(
-    `  Processed: ${processed} | Skipped: ${skipped} | Errors: ${errors} | API calls: ${apiCalls}`
+    `  Processed: ${processed} | Skipped: ${skipped} | API calls: ${apiCalls} | API fallbacks: ${apiFallbacks}`
   );
 }
 
