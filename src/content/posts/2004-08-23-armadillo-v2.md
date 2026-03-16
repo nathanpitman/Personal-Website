@@ -7,7 +7,7 @@ tags:
   - "Design"
 ---
 
-[Drew](https://web.archive.org/web/20100109075104/http://www.allinthehead.com/) has ‘refreshed’ his site with a new look and a slightly revamped structure.
+[Drew](http://www.allinthehead.com/) has ‘refreshed’ his site with a new look and a slightly revamped structure.
 
 ![Armadillo v2](/images/53.jpg "Armadillo v2")
 

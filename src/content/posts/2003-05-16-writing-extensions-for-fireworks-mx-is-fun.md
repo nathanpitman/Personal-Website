@@ -12,10 +12,10 @@ Writing extensions for Fireworks MX is fun. Last night I spent some time putting
 
 During this time it occured to me that there really are very few Fireworks extension developers out there, you know I think I could probably count them on a single hand…, a search through my favourites should put this one to rest.
 
-- [AFTERSHAPEdotCOM](https://web.archive.org/web/20110901130352/http://www.aftershape.com/)
-- [Bitgenius](https://web.archive.org/web/20110901130352/http://www.bitgenius.com/extensions/)
-- [John Dunning’s Extensions](https://web.archive.org/web/20110901130352/http://johndunning.com/fireworks/)
-- [Phireworx](https://web.archive.org/web/20110901130352/http://www.phireworx.com/)
-- [Project Fireworks](https://web.archive.org/web/20110901130352/http://www.projectfireworks.com/)
+- [AFTERSHAPEdotCOM](http://www.aftershape.com/)
+- [Bitgenius](http://www.bitgenius.com/extensions/)
+- [John Dunning’s Extensions](http://johndunning.com/fireworks/)
+- [Phireworx](http://www.phireworx.com/)
+- [Project Fireworks](http://www.projectfireworks.com/)
 
 There you go then. Let me know if you can be added to the list.

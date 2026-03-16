@@ -7,7 +7,7 @@ tags:
   - "Consoles"
 ---
 
-We have a copy of [Burnout 3](https://web.archive.org/web/20091231042030/http://burnout3.eagames.co.uk/flash_mx/player.asp) for the PS2 at [work](https://web.archive.org/web/20091231042030/http://www.mirashade.com/). We’ve given it a little play over the past few days.
+We have a copy of [Burnout 3](http://burnout3.eagames.co.uk/flash_mx/player.asp) for the PS2 at [work](http://www.mirashade.com/). We’ve given it a little play over the past few days.
 
 ![Why no race replays in Burnout 3?](/images/61.jpg "Why no race replays in Burnout 3?")
 
@@ -17,4 +17,4 @@ It’s a fantastic game, a definite step forward from Burnout 2… But there are
 - The ‘Takedown Camera’ breaks the flow of play in race mode (Thankfully you can turn this off!)
 - There are no race replays!!! What!?!?
 
-No race replays! Watching a replay of a race where you totally whipped your mates was one of Burnout 2’s best features. What happened to race replays [Criterion](https://web.archive.org/web/20091231042030/http://www.criteriongames.com/)???
+No race replays! Watching a replay of a race where you totally whipped your mates was one of Burnout 2’s best features. What happened to race replays [Criterion](http://www.criteriongames.com/)???

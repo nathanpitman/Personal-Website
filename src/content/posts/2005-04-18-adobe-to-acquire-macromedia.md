@@ -7,10 +7,10 @@ tags:
   - "Technology"
 ---
 
-According to [Macromedia.com](https://web.archive.org/web/20100111181125/http://www.macromedia.com/macromedia/proom/pr/2005/adobe_macromedia.html) and [Adobe.com](https://web.archive.org/web/20100111181125/http://www.adobe.com/aboutadobe/invrelations/adobeandmacromedia.html) as of the 18th of April Adobe is to acquire Macromedia!
+According to [Macromedia.com](http://www.macromedia.com/macromedia/proom/pr/2005/adobe_macromedia.html) and [Adobe.com](http://www.adobe.com/aboutadobe/invrelations/adobeandmacromedia.html) as of the 18th of April Adobe is to acquire Macromedia!
 
 ![Adobe to acquire macromedia](/images/88.gif "Adobe to acquire macromedia")
 
 Wow! Something I thought I’d never see happen. God only knows what this means for the Macromedia product line (Fireworks in particular) but it’ll sure be interesting to see what these two giants can deliver together.
 
-**Update:** Kevin Lynch (Chief Software Architect at Macromedia) has a [positive spin on the Macromedia acquisition](https://web.archive.org/web/20100111181125/http://www.klynch.com/archives/000078.html) on his blog.
+**Update:** Kevin Lynch (Chief Software Architect at Macromedia) has a [positive spin on the Macromedia acquisition](http://www.klynch.com/archives/000078.html) on his blog.

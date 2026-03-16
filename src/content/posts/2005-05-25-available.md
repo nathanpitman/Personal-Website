@@ -7,7 +7,7 @@ tags:
   - "Employment"
 ---
 
-Well, I’ve been at [Mirashade](https://web.archive.org/web/20090924123225/http://www.mirashade.com/) for a couple of years now, it has been great fun and a huge experience but I have plans to develop my career in a slightly new direction. At [28](https://web.archive.org/web/20090924123225/http://nathanpitman.com/journal/355/happy-birthday) I feel that it’s time to move from ‘hands on’ to a slightly more ‘hands off’ position, so with that in mind I’m taking some steps to ensure that I’m headed in that direction. In other words… I’m looking for a new work opportunity.
+Well, I’ve been at [Mirashade](http://www.mirashade.com/) for a couple of years now, it has been great fun and a huge experience but I have plans to develop my career in a slightly new direction. At [28](http://nathanpitman.com/journal/355/happy-birthday) I feel that it’s time to move from ‘hands on’ to a slightly more ‘hands off’ position, so with that in mind I’m taking some steps to ensure that I’m headed in that direction. In other words… I’m looking for a new work opportunity.
 
 ### What do I do now?
 

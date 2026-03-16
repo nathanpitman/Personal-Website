@@ -8,7 +8,7 @@ tags:
   - "Technology"
 ---
 
-Tuesday last week I took delivery of a new PC. A [Dell](https://web.archive.org/web/20100106035602/http://www.dell.co.uk/) Dimension 4600… blah blah blah.
+Tuesday last week I took delivery of a new PC. A [Dell](http://www.dell.co.uk/) Dimension 4600… blah blah blah.
 
 Anyhow… what I discovered when I started the PC up was quite a huge amount of pre-installed junk that I really did not want. So my first hour of ownership was spent uninstalling various applications; AOL, MSN Explorer, BT Yahoo Anytime, Tiscali 10.0, McAfee Security Centre trial, Paint Shop Pro trial, Photo Album 5 trial, Dell Experience… etc. Groan!
 

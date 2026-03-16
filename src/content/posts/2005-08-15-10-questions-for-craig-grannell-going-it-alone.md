@@ -7,7 +7,7 @@ tags:
   - "Employment"
 ---
 
-In the first of 5 interviews with web designers and developers who are self employed I chat with [Craig Grannell](https://web.archive.org/web/20091217084216/http://www.snubcommunications.com/). I first met Craig whilst working at [Designation](https://web.archive.org/web/20091217084216/http://www.designation.com/) way back in 1999. Craig’s business (Snub Communications) provides web design and copywriting services.
+In the first of 5 interviews with web designers and developers who are self employed I chat with [Craig Grannell](http://www.snubcommunications.com/). I first met Craig whilst working at [Designation](http://www.designation.com/) way back in 1999. Craig’s business (Snub Communications) provides web design and copywriting services.
 
 ### Why
 
@@ -31,7 +31,7 @@ In the first of 5 interviews with web designers and developers who are self empl
 
 **Nathan:** If you charge by the hour, how did you decide on your hourly rate? Did you pluck a figure from the air or work out a rate based on the salary you required?
 
-**Craig:** I decided on a suitable salary and used something along the lines of this [Payroll Calculator](https://web.archive.org/web/20091217084216/http://www.nwpayroll.com/ibankacs/payratecalc.html) to figure out an hourly rate for a typical working week, based on the annual salary, and then doubled it (because, generally speaking, you only actually work creatively for half your working day). This was then “reality checked” against other companies, and was deemed competitive.
+**Craig:** I decided on a suitable salary and used something along the lines of this [Payroll Calculator](http://www.nwpayroll.com/ibankacs/payratecalc.html) to figure out an hourly rate for a typical working week, based on the annual salary, and then doubled it (because, generally speaking, you only actually work creatively for half your working day). This was then “reality checked” against other companies, and was deemed competitive.
 
 ### Selling yourself
 

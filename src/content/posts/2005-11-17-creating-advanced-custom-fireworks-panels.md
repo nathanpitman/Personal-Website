@@ -8,7 +8,7 @@ tags:
   - "Fireworks"
 ---
 
-[Trevor McCauley](https://web.archive.org/web/20091026190345/http://www.senocular.com/) has written a fantastic little (actually it’s 10 pages) tutorial on [creating advanced custom Fireworks Panels](https://web.archive.org/web/20091026190345/http://www.macromedia.com/devnet/fireworks/articles/creating_panels_pt2.html) using Flash.
+[Trevor McCauley](http://www.senocular.com/) has written a fantastic little (actually it’s 10 pages) tutorial on [creating advanced custom Fireworks Panels](http://www.macromedia.com/devnet/fireworks/articles/creating_panels_pt2.html) using Flash.
 
 ![Using the Command Prompt panel to check annotations](/images/123.jpg "Using the Command Prompt panel to check annotations")
 

@@ -8,7 +8,7 @@ tags:
   - "Jobs"
 ---
 
-Via [Mirashade](https://web.archive.org/web/20100113164458/http://www.mirashade.com/)...
+Via [Mirashade](http://www.mirashade.com/)...
 
 *Mirashade has over 10 years experience in the Moving Image industry and produces work for clients such as; Honda, Miele, Reader’s Digest, Samsung, and Sony.*
 
@@ -16,4 +16,4 @@ Via [Mirashade](https://web.archive.org/web/20100113164458/http://www.mirashade.
 
 *We’ll judge candidates on attitude, portfolio and personality so formal qualifications are not a requirement.*
 
-If you’re interested, and you’re available to work at the Mirashade studio in Reading, Berkshire, UK… [check out the Mirashade site](https://web.archive.org/web/20100113164458/http://www.mirashade.com/about/?c=Employment).
+If you’re interested, and you’re available to work at the Mirashade studio in Reading, Berkshire, UK… [check out the Mirashade site](http://www.mirashade.com/about/?c=Employment).

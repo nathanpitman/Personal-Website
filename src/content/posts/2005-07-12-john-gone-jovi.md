@@ -7,7 +7,7 @@ tags:
   - "Blogging"
 ---
 
-This morning whilst doing the rounds I discovered that [John Oxton](https://web.archive.org/web/20090528235132/http://www.joshuaink.com/) has decided to take a break from blogging.
+This morning whilst doing the rounds I discovered that [John Oxton](http://www.joshuaink.com/) has decided to take a break from blogging.
 
 ![John Gone](/images/103.jpg "John Gone")
 

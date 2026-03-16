@@ -9,4 +9,4 @@ tags:
 
 ![The iPod. Remixed.](/images/42.gif "The iPod. Remixed.")
 
-Apple have [remixed the iPod](https://web.archive.org/web/20111010050358/http://www.apple.com/ipod/) (again!). This time improving battery life, introducing a new ‘click wheel’ and a starting price for the 20gb model of just $299.
+Apple have [remixed the iPod](http://www.apple.com/ipod/) (again!). This time improving battery life, introducing a new ‘click wheel’ and a starting price for the 20gb model of just $299.

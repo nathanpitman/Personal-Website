@@ -7,9 +7,9 @@ tags:
   - "Apple"
 ---
 
-Some time having passed, I thought that I should ‘come clean’ and clarify my position in the Mac vs PC debate. Back in August 2005 I blogged about [the end of a short term relationship with a G5](https://web.archive.org/web/20100113163323/http://nathanpitman.com/journal/378/pah-out-with-the-mac).
+Some time having passed, I thought that I should ‘come clean’ and clarify my position in the Mac vs PC debate. Back in August 2005 I blogged about [the end of a short term relationship with a G5](http://nathanpitman.com/journal/378/pah-out-with-the-mac).
 
-At that time I was well and truly convinced that I would never again be tempted by a Mac. However, back in October last year I took delivery of a shiny new [MacBook](https://web.archive.org/web/20100113163323/http://www.apple.com/macbook/macbook.html).
+At that time I was well and truly convinced that I would never again be tempted by a Mac. However, back in October last year I took delivery of a shiny new [MacBook](http://www.apple.com/macbook/macbook.html).
 
 My reasoning was that working with a number of clients who were Mac based, I needed to be able to verify the compatibility of any code I produced in Safari (The default Mac OS web browser). I had also for a long time been considering purchasing a laptop for use in client meetings and at training sessions. I weighed up the options and originally looked at purchasing a HP laptop and then bagging a 2nd hand Mac Mini off eBay for browser testing.
 

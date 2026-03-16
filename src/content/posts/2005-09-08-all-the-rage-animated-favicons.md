@@ -8,7 +8,7 @@ tags:
   - "Design"
 ---
 
-I think I’ve noticed a bit of a new **thing** (Actually someone else probably noticed it first). **Animated favicons**. I first spotted this neat little twist over at [Poke London](https://web.archive.org/web/20090830224557/http://www.pokelondon.com/) and then this morning I spotted one over at [Dare](https://web.archive.org/web/20090830224557/http://www.daredigital.com/) too.
+I think I’ve noticed a bit of a new **thing** (Actually someone else probably noticed it first). **Animated favicons**. I first spotted this neat little twist over at [Poke London](http://www.pokelondon.com/) and then this morning I spotted one over at [Dare](http://www.daredigital.com/) too.
 
 |  |  |
 | --- | --- |

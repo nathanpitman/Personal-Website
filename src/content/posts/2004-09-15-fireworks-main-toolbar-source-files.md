@@ -8,7 +8,7 @@ tags:
   - "Fireworks"
 ---
 
-I’ve made the [source files](https://web.archive.org/web/20100117030139/http://www.nathanpitman.com/source/fireworks_extensions.php?id=217) for my Fireworks ‘Main Toolbar’ command panel available to download.
+I’ve made the [source files](http://www.nathanpitman.com/source/fireworks_extensions.php?id=217) for my Fireworks ‘Main Toolbar’ command panel available to download.
 
 The ZIP archive includes:
 

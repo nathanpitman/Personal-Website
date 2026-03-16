@@ -7,7 +7,7 @@ tags:
   - "Technology"
 ---
 
-I stumbled across this [amazing keyboard design](https://web.archive.org/web/20090530125806/http://www.artlebedev.com/portfolio/optimus/) by Art Lebedev Studios a while back. Then just today I saw some linkage back to it via [foo](https://web.archive.org/web/20090530125806/http://www.forgetfoo.com/?blogid=5414) reporting on availability as of Feb 1.
+I stumbled across this [amazing keyboard design](http://www.artlebedev.com/portfolio/optimus/) by Art Lebedev Studios a while back. Then just today I saw some linkage back to it via [foo](http://www.forgetfoo.com/?blogid=5414) reporting on availability as of Feb 1.
 
 ![Every key of the Optimus keyboard is a stand-alone display showing exactly what it is controlling at this very moment.](/images/130.jpg "Every key of the Optimus keyboard is a stand-alone display showing exactly what it is controlling at this very moment.")
 

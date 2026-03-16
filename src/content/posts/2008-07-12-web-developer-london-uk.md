@@ -28,4 +28,4 @@ Working with the in-house design team, you will be actively encouraged to advise
 
 Salary: Neg. Based on experience
 
-**Please send your covering letter, current cv and salary expectations to:** [Claire@jpcreative.co.uk](https://web.archive.org/web/20090616071957/mailto:Claire@jpcreative.co.uk?subject=Application%20for%20web%20develop%20%20from%20nathanpitman.com).
+**Please send your covering letter, current cv and salary expectations to:** [Claire@jpcreative.co.uk](mailto:Claire@jpcreative.co.uk?subject=Application%20for%20web%20develop%20%20from%20nathanpitman.com).

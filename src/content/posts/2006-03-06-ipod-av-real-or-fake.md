@@ -7,7 +7,7 @@ tags:
   - "Technology"
 ---
 
-Well, we’ve certainly had a fair share of hoax images of recent in the run up to Apple’s 30th Birthday on the 1st of April, but for me [this](https://web.archive.org/web/20090618014327/http://mirror.root.vc/macshrine.com/ipodav.htm) has to be either the most impressive hoax so far, or the real thing.
+Well, we’ve certainly had a fair share of hoax images of recent in the run up to Apple’s 30th Birthday on the 1st of April, but for me [this](http://mirror.root.vc/macshrine.com/ipodav.htm) has to be either the most impressive hoax so far, or the real thing.
 
 ![](/images/142.jpg)
 

@@ -8,7 +8,7 @@ tags:
   - "Textpattern"
 ---
 
-I’ve done a bit of an upgrade, I’ve finally gotton round to implimenting ‘[Textpattern](https://web.archive.org/web/20100107095230/http://www.textpattern.com/)‘ in place of my old home baked blog authoring tool, which really didn’t rise to the challenge.
+I’ve done a bit of an upgrade, I’ve finally gotton round to implimenting ‘[Textpattern](http://www.textpattern.com/)‘ in place of my old home baked blog authoring tool, which really didn’t rise to the challenge.
 
 I’ve pulled across all previous blog entries, but have yet to drag the comments across.
 

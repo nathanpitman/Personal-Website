@@ -9,7 +9,7 @@ tags:
 
 You’d think it’s simple really. You purchase goods, be that online or in person. The goods are damaged when they arrive. You return the goods and ask for a refund. The company in question apologises and gives you a refund, end of story right… er wrong.
 
-We had a ‘bit’ of a poor experience with [MFI](https://web.archive.org/web/20090527120635/http://www.mfi.co.uk/ "The place to buy is 'not' MFI") recently. For those of you outside of the UK, they’re a nationwide chain that sells bedroom furniture, kitchens etc. For prosperity and in the hope that it will disuade others from ever buying from them, I will recount the story here. Ok, here goes…
+We had a ‘bit’ of a poor experience with [MFI](http://www.mfi.co.uk/ "The place to buy is 'not' MFI") recently. For those of you outside of the UK, they’re a nationwide chain that sells bedroom furniture, kitchens etc. For prosperity and in the hope that it will disuade others from ever buying from them, I will recount the story here. Ok, here goes…
 
 ### It starts
 

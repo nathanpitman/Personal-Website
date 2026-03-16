@@ -7,7 +7,7 @@ tags:
   - "Web development"
 ---
 
-Well I bagged myself a [SiteVista](https://web.archive.org/web/20110426030905/http://www.sitevista.com/) account today, many thanks to Paul at [Salted](https://web.archive.org/web/20110426030905/http://www.salted.com/). For some time I’ve been considering purchasing an [iBook](https://web.archive.org/web/20110426030905/http://www.apple.com/ibook/) purely to test on Safari, but now, well there really is no need!
+Well I bagged myself a [SiteVista](http://www.sitevista.com/) account today, many thanks to Paul at [Salted](http://www.salted.com/). For some time I’ve been considering purchasing an [iBook](http://www.apple.com/ibook/) purely to test on Safari, but now, well there really is no need!
 
 SiteVista is a brilliant little web application, it’s simple, intuitive and easy on the eye and turns one of the most dreaded tasks in web development into a simple case of point click and submit.
 
@@ -23,6 +23,6 @@ The browser tests don’t *always* seem to work as expected, asking SiteVista to
 
 ![Oink!](/images/120.jpg "Oink!")
 
-I’d be interested to know a little more about the set-up behind SiteVista, is there a factory full of monkeys hurridly typing in URLs and hitting ‘print screen’ or (more likely) some hefty server side scripting going on. I’m sure [Paul, David and Matt](https://web.archive.org/web/20110426030905/http://www.salted.com/about-us) can enlighten us if prodded.
+I’d be interested to know a little more about the set-up behind SiteVista, is there a factory full of monkeys hurridly typing in URLs and hitting ‘print screen’ or (more likely) some hefty server side scripting going on. I’m sure [Paul, David and Matt](http://www.salted.com/about-us) can enlighten us if prodded.
 
-So, in conclusion, SiteVista is a tidy little application, if you don’t want the hassle of maintaining numerous versions of IE, and having to shell out for a Mac, ‘just for testing’ then [go get yourself an account](https://web.archive.org/web/20110426030905/http://www.sitevista.com/signup.asp).
+So, in conclusion, SiteVista is a tidy little application, if you don’t want the hassle of maintaining numerous versions of IE, and having to shell out for a Mac, ‘just for testing’ then [go get yourself an account](http://www.sitevista.com/signup.asp).

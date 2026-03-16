@@ -7,4 +7,4 @@ tags:
   - "Code"
 ---
 
-[Blake Scarbrough](https://web.archive.org/web/20090526174014/http://www.blakems.com/archives/000088.html) has blogged about using some upcoming features of the [CSS3 specification](https://web.archive.org/web/20090526174014/http://w3c.org/Style/CSS/current-work) in Mozilla Firefox. There’s some pretty neat tricks to be had and they all degrade perfectly in browsers without support.
+[Blake Scarbrough](http://www.blakems.com/archives/000088.html) has blogged about using some upcoming features of the [CSS3 specification](http://w3c.org/Style/CSS/current-work) in Mozilla Firefox. There’s some pretty neat tricks to be had and they all degrade perfectly in browsers without support.

@@ -8,7 +8,7 @@ tags:
 hidden: true
 ---
 
-Now that [Neve has started crawling](https://web.archive.org/web/20100107193143/http://www.nathanpitman.com/blog/index.php?id=266) she has decided that it’s time to up the ante and work on climbing and standing too! There’s no stopping the little girl, especially when the target is Jo’s shiny mobile phone.
+Now that [Neve has started crawling](http://www.nathanpitman.com/blog/index.php?id=266) she has decided that it’s time to up the ante and work on climbing and standing too! There’s no stopping the little girl, especially when the target is Jo’s shiny mobile phone.
 
 The video was recorded using a Casio QV-R40 Digital Camera, imported into Flash MX 2004 Pro, and then exported as an FLV which has been embedded into a Flash Media Playback Component.
 

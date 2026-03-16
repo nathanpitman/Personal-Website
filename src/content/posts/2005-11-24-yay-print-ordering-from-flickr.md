@@ -7,6 +7,6 @@ tags:
   - "Technology"
 ---
 
-Looks like [Flickr](https://web.archive.org/web/20091026132205/http://www.flickr.com/) are trialing a print ordering service, it’s US only though right now.
+Looks like [Flickr](http://www.flickr.com/) are trialing a print ordering service, it’s US only though right now.
 
 ![Ordering prints on Flickr](/images/126.jpg "Ordering prints on Flickr")

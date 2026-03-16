@@ -10,4 +10,4 @@ tags:
 
 ![](/images/169.gif)
 
-A couple of days late but please join me in congratulating **Paul Cripps** on his position as Senior New Media Designer/Developer/Monkey at [Nine Four](https://web.archive.org/web/20100104131700/http://www.ninefour.co.uk/). And thanks Chris for the kind words of advice. :)
+A couple of days late but please join me in congratulating **Paul Cripps** on his position as Senior New Media Designer/Developer/Monkey at [Nine Four](http://www.ninefour.co.uk/). And thanks Chris for the kind words of advice. :)

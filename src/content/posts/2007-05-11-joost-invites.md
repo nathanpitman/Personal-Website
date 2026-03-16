@@ -9,7 +9,7 @@ tags:
 
 ![](/images/164.gif)
 
-Yes, that’s right. I’ve got [Joost](https://web.archive.org/web/20091220115728/http://www.joost.com/) invites. Want me to hook you up? Leave a suitably amusing comment and your wish will be granted. :)
+Yes, that’s right. I’ve got [Joost](http://www.joost.com/) invites. Want me to hook you up? Leave a suitably amusing comment and your wish will be granted. :)
 
 **Update:** I’ve been inundated with requests for invites so bear with me. It may take a day or two for me to process your request.
 

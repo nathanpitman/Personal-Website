@@ -8,7 +8,7 @@ tags:
   - "Technology"
 ---
 
-On Friday I finished up at Mirashade and today was my first day at my new place, [Bite CP](https://web.archive.org/web/20090609020553/http://www.bitecp.com/).
+On Friday I finished up at Mirashade and today was my first day at my new place, [Bite CP](http://www.bitecp.com/).
 
 The most significant change for me is that at Bite right now I’m using a Mac, I think it’s a dual G5 with about 1.5Gb of RAM, so not bad by any stretch of the imagination. **However…** as a Mac ‘OSX’ newbie I could really do with some tips. I’ve already sussed the whole ‘ExposÃ©’ thing but I really need some more tricks up my sleeve if I’m going to make passers by go ‘oooh’ and ‘aaah’ as I work my magic (hmm).
 

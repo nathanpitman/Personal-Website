@@ -8,7 +8,7 @@ tags:
   - "Web development"
 ---
 
-Via [Mirashade](https://web.archive.org/web/20100113134527/http://www.mirashade.com/)...
+Via [Mirashade](http://www.mirashade.com/)...
 
 *Mirashade is a progressive creative agency founded in 1994 specialising in Branding, Moving Image and New Media.*
 
@@ -18,4 +18,4 @@ Via [Mirashade](https://web.archive.org/web/20100113134527/http://www.mirashade.
 
 *Experience of PHP">LAMP administration and object orientated coding techniques an advantage.*
 
-If youï¿½re interested, and youï¿½re available to work at the Mirashade studio in Reading, Berkshire, UKï¿½ [check out the Mirashade site](https://web.archive.org/web/20100113134527/http://www.mirashade.com/about/?c=Employment).
+If youï¿½re interested, and youï¿½re available to work at the Mirashade studio in Reading, Berkshire, UKï¿½ [check out the Mirashade site](http://www.mirashade.com/about/?c=Employment).

@@ -12,6 +12,6 @@ A white box arrived today containing an ‘“ExpressionEngine Mug”:http://www
 
 ![](/images/172.jpg)
 
-It’s most awesome, primarily for its capacious capacity and then also for the ‘cut in’ ExpressionEngine ident. Now all I need is a [matching T-Shirt](https://web.archive.org/web/20091209165048/http://www.flickr.com/photos/low/2213718841/) and my life will be complete.
+It’s most awesome, primarily for its capacious capacity and then also for the ‘cut in’ ExpressionEngine ident. Now all I need is a [matching T-Shirt](http://www.flickr.com/photos/low/2213718841/) and my life will be complete.
 
-Thanks to all at [EllisLab](https://web.archive.org/web/20091209165048/http://ellislab.com/)! :)
+Thanks to all at [EllisLab](http://ellislab.com/)! :)

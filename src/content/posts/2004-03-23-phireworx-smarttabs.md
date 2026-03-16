@@ -8,7 +8,7 @@ tags:
   - "Fireworks"
 ---
 
-[Phireworx](https://web.archive.org/web/20091225122229/http://www.phireworx.com/) have just released ‘SmartTabs’ which is an AutoShape for Fireworks MX 2004.
+[Phireworx](http://www.phireworx.com/) have just released ‘SmartTabs’ which is an AutoShape for Fireworks MX 2004.
 
 This allows you to; Easily Add / Remove Tabs, Control the tab stacking order, Easily resize the tab page and use the subselection tool to change tabs and labels.
 

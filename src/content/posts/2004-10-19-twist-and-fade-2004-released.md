@@ -8,7 +8,7 @@ tags:
   - "Fireworks"
 ---
 
-[Steven Grosvenor](https://web.archive.org/web/20100104182339/http://www.phireworx.com/) has finished work on his new ‘Twist and Fade’ command for Fireworks MX 2004.
+[Steven Grosvenor](http://www.phireworx.com/) has finished work on his new ‘Twist and Fade’ command for Fireworks MX 2004.
 
 Improvements in v4.0.8 include:
 
@@ -17,4 +17,4 @@ Improvements in v4.0.8 include:
 - Preset Manager to save your favourite effects, preloaded with several interesting effects
 - New Sliders with dual feedback, via slider for coarse changes, or via input boxes for exact changes
 
-It’s free and you can [download it here](https://web.archive.org/web/20100104182339/http://www.phireworx.com/files/commands/twistandfade2004/TwistandFade2004.mxp).
+It’s free and you can [download it here](http://www.phireworx.com/files/commands/twistandfade2004/TwistandFade2004.mxp).

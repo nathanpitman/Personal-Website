@@ -7,9 +7,9 @@ tags:
   - "Flash"
 ---
 
-[Colin Moock](https://web.archive.org/web/20090801030707/http://www.moock.org/blog/archives/000146.html) has posted a video on his blog of Kevin Lynch, Macromedia’s chief software architect, demonstrating the next generation version of the Flash Player at the Macromedia Flash conference in Tokyo, Japan.
+[Colin Moock](http://www.moock.org/blog/archives/000146.html) has posted a video on his blog of Kevin Lynch, Macromedia’s chief software architect, demonstrating the next generation version of the Flash Player at the Macromedia Flash conference in Tokyo, Japan.
 
-Only a few features are shown, but already we can see the monumental improvements that are being made by the [8Ball team](https://web.archive.org/web/20090801030707/http://www.markme.com/flashteam/).
+Only a few features are shown, but already we can see the monumental improvements that are being made by the [8Ball team](http://www.markme.com/flashteam/).
 
 In the video below you’ll see:
 
@@ -20,6 +20,6 @@ In the video below you’ll see:
 
 Very exciting stuff.
 
-- [Demo Video](https://web.archive.org/web/20090801030707/http://www.nathanpitman.com/blog/images/uploads/moock_fp8_med.wmv) (14.5mb 320×240, 30fps)
+- [Demo Video](http://www.nathanpitman.com/blog/images/uploads/moock_fp8_med.wmv) (14.5mb 320×240, 30fps)
 
-**Update:** Kevin Lynch has posted on [his blog](https://web.archive.org/web/20090801030707/http://www.klynch.com/archives/000072.html) about his presentation in Tokyo.
+**Update:** Kevin Lynch has posted on [his blog](http://www.klynch.com/archives/000072.html) about his presentation in Tokyo.

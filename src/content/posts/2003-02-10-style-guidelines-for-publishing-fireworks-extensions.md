@@ -8,6 +8,6 @@ tags:
   - "Fireworks"
 ---
 
-Macromedia have added [style guidelines](https://web.archive.org/web/20100106032858/http://dynamic.macromedia.com/bin/MM/exchange/fw_ui_guidelines.jsp) for publishing Fireworks extensions to the exchange.
+Macromedia have added [style guidelines](http://dynamic.macromedia.com/bin/MM/exchange/fw_ui_guidelines.jsp) for publishing Fireworks extensions to the exchange.
 
 This document advises developers on how design a interface that will sit comfortably within that of the Fireworks application, in order that they might attain Macromedia certification for their extension.

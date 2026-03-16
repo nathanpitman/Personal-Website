@@ -7,7 +7,7 @@ tags:
   - "Humour"
 ---
 
-Drag this bookmarklet link to your bookmarks bar in Google Chrome, browse to [Yahoo!](https://web.archive.org/web/20130909054641/http://www.yahoo.com/) (or any other website) and click the bookmarklet for a bit of whimsy.
+Drag this bookmarklet link to your bookmarks bar in Google Chrome, browse to [Yahoo!](http://www.yahoo.com/) (or any other website) and click the bookmarklet for a bit of whimsy.
 
 [Whimsy!](javascript:document.body.style.webkitTransform="rotate(9deg)";void(0);)
 

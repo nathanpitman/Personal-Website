@@ -8,4 +8,4 @@ tags:
   - "Fireworks"
 ---
 
-My Macromedia Fireworks extensions have been featured on the cover mounted CD-ROM of ‘[Practical Web Projects](https://web.archive.org/web/20100127225251/http://www.paragon.co.uk/pwp/)‘ Issue 7.
+My Macromedia Fireworks extensions have been featured on the cover mounted CD-ROM of ‘[Practical Web Projects](http://www.paragon.co.uk/pwp/)‘ Issue 7.

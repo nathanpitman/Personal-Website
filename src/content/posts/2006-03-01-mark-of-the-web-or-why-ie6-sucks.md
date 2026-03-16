@@ -22,17 +22,17 @@ I hear back from the client that she’s getting a ‘Active Content’ warning 
 
 Hmm, ok. I open up IE, revert my setting to default just in case and test again. Lo and behold, I get the warning too.
 
-So, [what’s changed in IE6 following an upgrade to XP SP2](https://web.archive.org/web/20090524024842/http://www.phdcc.com/xpsp2.htm)? Well, to fill a number of security holes which might allow someone to execute code locally on your machine whilst browsing the web, Microsoft have opted to lock down and prevent any active content from running on your local machine at all (rather than fix the holes). Of course a user can ‘allow active content’ to be run on the local machine, but in most cases users will be freaked out by the dire warning which they have to manually over-ride.
+So, [what’s changed in IE6 following an upgrade to XP SP2](http://www.phdcc.com/xpsp2.htm)? Well, to fill a number of security holes which might allow someone to execute code locally on your machine whilst browsing the web, Microsoft have opted to lock down and prevent any active content from running on your local machine at all (rather than fix the holes). Of course a user can ‘allow active content’ to be run on the local machine, but in most cases users will be freaked out by the dire warning which they have to manually over-ride.
 
 Microsoft offer 3 solutions to this problem, but none of them are acceptable.
 
-\*1. Ask users to [turn off local machine security](https://web.archive.org/web/20090524024842/http://www.phdcc.com/xpsp2.htm#securityoptions)\*  
+\*1. Ask users to [turn off local machine security](http://www.phdcc.com/xpsp2.htm#securityoptions)\*  
 *Ok, I can’t really see any clients agreeing to that approach.*
 
 **2. Add the ‘“Mark of the web”:http://www.phdcc.com/xpsp2.htm#markoftheweb’ to all your HTML pages**  
 *No good as links to other file types don’t work. I can’t add an HTML comment to a PDF document now can I.*
 
-\*3. Wrap your application in an [HTA file](https://web.archive.org/web/20090524024842/http://www.phdcc.com/xpsp2.htm#hta)\*  
+\*3. Wrap your application in an [HTA file](http://www.phdcc.com/xpsp2.htm#hta)\*  
 *This is IE only, Users without IE set as the default browser are out of luck if they try to run my clients CD-ROM.*
 
 So, what can you do if you want to run an HTML based application off your local machine without having to resort to any of the above.

@@ -7,11 +7,11 @@ tags:
   - "Personal"
 ---
 
-I’m posting this here on behalf of the guys at [Bancroft Developments](https://web.archive.org/web/20121027044223/http://www.bancroftdevelopments.com/). For the past two years we’ve ([Nine Four](https://web.archive.org/web/20121027044223/http://ninefour.co.uk/)) rented an office from them but alas we’ve moved on and so they’re looking for a new tenant.
+I’m posting this here on behalf of the guys at [Bancroft Developments](http://www.bancroftdevelopments.com/). For the past two years we’ve ([Nine Four](http://ninefour.co.uk/)) rented an office from them but alas we’ve moved on and so they’re looking for a new tenant.
 
 They’ve been great landlords so we’d like to help them out. Here are the details;
 
-- Single room office on Crowthorne High Street in Berkshire ([RG45 7AH](https://web.archive.org/web/20121027044223/http://maps.google.co.uk/maps?q=RG45+7AH)).
+- Single room office on Crowthorne High Street in Berkshire ([RG45 7AH](http://maps.google.co.uk/maps?q=RG45+7AH)).
 
 - Space for 3 to 4 people/desks and a small meeting table etc.
 
@@ -21,4 +21,4 @@ They’ve been great landlords so we’d like to help them out. Here are the det
 
 - Available on a license to occupy basis (no business rates or services to pay for!) at £500 PCM with one months notice.
 
-If you’re interested or know someone that might be point them in my direction or [contact Patrick directly through their website](https://web.archive.org/web/20121027044223/http://www.bancroftdevelopments.com/contact-us.php). Just tell them I sent you. :)
+If you’re interested or know someone that might be point them in my direction or [contact Patrick directly through their website](http://www.bancroftdevelopments.com/contact-us.php). Just tell them I sent you. :)

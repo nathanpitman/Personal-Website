@@ -8,4 +8,4 @@ tags:
   - "Technology"
 ---
 
-Some interesting thoughts on the release of [Flash Communication Server MX](https://web.archive.org/web/20100111190538/http://www.macromedia.com/software/flashcom/) over at Actionscript.com, [worth a quick read.](https://web.archive.org/web/20100111190538/http://www.actionscript.com/archives/00000336.html)
+Some interesting thoughts on the release of [Flash Communication Server MX](http://www.macromedia.com/software/flashcom/) over at Actionscript.com, [worth a quick read.](http://www.actionscript.com/archives/00000336.html)

@@ -7,7 +7,7 @@ tags:
   - "Employment"
 ---
 
-From the 4th of July I’m taking a bite of something new. After 2 and a bit years at [Mirashade](https://web.archive.org/web/20090529015615/http://www.mirashade.com/) I’m moving to a creative agency based in Surrey called [Bite CP](https://web.archive.org/web/20090529015615/http://www.bitecp.com/) as Head of New Media.
+From the 4th of July I’m taking a bite of something new. After 2 and a bit years at [Mirashade](http://www.mirashade.com/) I’m moving to a creative agency based in Surrey called [Bite CP](http://www.bitecp.com/) as Head of New Media.
 
 ![Bite CP](/images/100.jpg "Bite CP")
 

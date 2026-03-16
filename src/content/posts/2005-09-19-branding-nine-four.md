@@ -11,4 +11,4 @@ Designing your own logo is just the worst task you could ever be charged with. L
 
 ![Mr Ruffles take on Nine Four](/images/112.gif "Mr Ruffles take on Nine Four")
 
-My good friend [Chris Ruffles](https://web.archive.org/web/20091220222448/http://www.opticnerv.co.uk/) who I used to work with at Mirashade is the first back to me with something. There’s already been [some discussion](https://web.archive.org/web/20091220222448/http://www.flickr.com/photos/nathanpitman/43882224/) over at [Flickr](https://web.archive.org/web/20091220222448/http://www.flickr.com/) about this but I thought I’d post it here for further critique and comment.
+My good friend [Chris Ruffles](http://www.opticnerv.co.uk/) who I used to work with at Mirashade is the first back to me with something. There’s already been [some discussion](http://www.flickr.com/photos/nathanpitman/43882224/) over at [Flickr](http://www.flickr.com/) about this but I thought I’d post it here for further critique and comment.

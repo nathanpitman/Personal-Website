@@ -8,4 +8,4 @@ tags:
   - "Fireworks"
 ---
 
-I’ve developed a [Calculator](https://web.archive.org/web/20100113103638/http://www.nathanpitman.com/source/extensions.php?id=75) command panel for Fireworks. You can use the ï¿½x,y,w & hï¿½ buttons to grab information from the selected object/s on the canvas.
+I’ve developed a [Calculator](http://www.nathanpitman.com/source/extensions.php?id=75) command panel for Fireworks. You can use the ï¿½x,y,w & hï¿½ buttons to grab information from the selected object/s on the canvas.

@@ -7,4 +7,4 @@ tags:
   - "Textpattern"
 ---
 
-Textpattern Release candidate 1 is baked, so the textpattern cake is nearly done. Go and [grab your copy](https://web.archive.org/web/20100107014447/http://textpattern.com/deanload/) of this fantastic PHP/MySQL based CMS while it’s hot. :)
+Textpattern Release candidate 1 is baked, so the textpattern cake is nearly done. Go and [grab your copy](http://textpattern.com/deanload/) of this fantastic PHP/MySQL based CMS while it’s hot. :)

@@ -7,7 +7,7 @@ tags:
   - "Web development"
 ---
 
-I’m rather excited about the news that the [SiteVista](https://web.archive.org/web/20091209024140/http://www.sitevista.com/blog/archives/2007/07/introducing-litmus.html) team have been hard at work on a big shiny update to their website and email testing tools which will be relaunched as ‘Litmus’.
+I’m rather excited about the news that the [SiteVista](http://www.sitevista.com/blog/archives/2007/07/introducing-litmus.html) team have been hard at work on a big shiny update to their website and email testing tools which will be relaunched as ‘Litmus’.
 
 ![](/images/167.gif)
 

@@ -8,7 +8,7 @@ tags:
   - "Technology"
 ---
 
-I’m selling my ‘Creative Nomad Jukebox Zen’ (Snappy product name!) on [eBay](https://web.archive.org/web/20090801030728/http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&rd=1&item=5726813993&ssPageName=STRK:MESE:IT). Ok so it’s no [iPod](https://web.archive.org/web/20090801030728/http://www.apple.com/ipod/) beater but if you’re after a less expensive mp3 player then this might do the job.
+I’m selling my ‘Creative Nomad Jukebox Zen’ (Snappy product name!) on [eBay](http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&rd=1&item=5726813993&ssPageName=STRK:MESE:IT). Ok so it’s no [iPod](http://www.apple.com/ipod/) beater but if you’re after a less expensive mp3 player then this might do the job.
 
 ![20GB Nomad Jukebox Zen](/images/71.jpg "20GB Nomad Jukebox Zen")
 
@@ -16,6 +16,6 @@ I’m selling my ‘Creative Nomad Jukebox Zen’ (Snappy product name!) on [eBa
 
 **Features & benefits;** Stores up to 8,000 songs (WMA/80kbps) or 5,000 songs (MP3/128kbps) or use the Zen as a portable hard drive, Sleek stylish anodized aluminum body fits in your pocket or can be clipped to your belt in the included travel pouch, Charge the NOMAD Jukebox Zen via your USB, Powerful simple icon-driven interface with Quick Scroller Navigation.
 
-[Happy bidding](https://web.archive.org/web/20090801030728/http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&rd=1&item=5726813993&ssPageName=STRK:MESE:IT). :)
+[Happy bidding](http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&rd=1&item=5726813993&ssPageName=STRK:MESE:IT). :)
 
 **Update:** Sorry, this item has now been sold.

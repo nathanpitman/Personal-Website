@@ -7,7 +7,7 @@ tags:
   - "Personal"
 ---
 
-I put my VW into the garage for a checkup. Since trading my [MR2](https://web.archive.org/web/20100104101730/http://www.nathanpitman.com/bio/index.php?id=25) in for it at [Whites](https://web.archive.org/web/20100104101730/http://www.whitesgroup.co.uk/) in Camberly a few months back, I’ve noticed gear selection problems.
+I put my VW into the garage for a checkup. Since trading my [MR2](http://www.nathanpitman.com/bio/index.php?id=25) in for it at [Whites](http://www.whitesgroup.co.uk/) in Camberly a few months back, I’ve noticed gear selection problems.
 
 I just had a call from the service centre to say that it needs a new gearbox. Well, i’ve only done between 1,000 and 2,000 miles at the most since owning it, probably less.
 

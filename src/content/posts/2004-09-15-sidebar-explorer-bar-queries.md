@@ -7,7 +7,7 @@ tags:
   - "Code"
 ---
 
-I’m working on a project at [work](https://web.archive.org/web/20100116054845/http://www.mirashade.com/) at the moment where I’m considering using a browser Sidebar (Firefox) / Explorer Bar (IE) in place of a JavaScript pop-up.
+I’m working on a project at [work](http://www.mirashade.com/) at the moment where I’m considering using a browser Sidebar (Firefox) / Explorer Bar (IE) in place of a JavaScript pop-up.
 
 I can’t really say a great deal about the actual application, but I have a few queries which someone out there might be able to answer. I’ve had very little joy with google. :(
 

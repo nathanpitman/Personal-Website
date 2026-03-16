@@ -8,7 +8,7 @@ tags:
   - "Fireworks"
 ---
 
-According to Kleanthis Economou (Project Fireworks), [FireFrame](https://web.archive.org/web/20091004092132/http://www.projectfireworks.com/lab/extension_fireframe.html) provides a convenient way to enhance the appearance of your photos and add artistic flare to them in a non-destructive way.
+According to Kleanthis Economou (Project Fireworks), [FireFrame](http://www.projectfireworks.com/lab/extension_fireframe.html) provides a convenient way to enhance the appearance of your photos and add artistic flare to them in a non-destructive way.
 
 The package includes 100 ready made photo frame effects, and even allows the user to add their own frames.
 

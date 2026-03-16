@@ -8,7 +8,7 @@ tags:
   - "Fireworks"
 ---
 
-[Trevor McCauley](https://web.archive.org/web/20090524010831/http://www.senocular.com/) has released another(again!) new Fireworks AutoShape called ‘“Pinwheel”:http://www.senocular.com/downloads/index.php?subaction=showfull&id=1103905435&archive=&start\_from=&ucat=8&kind=8’.
+[Trevor McCauley](http://www.senocular.com/) has released another(again!) new Fireworks AutoShape called ‘“Pinwheel”:http://www.senocular.com/downloads/index.php?subaction=showfull&id=1103905435&archive=&start\_from=&ucat=8&kind=8’.
 
 The Pinwheel Auto Shape creates a ‘Pinwheel’ consisting of 2 to 16 consecutive spirals placed revolved around a common center. It consists of 5 control points to control size (inner and outer radius), rotation, spiral count, spiral style (solid, checker, and wire which can be cycled through by clicking the Style and Count control point) and spiral curvature.
 

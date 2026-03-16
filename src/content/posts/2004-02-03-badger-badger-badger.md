@@ -7,4 +7,4 @@ tags:
   - "Personal"
 ---
 
-There’s something catchy about the [badger badger badger](https://web.archive.org/web/20100104101725/http://www.badgerbadgerbadger.com/) tune, I don’t know what it is, maybe it’s the slightly intoxicating mix of audio and visual, but I just keep coming back for more… it’s like hamster dance all over again.
+There’s something catchy about the [badger badger badger](http://www.badgerbadgerbadger.com/) tune, I don’t know what it is, maybe it’s the slightly intoxicating mix of audio and visual, but I just keep coming back for more… it’s like hamster dance all over again.

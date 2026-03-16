@@ -7,7 +7,7 @@ tags:
   - "Apple"
 ---
 
-Having lived day to day with a [Mac](https://web.archive.org/web/20090527052738/http://www.apple.com/mac/) now for a good few years I thought it was about time I documented some of my pet peeves as a one time Windows user. So here they are in the form of a brief wish list for OS X Snow Leopard. This is in the vein hope that Steve Jobs is a regular reader of my blog (*pft – yea right!*) and that he will do something about these very minor issues. :)
+Having lived day to day with a [Mac](http://www.apple.com/mac/) now for a good few years I thought it was about time I documented some of my pet peeves as a one time Windows user. So here they are in the form of a brief wish list for OS X Snow Leopard. This is in the vein hope that Steve Jobs is a regular reader of my blog (*pft – yea right!*) and that he will do something about these very minor issues. :)
 
 ### Fix the ‘Zoom’ button
 

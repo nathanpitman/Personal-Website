@@ -9,7 +9,7 @@ tags:
 
 This morning I inadvertently came across what might be the most convincing ‘we promise not to Spam you’ message that I’ve seen so far on the web.
 
-It lives at ‘[Flickr](https://web.archive.org/web/20100116223748/http://www.flickr.com/register.gne)‘.
+It lives at ‘[Flickr](http://www.flickr.com/register.gne)‘.
 
 “Our hatred for spam is difficult to articulate. We promise unreservedly never to share your email address with anyone without your explicit permission.”
 

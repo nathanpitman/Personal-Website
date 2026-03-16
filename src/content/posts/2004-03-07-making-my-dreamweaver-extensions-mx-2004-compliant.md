@@ -12,6 +12,6 @@ I finally got round to making the modifications to all of my Dreamweaver Extensi
 
 It was a hassle to edit 13 MXIs, re-package and test them. But at least now it’s done. Let’s just hope they don’t go and change it all again for the next release… :/
 
-You can find the [revised extensions](https://web.archive.org/web/20100107141856/http://www.nathanpitman.com/source/extensions.php) with incremented version numbers on the extensions page.
+You can find the [revised extensions](http://www.nathanpitman.com/source/extensions.php) with incremented version numbers on the extensions page.
 
 Have fun and let me know if anything is still broke.

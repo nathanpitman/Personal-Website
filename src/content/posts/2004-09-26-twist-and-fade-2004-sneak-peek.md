@@ -8,7 +8,7 @@ tags:
   - "Fireworks"
 ---
 
-I hear from [Steven Grosvenor](https://web.archive.org/web/20090616203441/http://www.phireworx.com/) that Twist and Fade MX 2004 is nearly ready for release.
+I hear from [Steven Grosvenor](http://www.phireworx.com/) that Twist and Fade MX 2004 is nearly ready for release.
 
 ![Twist and Fade 2004](/images/65.jpg "Twist and Fade 2004")
 

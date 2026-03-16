@@ -13,7 +13,7 @@ It was quite a trip down memory lane to dig through all the old bits, deciding w
 
 A couple of years ago when I set up dovelop.com I had only just started to play with server side languages. I built dovelop using Dreamweaver MX, relying heavily on the built in ‘Server Behaviours’. Now I look back at the code with embarrassment, not quite able to believe that I thought what I had produced was in any way acceptable.
 
-I guess that to the untrained eye it would have looked suitably complicated and clever, but now, with a better understanding of languages like ASP and PHP I can see why fellow developers like [Drew McLellan](https://web.archive.org/web/20100106035701/http://www.allinthehead.com/) are such advocates of hand written code.
+I guess that to the untrained eye it would have looked suitably complicated and clever, but now, with a better understanding of languages like ASP and PHP I can see why fellow developers like [Drew McLellan](http://www.allinthehead.com/) are such advocates of hand written code.
 
 In many ways it boils down to change. To write a snippet of code yourself, taking that extra time up front reaps benefits in the long run. You understand the code, then later you come back and change it for another purpose, understanding more and more as you go. Although tools like Dreamweaver are undoubtedly great for getting started, they hinder development if you rely on the ‘unchangeable’ built in behaviours.
 

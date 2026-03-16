@@ -7,17 +7,17 @@ tags:
   - "Web development"
 ---
 
-Here and there I’ve been finding time to continue with my [Debian](https://web.archive.org/web/20090527121350/http://www.debian.org/) install. I have the most basic of installs finished and so over the past few days I’ve been adding some ingredients of my own to make this install even more scrummy.
+Here and there I’ve been finding time to continue with my [Debian](http://www.debian.org/) install. I have the most basic of installs finished and so over the past few days I’ve been adding some ingredients of my own to make this install even more scrummy.
 
 The majority of my set up is pretty typical of any PHP">LAMP Server so you could follow my notes as instruction for yourself if you wish, although I must admit I’m no guru on the subject so don’t go directing any technical questions my way! This is **Step 1** in the process which covers **remote administration** and **visibility on a Windows network**.
 
-As I’ve already stated I did a bare bones Debian install, I followed [instructions](https://web.archive.org/web/20090527121350/http://www.osnews.com/story.php?news_id=2016&page=1) that I found on OSnews.com but bailed out at installing [XFree86](https://web.archive.org/web/20090527121350/http://www.xfree86.org/) as I have no plans to use my Linux box as a desktop client. So with my linux box running, connected to my home network and logged in as root, I begun.
+As I’ve already stated I did a bare bones Debian install, I followed [instructions](http://www.osnews.com/story.php?news_id=2016&page=1) that I found on OSnews.com but bailed out at installing [XFree86](http://www.xfree86.org/) as I have no plans to use my Linux box as a desktop client. So with my linux box running, connected to my home network and logged in as root, I begun.
 
 ### Remote administration
 
 First up I wanted to sort remote administration, primarily because my Linux box was sitting in our lounge next to the TV, and my PC is in our office upstairs. I was getting pretty fed up with googling, running downstairs, trying something, running back upstairs etc.
 
-To remotely administer a linux box all you need to do is install SSH and a suitable client such as [Putty](https://web.archive.org/web/20090527121350/http://www.putty.nl/) on your PC.
+To remotely administer a linux box all you need to do is install SSH and a suitable client such as [Putty](http://www.putty.nl/) on your PC.
 
 `apt-get install ssh`
 
@@ -27,7 +27,7 @@ In theory you can now disconnect the monitor and keyboard that you had been runn
 
 ### Visibility on a Windows network
 
-Next up I want to be able to browse part of my Linux box from Windows Explorer on my PC. To be able to do this I need to install an application on my Linux box called [Samba](https://web.archive.org/web/20090527121350/http://www.samba.org/).
+Next up I want to be able to browse part of my Linux box from Windows Explorer on my PC. To be able to do this I need to install an application on my Linux box called [Samba](http://www.samba.org/).
 
 `apt-get install samba`
 

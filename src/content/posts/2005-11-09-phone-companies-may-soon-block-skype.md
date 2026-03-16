@@ -7,7 +7,7 @@ tags:
   - "Technology"
 ---
 
-[Phone Companies May Soon Block Skype](https://web.archive.org/web/20100106033807/http://mathaba.net/0_index.shtml?x=403148) (and other VOIP services).
+[Phone Companies May Soon Block Skype](http://mathaba.net/0_index.shtml?x=403148) (and other VOIP services).
 
 *Grrr, argh… hmph.*
 

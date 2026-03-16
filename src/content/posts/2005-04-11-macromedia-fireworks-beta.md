@@ -19,4 +19,4 @@ As a beta tester you will be expected to:
 - Review the beta program’s web site regularly for updated versions and information.
 - Participate in online beta program forums through August 2005.
 
-If you think you can meet the above requirements and would like to apply, complete an [online application](https://web.archive.org/web/20100106035102/http://www.macromedia.com/go/FW_beta_candidate_survey) for the beta programme.
+If you think you can meet the above requirements and would like to apply, complete an [online application](http://www.macromedia.com/go/FW_beta_candidate_survey) for the beta programme.

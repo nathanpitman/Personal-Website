@@ -8,7 +8,7 @@ tags:
 hidden: true
 ---
 
-Via [Mirashade](https://web.archive.org/web/20100109083204/http://www.mirashade.com/)...
+Via [Mirashade](http://www.mirashade.com/)...
 
 *Mirashade is a progressive creative agency founded in 1994 specialising in Branding, Moving Image and New Media.*
 
@@ -16,4 +16,4 @@ Via [Mirashade](https://web.archive.org/web/20100109083204/http://www.mirashade.
 
 *We want someone special who enjoys problem solving, is keen to improve processes and use their initiative. A positive attitude, great telephone manner and vibrant personality are an absolute must. No formal qualifications are required.*
 
-If you’re interested, and you’re available to work at the Mirashade studio in Reading, Berkshire, UK… [check out the Mirashade site](https://web.archive.org/web/20100109083204/http://www.mirashade.com/about/?c=Employment).
+If you’re interested, and you’re available to work at the Mirashade studio in Reading, Berkshire, UK… [check out the Mirashade site](http://www.mirashade.com/about/?c=Employment).

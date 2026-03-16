@@ -8,6 +8,6 @@ tags:
   - "Fireworks"
 ---
 
-I’ve been playing about with some ideas for the [re-design](https://web.archive.org/web/20100106031756/http://nathanpitman.com/journal/312/re-design-step-1-specify-requirements) in Fireworks…
+I’ve been playing about with some ideas for the [re-design](http://nathanpitman.com/journal/312/re-design-step-1-specify-requirements) in Fireworks…
 
 ![Fireworks composition](/images/81.gif "Fireworks composition")

@@ -7,7 +7,7 @@ tags:
   - "Branding"
 ---
 
-What’s the deal with all the [bird](https://web.archive.org/web/20090911045620/http://www.koopd.com/) [brand](https://web.archive.org/web/20090911045620/http://www.pixelicious.co.uk/) [logos](https://web.archive.org/web/20090911045620/http://www.joshuaink.com/) at the mo…?
+What’s the deal with all the [bird](http://www.koopd.com/) [brand](http://www.pixelicious.co.uk/) [logos](http://www.joshuaink.com/) at the mo…?
 
 ![Barmy bird brands](/images/95.jpg "Barmy bird brands")
 

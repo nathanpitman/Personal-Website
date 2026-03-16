@@ -7,7 +7,7 @@ tags:
   - "Web applications"
 ---
 
-Well after hearing from [Darren](https://web.archive.org/web/20100106033925/http://www.darrenm.net/) that he was switching in full to using Google for business email I decided to investigate myself. Google have a fantastic offer for small businesses; up to 25 mail accounts with a 6Gb limit ‘each’ which runs through your own domain.
+Well after hearing from [Darren](http://www.darrenm.net/) that he was switching in full to using Google for business email I decided to investigate myself. Google have a fantastic offer for small businesses; up to 25 mail accounts with a 6Gb limit ‘each’ which runs through your own domain.
 
 It’s all pretty easy to set up though if you have a lot of existing email to import (how about 3Gb) then it can be quite painful!
 

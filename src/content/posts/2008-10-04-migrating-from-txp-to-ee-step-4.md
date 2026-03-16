@@ -8,7 +8,7 @@ tags:
   - "Textpattern"
 ---
 
-Right so, a quick re-cap… we’ve exported our data from Textpattern, imported it into [ExpressionEngine](https://web.archive.org/web/20090519081155/http://www.expressionengine.com/index.php?affiliate=nathanpitman) and done a quick find and replace to fix up our embedded images.
+Right so, a quick re-cap… we’ve exported our data from Textpattern, imported it into [ExpressionEngine](http://www.expressionengine.com/index.php?affiliate=nathanpitman) and done a quick find and replace to fix up our embedded images.
 
 Next job on our list is to fix up any links to file assets which we have in our entries. Textpattern uses a file download manager which records total file downloads and obfuscates the actual file path in the URL which you place in your entry. ExpressionEngine, whilst being a fantastic CMS, does not provide support for file download counts or obfuscation (here’s hoping for EE2!) which is a shame but hey ho… let’s soldier on.
 
@@ -20,6 +20,6 @@ Now we just need to amend the file paths in our entries so work through the list
 
 Now, you can either use the ‘copy and paste info’ that the ‘File Manager Module’ provides you with (a standard href link) or hand craft a Textile based equivalent. The choice is yours.
 
-Ok so I ran out of time a little today and didn’t have a chance to explain how we can migrate out Textpattern Links but I promise I’ll cover that in my next post! ![smile](https://web.archive.org/web/20090519081155im_/http://nathanpitman.com/images/smileys/smile.gif)
+Ok so I ran out of time a little today and didn’t have a chance to explain how we can migrate out Textpattern Links but I promise I’ll cover that in my next post! ![smile](http://nathanpitman.com/images/smileys/smile.gif)
 
 [Next Step…](/web/20090519081155/http://nathanpitman.com/journal/558/migrating-from-txp-to-ee-step-5)

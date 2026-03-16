@@ -8,7 +8,7 @@ tags:
   - "Design"
 ---
 
-I just finished up working on a website this week for a new client ([Smile Photography](https://web.archive.org/web/20091210070646/http://www.smilephotography.net/)), still a fair bit of placeholder copy about. The ingredients; **XHTML/CSS**, **Bespoke Content Management**, **Auto Thumbnailing** of Event Photos, all that kinda jazz.
+I just finished up working on a website this week for a new client ([Smile Photography](http://www.smilephotography.net/)), still a fair bit of placeholder copy about. The ingredients; **XHTML/CSS**, **Bespoke Content Management**, **Auto Thumbnailing** of Event Photos, all that kinda jazz.
 
 ![Smile Photography](/images/138.jpg "Smile Photography")
 

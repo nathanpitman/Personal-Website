@@ -11,7 +11,7 @@ Glen Richardson from IQ Development is making an appeal for web developers. At t
 
 ### Important Stats
 
-- **Send e-mail to:** [jobs@iq-development.com](https://web.archive.org/web/20100424235628/mailto:jobs@iq-development.com?subject=Application%20from%20nathanpitman.com)
+- **Send e-mail to:** [jobs@iq-development.com](mailto:jobs@iq-development.com?subject=Application%20from%20nathanpitman.com)
 - **Closing date:** Ongoing
 - **Start date:** ASAP
 - **Salary:** Negotiable, please submit your expectations
@@ -48,6 +48,6 @@ We work on Mac OS X and with (X)HTML, CSS, JavaScript, XML, PHP and MySQL. Our d
 - Professional Mac OS usage
 - AJAX and DOM scripting
 
-Please send us an [e-mail](https://web.archive.org/web/20100424235628/mailto:jobs@iq-development.com?subject=Application%20from%20nathanpitman.com) to let us know why you’re the person for the job, together with a list of websites you have worked on, your involvement with them, and what you like to get up to in your spare time.
+Please send us an [e-mail](mailto:jobs@iq-development.com?subject=Application%20from%20nathanpitman.com) to let us know why you’re the person for the job, together with a list of websites you have worked on, your involvement with them, and what you like to get up to in your spare time.
 
 Good Luck! IQ Development.

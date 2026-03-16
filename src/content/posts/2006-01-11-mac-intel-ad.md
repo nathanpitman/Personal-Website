@@ -7,7 +7,7 @@ tags:
   - "Technology"
 ---
 
-If like me you watched the [Macworld Keynote Address](https://web.archive.org/web/20091209173359/http://macworld.apple.com.edgesuite.net/mw/index.html) earlier today or last night you may well have seen [the fantastic new TV ad](https://web.archive.org/web/20091209173359/http://www.apple.com/intel/ads/) which [Apple](https://web.archive.org/web/20091209173359/http://www.apple.com/) have devised to promote the switch from IBM PowerPC processors to Intel chips.
+If like me you watched the [Macworld Keynote Address](http://macworld.apple.com.edgesuite.net/mw/index.html) earlier today or last night you may well have seen [the fantastic new TV ad](http://www.apple.com/intel/ads/) which [Apple](http://www.apple.com/) have devised to promote the switch from IBM PowerPC processors to Intel chips.
 
 ![Intel and Mac](/images/131.jpg "Intel and Mac")
 

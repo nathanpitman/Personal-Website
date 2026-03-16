@@ -8,4 +8,4 @@ tags:
   - "Code"
 ---
 
-Macromedia have made the very sensible decision to set up a bunch of ‘product’ RSS feeds to allow individuals to keep up to date with product related news. You can see [the full list here](https://web.archive.org/web/20100101221709/http://www.markme.com/notifications/).
+Macromedia have made the very sensible decision to set up a bunch of ‘product’ RSS feeds to allow individuals to keep up to date with product related news. You can see [the full list here](http://www.markme.com/notifications/).

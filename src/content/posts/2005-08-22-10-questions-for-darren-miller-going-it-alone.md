@@ -7,7 +7,7 @@ tags:
   - "Employment"
 ---
 
-In the third of five interviews with web designers and developers who are self employed I chat with [Darren Miller](https://web.archive.org/web/20100113151405/http://www.darrenm.net/). I got to know Darren whilst working at [TMB](https://web.archive.org/web/20100113151405/http://www.tmbmarcom.com/) on an event based video game for [HP](https://web.archive.org/web/20100113151405/http://www.hp.co.uk/). Darren is a new media designer and developer.
+In the third of five interviews with web designers and developers who are self employed I chat with [Darren Miller](http://www.darrenm.net/). I got to know Darren whilst working at [TMB](http://www.tmbmarcom.com/) on an event based video game for [HP](http://www.hp.co.uk/). Darren is a new media designer and developer.
 
 ### Why
 

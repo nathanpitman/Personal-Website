@@ -12,14 +12,14 @@ tags:
 
 Sometimes people ask, so to save tweets here’s a quick summary:
 
-- Visual Design: [Sketch](https://web.archive.org/web/20131117100822/http://www.bohemiancoding.com/sketch/)
-- Code editor: [Sublime Text 2](https://web.archive.org/web/20131117100822/http://www.sublimetext.com/)
-- MySQL Admin: [Sequel Pro](https://web.archive.org/web/20131117100822/http://www.sequelpro.com/)
-- Version Control: [Gitbox](https://web.archive.org/web/20131117100822/http://gitboxapp.com/)
-- Code Comparison: [Kaleidoscope](https://web.archive.org/web/20131117100822/http://www.kaleidoscopeapp.com/)
-- JS/LESS/CSS (etc) compiler: [CodeKit](https://web.archive.org/web/20131117100822/http://incident57.com/codekit/)
-- Local server environment: [MAMP Pro](https://web.archive.org/web/20131117100822/http://www.mamp.info/en/mamp-pro/)
-- Local testing hookup: [Ghostlab](https://web.archive.org/web/20131117100822/http://vanamco.com/ghostlab/)
-- Deployment: Git! (or SFTP with [Transmit](https://web.archive.org/web/20131117100822/http://panic.com/transmit/))
+- Visual Design: [Sketch](http://www.bohemiancoding.com/sketch/)
+- Code editor: [Sublime Text 2](http://www.sublimetext.com/)
+- MySQL Admin: [Sequel Pro](http://www.sequelpro.com/)
+- Version Control: [Gitbox](http://gitboxapp.com/)
+- Code Comparison: [Kaleidoscope](http://www.kaleidoscopeapp.com/)
+- JS/LESS/CSS (etc) compiler: [CodeKit](http://incident57.com/codekit/)
+- Local server environment: [MAMP Pro](http://www.mamp.info/en/mamp-pro/)
+- Local testing hookup: [Ghostlab](http://vanamco.com/ghostlab/)
+- Deployment: Git! (or SFTP with [Transmit](http://panic.com/transmit/))
 
 :)

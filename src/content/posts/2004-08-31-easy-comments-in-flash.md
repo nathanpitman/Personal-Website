@@ -10,7 +10,7 @@ tags:
 
 My good friend Steven Grosvenor has written a new Command Panel for Flash which provides an interface to add comments to Flash files.
 
-The [Comment Adder Panel](https://web.archive.org/web/20100107203335/http://www.sitepoint.com/blog-post-view.php?id=191202) allows you to add comments at the click of a button, including the following types of comments:
+The [Comment Adder Panel](http://www.sitepoint.com/blog-post-view.php?id=191202) allows you to add comments at the click of a button, including the following types of comments:
 
 Comment Block, To Do, Bug, Kludge, Tricky
 

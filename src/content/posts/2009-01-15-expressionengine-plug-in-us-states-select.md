@@ -7,7 +7,7 @@ tags:
   - "ExpressionEngine"
 ---
 
-This is just a variation of my UK Counties Select plug-in for [ExpressionEngine](https://web.archive.org/web/20090518024109/http://www.expressionengine.com/index.php?affiliate=nathanpitman) which as you might expect, returns a list of US states in the drop down rather than UK counties. Usage of the plug-in is as follows:
+This is just a variation of my UK Counties Select plug-in for [ExpressionEngine](http://www.expressionengine.com/index.php?affiliate=nathanpitman) which as you might expect, returns a list of US states in the drop down rather than UK counties. Usage of the plug-in is as follows:
 
 `{exp:np_us_states_select name="states"}`
 

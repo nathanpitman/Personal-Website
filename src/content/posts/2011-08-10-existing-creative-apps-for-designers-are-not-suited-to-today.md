@@ -9,8 +9,8 @@ tags:
   - "Fireworks"
 ---
 
-**We all know it… it’s been a common accepted fact for far too long**. We’ve been talking about the lack of interest from app developers at a regular [local meet-up](https://web.archive.org/web/20110817004950/http://creativeassembly.net/) and decided it was about time we did something positive about it.
+**We all know it… it’s been a common accepted fact for far too long**. We’ve been talking about the lack of interest from app developers at a regular [local meet-up](http://creativeassembly.net/) and decided it was about time we did something positive about it.
 
-[![](/images/project_meteor.png)](https://web.archive.org/web/20110817004950/http://projectmeteor.org/)
+[![](/images/project_meteor.png)](http://projectmeteor.org/)
 
-[Project Meteor](https://web.archive.org/web/20110817004950/http://projectmeteor.org/) is a campaign for the web design app we all need, if you agree that current tools don’t cut it – visit the site and add your voice to the campaign by tweeting for the cause.
+[Project Meteor](http://projectmeteor.org/) is a campaign for the web design app we all need, if you agree that current tools don’t cut it – visit the site and add your voice to the campaign by tweeting for the cause.

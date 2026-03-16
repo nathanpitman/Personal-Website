@@ -8,4 +8,4 @@ tags:
   - "Design"
 ---
 
-[Oursafesite.com](https://web.archive.org/web/20100113122513/http://www.oursafesite.com/) is a place for children, adults and teachers to communicate, learn and share knowledge with the aim of establishing best practices for all members of the community who are responsible for the care of young people.
+[Oursafesite.com](http://www.oursafesite.com/) is a place for children, adults and teachers to communicate, learn and share knowledge with the aim of establishing best practices for all members of the community who are responsible for the care of young people.

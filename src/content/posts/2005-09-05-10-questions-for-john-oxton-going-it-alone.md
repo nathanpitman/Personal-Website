@@ -7,7 +7,7 @@ tags:
   - "Employment"
 ---
 
-Finally I get around to posting my final ’10 questions’ for web designers and developers who are self employed (Sorry for the delay, [new arrivals](https://web.archive.org/web/20091117062638/http://nathanpitman.com/journal/397/im-a-dad-again) do throw a spanner in the works). This time I ‘metaphorically’ sat down for a chat with [John Oxton](https://web.archive.org/web/20091117062638/http://www.joshuaink.com/). John is a web developer based in the Cotswolds. Well known for his use of the ‘F’ word, he’s really a jolly nice chap. On with the questions!
+Finally I get around to posting my final ’10 questions’ for web designers and developers who are self employed (Sorry for the delay, [new arrivals](http://nathanpitman.com/journal/397/im-a-dad-again) do throw a spanner in the works). This time I ‘metaphorically’ sat down for a chat with [John Oxton](http://www.joshuaink.com/). John is a web developer based in the Cotswolds. Well known for his use of the ‘F’ word, he’s really a jolly nice chap. On with the questions!
 
 ### Why
 
@@ -33,7 +33,7 @@ Read that back as: I had to, I am technically unemployable.
 
 **Nathan:** If you charge by the hour, how did you decide on your hourly rate? Did you pluck a figure from the air or work out a rate based on the salary you required?
 
-**John:** My hourly rate has been rising slowly but steadily over the last two years and confidence in myself and an improved portfolio have certainly been a factor. [I also did a survey](https://web.archive.org/web/20091117062638/http://joshuaink.com/blog/256/how-much-do-you-charge) a little while back to see how I compared across the board. I am pleased to say I am still quite inexpensive, though donât ever call me cheap!
+**John:** My hourly rate has been rising slowly but steadily over the last two years and confidence in myself and an improved portfolio have certainly been a factor. [I also did a survey](http://joshuaink.com/blog/256/how-much-do-you-charge) a little while back to see how I compared across the board. I am pleased to say I am still quite inexpensive, though donât ever call me cheap!
 
 ### Selling yourself
 

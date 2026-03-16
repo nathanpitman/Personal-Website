@@ -7,13 +7,13 @@ tags:
   - "Branding"
 ---
 
-Well as the title says, I’m no print designer, but with a few minutes to spare between children going to bed and the increasingly excellent [afterlife](https://web.archive.org/web/20100106034320/http://afterlife.itv.com/) I thought I’d have a shot at a concept for my business cards. The number of times in the last month I wish I’d had a bunch of these in my pocket is getting beyond a joke, so it’s time to pull my finger out.
+Well as the title says, I’m no print designer, but with a few minutes to spare between children going to bed and the increasingly excellent [afterlife](http://afterlife.itv.com/) I thought I’d have a shot at a concept for my business cards. The number of times in the last month I wish I’d had a bunch of these in my pocket is getting beyond a joke, so it’s time to pull my finger out.
 
 I can’t afford any ‘snazzy’ print techniques, it’s just single colour and a tint of black for me on a good quality stock.
 
 ![nine four business card](/images/115.jpg "nine four business card")
 
-So, as you can see, solid on the reverse with a portrait apsect and white on the front with landscape and a nice large logotype. I must say I’ve been tempted to include something about [nine four](https://web.archive.org/web/20100106034320/http://www.ninefour.co.uk/), focus etc… a little inspired perhaps by the [clear:left](https://web.archive.org/web/20100106034320/http://www.andybudd.com/archives/2005/09/introducing_clearleft/index.php) business cards.
+So, as you can see, solid on the reverse with a portrait apsect and white on the front with landscape and a nice large logotype. I must say I’ve been tempted to include something about [nine four](http://www.ninefour.co.uk/), focus etc… a little inspired perhaps by the [clear:left](http://www.andybudd.com/archives/2005/09/introducing_clearleft/index.php) business cards.
 
 **Update:** Well, after some discussion with a few old work mates I decided that the card needs to at least say what I do. Not everyone who has one will neccesarily have talked to me in person or remember what I said. What if I hand some out at a party and someone bags one only to stumble acrosss it in a years time when they need my services, but ignore it becuase it doesn’t spell those services out.
 

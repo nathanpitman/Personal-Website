@@ -8,7 +8,7 @@ tags:
   - "Fireworks"
 ---
 
-Use [Duplicate, Offset & Rotate](https://web.archive.org/web/20100110210054/http://www.nathanpitman.com/buy_np001.php) to:
+Use [Duplicate, Offset & Rotate](http://www.nathanpitman.com/buy_np001.php) to:
 
 - Quickly and easily create grids
 - Generate unique spiral patterns

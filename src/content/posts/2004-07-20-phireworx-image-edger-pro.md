@@ -14,4 +14,4 @@ Image Edger PRO is a batch conversion utility with a difference; it gives you th
 
 I’ve given it a go and it’s pretty nifty for large batch operations. It even gives you a psuedo ‘preview’ within the command interface.
 
-Image Edger PRO is available to purchase from the [Phireworx](https://web.archive.org/web/20100113135720/http://www.phireworx.com/) site for $9.95.
+Image Edger PRO is available to purchase from the [Phireworx](http://www.phireworx.com/) site for $9.95.

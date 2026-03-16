@@ -11,7 +11,7 @@ Today it feels as if somehow I’m saying goodbye to my youth. This is the last 
 
 ![Toyota MR2 Roadster](/images/1.jpg "Toyota MR2 Roadster")
 
-Tommorow I’ll be trading him in for a ‘sensible family car’ at my local [VW](https://web.archive.org/web/20100102214827/http://www.vw.co.uk/) dealership.
+Tommorow I’ll be trading him in for a ‘sensible family car’ at my local [VW](http://www.vw.co.uk/) dealership.
 
 Sure, I will miss my MR2 Roadster, but one day we all have to grow up a little and be responsible. I just hope the next owner loves the experience as much as I have.
 

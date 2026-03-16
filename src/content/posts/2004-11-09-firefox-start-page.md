@@ -7,7 +7,7 @@ tags:
   - "Technology"
 ---
 
-Firefox 1.0 has a [snazzy new start page](https://web.archive.org/web/20100106031659/http://www.google.com/firefox?client=firefox-a&rls=org.mozilla:en-US:official) courtesy of google (There’s that [google link](https://web.archive.org/web/20100106031659/http://news.bbc.co.uk/1/hi/technology/3680942.stm) again).
+Firefox 1.0 has a [snazzy new start page](http://www.google.com/firefox?client=firefox-a&rls=org.mozilla:en-US:official) courtesy of google (There’s that [google link](http://news.bbc.co.uk/1/hi/technology/3680942.stm) again).
 
 ![Firefox Start Page at Google.com](/images/73.jpg "Firefox Start Page at Google.com")
 

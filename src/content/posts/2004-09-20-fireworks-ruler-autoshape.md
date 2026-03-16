@@ -8,4 +8,4 @@ tags:
   - "Fireworks"
 ---
 
-Senocular has written another clever little AutoShape for Fireworks, but this time it behaves more like a utility. The [Ruler AutoShape](https://web.archive.org/web/20100117023629/http://www.senocular.com/downloads/index.php?subaction=showfull&id=1095597446&archive=&start_from=&ucat=8&kind=8) allows you to measure lengths and angles across your document. Very neat.
+Senocular has written another clever little AutoShape for Fireworks, but this time it behaves more like a utility. The [Ruler AutoShape](http://www.senocular.com/downloads/index.php?subaction=showfull&id=1095597446&archive=&start_from=&ucat=8&kind=8) allows you to measure lengths and angles across your document. Very neat.

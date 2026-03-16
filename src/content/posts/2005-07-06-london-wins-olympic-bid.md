@@ -7,7 +7,7 @@ tags:
   - "Personal"
 ---
 
-Just heard on the radio that [London has won it’s bid to host the 2012 Olympics](https://web.archive.org/web/20090609020235/http://news.bbc.co.uk/sport1/hi/front_page/4655555.stm)!
+Just heard on the radio that [London has won it’s bid to host the 2012 Olympics](http://news.bbc.co.uk/sport1/hi/front_page/4655555.stm)!
 
 ![London 2012](/images/101.gif "London 2012")
 

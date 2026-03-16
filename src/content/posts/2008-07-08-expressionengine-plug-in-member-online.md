@@ -7,7 +7,7 @@ tags:
   - "ExpressionEngine"
 ---
 
-Whilst working on the [Wired In](https://web.archive.org/web/20090616071925/http://www.wiredin.org.uk/) website I came up against a little problem. I wanted to be ale to show if a specific user was online or offline, much like you would on a social networking site. However although there are tags to return a list of online users within [ExpressionEngine](https://web.archive.org/web/20090616071925/http://www.expressionengine.com/index.php?affiliate=nathanpitman), you cannot pass this a specific username with a view to returning a true/false response.
+Whilst working on the [Wired In](http://www.wiredin.org.uk/) website I came up against a little problem. I wanted to be ale to show if a specific user was online or offline, much like you would on a social networking site. However although there are tags to return a list of online users within [ExpressionEngine](http://www.expressionengine.com/index.php?affiliate=nathanpitman), you cannot pass this a specific username with a view to returning a true/false response.
 
 So, after poking around a few plug-ins which queried the DB for values (specifically the ‘“Member Info”:http://expressionengine.com/downloads/details/member\_info/’ plug-in) I decided to launch in and write my first plug-in to do the job for me.
 

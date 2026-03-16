@@ -8,6 +8,6 @@ tags:
   - "Fireworks"
 ---
 
-Brian Edgin of [Phireworx](https://web.archive.org/web/20090518092521/http://www.phireworx.com/) has released a nifty little new extension for Fireworks MX.
+Brian Edgin of [Phireworx](http://www.phireworx.com/) has released a nifty little new extension for Fireworks MX.
 
 ‘Super Nudge’ allows you to ‘nudge’ selections by any amount including sub pixel amounts and individual points.

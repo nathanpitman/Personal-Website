@@ -8,4 +8,4 @@ tags:
   - "Fireworks"
 ---
 
-I’ve added [Auto Save](/web/20090609213742/http://nathanpitman.com/files/AutoSave.mxp) to the extensions list, it’s been around for a while but I just never got to putting it online. Based on [an extension written by FlashGuru](https://web.archive.org/web/20090609213742/http://www.flashguru.co.uk/000655.php) this command panel allows you to set Fireworks to automatically save the active document every ‘x’ minute(s) or every ‘x’ hour(s).
+I’ve added [Auto Save](/web/20090609213742/http://nathanpitman.com/files/AutoSave.mxp) to the extensions list, it’s been around for a while but I just never got to putting it online. Based on [an extension written by FlashGuru](http://www.flashguru.co.uk/000655.php) this command panel allows you to set Fireworks to automatically save the active document every ‘x’ minute(s) or every ‘x’ hour(s).

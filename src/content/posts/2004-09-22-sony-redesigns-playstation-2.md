@@ -8,7 +8,7 @@ tags:
   - "Technology"
 ---
 
-Sony have announced a [new, redesigned version of its Playstation 2](https://web.archive.org/web/20100104105300/http://uk.playstation.com/news/newsStory.jhtml;jsessionid=ZPLUPIE1GXZAACQSBLUSMFQ?storyId=106058_en_GB_NEWS&linktype=PC115) console.
+Sony have announced a [new, redesigned version of its Playstation 2](http://uk.playstation.com/news/newsStory.jhtml;jsessionid=ZPLUPIE1GXZAACQSBLUSMFQ?storyId=106058_en_GB_NEWS&linktype=PC115) console.
 
 ![Sony redesigns PlayStation 2](/images/64.jpg "Sony redesigns PlayStation 2")
 

@@ -7,7 +7,7 @@ tags:
   - "Design"
 ---
 
-The [Redesigned Mozilla site](https://web.archive.org/web/20090527173340/http://www.mozilla.org/) which was developed by [silverorange](https://web.archive.org/web/20090527173340/http://www.silverorange.com/) went live yesterday.
+The [Redesigned Mozilla site](http://www.mozilla.org/) which was developed by [silverorange](http://www.silverorange.com/) went live yesterday.
 
 ![Mozilla Redesign](/images/59.jpg "Mozilla Redesign")
 

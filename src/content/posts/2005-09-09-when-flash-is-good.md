@@ -11,4 +11,4 @@ It’s not often that you come across Flash based websites which really make the
 
 ![Don't click it](/images/111.gif "Don't click it")
 
-[Dontclick.it](https://web.archive.org/web/20090831024208/http://dontclick.it/) however is the total opposite, a site which would never work using good old XHTML and CSS (Well maybe with a very very large serving of JavaScript). Thank goodness more designers and developers are starting to use Flash for the right reasons.
+[Dontclick.it](http://dontclick.it/) however is the total opposite, a site which would never work using good old XHTML and CSS (Well maybe with a very very large serving of JavaScript). Thank goodness more designers and developers are starting to use Flash for the right reasons.

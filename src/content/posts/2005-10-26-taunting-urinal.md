@@ -7,7 +7,7 @@ tags:
   - "Humour"
 ---
 
-Via [forgetfoo](https://web.archive.org/web/20100115114331/http://www.forgetfoo.com/?blogid=4832), this was just too good not to repeat.
+Via [forgetfoo](http://www.forgetfoo.com/?blogid=4832), this was just too good not to repeat.
 
 ![plain wrong?](/web/20100115114331im_/http://nathanpitman.com/images/uploads/118.jpg "plain wrong?")
 

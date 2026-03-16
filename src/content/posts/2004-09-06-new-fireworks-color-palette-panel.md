@@ -8,7 +8,7 @@ tags:
   - "Fireworks"
 ---
 
-Viktor Goltvyanitsa has released a new version of his Fireworks [Color Palette Command Panel](https://web.archive.org/web/20091209164535/http://zaporozhye.org/dreamworld/#color_palette). Version 1.2 includes the following new features:
+Viktor Goltvyanitsa has released a new version of his Fireworks [Color Palette Command Panel](http://zaporozhye.org/dreamworld/#color_palette). Version 1.2 includes the following new features:
 
 - New interface design
 - Color transformation to/from; RGB, CMYK, HSV and HLS.

@@ -8,7 +8,7 @@ tags:
   - "Fireworks"
 ---
 
-Macromedia has made documentation available online for the [Fireworks Remote Procedure Calls](https://web.archive.org/web/20100112235804/http://www.macromedia.com/devnet/mx/fireworks/articles/rpc.html) or RPCs.
+Macromedia has made documentation available online for the [Fireworks Remote Procedure Calls](http://www.macromedia.com/devnet/mx/fireworks/articles/rpc.html) or RPCs.
 
 “The RPC mechanism exposes the Fireworks JavaScript DOM via XML and sockets. It allows other applications to access functionality previously restricted to JavaScript programs running inside of Fireworks such as ‘commands’ or ‘command panels’.
 

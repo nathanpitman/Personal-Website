@@ -8,7 +8,7 @@ tags:
   - "Technology"
 ---
 
-Every thing’s going [Pete Tong!](https://web.archive.org/web/20100107152612/http://www.bbc.co.uk/radio1/dance/petetong/index.shtml) Yesterday:
+Every thing’s going [Pete Tong!](http://www.bbc.co.uk/radio1/dance/petetong/index.shtml) Yesterday:
 
 - Outlook 2002 decided to spawn 2 browsers every time I clicked on a link in a email message (Still not fixed).
 - When leaving home to head off for a wedding ceremony rehearsal last night; my car refused to start until the 9th attempt, and then again on the way back (Intermittent, seems ok this morning).

@@ -8,7 +8,7 @@ tags:
   - "Fireworks"
 ---
 
-Jan Esmann is an artist who has written [a collection of photo editing and restoration plug-ins for Fireworks](https://web.archive.org/web/20100106231704/http://www.powerretouche.com/Fireworks_plugins.htm). Plug-ins include:
+Jan Esmann is an artist who has written [a collection of photo editing and restoration plug-ins for Fireworks](http://www.powerretouche.com/Fireworks_plugins.htm). Plug-ins include:
 
 - Black & White Studio
 - Sharpness Editor

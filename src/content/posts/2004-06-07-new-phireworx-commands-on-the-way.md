@@ -8,7 +8,7 @@ tags:
   - "Fireworks"
 ---
 
-I hear on the grapevine from Steven Grosvenor at [Phireworx](https://web.archive.org/web/20100105214204/http://www.phireworx.com/) that he has some new Fireworks MX Command panels on the way…
+I hear on the grapevine from Steven Grosvenor at [Phireworx](http://www.phireworx.com/) that he has some new Fireworks MX Command panels on the way…
 
 - Batch Set’s 1 + 2 : 5 commands in each for pretty major batch processing with more granular control than the existing batch control UI (plus they look prettier).
 

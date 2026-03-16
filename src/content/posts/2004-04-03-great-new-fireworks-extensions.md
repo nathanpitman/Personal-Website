@@ -8,4 +8,4 @@ tags:
   - "Fireworks"
 ---
 
-Via Thierry Lorey at ‘[Fireworks Zone](https://web.archive.org/web/20091231054314/http://www.fireworkszone.com/)‘ I came across [a ton of new Fireworks Command panels and AutoShapes](https://web.archive.org/web/20091231054314/http://www.senocular.com/downloads/index.php?kind=8). Thanks go out to ‘[Senocular](https://web.archive.org/web/20091231054314/http://www.senocular.com/)‘ for these, it’s great to see more developers getting involved in extending Fireworks. :)
+Via Thierry Lorey at ‘[Fireworks Zone](http://www.fireworkszone.com/)‘ I came across [a ton of new Fireworks Command panels and AutoShapes](http://www.senocular.com/downloads/index.php?kind=8). Thanks go out to ‘[Senocular](http://www.senocular.com/)‘ for these, it’s great to see more developers getting involved in extending Fireworks. :)

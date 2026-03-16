@@ -8,7 +8,7 @@ tags:
   - "Technology"
 ---
 
-[Slim devices](https://web.archive.org/web/20100105200326/http://www.slimdevices.com/) have just announced the third gen [Squeezebox](https://web.archive.org/web/20100105200326/http://www.slimdevices.com/pi_specs.html), designed by Fred Bould the new form is just stunning. Where the 1st and 2nd gen Squeezbox’s were plastic and clunky this regains some of the poise and character which the 1st generation SliMP3 player had.
+[Slim devices](http://www.slimdevices.com/) have just announced the third gen [Squeezebox](http://www.slimdevices.com/pi_specs.html), designed by Fred Bould the new form is just stunning. Where the 1st and 2nd gen Squeezbox’s were plastic and clunky this regains some of the poise and character which the 1st generation SliMP3 player had.
 
 ![3rd gen Squeezebox is gorgeous](/images/116.jpg "3rd gen Squeezebox is gorgeous")
 

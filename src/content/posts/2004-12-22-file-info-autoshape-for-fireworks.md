@@ -8,7 +8,7 @@ tags:
   - "Fireworks"
 ---
 
-[Trevor McCauley](https://web.archive.org/web/20100104201139/http://www.senocular.com/) has released another(!) new Fireworks AutoShape called ‘“File Info”:http://www.senocular.com/downloads/index.php?subaction=showfull&id=1101933160&archive=&start\_from=&ucat=8&kind=8’.
+[Trevor McCauley](http://www.senocular.com/) has released another(!) new Fireworks AutoShape called ‘“File Info”:http://www.senocular.com/downloads/index.php?subaction=showfull&id=1101933160&archive=&start\_from=&ucat=8&kind=8’.
 
 ![File Info creates a bar at the bottom of your document with common information regarding your file.](/images/75.gif "File Info creates a bar at the bottom of your document with common information regarding your file.")
 

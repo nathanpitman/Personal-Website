@@ -8,10 +8,10 @@ tags:
   - "Fireworks"
 ---
 
-Hiroshi Miyazawa of Macromedia has developed another new AutoShape for Fireworks MX 2004 called [Ribbon](https://web.archive.org/web/20100719110733/http://www.communitymx.com/content/article.cfm?cid=4C7DD).
+Hiroshi Miyazawa of Macromedia has developed another new AutoShape for Fireworks MX 2004 called [Ribbon](http://www.communitymx.com/content/article.cfm?cid=4C7DD).
 
-The Ribbon Auto Shape is very similar to the [Wave Auto Shape](https://web.archive.org/web/20100719110733/http://www.nathanpitman.com/blog/index.php?id=201). It is basically an adjustable sine wave. However, the Ribbon Auto Shape uses the waves that are generated to build “inside” and “outside” shapes that give the illusion that you have a curly ribbon on screen.
+The Ribbon Auto Shape is very similar to the [Wave Auto Shape](http://www.nathanpitman.com/blog/index.php?id=201). It is basically an adjustable sine wave. However, the Ribbon Auto Shape uses the waves that are generated to build “inside” and “outside” shapes that give the illusion that you have a curly ribbon on screen.
 
 ![Ribbon AutoShape](/images/36.gif "Ribbon AutoShape")
 
-At present this extension is only available to [download from the CommunityMX site](https://web.archive.org/web/20100719110733/http://www.communitymx.com/content/article.cfm?cid=4C7DD) although Iï¿½m sure in time it will appear on the exchange.
+At present this extension is only available to [download from the CommunityMX site](http://www.communitymx.com/content/article.cfm?cid=4C7DD) although Iï¿½m sure in time it will appear on the exchange.

@@ -8,10 +8,10 @@ tags:
   - "Branding"
 ---
 
-Looks like [they](https://web.archive.org/web/20091214135253/http://www.macromedia.com/) ‘just’ made the switch, swapping the old macromedia logo out for an adobe one and making some subtle design changes to the site.
+Looks like [they](http://www.macromedia.com/) ‘just’ made the switch, swapping the old macromedia logo out for an adobe one and making some subtle design changes to the site.
 
 ![formerly macromedia...](/images/127.jpg "formerly macromedia...")
 
 Very strange to finally see things starting to happen, but kinda exciting at the same time.
 
-**Update:** Even more interesting is [some discussion](https://web.archive.org/web/20091214135253/http://www.visible-form.com/blog/000230.html) of plans to integrate the PDF and SWF formats.
+**Update:** Even more interesting is [some discussion](http://www.visible-form.com/blog/000230.html) of plans to integrate the PDF and SWF formats.

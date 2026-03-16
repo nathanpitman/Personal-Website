@@ -8,7 +8,7 @@ tags:
   - "Jobs"
 ---
 
-Here at [Nine Four](https://web.archive.org/web/20091209040906/http://www.ninefour.co.uk/) we have a fair few Flash based projects on the horizon, and I’m a little short on freelance Flash talent. So if you think:
+Here at [Nine Four](http://www.ninefour.co.uk/) we have a fair few Flash based projects on the horizon, and I’m a little short on freelance Flash talent. So if you think:
 
 - You’re a bit of an ActionScript guru,
 - You love Flash based games,

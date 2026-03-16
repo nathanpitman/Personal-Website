@@ -8,7 +8,7 @@ tags:
   - "Jobs"
 ---
 
-Via [Mirashade](https://web.archive.org/web/20100106035042/http://www.mirashade.com/)...
+Via [Mirashade](http://www.mirashade.com/)...
 
 *Mirashade is a progressive creative agency founded in 1994 specialising in Branding, Moving Image and New Media.*
 
@@ -18,4 +18,4 @@ Via [Mirashade](https://web.archive.org/web/20100106035042/http://www.mirashade.
 
 *You should be a good lateral thinker, able to work with others to deliver unique and exciting concepts transcending a diverse range of mediums.*
 
-If you’re interested, and you’re available to work at the Mirashade studio in Reading, Berkshire, UK… [check out the Mirashade site](https://web.archive.org/web/20100106035042/http://www.mirashade.com/about/?c=Employment).
+If you’re interested, and you’re available to work at the Mirashade studio in Reading, Berkshire, UK… [check out the Mirashade site](http://www.mirashade.com/about/?c=Employment).

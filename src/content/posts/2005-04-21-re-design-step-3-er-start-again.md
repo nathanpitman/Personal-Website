@@ -7,7 +7,7 @@ tags:
   - "This website"
 ---
 
-So, I kinda went back to the drawing board. I scrapped [my previous concept](https://web.archive.org/web/20090609020741/http://nathanpitman.com/journal/314/re-design-step-2-look--feel-concepts) and came up with this.
+So, I kinda went back to the drawing board. I scrapped [my previous concept](http://nathanpitman.com/journal/314/re-design-step-2-look--feel-concepts) and came up with this.
 
 ![Keeping it simple stupid](/images/90.jpg "Keeping it simple stupid")
 

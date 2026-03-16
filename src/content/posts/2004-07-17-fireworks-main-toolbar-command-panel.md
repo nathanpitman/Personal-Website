@@ -8,7 +8,7 @@ tags:
   - "Fireworks"
 ---
 
-I’ve finished the Fireworks ‘Main Toolbar’ Command Panel and it’s now available to [download for free](https://web.archive.org/web/20100103234131/http://www.nathanpitman.com/source/fireworks_extensions.php?id=217).
+I’ve finished the Fireworks ‘Main Toolbar’ Command Panel and it’s now available to [download for free](http://www.nathanpitman.com/source/fireworks_extensions.php?id=217).
 
 ![Snazzy new Fireworks Main Toolbar](/images/40.jpg "Snazzy new Fireworks Main Toolbar")
 

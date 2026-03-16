@@ -7,7 +7,7 @@ tags:
   - "Technology"
 ---
 
-[Google Analytics](https://web.archive.org/web/20100117023154/http://www.google.com/analytics/), this could be the serious **free** competition which products like [Mint](https://web.archive.org/web/20100117023154/http://www.haveamint.com/) and [Delineate](https://web.archive.org/web/20100117023154/http://delineateit.com/web/) really didn’t need.
+[Google Analytics](http://www.google.com/analytics/), this could be the serious **free** competition which products like [Mint](http://www.haveamint.com/) and [Delineate](http://delineateit.com/web/) really didn’t need.
 
 ![Google Analytics](/images/122.gif "Google Analytics")
 
@@ -17,4 +17,4 @@ Basically it’s like a hosted version of Urchin (Which is nice if you ever used
 
 Google Analytics delivers everything you’d expect from a high end stats solution, **and** it integrates with AdWords. I’m going to give it a bit of a trial run right here on nathanpitman.com to see how it shapes up.
 
-**Update:** A [nice write up on Google Analytics](https://web.archive.org/web/20100117023154/http://weblogs.jupiterresearch.com/analysts/peterson/archives/011878.html) by Eric Peterson.
+**Update:** A [nice write up on Google Analytics](http://weblogs.jupiterresearch.com/analysts/peterson/archives/011878.html) by Eric Peterson.

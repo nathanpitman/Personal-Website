@@ -7,7 +7,7 @@ tags:
   - "Employment"
 ---
 
-Kinda reminded by John Oxton’s [rant on lack of email manner](https://web.archive.org/web/20100306161348/http://joshuaink.com/blog/299/in-the-words-of-lionel-richie), I’ve been noticing a steady increase in the number of people who apply for Jobs at [Mirashade](https://web.archive.org/web/20100306161348/http://www.mirashade.com/) without care or consideration for a greeting of any kind.
+Kinda reminded by John Oxton’s [rant on lack of email manner](http://joshuaink.com/blog/299/in-the-words-of-lionel-richie), I’ve been noticing a steady increase in the number of people who apply for Jobs at [Mirashade](http://www.mirashade.com/) without care or consideration for a greeting of any kind.
 
 In fact, it get’s even worse… today I’ve had a number of applications without an email message at all, the applicant simply attaches their CV and presumes that this is sufficient. Well, do they really think that I can be arsed to read their CV when they provide me with no introduction, no synopsis, not even a “Hi, find my CV attached, cheers.”
 
@@ -15,7 +15,7 @@ With this in mind I hereby present my top five do’s and don’ts for email com
 
 Do:
 
-1. start your email with [a suitable greeting](https://web.archive.org/web/20100306161348/http://joshuaink.com/blog/299/in-the-words-of-lionel-richie)
+1. start your email with [a suitable greeting](http://joshuaink.com/blog/299/in-the-words-of-lionel-richie)
 2. introduce yourself in a single paragraph
 3. give your email some context
 4. send the email from a personal email account

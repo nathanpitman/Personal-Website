@@ -7,7 +7,7 @@ tags:
   - "Fireworks"
 ---
 
-On Friday just gone, Alan Musselman (Macromedia Senior Product Support Engineer) hosted a live Breeze Presentation on [Fireworks MX 2004](https://web.archive.org/web/20111009200449/http://www.macromedia.com/software/fireworks/) Best Practices. The presentation covered:
+On Friday just gone, Alan Musselman (Macromedia Senior Product Support Engineer) hosted a live Breeze Presentation on [Fireworks MX 2004](http://www.macromedia.com/software/fireworks/) Best Practices. The presentation covered:
 
 - Simple Rollovers and Disjointed Rollovers
 - Side by side comparison of slice behaviors and button symbols
@@ -15,4 +15,4 @@ On Friday just gone, Alan Musselman (Macromedia Senior Product Support Engineer)
 - Creating/duplicating a symbol and nesting symbols within a button
 - Why/when to use batch processing
 
-If, like me, you missed the live broadcast, you can watch back the [archived presentation](https://web.archive.org/web/20111009200449/http://mmchats.breezecentral.com/p94471009/?launcher=false&skip-survey=true).
+If, like me, you missed the live broadcast, you can watch back the [archived presentation](http://mmchats.breezecentral.com/p94471009/?launcher=false&skip-survey=true).

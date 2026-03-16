@@ -11,7 +11,7 @@ Just pimping a vacancy for a friend…
 
 ### Web Developer
 
-TMB Marketing & Communications was established in 1991 and has been active in the field of Marketing and Communications Services over the last fourteen years specifically focused on planning and strategy, performance improvement, live events, conferences, audio-visual production and creative design. Creative Services is a multi-disciplined design studio providing creative design solutions in a variety of media including: Print design and production, conference graphics, web design and development, CD and DVD, video and 3D animation. Our team has been carefully selected to ensure that we balance solid conceptual design with a diverse range of skill sets, enabling us to work collaboratively to deliver innovative design solutions for any client communications requirement. Please see [www.tmbmarcom.com](https://web.archive.org/web/20091231042035/http://www.tmbmarcom.com/) for further details.
+TMB Marketing & Communications was established in 1991 and has been active in the field of Marketing and Communications Services over the last fourteen years specifically focused on planning and strategy, performance improvement, live events, conferences, audio-visual production and creative design. Creative Services is a multi-disciplined design studio providing creative design solutions in a variety of media including: Print design and production, conference graphics, web design and development, CD and DVD, video and 3D animation. Our team has been carefully selected to ensure that we balance solid conceptual design with a diverse range of skill sets, enabling us to work collaboratively to deliver innovative design solutions for any client communications requirement. Please see [www.tmbmarcom.com](http://www.tmbmarcom.com/) for further details.
 
 **Job Summary:**  
 Reporting to the Creative Services Director you will be joining a young and bright team in the design department. You will be involved in the technical management of the studio and responsible for ensuring that Creative Services is kept up-to-date with current and emerging technologies and trends. You will be a proactive individual with at least 5 years web development experience and a thorough understanding of web accessibility and CSS style sheets.
@@ -40,4 +40,4 @@ Permanent
 **Location:**  
 Dorking, Surrey, UK.
 
-Interested? Drop an email with your CV, salary expectations and all the usual jazz to [claire.ellis@tmbmarcom.com](https://web.archive.org/web/20091231042035/mailto:claire.ellis@tmbmarcom.com?subject=Nathan%20sent%20me) and tell em I sent you.
+Interested? Drop an email with your CV, salary expectations and all the usual jazz to [claire.ellis@tmbmarcom.com](mailto:claire.ellis@tmbmarcom.com?subject=Nathan%20sent%20me) and tell em I sent you.

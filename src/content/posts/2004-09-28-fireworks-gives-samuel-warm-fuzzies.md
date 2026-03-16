@@ -8,4 +8,4 @@ tags:
   - "Fireworks"
 ---
 
-Samuel Wan has posted [some nice words](https://web.archive.org/web/20100106032628/http://www.samuelwan.com/information/archives/000220.html) regarding Fireworks as a UI sketching tool.
+Samuel Wan has posted [some nice words](http://www.samuelwan.com/information/archives/000220.html) regarding Fireworks as a UI sketching tool.

@@ -7,10 +7,10 @@ tags:
   - "Flash"
 ---
 
-Blip.tv, Google Video and YouTube content [experimentally re-engineered](https://web.archive.org/web/20100107155105/http://www.neave.tv/) into the most fantastically simple yet compelling interface.
+Blip.tv, Google Video and YouTube content [experimentally re-engineered](http://www.neave.tv/) into the most fantastically simple yet compelling interface.
 
 ![](/images/154.jpg)
 
-Look out for the subtle transitions between clips. Kudos to [Paul Neave](https://web.archive.org/web/20100107155105/http://www.neave.com/). **Very nice work**.
+Look out for the subtle transitions between clips. Kudos to [Paul Neave](http://www.neave.com/). **Very nice work**.
 
-(hat tip: [Robin Parker](https://web.archive.org/web/20100107155105/http://rockysays.wordpress.com/)).
+(hat tip: [Robin Parker](http://rockysays.wordpress.com/)).

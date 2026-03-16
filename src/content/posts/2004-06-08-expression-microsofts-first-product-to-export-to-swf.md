@@ -8,7 +8,7 @@ tags:
   - "Technology"
 ---
 
-All via [flex-mx.com](https://web.archive.org/web/20091227133158/http://www.flex-mx.com/archives/000823.html)
+All via [flex-mx.com](http://www.flex-mx.com/archives/000823.html)
 
 *“Microsoft Expression”:http://www.microsoft.com/products/expression/ is a free vector-based illustration and graphics tool for the Mac or PC, and according to sources, is Microsoft’s first product that exports to Flash SWF.*
 

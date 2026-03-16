@@ -8,7 +8,7 @@ tags:
   - "Textpattern"
 ---
 
-Now comes the exciting part. We’re going to import our old Textpattern artcicles into [ExpressionEngine](https://web.archive.org/web/20090518094453/http://www.expressionengine.com/index.php?affiliate=nathanpitman)!
+Now comes the exciting part. We’re going to import our old Textpattern artcicles into [ExpressionEngine](http://www.expressionengine.com/index.php?affiliate=nathanpitman)!
 
 First off we will need to upload the text file that we generated in our export from Textpattern in Step 2. I just dropped my file into the web root of my server so I could get at it easily from ExpressionEngine.
 

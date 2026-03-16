@@ -9,7 +9,7 @@ tags:
 
 Every time I come up against something which I once would have resorted to PHP to solve, I end up writing a little plug-in these days instead. It just feels less dirty that way…
 
-Anyhow, this one was developed to help me out when I needed to pass a string of data from one page to another in the URL. The string in question would occasionally include a forward slash and as such the string would become split as [Expression Engine](https://web.archive.org/web/20090718143450/http://www.expressionengine.com/index.php?affiliate=nathanpitman) interpreted it as two separate URL segments.
+Anyhow, this one was developed to help me out when I needed to pass a string of data from one page to another in the URL. The string in question would occasionally include a forward slash and as such the string would become split as [Expression Engine](http://www.expressionengine.com/index.php?affiliate=nathanpitman) interpreted it as two separate URL segments.
 
 The ‘Encode/Decode’ plug-in takes any string of text and encodes or decodes it. Typical usage of the plug-in is as follows:
 

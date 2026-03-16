@@ -7,7 +7,7 @@ tags:
   - "Jobs"
 ---
 
-My employers [Mirashade](https://web.archive.org/web/20091209035447/http://www.mirashade.com/) are in need of a new Project Manager so I thought I’d post an overview of the position here:
+My employers [Mirashade](http://www.mirashade.com/) are in need of a new Project Manager so I thought I’d post an overview of the position here:
 
 *Mirashade prides itself on providing ï¿½total solutionsï¿½ to fulfil a diverse range of briefs for challenging, loyal clients.*
 
@@ -17,4 +17,4 @@ My employers [Mirashade](https://web.archive.org/web/20091209035447/http://www.m
 
 *Salary is dependent on experience.*
 
-For more info and the job application form check out the [employment page](https://web.archive.org/web/20091209035447/http://www.mirashade.com/holding/employment/) on our site. :)
+For more info and the job application form check out the [employment page](http://www.mirashade.com/holding/employment/) on our site. :)

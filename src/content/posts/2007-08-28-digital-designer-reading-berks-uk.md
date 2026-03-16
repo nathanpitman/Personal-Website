@@ -7,7 +7,7 @@ tags:
   - "Jobs"
 ---
 
-[Distribution Technology](https://web.archive.org/web/20091209173416/http://www.distribution-technology.com/) are a leading-edge financial services software company looking for a creative, energetic and highly intelligent digital designer. The position would suit a hard working graduate or someone in the earlier stages of their digital design career, whatever your age.
+[Distribution Technology](http://www.distribution-technology.com/) are a leading-edge financial services software company looking for a creative, energetic and highly intelligent digital designer. The position would suit a hard working graduate or someone in the earlier stages of their digital design career, whatever your age.
 
 The role:
 
@@ -43,4 +43,4 @@ Our offer:
 - Access to Pension scheme
 - 22 days holiday
 
-To find out more and apply for this position visit the [Distribution Technology employment website](https://web.archive.org/web/20091209173416/http://www.workatdt.com/contact_us/position/Digital%20Designer).
+To find out more and apply for this position visit the [Distribution Technology employment website](http://www.workatdt.com/contact_us/position/Digital%20Designer).

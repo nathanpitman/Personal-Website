@@ -7,9 +7,9 @@ tags:
   - "Web development"
 ---
 
-Today I’m going to pick up a couple of old Dell PC’s from [my dads workplace](https://web.archive.org/web/20111009173109/http://www.pro-bel.com/). What would I want with a couple of old PCs you may ask.
+Today I’m going to pick up a couple of old Dell PC’s from [my dads workplace](http://www.pro-bel.com/). What would I want with a couple of old PCs you may ask.
 
-I’m planning to set up my first [Linux](https://web.archive.org/web/20111009173109/http://www.linux.org/) box here at home for the purposes of web development. I’ve never done this before, have no idea where to start and no idea how long it will take.
+I’m planning to set up my first [Linux](http://www.linux.org/) box here at home for the purposes of web development. I’ve never done this before, have no idea where to start and no idea how long it will take.
 
 Perhaps you’ve done this before? If you have, you might be able to give me some pointers.
 

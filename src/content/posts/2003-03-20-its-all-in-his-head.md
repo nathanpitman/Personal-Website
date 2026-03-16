@@ -7,6 +7,6 @@ tags:
   - "Technology"
 ---
 
-‘[All in the head‘ is Drews new outlet for strange thoughts and ponderings.](https://web.archive.org/web/20100105222143/http://www.allinthehead.com/)
+‘[All in the head‘ is Drews new outlet for strange thoughts and ponderings.](http://www.allinthehead.com/)
 
 You have been warned…

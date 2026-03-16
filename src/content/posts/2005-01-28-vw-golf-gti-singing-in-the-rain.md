@@ -7,11 +7,11 @@ tags:
   - "Marketing/Advertising"
 ---
 
-If you haven’t seen [the new VW Golf GTI ad](https://web.archive.org/web/20100725074015/http://ninefour-assets.s3.amazonaws.com/nathanpitman/images/uploads/vw_golfGTI_medium.mov) …
+If you haven’t seen [the new VW Golf GTI ad](http://ninefour-assets.s3.amazonaws.com/nathanpitman/images/uploads/vw_golfGTI_medium.mov) …
 
 ![Singing in the rain](/images/82.jpg "Singing in the rain")
 
-Via [DavidReviews.com](https://web.archive.org/web/20100725074015/http://www.davidreviews.com/):
+Via [DavidReviews.com](http://www.davidreviews.com/):
 
 *To some, the other idea of Gene Kelly performing an array of modern dance moves may be anathema but even they will have to concede that the ad is a technological triumph as footage of Kelly from Singing In The Rain is seamlessly melded with new footage to create a remix that is simply staggering.*
 

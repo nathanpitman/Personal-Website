@@ -7,4 +7,4 @@ tags:
   - "Adobe"
 ---
 
-[Volume 8](https://web.archive.org/web/20091214165017/http://www.macromedia.com/software/drk/productinfo/product_overview/volume8/) of the Macromedia Devnet Resource Kit is now available.
+[Volume 8](http://www.macromedia.com/software/drk/productinfo/product_overview/volume8/) of the Macromedia Devnet Resource Kit is now available.

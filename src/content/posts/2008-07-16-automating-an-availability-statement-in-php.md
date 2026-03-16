@@ -7,7 +7,7 @@ tags:
   - "Web development"
 ---
 
-We have a small statement on the [Nine Four](https://web.archive.org/web/20091004020912/http://www.ninefour.co.uk/) website which advises new clients as to our current availability.
+We have a small statement on the [Nine Four](http://www.ninefour.co.uk/) website which advises new clients as to our current availability.
 
 In general we need between 3 and 4 weeks notice to fit any significant new work in, so rather than continually update the availability statement or explain that we need 3 or 4 weeks lead time, I just used the PHP date function.
 

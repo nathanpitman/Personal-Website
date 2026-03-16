@@ -7,7 +7,7 @@ tags:
   - "ExpressionEngine"
 ---
 
-The Solspace [Tag Module](https://web.archive.org/web/20091002192953/http://www.solspace.com/software/detail/tag/) is a fantastic addition to [ExpressionEngine](https://web.archive.org/web/20091002192953/http://www.expressionengine.com/index.php?affiliate=nathanpitman) but it lacks the option to ‘disable’ tags for certain weblogs (sections). Not to fear, your friend the PHP if statement is here. In ‘ext.tag.php’ at around about line 262 there is a code block called ‘Add tag tab to tab array’. Just modify those two lines as per the example below:
+The Solspace [Tag Module](http://www.solspace.com/software/detail/tag/) is a fantastic addition to [ExpressionEngine](http://www.expressionengine.com/index.php?affiliate=nathanpitman) but it lacks the option to ‘disable’ tags for certain weblogs (sections). Not to fear, your friend the PHP if statement is here. In ‘ext.tag.php’ at around about line 262 there is a code block called ‘Add tag tab to tab array’. Just modify those two lines as per the example below:
 
 `$weblogs = array(3,4,9,10,11);  
 if (!in_array($weblog_id, $weblogs)) {  

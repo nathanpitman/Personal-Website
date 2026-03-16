@@ -15,6 +15,6 @@ While this has helped to ‘streamline’ the whole paying for goods process you
 
 If you really needed a paper receipt you could still request one, but I bet most people shove that little bit of paper in their jacket pocket only to bin it a few days later.
 
-Guess what, I just googled ‘e-receipts’ and found [this](https://web.archive.org/web/20100427034027/http://www.computerworld.com/news/2000/story/0,11280,40891,00.html). Looks like someone got there about a zillion years before me.
+Guess what, I just googled ‘e-receipts’ and found [this](http://www.computerworld.com/news/2000/story/0,11280,40891,00.html). Looks like someone got there about a zillion years before me.
 
 Must remember to google journal entries prior to spouting them upon my readers in the future.

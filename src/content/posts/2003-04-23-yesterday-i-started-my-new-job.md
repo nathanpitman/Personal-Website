@@ -8,4 +8,4 @@ tags:
   - "Personal"
 ---
 
-Yesterday I started my new job as ‘Senior Multimedia Developer’ at [Mirashade](https://web.archive.org/web/20100107134737/http://www.mirashade.com/). Everyone seems very nice, atmosphere is relaxed and I have work to do, which makes a nice change. :)
+Yesterday I started my new job as ‘Senior Multimedia Developer’ at [Mirashade](http://www.mirashade.com/). Everyone seems very nice, atmosphere is relaxed and I have work to do, which makes a nice change. :)

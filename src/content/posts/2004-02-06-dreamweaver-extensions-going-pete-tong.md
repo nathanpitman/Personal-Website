@@ -8,7 +8,7 @@ tags:
   - "Extensions"
 ---
 
-For some time I’ve guessed that I might need to update [my Dreamweaver Extensions](https://web.archive.org/web/20090601223412/http://www.nathanpitman.com/source/extensions.php) to function correctly with Dreamweaver MX 2004. Today I found some time to take a little bit of a closer look at the subject.
+For some time I’ve guessed that I might need to update [my Dreamweaver Extensions](http://www.nathanpitman.com/source/extensions.php) to function correctly with Dreamweaver MX 2004. Today I found some time to take a little bit of a closer look at the subject.
 
 It seems that Macromedia totally changed the way in which commands are inserted into the toolbars this time around.
 

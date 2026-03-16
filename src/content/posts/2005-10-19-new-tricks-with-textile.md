@@ -8,7 +8,7 @@ tags:
   - "Textpattern"
 ---
 
-I’m using [textile](https://web.archive.org/web/20090718143332/http://www.textism.com/tools/textile/) on a project I’m currently [working](https://web.archive.org/web/20090718143332/http://www.ninefour.co.uk/) on and having come up against a bit of an issue I discovered a nifty little feature of textile which I’d never used before.
+I’m using [textile](http://www.textism.com/tools/textile/) on a project I’m currently [working](http://www.ninefour.co.uk/) on and having come up against a bit of an issue I discovered a nifty little feature of textile which I’d never used before.
 
 The problem I was having is as follows.
 

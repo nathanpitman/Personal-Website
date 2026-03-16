@@ -8,6 +8,6 @@ tags:
   - "Employment"
 ---
 
-Well we had our inaugural [Creative Assembly](https://web.archive.org/web/20100106034130/http://www.creativeassembly.net/) meeting last night in the Atrium Bar at the South Hill Park Arts Centre. I was expecting a turnout of 6 or 7 people but I was blown away when 18 people turned up.
+Well we had our inaugural [Creative Assembly](http://www.creativeassembly.net/) meeting last night in the Atrium Bar at the South Hill Park Arts Centre. I was expecting a turnout of 6 or 7 people but I was blown away when 18 people turned up.
 
 Thanks to everyone who made the effort to come along! :)

@@ -7,7 +7,7 @@ tags:
   - "Fireworks"
 ---
 
-Five designers interviewed are asked to reveal some of their favorite Fireworks Tips & Tricks in the [December Macromedia Edge Newsletter](https://web.archive.org/web/20090619210931/http://www.macromedia.com/newsletters/edge/december2004/).
+Five designers interviewed are asked to reveal some of their favorite Fireworks Tips & Tricks in the [December Macromedia Edge Newsletter](http://www.macromedia.com/newsletters/edge/december2004/).
 
 *\*Fireworks is an indispensable tool for ‘rapid prototyping’ and gives absolute flexibility while still allowing me to maintain a library of shared symbols and styles,\** says Pitman.
 

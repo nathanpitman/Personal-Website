@@ -8,7 +8,7 @@ tags:
   - "Fireworks"
 ---
 
-Check out Trevors new [Extrude Path Command](https://web.archive.org/web/20090816034119/http://senocular.com/fireworks/extensions.php?id=0.40) for Fireworks.
+Check out Trevors new [Extrude Path Command](http://senocular.com/fireworks/extensions.php?id=0.40) for Fireworks.
 
 ![Fun with Trevors Extrude Command](/images/84.gif "Fun with Trevors Extrude Command")
 

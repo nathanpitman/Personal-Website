@@ -7,7 +7,7 @@ tags:
   - "ExpressionEngine"
 ---
 
-Not sure how useful this [ExpressionEngine](https://web.archive.org/web/20090614184927/http://www.expressionengine.com/index.php?affiliate=nathanpitman) Plug-in will be to others out there but we’re using it here at [Nine Four](https://web.archive.org/web/20090614184927/http://www.ninefour.co.uk/) on the [Wired In](https://web.archive.org/web/20090614184927/http://www.wiredin.org.uk/) website to link from an IFrame back to the parent window. This is something you would usually achieve with:
+Not sure how useful this [ExpressionEngine](http://www.expressionengine.com/index.php?affiliate=nathanpitman) Plug-in will be to others out there but we’re using it here at [Nine Four](http://www.ninefour.co.uk/) on the [Wired In](http://www.wiredin.org.uk/) website to link from an IFrame back to the parent window. This is something you would usually achieve with:
 
 `<a href="http://www.nathanpitman.com" target="_top">My Link Text</a>`
 

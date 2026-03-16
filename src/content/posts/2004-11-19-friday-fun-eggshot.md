@@ -7,6 +7,6 @@ tags:
   - "Flash"
 ---
 
-Bit of Friday fun… [eggshot.com](https://web.archive.org/web/20091231021549/http://www.eggshot.com/) :)
+Bit of Friday fun… [eggshot.com](http://www.eggshot.com/) :)
 
 ![eggshot.com - Make sure you don't get cut off prematurely](/images/74.jpg "eggshot.com - Make sure you don't get cut off prematurely")

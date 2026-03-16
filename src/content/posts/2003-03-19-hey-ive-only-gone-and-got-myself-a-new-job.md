@@ -8,7 +8,7 @@ tags:
   - "Personal"
 ---
 
-On the 22nd of Apirl I’ll be starting work at my new home ‘[Mirashade](https://web.archive.org/web/20110722045917/http://www.mirashade.com/)‘ in Reading, UK.
+On the 22nd of Apirl I’ll be starting work at my new home ‘[Mirashade](http://www.mirashade.com/)‘ in Reading, UK.
 
 My new job title: Senior Newmedia Developer.
 
