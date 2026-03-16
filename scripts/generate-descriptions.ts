@@ -205,9 +205,10 @@ async function main() {
         }
         description = result;
         method = "API";
-      } catch (err: any) {
+      } catch (err: unknown) {
+        const message = err instanceof Error ? err.message : String(err);
         console.log(
-          `  ERROR ${fileName} — API call failed: ${err.message ?? err}`
+          `  ERROR ${fileName} — API call failed: ${message}`
         );
         errors++;
         continue;
