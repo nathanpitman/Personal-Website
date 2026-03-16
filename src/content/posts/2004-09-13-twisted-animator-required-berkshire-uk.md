@@ -1,5 +1,6 @@
 ---
 title: Twisted Animator Required… (Berkshire, UK)
+description: "Via Mirashade..."
 date: 2004-09-13
 source: http://nathanpitman.com/240/twisted-animator-required-berkshire-uk
 archive: https://web.archive.org/web/20100113164458/http://nathanpitman.com:80/240/twisted-animator-required-berkshire-uk

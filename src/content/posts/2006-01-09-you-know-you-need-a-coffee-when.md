@@ -1,5 +1,6 @@
 ---
 title: You know you need a coffee when…
+description: "You know you need a coffee when…"
 date: 2006-01-09
 source: http://nathanpitman.com/437/you-know-you-need-a-coffee-when
 archive: https://web.archive.org/web/20091209021210/http://nathanpitman.com:80/437/you-know-you-need-a-coffee-when

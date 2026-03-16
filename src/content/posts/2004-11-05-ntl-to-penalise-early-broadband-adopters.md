@@ -1,5 +1,6 @@
 ---
 title: NTL to penalise early broadband adopters
+description: "Being the person I am, when NTL started to roll out it’s broadband service I was pretty quick to jump on the wagon and signed up for the 600k service. I pay..."
 date: 2004-11-05
 source: http://nathanpitman.com/282/ntl-to-penalise-early-broadband-adopters
 archive: https://web.archive.org/web/20091215020347/http://nathanpitman.com:80/282/ntl-to-penalise-early-broadband-adopters

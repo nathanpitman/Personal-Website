@@ -1,5 +1,6 @@
 ---
 title: Armadillo v2
+description: "Drew has ‘refreshed’ his site with a new look and a slightly revamped structure."
 date: 2004-08-23
 source: http://nathanpitman.com/230/armadillo-v2
 archive: https://web.archive.org/web/20100109075104/http://nathanpitman.com:80/230/armadillo-v2

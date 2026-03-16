@@ -1,5 +1,6 @@
 ---
 title: The iPod. Remixed. Again.
+description: "Apple have remixed the iPod (again!). This time improving battery life, introducing a new ‘click wheel’ and a starting price for the 20gb model of just $299."
 date: 2004-07-20
 source: http://nathanpitman.com/220/the-ipod-remixed-again
 archive: https://web.archive.org/web/20111010050358/http://nathanpitman.com/220/the-ipod-remixed-again

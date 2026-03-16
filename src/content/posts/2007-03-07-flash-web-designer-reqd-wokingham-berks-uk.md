@@ -1,5 +1,6 @@
 ---
 title: "Flash/Web Designer Reqd - Wokingham, Berks, UK"
+description: "Just pimping a vacancy for a friendâ¦"
 date: 2007-03-07
 source: "http://nathanpitman.com/499/flash-web-designer-reqd-wokingham-berks-uk"
 archive: "https://web.archive.org/web/20100117024957/http://nathanpitman.com:80/499/flash-web-designer-reqd-wokingham-berks-uk"

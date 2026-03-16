@@ -1,5 +1,6 @@
 ---
 title: Ellipsis (Flash 7.2) updater out
+description: "Macromedia have gone public with the Ellipsis updater for Flash MX 2004. This update to Flash MX 2004 increases developer productivity by making the..."
 date: 2004-07-27
 source: http://nathanpitman.com/224/ellipsis-flash-72-updater-out
 archive: https://web.archive.org/web/20100106035300/http://nathanpitman.com/224/ellipsis-flash-72-updater-out

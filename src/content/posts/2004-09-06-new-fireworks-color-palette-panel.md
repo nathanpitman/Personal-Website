@@ -1,5 +1,6 @@
 ---
 title: New Fireworks ‘Color Palette’ Panel
+description: "Viktor Goltvyanitsa has released a new version of his Fireworks Color Palette Command Panel. Version 1.2 includes the following new features:"
 date: 2004-09-06
 source: http://nathanpitman.com/237/new-fireworks-color-palette-panel
 archive: https://web.archive.org/web/20091209164535/http://nathanpitman.com:80/237/new-fireworks-color-palette-panel

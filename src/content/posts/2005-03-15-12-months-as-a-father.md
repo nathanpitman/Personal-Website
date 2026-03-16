@@ -1,5 +1,6 @@
 ---
 title: 12 months as a father
+description: "Yesterday my daughter had her very first Birthday party. It hardly seems like a year since she was born and the last 12 months have given me some of the..."
 date: 2005-03-15
 source: http://nathanpitman.com/332/12-months-as-a-father
 archive: https://web.archive.org/web/20090817091851/http://nathanpitman.com:80/332/12-months-as-a-father

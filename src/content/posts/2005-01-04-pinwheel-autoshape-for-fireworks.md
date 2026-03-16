@@ -1,5 +1,6 @@
 ---
 title: ‘Pinwheel’ AutoShape for Fireworks
+description: "Trevor McCauley has released another(again!) new Fireworks AutoShape called..."
 date: 2005-01-04
 source: http://nathanpitman.com/310/pinwheel-autoshape-for-fireworks
 archive: https://web.archive.org/web/20090524010831/http://nathanpitman.com:80/310/pinwheel-autoshape-for-fireworks

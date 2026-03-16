@@ -1,5 +1,6 @@
 ---
 title: "Safari on iOS 7 beta breaks the internet"
+description: "This little gem is going to become real annoying real quick. In Safari on iOS 7 clicking anywhere in the bottom 40px of the screen does not register as a..."
 date: 2013-08-27
 source: "http://nathanpitman.com/626/safari-on-ios-7-breaks-the-internet"
 archive: "https://web.archive.org/web/20130909054628/http://nathanpitman.com:80/626/safari-on-ios-7-breaks-the-internet"

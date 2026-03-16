@@ -1,5 +1,6 @@
 ---
 title: Macromedia DevNet Resource Kit Volume 9 Released
+description: "“Volume 9”:http://www.macromedia.com/software/drk/productinfo/productoverview/volume9/ delivers the latest functionality to your Macromedia MX 2004 tools..."
 date: 2004-11-02
 source: http://nathanpitman.com/277/macromedia-devnet-resource-kit-volume-9-released
 archive: https://web.archive.org/web/20090829112044/http://nathanpitman.com:80/277/macromedia-devnet-resource-kit-volume-9-released

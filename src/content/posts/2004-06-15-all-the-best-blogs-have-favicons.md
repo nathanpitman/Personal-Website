@@ -1,5 +1,6 @@
 ---
 title: All the best blogs have favicons
+description: "Oh yes they do."
 date: 2004-06-15
 source: http://nathanpitman.com/195/all-the-best-blogs-have-favicons
 archive: https://web.archive.org/web/20100106033748/http://nathanpitman.com/195/all-the-best-blogs-have-favicons

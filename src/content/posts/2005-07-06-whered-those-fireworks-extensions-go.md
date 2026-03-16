@@ -1,5 +1,6 @@
 ---
 title: Where’d those Fireworks Extensions go?
+description: "People (Alan) keep asking where all my Macromedia Fireworks Extensions vanished to. Well, they were victims of my re-design. However plans are afoot to..."
 date: 2005-07-06
 source: http://nathanpitman.com/373/whered-those-fireworks-extensions-go
 archive: https://web.archive.org/web/20090607090752/http://nathanpitman.com:80/373/whered-those-fireworks-extensions-go

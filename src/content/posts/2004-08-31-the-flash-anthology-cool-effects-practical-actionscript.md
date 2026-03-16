@@ -1,5 +1,6 @@
 ---
 title: 'The Flash Anthology: Cool Effects & Practical ActionScript'
+description: "Steven Grosvenor of Phireworx has been hard at work on a brilliant new book for Flash Developers called The Flash Anthology – Cool Effects & Practical..."
 date: 2004-08-31
 source: http://nathanpitman.com/233/the-flash-anthology-cool-effects-practical-actionscript
 archive: https://web.archive.org/web/20100117030950/http://nathanpitman.com:80/233/the-flash-anthology-cool-effects-practical-actionscript

@@ -1,5 +1,6 @@
 ---
 title: Goodbye Macromedia.com
+description: "Looks like they ‘just’ made the switch, swapping the old macromedia logo out for an adobe one and making some subtle design changes to the site."
 date: 2005-12-05
 source: http://nathanpitman.com/428/goodbye-macromediacom
 archive: https://web.archive.org/web/20091214135253/http://nathanpitman.com:80/428/goodbye-macromediacom

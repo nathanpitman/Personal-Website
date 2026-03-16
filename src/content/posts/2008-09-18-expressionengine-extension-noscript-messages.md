@@ -1,5 +1,6 @@
 ---
 title: "ExpressionEngine Extension: NoScript Messages"
+description: "While working on a project recently I noted that ExpressionEngine uses a ‘JavaScript:history.go(-1)’ within the ‘User Message’ templates to allow you to..."
 date: 2008-09-18
 source: "http://nathanpitman.com/551/expressionengine-extension-noscript-messages"
 archive: "https://web.archive.org/web/20090520003125/http://nathanpitman.com:80/551/expressionengine-extension-noscript-messages"

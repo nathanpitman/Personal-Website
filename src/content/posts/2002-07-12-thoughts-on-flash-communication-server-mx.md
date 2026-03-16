@@ -1,5 +1,6 @@
 ---
 title: Thoughts on Flash Communication Server MX
+description: "Some interesting thoughts on the release of Flash Communication Server MX over at Actionscript.com, worth a quick read."
 date: 2002-07-12
 source: http://nathanpitman.com/144/thoughts-on-flash-communication-server-mx
 archive: https://web.archive.org/web/20100111190538/http://nathanpitman.com:80/144/thoughts-on-flash-communication-server-mx

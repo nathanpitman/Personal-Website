@@ -1,5 +1,6 @@
 ---
 title: ‘Define Working Directory’ Command Panel
+description: "Trevor McCauley posts ‘another’ useful Fireworks extension: ‘“Define Working..."
 date: 2004-09-28
 source: http://nathanpitman.com/260/define-working-directory-command-panel
 archive: https://web.archive.org/web/20090616203801/http://nathanpitman.com:80/260/define-working-directory-command-panel

@@ -1,5 +1,6 @@
 ---
 title: Amazing flash page turn effect
+description: "I just have to share the Macromedia Site Of The Day with you, its an amazing flash piece developed by Method, Inc. and Goodby, Silverstein & Partners."
 date: 2002-12-03
 source: http://nathanpitman.com/125/amazing-flash-page-turn-effect
 archive: https://web.archive.org/web/20090525232717/http://nathanpitman.com:80/125/amazing-flash-page-turn-effect

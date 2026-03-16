@@ -1,5 +1,6 @@
 ---
 title: Will you be at the Carson Summit?
+description: "Like probably every other web designer out there @media 2006 is an event that I’d love to attend, however the registration fee of Â£395 (+VAT) really blows..."
 date: 2006-01-16
 source: http://nathanpitman.com/442/will-you-be-at-the-carson-summit
 archive: https://web.archive.org/web/20111009172453/http://nathanpitman.com/442/will-you-be-at-the-carson-summit

@@ -1,5 +1,6 @@
 ---
 title: "Customer service the right way"
+description: "Well it’s a fair old time since I had such a good customer service experience that I was left visibly ‘gleaming‘. As it happens I just had one this very..."
 date: 2006-04-10
 source: "http://nathanpitman.com/468/customer-service-the-right-way"
 archive: "https://web.archive.org/web/20100107191424/http://nathanpitman.com:80/468/customer-service-the-right-way"

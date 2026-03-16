@@ -63,6 +63,7 @@ Posts use YAML frontmatter:
 ```yaml
 ---
 title: "Post Title"
+description: "Meta description for SEO (under 160 chars)"
 date: YYYY-MM-DD
 source: "original URL"
 archive: "Wayback Machine URL"
@@ -71,6 +72,20 @@ tags:
   - "Tag2"
 ---
 ```
+
+The `description` field is optional. If present, it is rendered as a `<meta name="description">` tag on the post page. If absent, a fallback description is generated at build time by extracting and cleaning the first paragraph of the post body.
+
+### Generating Descriptions
+
+A one-time migration script at `scripts/generate-descriptions.ts` generates descriptions for all posts that lack one. Run it with:
+```bash
+npm run generate-descriptions
+```
+
+- Posts under 300 words get a first-paragraph extraction (trimmed to 160 chars)
+- Posts with 300+ words use the Anthropic Claude API (requires `ANTHROPIC_API_KEY` env var)
+- The script is safe to re-run — it skips files that already have a description
+- API calls are rate-limited with a 200ms delay between requests
 
 ## Adding Images to Posts
 
@@ -83,7 +98,9 @@ Images wider than 800px are automatically resized to 800px (preserving aspect ra
 ## Dependencies
 - `astro` ^4.0.0
 - `@astrojs/rss` ^4.0.0
+- `@anthropic-ai/sdk` — Claude API for description generation script
 - `sharp` (devDependency) — image resizing at build time
+- `tsx` (devDependency) — TypeScript script runner for generate-descriptions
 
 ---
 

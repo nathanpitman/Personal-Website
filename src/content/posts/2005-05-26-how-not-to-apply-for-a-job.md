@@ -1,5 +1,6 @@
 ---
 title: How not to apply for a job
+description: "Kinda reminded by John Oxton’s rant on lack of email manner, I’ve been noticing a steady increase in the number of people who apply for Jobs at Mirashade..."
 date: 2005-05-26
 source: http://nathanpitman.com/362/how-not-to-apply-for-a-job
 archive: https://web.archive.org/web/20100306161348/http://nathanpitman.com:80/362/how-not-to-apply-for-a-job

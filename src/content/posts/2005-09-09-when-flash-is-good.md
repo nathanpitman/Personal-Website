@@ -1,5 +1,6 @@
 ---
 title: When Flash ‘is’ good.
+description: "It’s not often that you come across Flash based websites which really make the most of this highly interactive medium. More often than not Flash sites exist..."
 date: 2005-09-09
 source: http://nathanpitman.com/381/when-flash-is-good
 archive: https://web.archive.org/web/20090831024208/http://nathanpitman.com:80/381/when-flash-is-good

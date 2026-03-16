@@ -1,5 +1,6 @@
 ---
 title: 2 fingers up to Copy Control Audio CDs
+description: "I recently bought an audio CD only to discover that because of the ‘copy control’ features on the disc, the CD refused to play on my ‘standard’ car CD..."
 date: 2004-03-29
 source: http://nathanpitman.com/34/2-fingers-up-to-copy-control-audio-cds
 archive: https://web.archive.org/web/20100113090704/http://nathanpitman.com:80/34/2-fingers-up-to-copy-control-audio-cds

@@ -1,5 +1,6 @@
 ---
 title: Populating a Flash Application with data from MySQL via PHP
+description: "There’s a great new tutorial on the Macromedia Developer Center which covers assembling a rich Flash interface and connecting it to a MySQL database through..."
 date: 2004-05-27
 source: http://nathanpitman.com/162/populating-a-flash-application-with-data-from-mysql-via-php
 archive: https://web.archive.org/web/20090709182853/http://nathanpitman.com:80/162/populating-a-flash-application-with-data-from-mysql-via-php

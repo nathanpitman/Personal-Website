@@ -1,5 +1,6 @@
 ---
 title: Flash Visual Sound Mixer
+description: "Via Flex-mx I came across this very neat Flash experiment based around audio that responds to the cursors distance from the floating globes."
 date: 2004-05-27
 source: http://nathanpitman.com/161/flash-visual-sound-mixer
 archive: https://web.archive.org/web/20090708061715/http://nathanpitman.com:80/161/flash-visual-sound-mixer

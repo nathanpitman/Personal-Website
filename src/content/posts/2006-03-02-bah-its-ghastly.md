@@ -1,5 +1,6 @@
 ---
 title: Bah, it’s ghastly.
+description: "Well, I started faffing about with what was intended to be a small ‘re-align’ or whatever, now it’s turning into a ghastly mess with content flailing wildly..."
 date: 2006-03-02
 source: http://nathanpitman.com/456/bah-its-ghastly
 archive: https://web.archive.org/web/20091017084207/http://nathanpitman.com:80/456/bah-its-ghastly

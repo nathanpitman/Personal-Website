@@ -1,5 +1,6 @@
 ---
 title: iPod AV - Real or Fake?
+description: "Well, we’ve certainly had a fair share of hoax images of recent in the run up to Apple’s 30th Birthday on the 1st of April, but for me this has to be either..."
 date: 2006-03-06
 source: http://nathanpitman.com/461/ipod-av-real-or-fake
 archive: https://web.archive.org/web/20090618014327/http://nathanpitman.com:80/461/ipod-av-real-or-fake

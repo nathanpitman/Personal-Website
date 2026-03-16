@@ -1,5 +1,6 @@
 ---
 title: It’s been a hard week for my car.
+description: "On Monday I took my car to have it’s front discs and pads replaced by Humphries in Reading."
 date: 2004-02-04
 source: http://nathanpitman.com/19/its-been-a-hard-week-for-my-car
 archive: https://web.archive.org/web/20091209173034/http://nathanpitman.com:80/19/its-been-a-hard-week-for-my-car

@@ -1,5 +1,6 @@
 ---
 title: New Phireworx Commands on the way
+description: "I hear on the grapevine from Steven Grosvenor at Phireworx that he has some new Fireworks MX Command panels on the way…"
 date: 2004-06-07
 source: http://nathanpitman.com/167/new-phireworx-commands-on-the-way
 archive: https://web.archive.org/web/20100105214204/http://nathanpitman.com:80/167/new-phireworx-commands-on-the-way

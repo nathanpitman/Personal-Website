@@ -1,5 +1,6 @@
 ---
 title: "Source Code for my Fireworks Extensions"
+description: "I will warn you, this ain’t going to be pretty but a few people have been asking. Feel free to tear these apart… do what you will with them… no license… no..."
 date: 2011-07-29
 source: "http://nathanpitman.com/610/source-code-for-my-fireworks-extensions"
 archive: "https://web.archive.org/web/20110806142621/http://nathanpitman.com:80/610/source-code-for-my-fireworks-extensions"

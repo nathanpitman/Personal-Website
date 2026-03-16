@@ -1,5 +1,6 @@
 ---
 title: "PS3 launch dates confirmed"
+description: "Ken Kutaragi, president of Sony Computer Entertainment, took center stage at the PlayStation Business Conference in Tokyo (Japan) and delivered the news:..."
 date: 2006-03-15
 source: "http://nathanpitman.com/465/ps3-launch-dates-confirmed"
 archive: "https://web.archive.org/web/20091210065900/http://nathanpitman.com:80/465/ps3-launch-dates-confirmed"

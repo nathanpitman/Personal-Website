@@ -1,5 +1,6 @@
 ---
 title: "A simple JavaScript to toggle page elements"
+description: "No rocket science here but I thought I’d blog this for my own future reference. Just a handy little script to have about."
 date: 2007-02-16
 source: "http://nathanpitman.com/498/a-simple-javascript-to-toggle-page-elements"
 archive: "https://web.archive.org/web/20090526234246/http://nathanpitman.com:80/498/a-simple-javascript-to-toggle-page-elements"

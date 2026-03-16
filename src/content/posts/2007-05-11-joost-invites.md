@@ -1,5 +1,6 @@
 ---
 title: "Joost Invites"
+description: "Yes, that’s right. I’ve got Joost invites. Want me to hook you up? Leave a suitably amusing comment and your wish will be granted. :)"
 date: 2007-05-11
 source: "http://nathanpitman.com/507/joost-invites"
 archive: "https://web.archive.org/web/20091220115728/http://nathanpitman.com:80/507/joost-invites"

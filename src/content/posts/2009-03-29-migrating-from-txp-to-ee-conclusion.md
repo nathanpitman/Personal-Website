@@ -1,5 +1,6 @@
 ---
 title: "Migrating from TXP to EE - Conclusion"
+description: "Ok, so steps 1 through 5 pretty much got us to a conclusion but there was one little fact that really had me bugged about the migration. I wanted to persist..."
 date: 2009-03-29
 source: "http://nathanpitman.com/578/migrating-from-txp-to-ee-step-conclusion"
 archive: "https://web.archive.org/web/20090518024316/http://nathanpitman.com:80/578/migrating-from-txp-to-ee-step-conclusion"

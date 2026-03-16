@@ -1,5 +1,6 @@
 ---
 title: Badger badger badger
+description: "There’s something catchy about the badger badger badger tune, I don’t know what it is, maybe it’s the slightly intoxicating mix of audio and visual, but I..."
 date: 2004-02-03
 source: http://nathanpitman.com/18/badger-badger-badger
 archive: https://web.archive.org/web/20100104101725/http://nathanpitman.com:80/18/badger-badger-badger

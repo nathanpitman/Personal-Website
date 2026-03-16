@@ -1,5 +1,6 @@
 ---
 title: Re-writing history
+description: "Tackling this re-design has prompted me to consider dropping some of the older less valuable posts from the site, many of these originate from the days when..."
 date: 2005-05-17
 source: http://nathanpitman.com/351/re-writing-history
 archive: https://web.archive.org/web/20090924123211/http://nathanpitman.com:80/351/re-writing-history

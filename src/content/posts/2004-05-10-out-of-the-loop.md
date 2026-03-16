@@ -1,5 +1,6 @@
 ---
 title: Out of the loop
+description: "Well, I’ve been a little out of the loop for the past week or so. I’m ‘on holiday’ at home until the end of this week with my ‘family’. :)"
 date: 2004-05-10
 source: http://nathanpitman.com/84/out-of-the-loop
 archive: https://web.archive.org/web/20091231014939/http://nathanpitman.com:80/84/out-of-the-loop

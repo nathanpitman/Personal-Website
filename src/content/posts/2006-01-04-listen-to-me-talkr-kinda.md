@@ -1,5 +1,6 @@
 ---
 title: Listen to me Talkr (kinda)
+description: "I stumbled across this great little free online service for converting your RSS feeds into MP3 files for podcasting goodness. Talkr might not have a trendy..."
 date: 2006-01-04
 source: http://nathanpitman.com/434/listen-to-me-talkr-kinda
 archive: https://web.archive.org/web/20091224044121/http://nathanpitman.com:80/434/listen-to-me-talkr-kinda

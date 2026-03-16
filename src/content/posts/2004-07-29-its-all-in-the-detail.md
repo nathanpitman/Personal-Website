@@ -1,5 +1,6 @@
 ---
 title: It’s all in the detail
+description: "Reading my daily blogs I stumbled accross a fantastic entry by Cameron Moll (Authentic Boredom) regarding the 8 things he wish he’d known when he started..."
 date: 2004-07-29
 source: http://nathanpitman.com/225/its-all-in-the-detail
 archive: https://web.archive.org/web/20100106040504/http://nathanpitman.com/225/its-all-in-the-detail

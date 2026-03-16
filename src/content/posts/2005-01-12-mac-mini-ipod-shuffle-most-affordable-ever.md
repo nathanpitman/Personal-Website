@@ -1,5 +1,6 @@
 ---
 title: Mac mini & iPod shuffle, most affordable ever
+description: "Apple announced two ‘amazing’ new products at Macworld today! They never cease to amaze, although I still reserve judgement on the nasty iMac."
 date: 2005-01-12
 source: http://nathanpitman.com/311/mac-mini-ipod-shuffle-most-affordable-ever
 archive: https://web.archive.org/web/20091209052931/http://nathanpitman.com:80/311/mac-mini-ipod-shuffle-most-affordable-ever

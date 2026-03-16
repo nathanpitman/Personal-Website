@@ -1,5 +1,6 @@
 ---
 title: Going it alone
+description: "As an individual that’s been fully employed since 1997 I regularly wonder what it would be like to set up on my own, whether I could make it work and how..."
 date: 2005-08-12
 source: http://nathanpitman.com/352/going-it-alone
 archive: https://web.archive.org/web/20100106034301/http://nathanpitman.com/352/going-it-alone

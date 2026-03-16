@@ -1,5 +1,6 @@
 ---
 title: Fireworks API wish
+description: "So, I’ve been looking into writing some more Fireworks MX Extensions recently and something has cropped up. The one thing the Fireworks API really lacks is..."
 date: 2004-05-24
 source: http://nathanpitman.com/138/fireworks-api-wish
 archive: https://web.archive.org/web/20100106032947/http://nathanpitman.com/138/fireworks-api-wish

@@ -1,5 +1,6 @@
 ---
 title: "ExpressionEngine Plug-in: Encode/Decode"
+description: "Every time I come up against something which I once would have resorted to PHP to solve, I end up writing a little plug-in these days instead. It just feels..."
 date: 2008-07-22
 source: "http://nathanpitman.com/547/expressionengine-plug-in-encode-decode"
 archive: "https://web.archive.org/web/20090718143450/http://nathanpitman.com:80/547/expressionengine-plug-in-encode-decode"

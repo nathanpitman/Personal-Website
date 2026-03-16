@@ -1,5 +1,6 @@
 ---
 title: "See How it Feels"
+description: "The ‘See How it Feels’ BMW ad has been airing for a few weeks now here in the UK, and no doubt elsewhere around the globe. Each time it’s on it never fails..."
 date: 2007-04-26
 source: "http://nathanpitman.com/503/see-how-it-feels"
 archive: "https://web.archive.org/web/20101224071057/http://nathanpitman.com:80/503/see-how-it-feels"

@@ -1,5 +1,6 @@
 ---
 title: "Inevitable?"
+description: "I guess it was inevitable that at some point my desire to keep blogging here would start to falter. The 7th of June will not only mark 4 years of married..."
 date: 2006-06-02
 source: "http://nathanpitman.com/474/inevitable"
 archive: "https://web.archive.org/web/20091220115724/http://nathanpitman.com:80/474/inevitable"

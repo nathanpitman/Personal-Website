@@ -1,5 +1,6 @@
 ---
 title: "Blu-ray is Dead"
+description: "I was foolish enough to buy a Blu-ray player a few years back, how many times have I used it? Probably 3 or 4 times in the space of more than a year. It’s..."
 date: 2011-02-16
 source: "http://nathanpitman.com/604/blu-ray-is-dead"
 archive: "https://web.archive.org/web/20110405142859/http://nathanpitman.com:80/604/blu-ray-is-dead"

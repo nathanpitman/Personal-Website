@@ -1,5 +1,6 @@
 ---
 title: "Kian Pitman - ‘Hello World’"
+description: "So, after 9 months and 13 days my wife Jo was booked in for an inducement today at our local Hospital. After a lot of false starts during the past weeks we..."
 date: 2006-11-21
 source: "http://nathanpitman.com/493/kian-pitman-hello-world"
 archive: "https://web.archive.org/web/20100116223956/http://nathanpitman.com:80/493/kian-pitman-hello-world"

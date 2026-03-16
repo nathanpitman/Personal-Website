@@ -1,5 +1,6 @@
 ---
 title: "Developing for tomorrows web"
+description: "More often than not I find myself building websites with the outlook of developing for ‘the here and now’, taking into account the browsers that we are..."
 date: 2008-06-25
 source: "http://nathanpitman.com/537/developing-for-tomorrows-web"
 archive: "https://web.archive.org/web/20100113051117/http://nathanpitman.com:80/537/developing-for-tomorrows-web"

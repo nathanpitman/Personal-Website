@@ -1,5 +1,6 @@
 ---
 title: Phireworx SmartTabs
+description: "Phireworx have just released ‘SmartTabs’ which is an AutoShape for Fireworks MX 2004."
 date: 2004-03-23
 source: http://nathanpitman.com/33/phireworx-smarttabs
 archive: https://web.archive.org/web/20091225122229/http://nathanpitman.com:80/33/phireworx-smarttabs

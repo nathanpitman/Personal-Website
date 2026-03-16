@@ -1,5 +1,6 @@
 ---
 title: Why is it taking so long?
+description: "I thought I should post to let you all know why this re-design is taking so flippin long."
 date: 2005-04-11
 source: http://nathanpitman.com/337/why-is-it-taking-so-long
 archive: https://web.archive.org/web/20091225233230/http://nathanpitman.com:80/337/why-is-it-taking-so-long

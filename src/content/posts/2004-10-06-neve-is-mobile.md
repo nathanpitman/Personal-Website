@@ -1,5 +1,6 @@
 ---
 title: Neve is mobile!
+description: "This afternoon my daughter Neve did her first real proper bit of crawling, none of this lazy; one crawl then lie flat on the belly for a rest lark, proper..."
 date: 2004-10-06
 source: http://nathanpitman.com/266/neve-is-mobile
 archive: https://web.archive.org/web/20100107012132/http://nathanpitman.com:80/266/neve-is-mobile

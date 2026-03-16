@@ -1,5 +1,6 @@
 ---
 title: MXNA (2) Public Beta
+description: "Christian Cantrell and Mike Chambers are inviting all willing participants to put the new Macromedia XML News Aggregator through its paces."
 date: 2005-04-11
 source: http://nathanpitman.com/339/mxna-2-public-beta
 archive: https://web.archive.org/web/20091226144024/http://nathanpitman.com:80/339/mxna-2-public-beta

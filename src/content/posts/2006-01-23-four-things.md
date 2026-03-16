@@ -1,5 +1,6 @@
 ---
 title: Four things
+description: "Hey ho, it’s time for another meme, John (that bloke that got nominated for 2 bloggies) Oxton has passed this one along… so here goes. Apologies in advance..."
 date: 2006-01-23
 source: http://nathanpitman.com/445/four-things
 archive: https://web.archive.org/web/20110928150203/http://nathanpitman.com/445/four-things

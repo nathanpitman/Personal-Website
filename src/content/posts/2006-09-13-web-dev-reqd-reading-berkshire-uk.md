@@ -1,5 +1,6 @@
 ---
 title: "Web Dev Reqd - Reading, Berkshire, UK"
+description: "Just pimping a vacancy for a friend…"
 date: 2006-09-13
 source: "http://nathanpitman.com/485/web-dev-reqd-reading-berkshire-uk"
 archive: "https://web.archive.org/web/20091226075110/http://nathanpitman.com:80/485/web-dev-reqd-reading-berkshire-uk"

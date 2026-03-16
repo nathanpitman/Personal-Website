@@ -1,5 +1,6 @@
 ---
 title: "Oxton gives birth!"
+description: "It was beautiful I’m telling you, I was there when it happened, Oxton just gave birth… to Bite Size Standards."
 date: 2006-04-14
 source: "http://nathanpitman.com/470/oxton-gives-birth"
 archive: "https://web.archive.org/web/20091229024411/http://nathanpitman.com:80/470/oxton-gives-birth"

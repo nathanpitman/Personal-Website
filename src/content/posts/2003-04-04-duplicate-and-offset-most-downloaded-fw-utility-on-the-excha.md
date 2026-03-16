@@ -1,5 +1,6 @@
 ---
 title: Duplicate and Offset most downloaded FW Utility on the exchange…
+description: "Duplicate and Offset is the most downloaded Fireworks Utility on the Macromedia exchange! Not quite sure how that happened, but it’s all good if you ask me...."
 date: 2003-04-04
 source: http://nathanpitman.com/111/duplicate-and-offset-most-downloaded-fw-utility-on-the-exchange
 archive: https://web.archive.org/web/20100113110110/http://nathanpitman.com:80/111/duplicate-and-offset-most-downloaded-fw-utility-on-the-exchange

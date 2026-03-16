@@ -1,5 +1,6 @@
 ---
 title: "Web Developer - Berkshire, UK."
+description: "Update: This position has now been filled."
 date: 2007-11-15
 source: "http://nathanpitman.com/526/web-developer-berkshire-uk"
 archive: "https://web.archive.org/web/20100106013658/http://nathanpitman.com:80/526/web-developer-berkshire-uk"

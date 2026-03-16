@@ -1,5 +1,6 @@
 ---
 title: A breath of fresh air…
+description: "After months of ‘trying’ to find the time we eventually ‘made’ the time here at Mirashade to re-vamp our site."
 date: 2004-08-03
 source: http://nathanpitman.com/227/a-breath-of-fresh-air
 archive: https://web.archive.org/web/20100113090659/http://nathanpitman.com:80/227/a-breath-of-fresh-air

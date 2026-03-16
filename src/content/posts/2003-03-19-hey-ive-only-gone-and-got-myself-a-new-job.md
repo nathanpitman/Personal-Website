@@ -1,5 +1,6 @@
 ---
 title: Hey, I’ve only gone and got myself a new job…
+description: "On the 22nd of Apirl I’ll be starting work at my new home ‘Mirashade‘ in Reading, UK."
 date: 2003-03-19
 source: http://nathanpitman.com/114/hey-ive-only-gone-and-got-myself-a-new-job
 archive: https://web.archive.org/web/20110722045917/http://nathanpitman.com:80/114/hey-ive-only-gone-and-got-myself-a-new-job

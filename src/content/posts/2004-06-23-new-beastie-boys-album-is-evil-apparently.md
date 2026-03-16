@@ -1,5 +1,6 @@
 ---
 title: New Beastie Boys Album is Evil (Apparently)
+description: "I stumbled across this post just now at SecurityFocus, I’m dissapointed and hope the Beastie Boys themselves take issue with this and give their record..."
 date: 2004-06-23
 source: http://nathanpitman.com/204/new-beastie-boys-album-is-evil-apparently
 archive: https://web.archive.org/web/20100903195055/http://nathanpitman.com:80/204/new-beastie-boys-album-is-evil-apparently

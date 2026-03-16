@@ -1,5 +1,6 @@
 ---
 title: Carson Summit Podcasts
+description: "If, like me you missed the Carson Workshops Future of Web Apps Summit you’ll be glad to know that the podcasts from the event are now live, and even better…..."
 date: 2006-02-22
 source: http://nathanpitman.com/451/carson-summit-podcasts
 archive: https://web.archive.org/web/20100105222927/http://nathanpitman.com:80/451/carson-summit-podcasts

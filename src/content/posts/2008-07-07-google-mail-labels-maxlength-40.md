@@ -1,5 +1,6 @@
 ---
 title: "Google Mail Labels. Maxlength=40."
+description: "Well after hearing from Darren that he was switching in full to using Google for business email I decided to investigate myself. Google have a fantastic..."
 date: 2008-07-07
 source: "http://nathanpitman.com/540/google-mail-labels-maxlength40"
 archive: "https://web.archive.org/web/20100106033925/http://nathanpitman.com/540/google-mail-labels-maxlength40"

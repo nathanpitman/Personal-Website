@@ -1,5 +1,6 @@
 ---
 title: "Flickrlicious"
+description: "Without so much as a hint Flickr just went all Gamma on us. Finally out of Beta? That little tag was almost a part of the brand itself you know."
 date: 2006-05-16
 source: "http://nathanpitman.com/473/flickrlicious"
 archive: "https://web.archive.org/web/20100113160420/http://nathanpitman.com:80/473/flickrlicious"

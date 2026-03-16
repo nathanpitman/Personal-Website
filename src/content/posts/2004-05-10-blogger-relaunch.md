@@ -1,5 +1,6 @@
 ---
 title: Blogger Relaunch…
+description: "Following the acquisition of Blogger in 2003 by Google, Blogger has relaunched with a rich new feature set and a very chic new CSS driven look."
 date: 2004-05-10
 source: http://nathanpitman.com/85/blogger-relaunch
 archive: https://web.archive.org/web/20100107204601/http://nathanpitman.com:80/85/blogger-relaunch

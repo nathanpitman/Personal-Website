@@ -1,5 +1,6 @@
 ---
 title: Phone Companies May Soon Block Skype
+description: "Phone Companies May Soon Block Skype (and other VOIP services)."
 date: 2005-11-09
 source: http://nathanpitman.com/419/phone-companies-may-soon-block-skype
 archive: https://web.archive.org/web/20100106033807/http://nathanpitman.com/419/phone-companies-may-soon-block-skype

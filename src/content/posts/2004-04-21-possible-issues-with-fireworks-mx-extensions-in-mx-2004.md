@@ -1,5 +1,6 @@
 ---
 title: Possible issues with Fireworks MX extensions in MX 2004
+description: "Senocular identifies that some Fireworks MX extensions may cause Fireworks MX 2004 to unexpectedly error out and quit on startup. I’d be interested to know..."
 date: 2004-04-21
 source: http://nathanpitman.com/72/possible-issues-with-fireworks-mx-extensions-in-mx-2004
 archive: https://web.archive.org/web/20100106021431/http://nathanpitman.com:80/72/possible-issues-with-fireworks-mx-extensions-in-mx-2004

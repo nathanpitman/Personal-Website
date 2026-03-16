@@ -1,5 +1,6 @@
 ---
 title: Basecamp Themes
+description: "Just a couple of Basecamp themes I’ve put together."
 date: 2005-11-17
 source: http://nathanpitman.com/423/basecamp-themes
 archive: https://web.archive.org/web/20090615140727/http://nathanpitman.com:80/423/basecamp-themes

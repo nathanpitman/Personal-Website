@@ -1,5 +1,6 @@
 ---
 title: Getting on Google Maps
+description: "So, my mission should I choose to accept it, (which I have) is to have myself (or my domain name) appear on a Google Maps search for ‘nathan pitman..."
 date: 2005-05-03
 source: http://nathanpitman.com/348/getting-on-google-maps
 archive: https://web.archive.org/web/20100113140222/http://nathanpitman.com:80/348/getting-on-google-maps

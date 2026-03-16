@@ -1,5 +1,6 @@
 ---
 title: "It’s not you, it’s me…"
+description: "I’m just not in love with ‘regular’ blogging like I was before. The spark has gone and it’s not coming back. Add to that the fact that I simply don’t have..."
 date: 2008-04-20
 source: "http://nathanpitman.com/531/its-not-you-its-me"
 archive: "https://web.archive.org/web/20100106035446/http://nathanpitman.com/531/its-not-you-its-me"

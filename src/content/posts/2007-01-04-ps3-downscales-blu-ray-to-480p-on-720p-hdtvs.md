@@ -1,5 +1,6 @@
 ---
 title: "PS3 downscales Blu-ray to 480p on 720p HDTVs"
+description: "Having just read through a really rather good interview over at Ars Technica I was astounded by following statement made by Ben Kuchera:"
 date: 2007-01-04
 source: "http://nathanpitman.com/495/ps3-downscales-blu-ray-to-480p-on-720p-hdtvs"
 archive: "https://web.archive.org/web/20090524013453/http://nathanpitman.com:80/495/ps3-downscales-blu-ray-to-480p-on-720p-hdtvs"

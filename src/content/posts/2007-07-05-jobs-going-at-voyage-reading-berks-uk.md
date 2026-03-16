@@ -1,5 +1,6 @@
 ---
 title: "Jobs going at Voyage - Reading, Berks, UK"
+description: "Are you an experienced creative happily freelancing and would rather not take a full time job? then we may have something which may interest you. Weâre..."
 date: 2007-07-05
 source: "http://nathanpitman.com/513/jobs-going-at-voyage-reading-berks-uk"
 archive: "https://web.archive.org/web/20091011074801/http://nathanpitman.com:80/513/jobs-going-at-voyage-reading-berks-uk"

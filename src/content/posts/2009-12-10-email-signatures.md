@@ -1,5 +1,6 @@
 ---
 title: "Email Signatures…"
+description: "Email signatures are a mess, every email app handles them differently… you have to jump through hoops to set up an email signature and heaven forbid you..."
 date: 2009-12-10
 source: "http://nathanpitman.com/594/email-signatures"
 archive: "https://web.archive.org/web/20091213180539/http://nathanpitman.com:80/594/email-signatures"

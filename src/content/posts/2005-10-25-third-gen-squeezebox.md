@@ -1,5 +1,6 @@
 ---
 title: Third gen Squeezebox
+description: "Slim devices have just announced the third gen Squeezebox, designed by Fred Bould the new form is just stunning. Where the 1st and 2nd gen Squeezbox’s were..."
 date: 2005-10-25
 source: http://nathanpitman.com/411/third-gen-squeezebox
 archive: https://web.archive.org/web/20100105200326/http://nathanpitman.com:80/411/third-gen-squeezebox

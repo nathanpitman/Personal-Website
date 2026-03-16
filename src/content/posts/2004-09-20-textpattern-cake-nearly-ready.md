@@ -1,5 +1,6 @@
 ---
 title: Textpattern cake nearly ready
+description: "Textpattern Release candidate 1 is baked, so the textpattern cake is nearly done. Go and grab your copy of this fantastic PHP/MySQL based CMS while it’s hot. :)"
 date: 2004-09-20
 source: http://nathanpitman.com/248/textpattern-cake-nearly-ready
 archive: https://web.archive.org/web/20100107014447/http://nathanpitman.com:80/248/textpattern-cake-nearly-ready

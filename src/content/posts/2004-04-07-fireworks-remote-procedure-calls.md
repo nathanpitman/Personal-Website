@@ -1,5 +1,6 @@
 ---
 title: Fireworks Remote Procedure Calls
+description: "Macromedia has made documentation available online for the Fireworks Remote Procedure Calls or RPCs."
 date: 2004-04-07
 source: http://nathanpitman.com/41/fireworks-remote-procedure-calls
 archive: https://web.archive.org/web/20100112235804/http://nathanpitman.com:80/41/fireworks-remote-procedure-calls

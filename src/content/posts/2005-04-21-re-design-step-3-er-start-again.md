@@ -1,5 +1,6 @@
 ---
 title: 'Re-design Step 3: Er… start again?'
+description: "So, I kinda went back to the drawing board. I scrapped my previous concept and came up with this."
 date: 2005-04-21
 source: http://nathanpitman.com/338/re-design-step-3-er-start-again
 archive: https://web.archive.org/web/20090609020741/http://nathanpitman.com:80/338/re-design-step-3-er-start-again

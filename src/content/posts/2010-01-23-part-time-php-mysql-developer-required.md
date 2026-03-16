@@ -1,5 +1,6 @@
 ---
 title: "Part time PHP/MySQL developer required"
+description: "Here at Nine Four we’re looking for a remote working part-time PHP/MySQL developer. The ideal candidate will be experienced, motivated and very familiar..."
 date: 2010-01-23
 source: "http://nathanpitman.com/595/part-time-php-mysql-developer-required"
 archive: "https://web.archive.org/web/20100127195111/http://nathanpitman.com:80/595/part-time-php-mysql-developer-required"

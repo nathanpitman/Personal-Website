@@ -1,5 +1,6 @@
 ---
 title: "Hiding the Solspace Tag Tab for certain Weblogs in ExpressionEngine"
+description: "The Solspace Tag Module is a fantastic addition to ExpressionEngine but it lacks the option to ‘disable’ tags for certain weblogs (sections). Not to fear,..."
 date: 2008-07-15
 source: "http://nathanpitman.com/544/hiding-the-solspace-tag-tab-for-certain-weblogs-in-expressionengine"
 archive: "https://web.archive.org/web/20091002192953/http://nathanpitman.com:80/544/hiding-the-solspace-tag-tab-for-certain-weblogs-in-expressionengine"

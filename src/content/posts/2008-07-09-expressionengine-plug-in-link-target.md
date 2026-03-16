@@ -1,5 +1,6 @@
 ---
 title: "ExpressionEngine Plug-in: Link Target"
+description: "Not sure how useful this ExpressionEngine Plug-in will be to others out there but we’re using it here at Nine Four on the Wired In website to link from an..."
 date: 2008-07-09
 source: "http://nathanpitman.com/542/expressionengine-plug-in-link-target"
 archive: "https://web.archive.org/web/20090614184927/http://nathanpitman.com:80/542/expressionengine-plug-in-link-target"

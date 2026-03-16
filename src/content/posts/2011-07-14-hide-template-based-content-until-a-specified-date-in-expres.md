@@ -1,5 +1,6 @@
 ---
 title: "Hide template based content until a specified date in ExpressionEngine"
+description: "Sometimes it’s desirable to hide content on your website from users a specified date. With ExpressionEngine we already have built in functionality to do..."
 date: 2011-07-14
 source: "http://nathanpitman.com/609/hide-template-based-content-until-a-specified-date-in-expressionengine"
 archive: "https://web.archive.org/web/20110717182237/http://nathanpitman.com:80/609/hide-template-based-content-until-a-specified-date-in-expressionengine"

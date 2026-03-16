@@ -1,5 +1,6 @@
 ---
 title: Fireworks Symbol wish
+description: "I wish Fireworks had the ability to edit symbols in place as you can in Flash. Allowing users to double click on symbols within the canvas to navigate..."
 date: 2004-06-10
 source: http://nathanpitman.com/172/fireworks-symbol-wish
 archive: https://web.archive.org/web/20100115114058/http://nathanpitman.com:80/172/fireworks-symbol-wish

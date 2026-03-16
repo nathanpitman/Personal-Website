@@ -1,5 +1,6 @@
 ---
 title: The longest non-classical song
+description: "Whilst listening to some of our old favourite tracks the other night Jo and I started to chat about ‘long’ songs. Un-educated on the subject we considered..."
 date: 2004-01-21
 source: http://nathanpitman.com/16/the-longest-non-classical-song
 archive: https://web.archive.org/web/20090608030604/http://nathanpitman.com:80/16/the-longest-non-classical-song

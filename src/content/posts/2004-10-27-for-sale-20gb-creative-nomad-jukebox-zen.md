@@ -1,5 +1,6 @@
 ---
 title: 'For Sale: 20GB Creative Nomad Jukebox Zen'
+description: "I’m selling my ‘Creative Nomad Jukebox Zen’ (Snappy product name!) on eBay. Ok so it’s no iPod beater but if you’re after a less expensive mp3 player then..."
 date: 2004-10-27
 source: http://nathanpitman.com/276/for-sale-20gb-creative-nomad-jukebox-zen
 archive: https://web.archive.org/web/20090801030728/http://nathanpitman.com:80/276/for-sale-20gb-creative-nomad-jukebox-zen

@@ -1,5 +1,6 @@
 ---
 title: "Junior Front-end developer - Wokingham, Berks, UK"
+description: "Our digital media team works on a variety of projects including DVD interactive presentations, 3D and animation to large-scale websites and bespoke software..."
 date: 2007-08-08
 source: "http://nathanpitman.com/516/junior-front-end-developer-wokingham-berks-uk"
 archive: "https://web.archive.org/web/20090602145429/http://nathanpitman.com:80/516/junior-front-end-developer-wokingham-berks-uk"

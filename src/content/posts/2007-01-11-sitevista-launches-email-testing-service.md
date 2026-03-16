@@ -1,5 +1,6 @@
 ---
 title: "SiteVista launches email testing service"
+description: "> See how your email newsletters look in a wide range of different email clients, and webmail systems. For every email you send to us, you receive two..."
 date: 2007-01-11
 source: "http://nathanpitman.com/496/sitevista-launches-email-testing-service"
 archive: "https://web.archive.org/web/20100106031632/http://nathanpitman.com/496/sitevista-launches-email-testing-service"

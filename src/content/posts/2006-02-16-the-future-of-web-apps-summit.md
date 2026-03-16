@@ -1,5 +1,6 @@
 ---
 title: The Future of Web Apps Summit
+description: "A little late I know, but since I was supposed to have been attending the Carson Workshops Future of Web Apps Summit, I thought that the least I could do in..."
 date: 2006-02-16
 source: http://nathanpitman.com/448/the-future-of-web-apps-summit
 archive: https://web.archive.org/web/20090814210148/http://nathanpitman.com:80/448/the-future-of-web-apps-summit

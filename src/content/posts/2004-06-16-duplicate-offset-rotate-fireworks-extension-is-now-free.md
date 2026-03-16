@@ -1,5 +1,6 @@
 ---
 title: Duplicate Offset & Rotate Fireworks Extension is now free
+description: "My Duplicate, Offset & Rotate Fireworks Extension is now free to download. Sales of this as a commercial package have pretty much dried up, so why not let..."
 date: 2004-06-16
 source: http://nathanpitman.com/197/duplicate-offset-rotate-fireworks-extension-is-now-free
 archive: https://web.archive.org/web/20090830173258/http://nathanpitman.com:80/197/duplicate-offset-rotate-fireworks-extension-is-now-free

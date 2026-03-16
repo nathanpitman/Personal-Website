@@ -1,5 +1,6 @@
 ---
 title: Halfway Between the Gutter and the Stars
+description: "Tommorow is my last day as an employee. I handed my notice in at Bite CP on Monday and as of 5:30pm on Friday I’m self-employed as Managing Director of Nine..."
 date: 2005-09-08
 source: http://nathanpitman.com/400/halfway-between-the-gutter-and-the-stars
 archive: https://web.archive.org/web/20090831030523/http://nathanpitman.com:80/400/halfway-between-the-gutter-and-the-stars

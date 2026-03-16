@@ -1,5 +1,6 @@
 ---
 title: Sidebar / Explorer Bar queries
+description: "I’m working on a project at work at the moment where I’m considering using a browser Sidebar (Firefox) / Explorer Bar (IE) in place of a JavaScript pop-up."
 date: 2004-09-15
 source: http://nathanpitman.com/242/sidebar-explorer-bar-queries
 archive: https://web.archive.org/web/20100116054845/http://nathanpitman.com:80/242/sidebar-explorer-bar-queries

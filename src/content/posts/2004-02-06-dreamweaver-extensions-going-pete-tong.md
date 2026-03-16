@@ -1,5 +1,6 @@
 ---
 title: Dreamweaver Extensions going Pete Tong
+description: "For some time I’ve guessed that I might need to update my Dreamweaver Extensions to function correctly with Dreamweaver MX 2004. Today I found some time to..."
 date: 2004-02-06
 source: http://nathanpitman.com/21/dreamweaver-extensions-going-pete-tong
 archive: https://web.archive.org/web/20090601223412/http://nathanpitman.com:80/21/dreamweaver-extensions-going-pete-tong

@@ -1,5 +1,6 @@
 ---
 title: Tutorial on Creating Fireworks AutoShapes
+description: "Trevor just doesn’t let up. As a part of his relentless one man conquest to populate the world with Fireworks AutoShapes he has taken it upon himself to..."
 date: 2004-12-22
 source: http://nathanpitman.com/302/tutorial-on-creating-fireworks-autoshapes
 archive: https://web.archive.org/web/20090526025817/http://nathanpitman.com:80/302/tutorial-on-creating-fireworks-autoshapes

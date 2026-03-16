@@ -1,5 +1,6 @@
 ---
 title: Fireworks not dead (yet)
+description: "Very exciting news for Fireworks fans, Adobe have made an official statement in the Adobe forums which suggests we’ll see another version yet."
 date: 2006-02-17
 source: http://nathanpitman.com/450/fireworks-not-dead-yet
 archive: https://web.archive.org/web/20100106031419/http://nathanpitman.com/450/fireworks-not-dead-yet

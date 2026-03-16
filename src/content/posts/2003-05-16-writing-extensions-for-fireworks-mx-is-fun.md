@@ -1,5 +1,6 @@
 ---
 title: Writing extensions for Fireworks MX is fun…
+description: "Writing extensions for Fireworks MX is fun. Last night I spent some time putting the final touches to a command panel that I’ve been working on for a long time."
 date: 2003-05-16
 source: http://nathanpitman.com/105/writing-extensions-for-fireworks-mx-is-fun
 archive: https://web.archive.org/web/20110901130352/http://nathanpitman.com/105/writing-extensions-for-fireworks-mx-is-fun

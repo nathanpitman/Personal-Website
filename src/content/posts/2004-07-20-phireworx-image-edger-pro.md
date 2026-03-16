@@ -1,5 +1,6 @@
 ---
 title: Phireworx ‘Image Edger PRO’
+description: "Steven Grosvenor has been busy. A couple of days ago he posted a new Fireworks MX / MX 2004 Command on his site called ‘“Image Edger..."
 date: 2004-07-20
 source: http://nathanpitman.com/221/phireworx-image-edger-pro
 archive: https://web.archive.org/web/20100113135720/http://nathanpitman.com:80/221/phireworx-image-edger-pro

@@ -1,5 +1,6 @@
 ---
 title: Adding geographical tags to your website
+description: "Having noticed geographical data in the meta tags of many blogs recently I decided to investigate a little further and work out how to indicate the..."
 date: 2005-04-23
 source: http://nathanpitman.com/346/adding-geographical-tags-to-your-website
 archive: https://web.archive.org/web/20090522145154/http://nathanpitman.com:80/346/adding-geographical-tags-to-your-website/

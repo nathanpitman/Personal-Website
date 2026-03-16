@@ -1,5 +1,6 @@
 ---
 title: "Building websites with ExpressionEngine 1.6"
+description: "This week I had a rather nice email from a lady called Alice at Packt Publishing here in the UK. Packt are a publishing company specialising in IT focused..."
 date: 2008-08-17
 source: "http://nathanpitman.com/550/building-websites-with-expressionengine-16"
 archive: "https://web.archive.org/web/20090521150001/http://nathanpitman.com:80/550/building-websites-with-expressionengine-16"

@@ -1,5 +1,6 @@
 ---
 title: All the rage? Animated favicons
+description: "I think I’ve noticed a bit of a new thing (Actually someone else probably noticed it first). Animated favicons. I first spotted this neat little twist over..."
 date: 2005-09-08
 source: http://nathanpitman.com/395/all-the-rage-animated-favicons
 archive: https://web.archive.org/web/20090830224557/http://nathanpitman.com:80/395/all-the-rage-animated-favicons/

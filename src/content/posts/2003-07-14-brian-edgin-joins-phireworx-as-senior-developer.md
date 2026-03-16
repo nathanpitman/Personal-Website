@@ -1,5 +1,6 @@
 ---
 title: Brian Edgin joins Phireworx as Senior Developer.
+description: "Phireworx have announced that Brian Edgin has joined them as a Senior Developer. Brian has spent the last two and half years doing interface and new feature..."
 date: 2003-07-14
 source: http://nathanpitman.com/103/brian-edgin-joins-phireworx-as-senior-developer
 archive: https://web.archive.org/web/20091227133153/http://nathanpitman.com:80/103/brian-edgin-joins-phireworx-as-senior-developer

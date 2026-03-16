@@ -1,5 +1,6 @@
 ---
 title: JavaScript support in Director?
+description: "I just came across a post on John Dowdells blog RE a news item which has gone up too early on the Computerworld site. The subject: ‘Macromedia Director MX..."
 date: 2004-01-04
 source: http://nathanpitman.com/12/javascript-support-in-director
 archive: https://web.archive.org/web/20100105185846/http://nathanpitman.com:80/12/javascript-support-in-director

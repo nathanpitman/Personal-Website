@@ -1,5 +1,6 @@
 ---
 title: A grown up kind of green
+description: "After months of labour (not that kind) here at Mirashade we’ve finally done a soft launch of our latest baby; grownupgrren."
 date: 2004-06-30
 source: http://nathanpitman.com/211/a-grown-up-kind-of-green
 archive: https://web.archive.org/web/20100104105307/http://nathanpitman.com:80/211/a-grown-up-kind-of-green

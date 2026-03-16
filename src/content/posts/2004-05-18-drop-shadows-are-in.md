@@ -1,5 +1,6 @@
 ---
 title: Drop Shadows are ‘In’
+description: "I think we’ve all noticed that Drop Shadows are making a resurgence on the web. Having discussed this issue with some work colleagues recently I was..."
 date: 2004-05-18
 source: http://nathanpitman.com/89/drop-shadows-are-in
 archive: https://web.archive.org/web/20100113205756/http://nathanpitman.com:80/89/drop-shadows-are-in

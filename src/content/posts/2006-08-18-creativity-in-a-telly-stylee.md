@@ -1,5 +1,6 @@
 ---
 title: "Creativity in a Telly Stylee"
+description: "Blip.tv, Google Video and YouTube content experimentally re-engineered into the most fantastically simple yet compelling interface."
 date: 2006-08-18
 source: "http://nathanpitman.com/482/creativity-in-a-telly-stylee"
 archive: "https://web.archive.org/web/20100107155105/http://nathanpitman.com:80/482/creativity-in-a-telly-stylee"

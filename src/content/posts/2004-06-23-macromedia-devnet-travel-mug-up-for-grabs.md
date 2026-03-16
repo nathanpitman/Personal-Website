@@ -1,5 +1,6 @@
 ---
 title: Macromedia Devnet Travel Mug up for grabs
+description: "So, I’m parting with a whole load of Macromedia related ‘stuff’ that I have collected, having decided it really is time for a clear out."
 date: 2004-06-23
 source: http://nathanpitman.com/205/macromedia-devnet-travel-mug-up-for-grabs
 archive: https://web.archive.org/web/20100902113257/http://nathanpitman.com:80/205/macromedia-devnet-travel-mug-up-for-grabs

@@ -1,5 +1,6 @@
 ---
 title: "ExpressionEngine Mug!"
+description: "A white box arrived today containing an ‘“ExpressionEngine Mug”:http://www.flickr.com/photos/nathanpitman/2678386600/’ from the good folks at EllisLab as a..."
 date: 2008-07-17
 source: "http://nathanpitman.com/546/expressionengine-mug"
 archive: "https://web.archive.org/web/20091209165048/http://nathanpitman.com:80/546/expressionengine-mug"

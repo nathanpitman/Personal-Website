@@ -1,5 +1,6 @@
 ---
 title: Great new Fireworks Extensions
+description: "Via Thierry Lorey at ‘Fireworks Zone‘ I came across a ton of new Fireworks Command panels and AutoShapes. Thanks go out to ‘Senocular‘ for these, it’s great..."
 date: 2004-04-03
 source: http://nathanpitman.com/35/great-new-fireworks-extensions
 archive: https://web.archive.org/web/20091231054314/http://nathanpitman.com:80/35/great-new-fireworks-extensions

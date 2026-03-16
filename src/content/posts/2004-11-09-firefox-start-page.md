@@ -1,5 +1,6 @@
 ---
 title: Firefox Start Page
+description: "Firefox 1.0 has a snazzy new start page courtesy of google (There’s that google link again)."
 date: 2004-11-09
 source: http://nathanpitman.com/284/firefox-start-page
 archive: https://web.archive.org/web/20100106031659/http://nathanpitman.com/284/firefox-start-page

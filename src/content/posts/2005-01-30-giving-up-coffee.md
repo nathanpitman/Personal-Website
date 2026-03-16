@@ -1,5 +1,6 @@
 ---
 title: Giving up Coffee
+description: "I’ve been giving up Coffee for 2 weeks now. So far I’ve only had one slip up (It was a hard day at work, I was weak)."
 date: 2005-01-30
 source: http://nathanpitman.com/323/giving-up-coffee
 archive: https://web.archive.org/web/20091010080105/http://nathanpitman.com:80/323/giving-up-coffee

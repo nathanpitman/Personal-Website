@@ -1,5 +1,6 @@
 ---
 title: The joys of technology
+description: "I’ve spent perhaps 7 or 8 hours trying to configure a Belkin Wireless Access point which I bought from PC World a few months back. I was advised that the..."
 date: 2006-01-06
 source: http://nathanpitman.com/436/the-joys-of-technology
 archive: https://web.archive.org/web/20111010030344/http://nathanpitman.com/436/the-joys-of-technology

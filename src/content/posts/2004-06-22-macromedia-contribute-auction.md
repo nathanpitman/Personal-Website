@@ -1,5 +1,6 @@
 ---
 title: Macromedia Contribute Auction
+description: "I have a copy of Macromedia Contribute up for auction on e-bay if anyone is interested. As new. I just never got round to using it, so I thought someone..."
 date: 2004-06-22
 source: http://nathanpitman.com/202/macromedia-contribute-auction
 archive: https://web.archive.org/web/20090616203411/http://nathanpitman.com:80/202/macromedia-contribute-auction

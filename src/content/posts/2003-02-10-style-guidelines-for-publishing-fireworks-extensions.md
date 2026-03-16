@@ -1,5 +1,6 @@
 ---
 title: Style guidelines for publishing Fireworks Extensions
+description: "Macromedia have added style guidelines for publishing Fireworks extensions to the exchange."
 date: 2003-02-10
 source: http://nathanpitman.com/118/style-guidelines-for-publishing-fireworks-extensions
 archive: https://web.archive.org/web/20100106032858/http://nathanpitman.com/118/style-guidelines-for-publishing-fireworks-extensions

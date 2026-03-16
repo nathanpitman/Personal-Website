@@ -1,5 +1,6 @@
 ---
 title: "The tools of my trade"
+description: "Sometimes people ask, so to save tweets here’s a quick summary:"
 date: 2013-11-14
 source: "http://nathanpitman.com/629/the-tools-of-my-trade"
 archive: "https://web.archive.org/web/20131117100822/http://nathanpitman.com:80/629/the-tools-of-my-trade"

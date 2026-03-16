@@ -1,5 +1,6 @@
 ---
 title: Flash Player 8 demo’ed in Tokyo
+description: "Colin Moock has posted a video on his blog of Kevin Lynch, Macromedia’s chief software architect, demonstrating the next generation version of the Flash..."
 date: 2004-10-25
 source: http://nathanpitman.com/274/flash-player-8-demoed-in-tokyo
 archive: https://web.archive.org/web/20090801030707/http://nathanpitman.com:80/274/flash-player-8-demoed-in-tokyo

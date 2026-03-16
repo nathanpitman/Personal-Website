@@ -1,5 +1,6 @@
 ---
 title: 'Let me introduce Baby P #2'
+description: "Well, I thought I might take some time out to introduce you to the newest forthcoming addition to our little family. Baby P #2 or as we now know her, Isla..."
 date: 2005-04-19
 source: http://nathanpitman.com/345/let-me-introduce-baby-p-2
 archive: https://web.archive.org/web/20100117023706/http://nathanpitman.com:80/345/let-me-introduce-baby-p-2

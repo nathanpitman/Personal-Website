@@ -1,5 +1,6 @@
 ---
 title: IE changes
+description: "What this means for developers is that any site which you have built using ‘plug-in’ technology such as Flash, Windows Media Player, QuickTime or Real..."
 date: 2003-10-07
 source: http://nathanpitman.com/92/ie-changes
 archive: https://web.archive.org/web/20100106033351/http://nathanpitman.com/92/ie-changes

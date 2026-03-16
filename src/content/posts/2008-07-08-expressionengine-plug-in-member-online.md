@@ -1,5 +1,6 @@
 ---
 title: "ExpressionEngine Plug-in: Member Online?"
+description: "Whilst working on the Wired In website I came up against a little problem. I wanted to be ale to show if a specific user was online or offline, much like..."
 date: 2008-07-08
 source: "http://nathanpitman.com/541/expressionengine-plug-in-member-online"
 archive: "https://web.archive.org/web/20090616071925/http://nathanpitman.com:80/541/expressionengine-plug-in-member-online"

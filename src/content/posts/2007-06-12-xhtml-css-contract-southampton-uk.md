@@ -1,5 +1,6 @@
 ---
 title: "XHTML/CSS Contract - Southampton, UK"
+description: "Premier .it have an urgent requirement for an XHTML/CSS Guru to work for a fantastic company based in Southampton, UK."
 date: 2007-06-12
 source: "http://nathanpitman.com/510/xhtml-css-contract-southampton-uk"
 archive: "https://web.archive.org/web/20090823041938/http://nathanpitman.com:80/510/xhtml-css-contract-southampton-uk"

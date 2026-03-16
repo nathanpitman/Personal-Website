@@ -1,5 +1,6 @@
 ---
 title: Calling all Freelance Flash Developers!
+description: "Here at Nine Four we have a fair few Flash based projects on the horizon, and I’m a little short on freelance Flash talent. So if you think:"
 date: 2006-03-09
 source: http://nathanpitman.com/462/calling-all-freelance-flash-developers
 archive: https://web.archive.org/web/20091209040906/http://nathanpitman.com:80/462/calling-all-freelance-flash-developers

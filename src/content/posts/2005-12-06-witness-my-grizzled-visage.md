@@ -1,5 +1,6 @@
 ---
 title: Witness my grizzled visage
+description: "Yes, you too can witness my grizzled visage (according to Simon)."
 date: 2005-12-06
 source: http://nathanpitman.com/429/witness-my-grizzled-visage
 archive: https://web.archive.org/web/20100111183913/http://nathanpitman.com:80/429/witness-my-grizzled-visage

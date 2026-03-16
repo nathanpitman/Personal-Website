@@ -1,5 +1,6 @@
 ---
 title: "Still no real competition for Fireworks"
+description: "With the recent announcement that Adobe will not be providing support for Creative Suite 3 (CS3) in Snow Leopard and my waning belief in Adobe’s ability to..."
 date: 2009-08-26
 source: "http://nathanpitman.com/589/still-no-real-competition-for-fireworks"
 archive: "https://web.archive.org/web/20090829111749/http://nathanpitman.com:80/589/still-no-real-competition-for-fireworks"

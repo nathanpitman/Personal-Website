@@ -1,5 +1,6 @@
 ---
 title: Joined-up Website Design
+description: "I just finished working on ‘another’ site for the wife of a cohort of mine. Mrs Tiffany Kemp runs a commercial management business called Devant. Much like..."
 date: 2005-03-26
 source: http://nathanpitman.com/335/joined-up-website-design
 archive: https://web.archive.org/web/20100113175843/http://nathanpitman.com:80/335/joined-up-website-design

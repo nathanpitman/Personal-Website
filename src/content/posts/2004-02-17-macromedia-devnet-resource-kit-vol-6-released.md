@@ -1,5 +1,6 @@
 ---
 title: Macromedia DevNet Resource Kit Vol 6 Released
+description: "Ok, so I’m a bit slow on the uptake, but I thought I should report it here. Macromedia have released Volume 6 of the DevNet Resource Kit."
 date: 2004-02-17
 source: http://nathanpitman.com/23/macromedia-devnet-resource-kit-vol-6-released
 archive: https://web.archive.org/web/20100111145033/http://nathanpitman.com:80/23/macromedia-devnet-resource-kit-vol-6-released

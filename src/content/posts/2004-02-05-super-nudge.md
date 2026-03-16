@@ -1,5 +1,6 @@
 ---
 title: Super Nudge
+description: "Brian Edgin of Phireworx has released a nifty little new extension for Fireworks MX."
 date: 2004-02-05
 source: http://nathanpitman.com/20/super-nudge
 archive: https://web.archive.org/web/20090518092521/http://nathanpitman.com:80/20/super-nudge/

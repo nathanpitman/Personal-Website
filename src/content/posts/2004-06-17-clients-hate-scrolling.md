@@ -1,5 +1,6 @@
 ---
 title: Clients hate scrolling
+description: "Why is it that clients hate scrolling web pages? They seem to make the assumption that users don’t understand how to use a scrollbar, or will think that the..."
 date: 2004-06-17
 source: http://nathanpitman.com/198/clients-hate-scrolling
 archive: https://web.archive.org/web/20090901081041/http://nathanpitman.com:80/198/clients-hate-scrolling

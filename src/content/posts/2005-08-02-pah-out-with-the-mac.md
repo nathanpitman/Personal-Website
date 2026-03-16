@@ -1,5 +1,6 @@
 ---
 title: Pah! Out with the Mac!
+description: "Hoorah, after having to suffer a month as a ‘new media’ type working on a Apple Mac here at Bite CP I took delivery on Friday of a shiny new Dell PC. Now...."
 date: 2005-08-02
 source: http://nathanpitman.com/378/pah-out-with-the-mac
 archive: https://web.archive.org/web/20111009173156/http://nathanpitman.com/378/pah-out-with-the-mac

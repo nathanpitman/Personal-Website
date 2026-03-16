@@ -1,5 +1,6 @@
 ---
 title: Branding Nine Four (Again)
+description: "I’ve been a bit slow to post it here (life is pretty busy when you’re working for yourself believe it or not) but Glen Richardson of Design Ontap also took..."
 date: 2005-09-23
 source: http://nathanpitman.com/403/branding-nine-four-again
 archive: https://web.archive.org/web/20100106035955/http://nathanpitman.com/403/branding-nine-four-again

@@ -1,5 +1,6 @@
 ---
 title: Windows Vista
+description: "So I hear via foo that the next version of Windows is to be branded ‘“Vista”:http://www.microsoft.com/windowsvista/’ which according to the Visual Thesaurus..."
 date: 2005-07-23
 source: http://nathanpitman.com/379/windows-vista
 archive: https://web.archive.org/web/20090528235208/http://nathanpitman.com:80/379/windows-vista

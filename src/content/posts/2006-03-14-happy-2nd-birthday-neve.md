@@ -1,5 +1,6 @@
 ---
 title: "Happy 2nd Birthday Neve"
+description: "To think that she’s already been in my life for 2 years is just mind blowing. On one hand it hardly seems like yesterday that Jo and I first set eyes on..."
 date: 2006-03-14
 source: "http://nathanpitman.com/464/happy-2nd-birthday-neve"
 archive: "https://web.archive.org/web/20091209053224/http://nathanpitman.com:80/464/happy-2nd-birthday-neve"

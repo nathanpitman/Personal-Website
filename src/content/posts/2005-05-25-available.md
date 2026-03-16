@@ -1,5 +1,6 @@
 ---
 title: Available
+description: "Well, I’ve been at Mirashade for a couple of years now, it has been great fun and a huge experience but I have plans to develop my career in a slightly new..."
 date: 2005-05-25
 source: http://nathanpitman.com/353/available
 archive: https://web.archive.org/web/20090924123225/http://nathanpitman.com:80/353/available

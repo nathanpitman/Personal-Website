@@ -1,5 +1,6 @@
 ---
 title: Some neat (free) Fireworks plug-ins
+description: "Via Digital Media Minute I came across a nice range of free and shareware Fireworks (and Photoshop) plug-ins wirtten by Richard Rosenman."
 date: 2004-05-27
 source: http://nathanpitman.com/159/some-neat-free-fireworks-plug-ins
 archive: https://web.archive.org/web/20090609101909/http://nathanpitman.com:80/159/some-neat-free-fireworks-plug-ins

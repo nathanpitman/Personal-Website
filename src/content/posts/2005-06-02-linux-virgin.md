@@ -1,5 +1,6 @@
 ---
 title: Linux virgin
+description: "Today I’m going to pick up a couple of old Dell PC’s from my dads workplace. What would I want with a couple of old PCs you may ask."
 date: 2005-06-02
 source: http://nathanpitman.com/366/linux-virgin
 archive: https://web.archive.org/web/20111009173109/http://nathanpitman.com/366/linux-virgin

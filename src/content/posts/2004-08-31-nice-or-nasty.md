@@ -1,5 +1,6 @@
 ---
 title: Nice or nasty?
+description: "There’s something slightly odd about the new iMac. Something about the design just doesn’t feel… well… balanced I guess."
 date: 2004-08-31
 source: http://nathanpitman.com/234/nice-or-nasty
 archive: https://web.archive.org/web/20100106040718/http://nathanpitman.com/234/nice-or-nasty

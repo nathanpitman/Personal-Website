@@ -1,5 +1,6 @@
 ---
 title: Feeling Urgh!
+description: "Today I am mostly feeling ‘urgh’, so is Jo my wife, in fact she’s feeling particuarly ‘urgh’ because she also has the job of carrying our as yet unborn..."
 date: 2003-12-19
 source: http://nathanpitman.com/9/feeling-urgh
 archive: https://web.archive.org/web/20091231015005/http://nathanpitman.com:80/9/feeling-urgh

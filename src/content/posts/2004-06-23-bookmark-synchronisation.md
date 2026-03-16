@@ -1,5 +1,6 @@
 ---
 title: Bookmark synchronisation
+description: "Bookmark synchronisation is one of those annoying little issues. I have a PC at work, and a PC at home.., but the bookmarks are never synchronised, simply..."
 date: 2004-06-23
 source: http://nathanpitman.com/203/bookmark-synchronisation
 archive: https://web.archive.org/web/20100105124130/http://nathanpitman.com:80/203/bookmark-synchronisation

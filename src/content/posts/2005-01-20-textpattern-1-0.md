@@ -1,5 +1,6 @@
 ---
 title: Textpattern 1.0?
+description: "According to the latest postings on the texpattern support forums it looks like Dean Allen might deliver version 1.0 of Textpattern this Friday (21st Jan 05)."
 date: 2005-01-20
 source: http://nathanpitman.com/313/textpattern-10
 archive: https://web.archive.org/web/20091210072713/http://nathanpitman.com:80/313/textpattern-10

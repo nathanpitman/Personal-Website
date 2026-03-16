@@ -1,5 +1,6 @@
 ---
 title: Studio 8 Announced
+description: "Macromedia have gone public on ‘“Studio 8”:http://www.macromedia.com/software/studio/’. The final installment perhaps before we see a combined effort from..."
 date: 2005-08-08
 source: http://nathanpitman.com/386/studio-8-announced
 archive: https://web.archive.org/web/20100113103632/http://nathanpitman.com:80/386/studio-8-announced

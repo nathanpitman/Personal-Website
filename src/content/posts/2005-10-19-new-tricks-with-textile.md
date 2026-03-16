@@ -1,5 +1,6 @@
 ---
 title: New tricks with Textile
+description: "I’m using textile on a project I’m currently working on and having come up against a bit of an issue I discovered a nifty little feature of textile which..."
 date: 2005-10-19
 source: http://nathanpitman.com/409/new-tricks-with-textile
 archive: https://web.archive.org/web/20090718143332/http://nathanpitman.com:80/409/new-tricks-with-textile

@@ -1,5 +1,6 @@
 ---
 title: ‘File Info’ AutoShape for Fireworks
+description: "Trevor McCauley has released another(!) new Fireworks AutoShape called ‘“File..."
 date: 2004-12-22
 source: http://nathanpitman.com/298/file-info-autoshape-for-fireworks
 archive: https://web.archive.org/web/20100104201139/http://nathanpitman.com:80/298/file-info-autoshape-for-fireworks

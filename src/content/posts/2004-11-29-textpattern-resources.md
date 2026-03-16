@@ -1,5 +1,6 @@
 ---
 title: Textpattern Resources
+description: "Textpattern Resources. A directory of plugins, mods, tutorials, templates, and other resources for and by the Textpattern Community. Well worth checking out."
 date: 2004-11-29
 source: http://nathanpitman.com/293/textpattern-resources
 archive: https://web.archive.org/web/20090607022941/http://nathanpitman.com:80/293/textpattern-resources

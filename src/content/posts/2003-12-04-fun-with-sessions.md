@@ -1,5 +1,6 @@
 ---
 title: Fun with Sessions!
+description: "Drew and I have been having some fun with session variables on PHP for Windows. Intermitent success would be a good description of the situation. Check out..."
 date: 2003-12-04
 source: http://nathanpitman.com/8/fun-with-sessions
 archive: https://web.archive.org/web/20111009201243/http://nathanpitman.com/8/fun-with-sessions

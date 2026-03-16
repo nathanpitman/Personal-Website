@@ -1,5 +1,6 @@
 ---
 title: How to cut your monthly NTL bill
+description: "I read a post on ntl:hell recently about a disatisfied NTL customer who called to cancel his account and got offered all sorts of discounts to stay."
 date: 2005-08-05
 source: http://nathanpitman.com/384/how-to-cut-your-monthly-ntl-bill
 archive: https://web.archive.org/web/20111010050410/http://nathanpitman.com/384/how-to-cut-your-monthly-ntl-bill

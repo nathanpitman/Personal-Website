@@ -1,5 +1,6 @@
 ---
 title: Twist and Fade 2004 released
+description: "Steven Grosvenor has finished work on his new ‘Twist and Fade’ command for Fireworks MX 2004."
 date: 2004-10-19
 source: http://nathanpitman.com/268/twist-and-fade-2004-released
 archive: https://web.archive.org/web/20100104182339/http://nathanpitman.com:80/268/twist-and-fade-2004-released

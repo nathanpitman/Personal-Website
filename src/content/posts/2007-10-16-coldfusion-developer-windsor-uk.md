@@ -1,5 +1,6 @@
 ---
 title: "ColdFusion Developer - Windsor, UK"
+description: "Company: Rawnet Job Title: ColdFusion Developer Description: We need one or more enthusiastic, high-quality ColdFusion developers that are passionate about..."
 date: 2007-10-16
 source: "http://nathanpitman.com/524/coldfusion-developer-windsor-uk"
 archive: "https://web.archive.org/web/20091214165024/http://nathanpitman.com:80/524/coldfusion-developer-windsor-uk"

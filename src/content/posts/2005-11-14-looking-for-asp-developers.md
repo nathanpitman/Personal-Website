@@ -1,5 +1,6 @@
 ---
 title: Looking for ASP developers
+description: "So, things are getting pretty busy over at Nine Four and I’m on the lookout for freelance ASP (urgh!) developers for a possible upcoming project."
 date: 2005-11-14
 source: http://nathanpitman.com/420/looking-for-asp-developers
 archive: https://web.archive.org/web/20100107003051/http://nathanpitman.com:80/420/looking-for-asp-developers

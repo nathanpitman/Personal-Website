@@ -1,5 +1,6 @@
 ---
 title: "Why is no one linking?"
+description: "Ok, this ones been bubbling for some time now but today it’s boiled over. I’ve had it with news sites which (missing the point of the internet entirely)..."
 date: 2007-05-10
 source: "http://nathanpitman.com/506/why-is-no-one-linking"
 archive: "https://web.archive.org/web/20100329135233/http://nathanpitman.com:80/506/why-is-no-one-linking"

@@ -1,5 +1,6 @@
 ---
 title: Making my Dreamweaver Extensions MX 2004 compliant
+description: "I finally got round to making the modifications to all of my Dreamweaver Extensions in order that they will install correctly for Dreamweaver MX 2004 users."
 date: 2004-03-07
 source: http://nathanpitman.com/30/making-my-dreamweaver-extensions-mx-2004-compliant
 archive: https://web.archive.org/web/20100107141856/http://nathanpitman.com:80/30/making-my-dreamweaver-extensions-mx-2004-compliant

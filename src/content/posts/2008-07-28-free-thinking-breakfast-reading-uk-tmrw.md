@@ -1,5 +1,6 @@
 ---
 title: "Free ‘thinking’ Breakfast, Reading, UK… Tmrw!"
+description: "My good friend Glen from Sub Lime is looking for people to come along to a free ‘thinking’ Breakfast at Green Park in Reading tmrw AM…"
 date: 2008-07-28
 source: "http://nathanpitman.com/548/free-thinking-breakfast-reading-uk-tmrw"
 archive: "https://web.archive.org/web/20091209035452/http://nathanpitman.com:80/548/free-thinking-breakfast-reading-uk-tmrw"

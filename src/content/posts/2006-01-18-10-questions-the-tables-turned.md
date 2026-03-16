@@ -1,5 +1,6 @@
 ---
 title: 10 questions, the tables turned
+description: "Paul Farnell writes:"
 date: 2006-01-18
 source: http://nathanpitman.com/444/10-questions-the-tables-turned
 archive: https://web.archive.org/web/20091231065802/http://nathanpitman.com:80/444/10-questions-the-tables-turned

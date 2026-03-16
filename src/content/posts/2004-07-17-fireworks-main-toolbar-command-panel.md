@@ -1,5 +1,6 @@
 ---
 title: Fireworks ‘Main Toolbar’ Command Panel
+description: "I’ve finished the Fireworks ‘Main Toolbar’ Command Panel and it’s now available to download for free."
 date: 2004-07-17
 source: http://nathanpitman.com/218/fireworks-main-toolbar-command-panel
 archive: https://web.archive.org/web/20100103234131/http://nathanpitman.com:80/218/fireworks-main-toolbar-command-panel

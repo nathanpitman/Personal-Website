@@ -1,5 +1,6 @@
 ---
 title: "OS X desktop as a music video"
+description: "A digital filmmaker named Dennis Liu has made an amazing video for The Bird And The Bee’s lovely song “Again & Again”. The set? His Mac desktop. You sort of..."
 date: 2008-05-10
 source: "http://nathanpitman.com/534/os-x-desktop-as-a-music-video"
 archive: "https://web.archive.org/web/20090813092943/http://nathanpitman.com:80/534/os-x-desktop-as-a-music-video"

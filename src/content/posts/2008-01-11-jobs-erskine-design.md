@@ -1,5 +1,6 @@
 ---
 title: "Jobs @ Erskine Design"
+description: "Just in case you know of anyone who fancies joining Erskine Design, they’re hiring again. The jobs (PHP/MySQL Developer & Creative Developer) are at either..."
 date: 2008-01-11
 source: "http://nathanpitman.com/528/jobs-erskine-design"
 archive: "https://web.archive.org/web/20100110081915/http://nathanpitman.com:80/528/jobs-erskine-design"

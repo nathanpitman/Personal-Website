@@ -1,5 +1,6 @@
 ---
 title: 12 Free iTunes tracks (UK only)
+description: "Via ‘The List’ I heard of a promotion which a UK website is running whereby they will credit you with 12 free iTunes tracks for signing up for a free..."
 date: 2006-02-28
 source: http://nathanpitman.com/453/12-free-itunes-tracks-uk-only
 archive: https://web.archive.org/web/20090524025205/http://nathanpitman.com:80/453/12-free-itunes-tracks-uk-only

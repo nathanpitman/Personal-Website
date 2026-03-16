@@ -1,5 +1,6 @@
 ---
 title: ‘Orb’ AutoShape for Fireworks
+description: "A nice and simple new AutoShape from Steven Grosvenor which allows you to create a glassy orb, with control over shadow opacity, base color, overlay color..."
 date: 2004-09-28
 source: http://nathanpitman.com/262/orb-autoshape-for-fireworks
 archive: https://web.archive.org/web/20100104180205/http://nathanpitman.com:80/262/orb-autoshape-for-fireworks

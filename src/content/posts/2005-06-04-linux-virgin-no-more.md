@@ -1,5 +1,6 @@
 ---
 title: Linux virgin no more
+description: "So I’ve taken my first step. I downloaded the latest stable release of Debian (3.0r5) via BitTorrent, burnt it to CD and then completed a basic..."
 date: 2005-06-04
 source: http://nathanpitman.com/367/linux-virgin-no-more
 archive: https://web.archive.org/web/20091231014943/http://nathanpitman.com:80/367/linux-virgin-no-more

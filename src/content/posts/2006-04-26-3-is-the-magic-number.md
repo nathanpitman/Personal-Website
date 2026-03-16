@@ -1,5 +1,6 @@
 ---
 title: "3 is the magic number"
+description: "Without further delay, let me announce Baby Pitman #3! Due early to mid November. This really is the last one. Honest guv."
 date: 2006-04-26
 source: "http://nathanpitman.com/471/3-is-the-magic-number"
 archive: "https://web.archive.org/web/20110927083736/http://nathanpitman.com/471/3-is-the-magic-number"

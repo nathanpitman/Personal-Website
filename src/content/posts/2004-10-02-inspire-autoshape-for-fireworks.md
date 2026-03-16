@@ -1,5 +1,6 @@
 ---
 title: ‘Inspire’ AutoShape for Fireworks
+description: "Trevor McCauley writes:"
 date: 2004-10-02
 source: http://nathanpitman.com/263/inspire-autoshape-for-fireworks
 archive: https://web.archive.org/web/20091225022939/http://nathanpitman.com:80/263/inspire-autoshape-for-fireworks

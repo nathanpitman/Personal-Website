@@ -1,5 +1,6 @@
 ---
 title: Senior Graphic Designer Required… (Berkshire, UK)
+description: "Via Mirashade..."
 date: 2004-11-12
 source: http://nathanpitman.com/285/senior-graphic-designer-required-berkshire-uk
 archive: https://web.archive.org/web/20100106035042/http://nathanpitman.com/285/senior-graphic-designer-required-berkshire-uk

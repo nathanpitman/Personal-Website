@@ -1,5 +1,6 @@
 ---
 title: Learning to slide
+description: "After hearing stories from my wife during the week about my daughters amazing new slide skills at our local soft play center (Whoosh!), I just had to..."
 date: 2005-07-24
 source: http://nathanpitman.com/380/learning-to-slide
 archive: https://web.archive.org/web/20100109083217/http://nathanpitman.com:80/380/learning-to-slide

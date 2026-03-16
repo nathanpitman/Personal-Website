@@ -1,5 +1,6 @@
 ---
 title: Looking for talented interactive designers
+description: "A contact of mine is on the lookout for a number of junior to middleweight interactive designers. I know that a large proportion of my readership might be..."
 date: 2005-05-11
 source: http://nathanpitman.com/354/looking-for-talented-interactive-designers
 archive: https://web.archive.org/web/20101204083758/http://nathanpitman.com:80/354/looking-for-talented-interactive-designers

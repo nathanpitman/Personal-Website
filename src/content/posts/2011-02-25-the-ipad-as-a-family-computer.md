@@ -1,5 +1,6 @@
 ---
 title: "The iPad as a family computer"
+description: "We’ve had out family iPad for some time now and whilst it truly is a ‘magical’ device it still falls a little short of being the perfect family computer...."
 date: 2011-02-25
 source: "http://nathanpitman.com/603/the-ipad-as-a-family-computer"
 archive: "https://web.archive.org/web/20110405142853/http://nathanpitman.com:80/603/the-ipad-as-a-family-computer"

@@ -1,5 +1,6 @@
 ---
 title: Textpattern plugins
+description: "Drew has been blogging about the fantastic feature in Textpattern which allows developers to quickly and easily write ‘plugins’ using standard PHP. Check..."
 date: 2004-04-06
 source: http://nathanpitman.com/39/textpattern-plugins
 archive: https://web.archive.org/web/20100103234148/http://nathanpitman.com:80/39/textpattern-plugins

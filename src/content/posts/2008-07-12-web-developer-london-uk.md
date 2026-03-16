@@ -1,5 +1,6 @@
 ---
 title: "Web Developer - London, UK"
+description: "JPCreative – a successful and busy London based design & communications agency with a 10 year track record in delivering award winning creative solutions..."
 date: 2008-07-12
 source: "http://nathanpitman.com/543/web-developer-london-uk"
 archive: "https://web.archive.org/web/20090616071957/http://nathanpitman.com:80/543/web-developer-london-uk"

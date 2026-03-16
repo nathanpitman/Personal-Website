@@ -1,5 +1,6 @@
 ---
 title: Footer Fetish…
+description: "It’s official, I have a footer fetish. I ‘like’ sites with nice footers. It’s been a bit of an ‘in joke’ here at the Mirashade studios for some time, but..."
 date: 2004-02-18
 source: http://nathanpitman.com/24/footer-fetish
 archive: https://web.archive.org/web/20110806080117/http://nathanpitman.com:80/24/footer-fetish

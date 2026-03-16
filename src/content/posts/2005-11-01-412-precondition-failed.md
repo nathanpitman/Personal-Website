@@ -1,5 +1,6 @@
 ---
 title: 412 Precondition Failed
+description: "> Why do I get a â412 Precondition Failedï¿½? error when submitting a comment on your site?"
 date: 2005-11-01
 source: http://nathanpitman.com/416/412-precondition-failed
 archive: https://web.archive.org/web/20110405145824/http://nathanpitman.com:80/416/412-precondition-failed

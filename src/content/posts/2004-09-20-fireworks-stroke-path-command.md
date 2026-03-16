@@ -1,5 +1,6 @@
 ---
 title: Fireworks ‘Stroke Path’ Command
+description: "Senoculars new Stroke Path command lets you take a selected element in Fireworks (bitmap, vector drawing, group, etc.) and duplicate it along a selected..."
 date: 2004-09-20
 source: http://nathanpitman.com/246/fireworks-stroke-path-command
 archive: https://web.archive.org/web/20091205192832/http://nathanpitman.com:80/246/fireworks-stroke-path-command

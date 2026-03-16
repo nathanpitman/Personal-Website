@@ -1,5 +1,6 @@
 ---
 title: Best ‘NO SPAM’ message
+description: "This morning I inadvertently came across what might be the most convincing ‘we promise not to Spam you’ message that I’ve seen so far on the web."
 date: 2004-03-08
 source: http://nathanpitman.com/31/best-no-spam-message
 archive: https://web.archive.org/web/20100116223748/http://nathanpitman.com:80/31/best-no-spam-message

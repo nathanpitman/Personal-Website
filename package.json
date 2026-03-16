@@ -7,12 +7,15 @@
     "dev": "astro dev --host 0.0.0.0 --port 5000",
     "prebuild": "node scripts/resize-images.mjs",
     "build": "astro build",
-    "preview": "astro preview --host 0.0.0.0 --port 5000"
+    "preview": "astro preview --host 0.0.0.0 --port 5000",
+    "generate-descriptions": "tsx scripts/generate-descriptions.ts"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.79.0",
     "@astrojs/rss": "^4.0.15",
     "@astrojs/sitemap": "^3.2.1",
-    "astro": "^4.16.19"
+    "astro": "^4.16.19",
+    "tsx": "^4.21.0"
   },
   "devDependencies": {
     "sharp": "^0.34.5"

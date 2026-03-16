@@ -1,5 +1,6 @@
 ---
 title: Bookmark culling
+description: "After 7 years I’ve decided it’s time to delete all my bookmarks and start again."
 date: 2004-07-12
 source: http://nathanpitman.com/215/bookmark-culling
 archive: https://web.archive.org/web/20100104105312/http://nathanpitman.com:80/215/bookmark-culling

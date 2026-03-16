@@ -1,5 +1,6 @@
 ---
 title: ‘Extrude Path’ Extension for Fireworks
+description: "Check out Trevors new Extrude Path Command for Fireworks."
 date: 2005-03-11
 source: http://nathanpitman.com/325/extrude-path-extension-for-fireworks
 archive: https://web.archive.org/web/20090816034119/http://nathanpitman.com:80/325/extrude-path-extension-for-fireworks

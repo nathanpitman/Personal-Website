@@ -1,5 +1,6 @@
 ---
 title: Branding Nine Four
+description: "Designing your own logo is just the worst task you could ever be charged with. Lucky for me a couple of mates stepped in and offered to take a look at this..."
 date: 2005-09-19
 source: http://nathanpitman.com/402/branding-nine-four
 archive: https://web.archive.org/web/20091220222448/http://nathanpitman.com:80/402/branding-nine-four

@@ -1,5 +1,6 @@
 ---
 title: Firefox 0.9 Released
+description: "Mozilla have gone live with the penultimate preview release of Firefox."
 date: 2004-06-16
 source: http://nathanpitman.com/196/firefox-09-released
 archive: https://web.archive.org/web/20090901081656/http://nathanpitman.com:80/196/firefox-09-released

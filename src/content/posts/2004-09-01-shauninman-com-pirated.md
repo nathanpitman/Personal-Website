@@ -1,5 +1,6 @@
 ---
 title: ShaunInman.com Pirated?
+description: "Last night while searching for plots of land in berkshire I stumbled across the UK Land Directory and thought… hmm… I’ve seen this somewhere before… :?"
 date: 2004-09-01
 source: http://nathanpitman.com/235/shauninmancom-pirated
 archive: https://web.archive.org/web/20091209025501/http://nathanpitman.com:80/235/shauninmancom-pirated

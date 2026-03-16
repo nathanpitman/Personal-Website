@@ -1,5 +1,6 @@
 ---
 title: Duplicate, Offset & Rotate now available to purchase online.
+description: "Use Duplicate, Offset & Rotate to:"
 date: 2003-07-24
 source: http://nathanpitman.com/100/duplicate-offset-rotate-now-available-to-purchase-online
 archive: https://web.archive.org/web/20100110210054/http://nathanpitman.com:80/100/duplicate-offset-rotate-now-available-to-purchase-online

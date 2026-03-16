@@ -1,5 +1,6 @@
 ---
 title: Junk software
+description: "Tuesday last week I took delivery of a new PC. A Dell Dimension 4600… blah blah blah."
 date: 2004-05-17
 source: http://nathanpitman.com/88/junk-software
 archive: https://web.archive.org/web/20100106035602/http://nathanpitman.com/88/junk-software

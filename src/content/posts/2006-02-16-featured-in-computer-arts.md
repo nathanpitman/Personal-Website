@@ -1,5 +1,6 @@
 ---
 title: Featured in Computer Arts
+description: "Well I’ve not seen it yet but I’m in there somewhere apparently. Via a feature written by Craig Grannell."
 date: 2006-02-16
 source: http://nathanpitman.com/449/featured-in-computer-arts
 archive: https://web.archive.org/web/20100107152028/http://nathanpitman.com:80/449/featured-in-computer-arts

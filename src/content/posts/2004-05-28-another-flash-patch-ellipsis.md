@@ -1,5 +1,6 @@
 ---
 title: Another Flash patch? Ellipsis.
+description: "According to an article on CNET New.com Macromedia has been inviting beta testers of Flash MX 2004 to sign up for testing of a product update code named..."
 date: 2004-05-28
 source: http://nathanpitman.com/163/another-flash-patch-ellipsis
 archive: https://web.archive.org/web/20100104114243/http://nathanpitman.com:80/163/another-flash-patch-ellipsis

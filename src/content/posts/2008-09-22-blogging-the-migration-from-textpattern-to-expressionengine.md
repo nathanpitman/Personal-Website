@@ -1,5 +1,6 @@
 ---
 title: "Blogging the migration from Textpattern to ExpressionEngine"
+description: "I have made a cast iron decision. I am migrating (this) my personal blog from Textpattern to ExpressionEngine. I thought others might find it useful if I..."
 date: 2008-09-22
 source: "http://nathanpitman.com/552/blogging-the-migration-from-textpattern-to-expressionengine"
 archive: "https://web.archive.org/web/20090523190407/http://nathanpitman.com:80/552/blogging-the-migration-from-textpattern-to-expressionengine"

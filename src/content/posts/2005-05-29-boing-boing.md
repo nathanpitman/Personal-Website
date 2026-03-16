@@ -1,5 +1,6 @@
 ---
 title: Boing boing
+description: "We’ve recently moved our daughter Neve from her cot into a big girls bed. She’s been pretty good in it so far, when she wakes she will sit and wait for us..."
 date: 2005-05-29
 source: http://nathanpitman.com/363/boing-boing
 archive: https://web.archive.org/web/20090609020447/http://nathanpitman.com:80/363/boing-boing

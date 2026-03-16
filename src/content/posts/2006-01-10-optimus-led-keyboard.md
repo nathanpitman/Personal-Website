@@ -1,5 +1,6 @@
 ---
 title: Optimus LED keyboard
+description: "I stumbled across this amazing keyboard design by Art Lebedev Studios a while back. Then just today I saw some linkage back to it via foo reporting on..."
 date: 2006-01-10
 source: http://nathanpitman.com/438/optimus-led-keyboard
 archive: https://web.archive.org/web/20090530125806/http://nathanpitman.com:80/438/optimus-led-keyboard

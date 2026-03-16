@@ -1,5 +1,6 @@
 ---
 title: "Looking for a LAMP web app dev"
+description: "Hey there. Over at Nine Four we’re looking for a freelance developer to work with us in deploying and developing our simple intranet software;..."
 date: 2007-03-09
 source: "http://nathanpitman.com/500/looking-for-a-lamp-web-app-dev"
 archive: "https://web.archive.org/web/20100106205055/http://nathanpitman.com:80/500/looking-for-a-lamp-web-app-dev"

@@ -1,5 +1,6 @@
 ---
 title: Julia Roberts in SPAM scandal!
+description: "I keep getting this SPAM, perhaps once or twice a week. Unusually it actually brings a small smile to my face, not becuase I understand what it’s going on..."
 date: 2005-11-07
 source: http://nathanpitman.com/417/julia-roberts-in-spam-scandal
 archive: https://web.archive.org/web/20110404100244/http://nathanpitman.com:80/417/julia-roberts-in-spam-scandal

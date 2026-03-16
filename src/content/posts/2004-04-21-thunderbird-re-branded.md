@@ -1,5 +1,6 @@
 ---
 title: Thunderbird re-branded
+description: "There’s a nice post on the hicksdesign journal regarding the re-design of the Mozilla Thunderbird logo which they’ve just completed."
 date: 2004-04-21
 source: http://nathanpitman.com/74/thunderbird-re-branded
 archive: https://web.archive.org/web/20091225122258/http://nathanpitman.com:80/74/thunderbird-re-branded

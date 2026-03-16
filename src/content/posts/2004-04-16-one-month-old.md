@@ -1,5 +1,6 @@
 ---
 title: One month old
+description: "Neve was one month old on Tuesday the 14th. I can’t quite believe we’ve had her for a month. But then when I look at the photos we took when she was first..."
 date: 2004-04-16
 source: http://nathanpitman.com/54/one-month-old
 archive: https://web.archive.org/web/20100106033201/http://nathanpitman.com/54/one-month-old

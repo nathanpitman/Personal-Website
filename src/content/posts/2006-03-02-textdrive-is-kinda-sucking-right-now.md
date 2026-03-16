@@ -1,5 +1,6 @@
 ---
 title: Textdrive is kinda sucking right now
+description: "Don’t get me wrong, I love you Textdrive, after all I got me a VCII account when they were about, hosting for life for $200, what a steal."
 date: 2006-03-02
 source: http://nathanpitman.com/459/textdrive-is-kinda-sucking-right-now
 archive: https://web.archive.org/web/20100106034536/http://nathanpitman.com/459/textdrive-is-kinda-sucking-right-now

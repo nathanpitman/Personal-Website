@@ -1,5 +1,6 @@
 ---
 title: "SiteVista to become Litmus"
+description: "I’m rather excited about the news that the SiteVista team have been hard at work on a big shiny update to their website and email testing tools which will..."
 date: 2007-08-01
 source: "http://nathanpitman.com/515/sitevista-to-become-litmus"
 archive: "https://web.archive.org/web/20091209024140/http://nathanpitman.com:80/515/sitevista-to-become-litmus"

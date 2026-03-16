@@ -1,5 +1,6 @@
 ---
 title: 'A New Fireworks MX 2004 Autoshape: Wave'
+description: "Hiroshi Miyazawa of Macromedia has developed a new AutoShape for Fireworks MX 2004 called Wave."
 date: 2004-06-22
 source: http://nathanpitman.com/201/a-new-fireworks-mx-2004-autoshape-wave
 archive: https://web.archive.org/web/20090615074207/http://nathanpitman.com:80/201/a-new-fireworks-mx-2004-autoshape-wave

@@ -1,5 +1,6 @@
 ---
 title: Kleanthis has released a set of 4 new Fireworks MX extensions…
+description: "Kleanthis has released a set of 4 new Fireworks MX extensions. I downloaded these some time ago, but totally forgot to report on them, they are:"
 date: 2003-04-29
 source: http://nathanpitman.com/108/kleanthis-has-released-a-set-of-4-new-fireworks-mx-extensions
 archive: https://web.archive.org/web/20100113001142/http://nathanpitman.com:80/108/kleanthis-has-released-a-set-of-4-new-fireworks-mx-extensions

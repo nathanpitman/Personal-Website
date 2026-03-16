@@ -1,5 +1,6 @@
 ---
 title: "ExpressionEngine Plug-in: UK Counties Select"
+description: "Another day, another little ExpressionEngine Plug-in. I needed to return a list of UK counties in a standalone entry form. I could have simply flicked on..."
 date: 2008-10-24
 source: "http://nathanpitman.com/561/expressionengine-plug-in-uk-counties-select"
 archive: "https://web.archive.org/web/20090518024248/http://nathanpitman.com:80/561/expressionengine-plug-in-uk-counties-select"

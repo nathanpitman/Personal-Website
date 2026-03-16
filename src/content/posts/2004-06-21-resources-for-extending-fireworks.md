@@ -1,5 +1,6 @@
 ---
 title: Resources for Extending Fireworks
+description: "Kim Cavanaugh has written a couple of articles on extending Fireworks which are hosted at Community MX. The fist covers Filters (Plug-ins) and the second..."
 date: 2004-06-21
 source: http://nathanpitman.com/200/resources-for-extending-fireworks
 archive: https://web.archive.org/web/20090616203736/http://nathanpitman.com:80/200/resources-for-extending-fireworks

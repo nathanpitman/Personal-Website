@@ -1,5 +1,6 @@
 ---
 title: All change…
+description: "So, I finally got round to scrapping my old domain and shifting everything across to this site. I’ve spent what seems like hours, days and weeks..."
 date: 2003-12-02
 source: http://nathanpitman.com/5/all-change
 archive: https://web.archive.org/web/20100106035701/http://nathanpitman.com/5/all-change

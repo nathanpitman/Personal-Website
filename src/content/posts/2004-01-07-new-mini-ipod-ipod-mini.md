@@ -1,5 +1,6 @@
 ---
 title: New mini iPod, iPod mini
+description: "I’ve always wanted an iPod, but have never been able to bring myself to spend that much on a luxury item. Here at Mirashade, my boss man Baz McCarthy has..."
 date: 2004-01-07
 source: http://nathanpitman.com/13/new-mini-ipod-ipod-mini
 archive: https://web.archive.org/web/20100104141516/http://nathanpitman.com:80/13/new-mini-ipod-ipod-mini

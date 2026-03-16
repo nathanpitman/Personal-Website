@@ -1,5 +1,6 @@
 ---
 title: "Design & Contract Interiors"
+description: "Pretty pleased with this one, we just launched a lovely little site at Nine Four for our client Design & Contract Interiors. Mobile first, responsive, clean..."
 date: 2014-01-21 
 tags:
   - "Branding"

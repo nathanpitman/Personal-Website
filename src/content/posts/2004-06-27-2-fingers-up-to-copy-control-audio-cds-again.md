@@ -1,5 +1,6 @@
 ---
 title: 2 fingers up to Copy Control Audio CDs (Again)
+description: "Following on from my post earlier in the year regarding the unacceptable situation which is large record companies producing Audio CDs ‘with’ intentional..."
 date: 2004-06-27
 source: http://nathanpitman.com/206/2-fingers-up-to-copy-control-audio-cds-again
 archive: https://web.archive.org/web/20100111190559/http://nathanpitman.com:80/206/2-fingers-up-to-copy-control-audio-cds-again

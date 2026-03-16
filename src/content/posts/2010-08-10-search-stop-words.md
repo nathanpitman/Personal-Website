@@ -1,5 +1,6 @@
 ---
 title: "Search stop words"
+description: "While writing a simple search plug-in for ExpressionEngine I went looking for a nicely formatted array or CSV file of ‘stop words’ which I could diff my..."
 date: 2010-08-10
 source: "http://nathanpitman.com/600/search-stop-words"
 archive: "https://web.archive.org/web/20100823010421/http://nathanpitman.com:80/600/search-stop-words"

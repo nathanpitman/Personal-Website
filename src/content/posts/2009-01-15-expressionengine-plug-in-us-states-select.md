@@ -1,5 +1,6 @@
 ---
 title: "ExpressionEngine Plug-in: US States Select"
+description: "This is just a variation of my UK Counties Select plug-in for ExpressionEngine which as you might expect, returns a list of US states in the drop down..."
 date: 2009-01-15
 source: "http://nathanpitman.com/565/expressionengine-plug-in-us-states-select"
 archive: "https://web.archive.org/web/20090518024109/http://nathanpitman.com:80/565/expressionengine-plug-in-us-states-select"

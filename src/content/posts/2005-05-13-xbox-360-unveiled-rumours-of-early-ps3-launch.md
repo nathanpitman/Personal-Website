@@ -1,5 +1,6 @@
 ---
 title: Xbox 360 unveiled & rumours of early PS3 launch
+description: "Microsoft have officially unveiled the Xbox 360, wireless controllers and all. Looks pretty neat but from what I hear it’s a bit of a beast (size wise) much..."
 date: 2005-05-13
 source: http://nathanpitman.com/356/xbox-360-unveiled-rumours-of-early-ps3-launch
 archive: https://web.archive.org/web/20090518092650/http://nathanpitman.com:80/356/xbox-360-unveiled-rumours-of-early-ps3-launch/

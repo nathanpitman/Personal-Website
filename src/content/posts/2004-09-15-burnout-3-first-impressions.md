@@ -1,5 +1,6 @@
 ---
 title: Burnout 3 first impressions…
+description: "We have a copy of Burnout 3 for the PS2 at work. We’ve given it a little play over the past few days."
 date: 2004-09-15
 source: http://nathanpitman.com/241/burnout-3-first-impressions
 archive: https://web.archive.org/web/20091231042030/http://nathanpitman.com:80/241/burnout-3-first-impressions

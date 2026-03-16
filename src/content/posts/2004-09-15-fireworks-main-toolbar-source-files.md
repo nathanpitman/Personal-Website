@@ -1,5 +1,6 @@
 ---
 title: Fireworks ‘Main Toolbar’ Source Files
+description: "I’ve made the source files for my Fireworks ‘Main Toolbar’ command panel available to download."
 date: 2004-09-15
 source: http://nathanpitman.com/244/fireworks-main-toolbar-source-files
 archive: https://web.archive.org/web/20100117030139/http://nathanpitman.com:80/244/fireworks-main-toolbar-source-files

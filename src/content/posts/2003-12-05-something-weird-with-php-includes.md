@@ -1,5 +1,6 @@
 ---
 title: Something weird with PHP includes…
+description: "There is something weird going on with PHP includes on a site which I’m working on. I’ve been trying to include a file which will change depending on where..."
 date: 2003-12-05
 source: http://nathanpitman.com/7/something-weird-with-php-includes
 archive: https://web.archive.org/web/20091207063659/http://nathanpitman.com:80/7/something-weird-with-php-includes

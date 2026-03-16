@@ -1,5 +1,6 @@
 ---
 title: "Automating an availability statement in PHP"
+description: "We have a small statement on the Nine Four website which advises new clients as to our current availability."
 date: 2008-07-16
 source: "http://nathanpitman.com/545/automating-an-availability-statement-in-php"
 archive: "https://web.archive.org/web/20091004020912/http://nathanpitman.com:80/545/automating-an-availability-statement-in-php"

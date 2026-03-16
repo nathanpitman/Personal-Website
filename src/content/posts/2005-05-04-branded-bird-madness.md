@@ -1,5 +1,6 @@
 ---
 title: Branded bird madness?
+description: "What’s the deal with all the bird brand logos at the mo…?"
 date: 2005-05-04
 source: http://nathanpitman.com/350/branded-bird-madness
 archive: https://web.archive.org/web/20090911045620/http://nathanpitman.com:80/350/branded-bird-madness

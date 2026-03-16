@@ -1,5 +1,6 @@
 ---
 title: Phireworx release ‘Super Guides’ for Fireworks MX.
+description: "Phireworx release ‘Super Guides’ for Fireworks MX."
 date: 2003-04-28
 source: http://nathanpitman.com/109/phireworx-release-super-guides-for-fireworks-mx
 archive: https://web.archive.org/web/20100107103713/http://nathanpitman.com:80/109/phireworx-release-super-guides-for-fireworks-mx

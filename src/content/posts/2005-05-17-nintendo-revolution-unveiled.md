@@ -1,5 +1,6 @@
 ---
 title: Nintendo Revolution unveiled
+description: "What a week, first we had the Xbox 360, then the PlayStation 3, and now the Nintendo Revolution. Well I think without doubt the Nintendo wins on aesthetics."
 date: 2005-05-17
 source: http://nathanpitman.com/358/nintendo-revolution-unveiled
 archive: https://web.archive.org/web/20090522052642/http://nathanpitman.com:80/358/nintendo-revolution-unveiled

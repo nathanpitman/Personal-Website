@@ -1,5 +1,6 @@
 ---
 title: "A boy it will be…"
+description: "And so #3 is to be a boy. Quite a shock to be honest having had 2 girls, although I’m sure I will warm to the idea of a son. The Pitman name will live on."
 date: 2006-06-26
 source: "http://nathanpitman.com/477/a-boy-it-will-be"
 archive: "https://web.archive.org/web/20100107201021/http://nathanpitman.com:80/477/a-boy-it-will-be"

@@ -1,5 +1,6 @@
 ---
 title: "Digital Designer - Reading, Berks, UK"
+description: "Distribution Technology are a leading-edge financial services software company looking for a creative, energetic and highly intelligent digital designer...."
 date: 2007-08-28
 source: "http://nathanpitman.com/518/digital-designer-reading-berks-uk"
 archive: "https://web.archive.org/web/20091209173416/http://nathanpitman.com:80/518/digital-designer-reading-berks-uk"

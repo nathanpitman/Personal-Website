@@ -1,5 +1,6 @@
 ---
 title: ‘Simple Linked Selection’ Extension for Fireworks
+description: "Senocular (Trevor McCauley) has released a new Fireworks Extension ‘“Simple Linked..."
 date: 2004-12-22
 source: http://nathanpitman.com/297/simple-linked-selection-extension-for-fireworks
 archive: https://web.archive.org/web/20110910003458/http://nathanpitman.com/297/simple-linked-selection-extension-for-fireworks

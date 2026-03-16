@@ -1,5 +1,6 @@
 ---
 title: "Existing creative apps for designers are not suited to today’s web"
+description: "We all know it… it’s been a common accepted fact for far too long. We’ve been talking about the lack of interest from app developers at a regular local..."
 date: 2011-08-10
 source: "http://nathanpitman.com/611/existing-creative-apps-for-designers-are-not-suited-to-todays-web"
 archive: "https://web.archive.org/web/20110817004950/http://nathanpitman.com:80/611/existing-creative-apps-for-designers-are-not-suited-to-todays-web"

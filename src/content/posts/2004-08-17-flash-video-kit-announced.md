@@ -1,5 +1,6 @@
 ---
 title: Flash Video Kit Announced
+description: "The Macromedia Flash Video Kit is a set of extensions and resources to add Flash Video quickly and easily to your website. The Flash Video Kit contains the..."
 date: 2004-08-17
 source: http://nathanpitman.com/228/flash-video-kit-announced
 archive: https://web.archive.org/web/20100106215531/http://nathanpitman.com:80/228/flash-video-kit-announced

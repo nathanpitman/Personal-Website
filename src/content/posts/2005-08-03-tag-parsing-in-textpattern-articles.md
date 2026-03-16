@@ -1,5 +1,6 @@
 ---
 title: Tag parsing in Textpattern articles
+description: "Did you know that you can nest Texpattern tags in your article body? This is super neat (and probably pretty obvious) but I never realised until now. I’ve..."
 date: 2005-08-03
 source: http://nathanpitman.com/383/tag-parsing-in-textpattern-articles
 archive: https://web.archive.org/web/20100104184606/http://nathanpitman.com:80/383/tag-parsing-in-textpattern-articles

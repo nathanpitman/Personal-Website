@@ -1,5 +1,6 @@
 ---
 title: "Hacking Expression Engine to add radio buttons and checkboxes to custom member profile fields"
+description: "Don’t get me wrong, I love Expression Engine but sometimes you just come up against a brick wall and the only solution is to either pay someone to write a..."
 date: 2007-09-20
 source: "http://nathanpitman.com/520/hacking-expression-engine-to-add-radio-buttons-and-checkboxes-to-custom-mem"
 archive: "https://web.archive.org/web/20090701120857/http://nathanpitman.com:80/520/hacking-expression-engine-to-add-radio-buttons-and-checkboxes-to-custom-mem"

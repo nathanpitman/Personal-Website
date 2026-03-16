@@ -1,5 +1,6 @@
 ---
 title: Expression (Microsoft’s first product to export to SWF)
+description: "All via flex-mx.com"
 date: 2004-06-08
 source: http://nathanpitman.com/170/expression-microsofts-first-product-to-export-to-swf
 archive: https://web.archive.org/web/20091227133158/http://nathanpitman.com:80/170/expression-microsofts-first-product-to-export-to-swf

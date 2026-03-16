@@ -1,5 +1,6 @@
 ---
 title: Web Developer Required… (Berkshire, UK)
+description: "Via Mirashade..."
 date: 2005-02-25
 source: http://nathanpitman.com/329/web-developer-required-berkshire-uk
 archive: https://web.archive.org/web/20100113134527/http://nathanpitman.com:80/329/web-developer-required-berkshire-uk

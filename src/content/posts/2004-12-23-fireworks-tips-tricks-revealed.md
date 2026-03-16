@@ -1,5 +1,6 @@
 ---
 title: Fireworks Tips & Tricks Revealed
+description: "Five designers interviewed are asked to reveal some of their favorite Fireworks Tips & Tricks in the December Macromedia Edge Newsletter."
 date: 2004-12-23
 source: http://nathanpitman.com/308/fireworks-tips-tricks-revealed
 archive: https://web.archive.org/web/20090619210931/http://nathanpitman.com:80/308/fireworks-tips-tricks-revealed

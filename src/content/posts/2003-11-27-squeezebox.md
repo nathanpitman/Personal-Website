@@ -1,5 +1,6 @@
 ---
 title: Squeezebox!
+description: "A few months back I bought a ‘network MP3 player’, my first purchase of this kind, the idea being that it would replace my old Yamaha multidisc CD player..."
 date: 2003-11-27
 source: http://nathanpitman.com/6/squeezebox
 archive: https://web.archive.org/web/20100111160844/http://nathanpitman.com:80/6/squeezebox

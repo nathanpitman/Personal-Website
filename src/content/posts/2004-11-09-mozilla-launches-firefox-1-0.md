@@ -1,5 +1,6 @@
 ---
 title: Mozilla launches Firefox 1.0
+description: "The Mozilla Foundation today released Firefox 1.0, the first major new product release since June 2002. Firefox 1.0 is the completion of roughly 2 years of..."
 date: 2004-11-09
 source: http://nathanpitman.com/283/mozilla-launches-firefox-10
 archive: https://web.archive.org/web/20110927133049/http://nathanpitman.com/283/mozilla-launches-firefox-10

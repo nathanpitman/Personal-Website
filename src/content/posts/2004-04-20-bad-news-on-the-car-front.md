@@ -1,5 +1,6 @@
 ---
 title: Bad news on the car front
+description: "I put my VW into the garage for a checkup. Since trading my MR2 in for it at Whites in Camberly a few months back, I’ve noticed gear selection problems."
 date: 2004-04-20
 source: http://nathanpitman.com/71/bad-news-on-the-car-front
 archive: https://web.archive.org/web/20100104101730/http://nathanpitman.com:80/71/bad-news-on-the-car-front

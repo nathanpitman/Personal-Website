@@ -1,5 +1,6 @@
 ---
 title: Taunting Urinal
+description: "Via forgetfoo, this was just too good not to repeat."
 date: 2005-10-26
 source: http://nathanpitman.com/413/taunting-urinal
 archive: https://web.archive.org/web/20100115114331/http://nathanpitman.com:80/413/taunting-urinal

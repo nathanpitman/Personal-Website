@@ -1,5 +1,6 @@
 ---
 title: 'Project Fireworks release first commercial Fireworks MX extension: ‘FireFrame’.'
+description: "According to Kleanthis Economou (Project Fireworks), FireFrame provides a convenient way to enhance the appearance of your photos and add artistic flare to..."
 date: 2003-02-28
 source: http://nathanpitman.com/115/project-fireworks-release-first-commercial-fireworks-mx-extension-fireframe
 archive: https://web.archive.org/web/20091004092132/http://nathanpitman.com:80/115/project-fireworks-release-first-commercial-fireworks-mx-extension-fireframe

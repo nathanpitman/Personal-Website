@@ -1,5 +1,6 @@
 ---
 title: RSS feeds by category
+description: "Following a recent post by Brandon on devnulled.com I’ve decided that it would be beneficial to make category based RSS (and Atom) feeds available for my site."
 date: 2004-06-04
 source: http://nathanpitman.com/165/rss-feeds-by-category
 archive: https://web.archive.org/web/20100104135710/http://nathanpitman.com:80/165/rss-feeds-by-category

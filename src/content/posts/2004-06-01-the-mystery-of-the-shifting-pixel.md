@@ -1,5 +1,6 @@
 ---
 title: The mystery of the shifting pixel
+description: "If you work regularly with Flash you will be well aware of the annoying ‘shifting’ pixel issue. This generally occurs when you group or resize an object...."
 date: 2004-06-01
 source: http://nathanpitman.com/164/the-mystery-of-the-shifting-pixel
 archive: https://web.archive.org/web/20100113141100/http://nathanpitman.com:80/164/the-mystery-of-the-shifting-pixel

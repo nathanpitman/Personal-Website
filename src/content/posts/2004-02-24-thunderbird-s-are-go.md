@@ -1,5 +1,6 @@
 ---
 title: Thunderbird(s) are go!
+description: "Last night I made the ever so easy transition from Outlook Express to Mozilla Thunderbird on my home PC."
 date: 2004-02-24
 source: http://nathanpitman.com/28/thunderbirds-are-go
 archive: https://web.archive.org/web/20100105192224/http://nathanpitman.com:80/28/thunderbirds-are-go

@@ -1,5 +1,6 @@
 ---
 title: Does the kottke.org re-design kinda suck?
+description: "Jason kottke has done a re-design. The garish green lives on, but the cleanliness and simplicity has gone. Hey maybe it’s just in transition, but I think it..."
 date: 2004-06-29
 source: http://nathanpitman.com/209/does-the-kottkeorg-re-design-kinda-suck
 archive: https://web.archive.org/web/20100105214300/http://nathanpitman.com:80/209/does-the-kottkeorg-re-design-kinda-suck

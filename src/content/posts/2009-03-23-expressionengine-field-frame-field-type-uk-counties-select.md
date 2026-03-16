@@ -1,5 +1,6 @@
 ---
 title: "ExpressionEngine Field Frame Field Type: UK Counties Select"
+description: "Having had a play with the wonderful ExpressionEngine Field Frame extension which Brandon Kelly has authored I felt inclined to port my UK Counties Select..."
 date: 2009-03-23
 source: "http://nathanpitman.com/577/expressionengine-field-frame-field-type-uk-counties-select"
 archive: "https://web.archive.org/web/20090518024059/http://nathanpitman.com:80/577/expressionengine-field-frame-field-type-uk-counties-select"

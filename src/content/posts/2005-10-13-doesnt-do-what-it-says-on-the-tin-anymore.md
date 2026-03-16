@@ -1,5 +1,6 @@
 ---
 title: Doesn’t do what it says on the tin anymore
+description: "So now the iPod plays video, I guess we all kinda saw this coming, but it makes me wonder, should apple re-brand iTunes to be a little more descriptive?..."
 date: 2005-10-13
 source: http://nathanpitman.com/405/doesnt-do-what-it-says-on-the-tin-anymore
 archive: https://web.archive.org/web/20100104140419/http://nathanpitman.com:80/405/doesnt-do-what-it-says-on-the-tin-anymore

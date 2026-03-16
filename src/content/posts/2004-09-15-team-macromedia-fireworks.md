@@ -1,5 +1,6 @@
 ---
 title: Team Macromedia (Fireworks)
+description: "Last month I was invited to become a member of the Team Macromedia programme for Fireworks."
 date: 2004-09-15
 source: http://nathanpitman.com/243/team-macromedia-fireworks
 archive: https://web.archive.org/web/20100106031938/http://nathanpitman.com/243/team-macromedia-fireworks

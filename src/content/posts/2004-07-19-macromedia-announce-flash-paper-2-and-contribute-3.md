@@ -1,5 +1,6 @@
 ---
 title: Macromedia announce Flash Paper 2 and Contribute 3
+description: "Macromedia have announced Flash Paper 2 and Contribute 3. Together boths products form a part of the new Macromedia Web Publishing System which is geared..."
 date: 2004-07-19
 source: http://nathanpitman.com/219/macromedia-announce-flash-paper-2-and-contribute-3
 archive: https://web.archive.org/web/20100227104756/http://nathanpitman.com:80/219/macromedia-announce-flash-paper-2-and-contribute-3

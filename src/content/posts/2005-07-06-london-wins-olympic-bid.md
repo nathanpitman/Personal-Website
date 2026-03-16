@@ -1,5 +1,6 @@
 ---
 title: London wins Olympic bid!
+description: "Just heard on the radio that London has won it’s bid to host the 2012 Olympics!"
 date: 2005-07-06
 source: http://nathanpitman.com/374/london-wins-olympic-bid
 archive: https://web.archive.org/web/20090609020235/http://nathanpitman.com:80/374/london-wins-olympic-bid

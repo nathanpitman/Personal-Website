@@ -1,5 +1,6 @@
 ---
 title: The best £200 I ever spent…
+description: "On Thursday last week I finally ordered a SLIMP3 player from Slim Devices after months of dribbling. It arrived on Friday morning, on Saturday I enrolled..."
 date: 2003-09-08
 source: http://nathanpitman.com/93/the-best-200-i-ever-spent
 archive: https://web.archive.org/web/20100109075139/http://nathanpitman.com:80/93/the-best-200-i-ever-spent

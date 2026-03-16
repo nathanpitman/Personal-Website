@@ -1,5 +1,6 @@
 ---
 title: Adding on hover copyright to Lightbox
+description: "I’ve been using Lightbox by Lokesh Dakar on a current project and needed to add a simple copyright message on hover just to remind those nice users that..."
 date: 2006-02-13
 source: http://nathanpitman.com/447/adding-on-hover-copyright-to-lightbox
 archive: https://web.archive.org/web/20090522044029/http://nathanpitman.com:80/447/adding-on-hover-copyright-to-lightbox

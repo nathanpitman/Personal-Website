@@ -1,5 +1,6 @@
 ---
 title: Going Pete Tong
+description: "Every thing’s going Pete Tong! Yesterday:"
 date: 2004-06-18
 source: http://nathanpitman.com/199/going-pete-tong
 archive: https://web.archive.org/web/20100107152612/http://nathanpitman.com:80/199/going-pete-tong

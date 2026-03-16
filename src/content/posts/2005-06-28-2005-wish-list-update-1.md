@@ -1,5 +1,6 @@
 ---
 title: '2005 Wish List Update #1'
+description: "Way back in December last year when it was ‘neat-n-trendy’ to post wish lists, I composed my own for 2005. I thought I’d run an update for each wish that..."
 date: 2005-06-28
 source: http://nathanpitman.com/370/2005-wish-list-update-1
 archive: https://web.archive.org/web/20090529015654/http://nathanpitman.com:80/370/2005-wish-list-update-1

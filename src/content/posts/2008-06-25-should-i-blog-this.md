@@ -1,5 +1,6 @@
 ---
 title: "Should I blog this?"
+description: "I think it’s fair to say that once you’ve got to know a number of well respected individuals within the web design and development ‘blogosphere’ it’s easy..."
 date: 2008-06-25
 source: "http://nathanpitman.com/538/should-i-blog-this"
 archive: "https://web.archive.org/web/20100107024554/http://nathanpitman.com:80/538/should-i-blog-this"

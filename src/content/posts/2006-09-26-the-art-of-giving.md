@@ -1,5 +1,6 @@
 ---
 title: "The art of giving"
+description: "For the past couple of months here at Nine Four we’ve been working on behalf of Voyage to develop an e-commerce website for one of their clients; Innova Gifts."
 date: 2006-09-26
 source: "http://nathanpitman.com/489/the-art-of-giving"
 archive: "https://web.archive.org/web/20091214135413/http://nathanpitman.com:80/489/the-art-of-giving"

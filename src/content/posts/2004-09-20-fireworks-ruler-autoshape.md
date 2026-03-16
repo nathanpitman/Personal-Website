@@ -1,5 +1,6 @@
 ---
 title: Fireworks ‘Ruler’ AutoShape
+description: "Senocular has written another clever little AutoShape for Fireworks, but this time it behaves more like a utility. The Ruler AutoShape allows you to measure..."
 date: 2004-09-20
 source: http://nathanpitman.com/247/fireworks-ruler-autoshape
 archive: https://web.archive.org/web/20100117023629/http://nathanpitman.com:80/247/fireworks-ruler-autoshape

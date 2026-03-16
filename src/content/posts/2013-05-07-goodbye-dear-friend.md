@@ -1,5 +1,6 @@
 ---
 title: "Goodbye dear friend"
+description: "Adobe Fireworks is dead"
 date: 2013-05-07
 source: "http://nathanpitman.com/625/goodbye-dear-friend"
 archive: "https://web.archive.org/web/20130510164111/http://nathanpitman.com:80/625/goodbye-dear-friend"

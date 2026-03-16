@@ -1,5 +1,6 @@
 ---
 title: "Goodbye PS2, Hello 360."
+description: "Today it’s my Birthday, I just turned 29. 1 year closer to the big ’3 – 0’ and yet somehow I still feel like I’m young and have the whole of my life ahead..."
 date: 2006-05-12
 source: "http://nathanpitman.com/472/goodbye-ps2-hello-360"
 archive: "https://web.archive.org/web/20090722094848/http://nathanpitman.com:80/472/goodbye-ps2-hello-360"

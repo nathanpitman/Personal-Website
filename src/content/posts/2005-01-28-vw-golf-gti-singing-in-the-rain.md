@@ -1,5 +1,6 @@
 ---
 title: VW Golf GTI - Singing in the rain
+description: "If you haven’t seen the new VW Golf GTI ad …"
 date: 2005-01-28
 source: http://nathanpitman.com/321/vw-golf-gti-singing-in-the-rain
 archive: https://web.archive.org/web/20100725074015/http://nathanpitman.com:80/321/vw-golf-gti-singing-in-the-rain

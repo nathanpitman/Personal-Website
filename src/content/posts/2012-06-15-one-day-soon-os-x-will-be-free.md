@@ -1,5 +1,6 @@
 ---
 title: "One day soon OS X will be free"
+description: "It’s interesting to note though how Apple are learning from the iPhone and iPad with the new Retina MacBook Pro and the imminent release of Mountain Lion...."
 date: 2012-06-15
 source: "http://nathanpitman.com/618/one-day-soon-os-x-will-be-free"
 archive: "https://web.archive.org/web/20120706033144/http://nathanpitman.com:80/618/one-day-soon-os-x-will-be-free"

@@ -1,5 +1,6 @@
 ---
 title: Adobe to acquire Macromedia
+description: "According to Macromedia.com and Adobe.com as of the 18th of April Adobe is to acquire Macromedia!"
 date: 2005-04-18
 source: http://nathanpitman.com/344/adobe-to-acquire-macromedia
 archive: https://web.archive.org/web/20100111181125/http://nathanpitman.com:80/344/adobe-to-acquire-macromedia

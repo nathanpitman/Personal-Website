@@ -1,5 +1,6 @@
 ---
 title: If you just smile
+description: "I just finished up working on a website this week for a new client (Smile Photography), still a fair bit of placeholder copy about. The ingredients;..."
 date: 2006-02-24
 source: http://nathanpitman.com/452/if-you-just-smile
 archive: https://web.archive.org/web/20091210070646/http://nathanpitman.com:80/452/if-you-just-smile

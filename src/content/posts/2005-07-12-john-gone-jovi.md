@@ -1,5 +1,6 @@
 ---
 title: John Gone Jovi
+description: "This morning whilst doing the rounds I discovered that John Oxton has decided to take a break from blogging."
 date: 2005-07-12
 source: http://nathanpitman.com/376/john-gone-jovi
 archive: https://web.archive.org/web/20090528235132/http://nathanpitman.com:80/376/john-gone-jovi

@@ -1,5 +1,6 @@
 ---
 title: Expression Engine goes free
+description: "Great news today for anyone who’s fancied giving the Expression Engine CMS a shot but has never been able to swallow the rather reasonable price tag...."
 date: 2005-12-19
 source: http://nathanpitman.com/431/expression-engine-goes-free
 archive: https://web.archive.org/web/20090531201259/http://nathanpitman.com:80/431/expression-engine-goes-free

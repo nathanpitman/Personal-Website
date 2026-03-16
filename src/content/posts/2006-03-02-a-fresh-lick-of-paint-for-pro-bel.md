@@ -1,5 +1,6 @@
 ---
 title: A fresh lick of paint for Pro-Bel
+description: "Another website I’ve been working on recently just went live. Pro-Bel produce control, signal distribution and innovative automation solutions for the..."
 date: 2006-03-02
 source: http://nathanpitman.com/455/a-fresh-lick-of-paint-for-pro-bel
 archive: https://web.archive.org/web/20090524024915/http://nathanpitman.com:80/455/a-fresh-lick-of-paint-for-pro-bel

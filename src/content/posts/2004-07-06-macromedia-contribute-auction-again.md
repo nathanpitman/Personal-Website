@@ -1,5 +1,6 @@
 ---
 title: Macromedia Contribute Auction (Again)
+description: "I re-opened my Macromedia Contribute Auction on ebay as my winning bidder from last time round pulled out. :("
 date: 2004-07-06
 source: http://nathanpitman.com/212/macromedia-contribute-auction-again
 archive: https://web.archive.org/web/20100107021903/http://nathanpitman.com:80/212/macromedia-contribute-auction-again

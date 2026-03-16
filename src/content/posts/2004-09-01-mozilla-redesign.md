@@ -1,5 +1,6 @@
 ---
 title: Mozilla Redesign
+description: "The Redesigned Mozilla site which was developed by silverorange went live yesterday."
 date: 2004-09-01
 source: http://nathanpitman.com/236/mozilla-redesign
 archive: https://web.archive.org/web/20090527173340/http://nathanpitman.com:80/236/mozilla-redesign

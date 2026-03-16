@@ -1,5 +1,6 @@
 ---
 title: "I â¥ Expression Engine"
+description: "After my recent rant about having to edit CMS templates via a browser text field I think I have perhaps stumbled across Expression Engines best feature yet...."
 date: 2006-03-10
 source: "http://nathanpitman.com/463/i"
 archive: "https://web.archive.org/web/20091210071344/http://nathanpitman.com:80/463/i"

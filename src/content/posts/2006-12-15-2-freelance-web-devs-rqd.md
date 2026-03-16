@@ -1,5 +1,6 @@
 ---
 title: "2 freelance web devs rqd"
+description: "Just pimping a couple of freelance vacancies for a friendâ¦"
 date: 2006-12-15
 source: "http://nathanpitman.com/494/2-freelance-web-devs-rqd"
 archive: "https://web.archive.org/web/20110807184542/http://nathanpitman.com:80/494/2-freelance-web-devs-rqd"

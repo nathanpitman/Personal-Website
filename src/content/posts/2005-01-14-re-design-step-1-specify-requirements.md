@@ -1,5 +1,6 @@
 ---
 title: 'Re-design Step 1: Specify Requirements'
+description: "So, I’m doing a live re-design. But… before I ditch my CSS and start fiddling with the page markup I want to take stock of what’s here and decide what will..."
 date: 2005-01-14
 source: http://nathanpitman.com/312/re-design-step-1-specify-requirements
 archive: https://web.archive.org/web/20090526031119/http://nathanpitman.com:80/312/re-design-step-1-specify-requirements

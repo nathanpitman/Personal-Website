@@ -1,5 +1,6 @@
 ---
 title: Mac newbie seeks Mac guru for short term relationship
+description: "On Friday I finished up at Mirashade and today was my first day at my new place, Bite CP."
 date: 2005-07-04
 source: http://nathanpitman.com/372/mac-newbie-seeks-mac-guru-for-short-term-relationship
 archive: https://web.archive.org/web/20090609020553/http://nathanpitman.com:80/372/mac-newbie-seeks-mac-guru-for-short-term-relationship

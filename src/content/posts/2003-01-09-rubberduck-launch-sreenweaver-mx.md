@@ -1,5 +1,6 @@
 ---
 title: Rubberduck launch Sreenweaver MX
+description: "Rubberduckï¿½s new version of its rich client desktop application production software enables Macromedia Flash developers to leverage their skills from the..."
 date: 2003-01-09
 source: http://nathanpitman.com/122/rubberduck-launch-sreenweaver-mx
 archive: https://web.archive.org/web/20090527052713/http://nathanpitman.com:80/122/rubberduck-launch-sreenweaver-mx

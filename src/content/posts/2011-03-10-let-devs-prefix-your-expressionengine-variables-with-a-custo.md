@@ -1,5 +1,6 @@
 ---
 title: "Let devs prefix your ExpressionEngine variables with a custom value"
+description: "I struck upon a wonderful little idea which I’ve implemented in a simple plug-in I’m writing for a project I’m currently working on.., add a..."
 date: 2011-03-10
 source: "http://nathanpitman.com/606/let-devs-prefix-your-expressionengine-variables-with-a-custom-value"
 archive: "https://web.archive.org/web/20110405142943/http://nathanpitman.com:80/606/let-devs-prefix-your-expressionengine-variables-with-a-custom-value"

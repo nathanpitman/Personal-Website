@@ -1,5 +1,6 @@
 ---
 title: Sony redesigns PlayStation 2
+description: "Sony have announced a new, redesigned version of its Playstation 2 console."
 date: 2004-09-22
 source: http://nathanpitman.com/249/sony-redesigns-playstation-2
 archive: https://web.archive.org/web/20100104105300/http://nathanpitman.com:80/249/sony-redesigns-playstation-2

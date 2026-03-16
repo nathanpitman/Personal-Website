@@ -1,5 +1,6 @@
 ---
 title: Fireworks Commands Wrapper
+description: "Kleanthis Economou has posted an updated Fireworks Commands Wrapper for Flash on the Macromedia Exchange. This allows you to author Fireworks Commands or..."
 date: 2004-04-21
 source: http://nathanpitman.com/73/fireworks-commands-wrapper
 archive: https://web.archive.org/web/20100106033728/http://nathanpitman.com/73/fireworks-commands-wrapper
