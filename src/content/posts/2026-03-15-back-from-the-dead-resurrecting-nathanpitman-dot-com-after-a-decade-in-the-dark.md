@@ -10,6 +10,7 @@ tags:
   - "ExpressionEngine"
   - "Textpattern"
   - "Business"
+hidden: true
 ---
 
 _This blog post has been written by [Claude](https://claude.ai), with technical input from [Replit](https://replit.com/refer/nathanpitman) and prompting by Nathan Pitman._
