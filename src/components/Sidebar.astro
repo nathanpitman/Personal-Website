@@ -12,6 +12,9 @@ const recentPosts = allPosts
   .filter(post => !post.data.hidden)
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
   .slice(0, 10);
+
+const sideProjects = await getCollection('projects');
+const visibleProjects = sideProjects.filter(project => !project.data.hidden);
 ---
 
 <aside class="sidebar" aria-label="Sidebar">
@@ -58,20 +61,18 @@ const recentPosts = allPosts
     </div>
   )}
 
-  {page === 'index' && (
+  {page === 'index' && visibleProjects.length > 0 && (
     <div class="sidebar-block">
       <div class="sidebar-block-header">
         <span class="sidebar-block-title">Side projects</span>
       </div>
       <ul class="side-projects-list">
-        <li>
-          <a class="side-project-name" href="https://fuelwise.replit.app">Fuelwise</a>
-          <p class="side-project-desc">A mobile-first web application that helps UK drivers find the cheapest fuel prices nearby. Search by your current location, home postcode, or work postcode, and get directions to any station with one tap.</p>
-        </li>
-        <li>
-          <a class="side-project-name" href="https://github.com/nathanpitman/CanonicalCaveAdventure">Canonical Cave Adventure</a>
-          <p class="side-project-desc">A port of the classic text adventure "Adventure 2.5 / Open Adventure" with a modern touch interface and improved text parser. Created as an opportunity to explore AI-led development and a healthy dose of childhood nostalgia.</p>
-        </li>
+        {visibleProjects.map(project => (
+          <li>
+            <a class="side-project-name" href={project.data.url}>{project.data.title}</a>
+            <p class="side-project-desc">{project.body}</p>
+          </li>
+        ))}
       </ul>
     </div>
   )}
