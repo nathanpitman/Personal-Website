@@ -11,7 +11,7 @@ tags:
   - "Web development"
 ---
 
-![Safari iOS 7 and Position Fixed Bottom, clicking on any of the links in the position fixed bar does not do what you expect.](/images/Safari_ios_7.jpg "Safari iOS 7 and Position Fixed Bottom, clicking on any of the links in the position fixed bar does not do what you expect.")
+<img src="/images/Safari_ios_7.jpg" alt="Safari iOS 7 and Position Fixed Bottom, clicking on any of the links in the position fixed bar does not do what you expect." width="460" height="345" />
 
 This little gem is going to become real annoying real quick. In Safari on iOS 7 clicking anywhere in the bottom ~40px of the screen does not register as a click on the web page as you would expect, instead it prompts Safari to reveal the ‘nav bar’, only then once the ‘nav bar’ has become visible and pushed your content up the page will clicks in that area register. I’ve [logged a bug on Radar and Open Radar](http://openradar.appspot.com/radar?id=6280496317202432).
 
