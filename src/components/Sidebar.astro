@@ -38,21 +38,9 @@ const recentPosts = allPosts
         <span class="sidebar-block-title">Who, what &amp; why?</span>
       </div>
       <div class="who-text">
-        {page === 'index' ? (
-          <>
-            <p>Managing Director of the eLearning Division at The Citation Group, previously Creative &amp; Technical Director at iHasco for over a decade.</p>
-            <p>Lately spending spare time exploring what's possible at the intersection of modern AI and product design — and writing about it here. <a href="/about">More…</a></p>
-          </>
-        ) : (
-          <p>
-            Managing Director of the eLearning Division at
-            <a href="https://www.citationgroup.co.uk">The Citation Group</a>,
-            responsible for
-            <a href="https://www.ihasco.co.uk">iHASCO</a>,
-            <a href="https://www.careskillsacademy.co.uk">Careskills Academy</a> and
-            <a href="https://www.flexebee.com">Flexebee</a>.
-            Previously founder of Nine Four Ltd. I like to design, write code and build things.
-          </p>
+        {page !== 'about' (
+            <p>Managing Director of the eLearning Division at The Citation Group, previously Creative &amp; Technical Director at iHasco and MD at Nine Four for over a decade before that.</p>
+            <p>Lately spending spare time exploring what's possible at the intersection of modern AI and product design — and writing about it (and many other things) here. <a href="/about">More…</a></p>
         )}
       </div>
     </div>
