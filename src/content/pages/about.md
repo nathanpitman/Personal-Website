@@ -1,5 +1,5 @@
 ---
-title: A little bit about nathan
+title: A bit about nathan
 description: Nathan Pitman is Managing Director of Citation Group’s eLearning
   Division, with a career in interactive design and development spanning three
   decades — from early web pioneer to agency founder to senior leader. Based in
@@ -16,14 +16,14 @@ Over the following years ODB (later rebranded '*Designation*') became a well reg
 
 A stint at [TMB Marketing & Communications](https://thinktmb.com/) followed Designation, this sharpened Nathan's motion design skills through tools like Macromedia Flash and Adobe After Effects and exposed him to IDEs such as Macromedia Dreamweaver and server side programming using Classic ASP.
 
-During this time Nathan became involved with Macromedia as an evangelist, workign with the Dreamweaver, Fireworks and Flash software teams as an Alpha tester and developing his own add-ons through their Extensions architecture.
+During this time Nathan became involved with Macromedia as an evangelist, working with the Dreamweaver, Fireworks and Flash software teams as an Alpha tester and developing his own add-ons through their Extensions architecture.
 
 At *Mirashade* Nathan pushed further into programming with Macromedia Director (Lingo!) and became familiar with the LAMP stack — working on in house Content Manegement Systems and building a bespoke Learning Management System from the ground up. After Mirashade, a brief but formative spell as Head of New Media at Bite CP did exactly what it said on the tin: it convinced him it was to leave and start something of his own.
 
 In 2005 Nathan founded [Nine Four Ltd](https://ninefour.co.uk), a small boutique digital media agency he established, ran and eventually sold after nearly a decade. The agency took on projects ranging from complex web platforms to brand identity, and it was through Nine Four that Nathan first became involved with [iHasco](https://ihasco.co.uk) — a workplace eLearning business that would go on to define the next chapter of his career.
 
-Joining *iHasco* full-time in 2015 as Creative & Technical Director, Nathan spent five years shaping the product's design, technology and content direction. In 2020 he played a pivotal role in the sale of iHASCO to [The Citation Group](https://www.citationgroup.co.uk), before stepping up as Managing Director to lead the business through its next phase of growth. This period also gave Nathan something relatively rare for someone coming from a creative bacground: a buy-side seat at the table, as he worked with the M&A team at Citation Group to acquire two adult social care eLearning businesses [Careskills](https://careskillsacademy.co.uk/) and Flexebee — both of which now sit within the division he leads.
+Joining *iHasco* full-time in 2015 as Creative & Technical Director, Nathan spent five years shaping the product's design, technology and content direction. In 2020 he played a pivotal role in the sale of iHASCO to [The Citation Group](https://www.citationgroup.co.uk), before stepping up as Managing Director to lead the business through its next phase of growth. This period also gave Nathan something relatively rare for someone coming from a creative bacground: a buy-side seat at the table, as he worked with the M&A team at Citation Group to acquire a number of eLearning businesses.
 
-Now Managing Director of Citation Group's eLearning Division, Nathan is responsible for the iHasco, Careskills and Flexebee eLearning businesses collectively. However, ask him what gets him out of bed in the morning and the answer hasn't changed much since 1997 — making things beautifully simple.
+Now Managing Director of Citation Group's eLearning Division, Nathan is responsible for the iHasco, [Careskills](https://careskillsacademy.co.uk/) and Flexebee eLearning businesses collectively. However, ask him what gets him out of bed in the morning and the answer hasn't changed much since 1997 — making things beautifully simple.
 
 He lives and works in Bracknell, Berkshire, UK.
