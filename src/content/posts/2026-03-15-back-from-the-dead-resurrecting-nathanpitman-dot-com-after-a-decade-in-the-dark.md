@@ -1,7 +1,7 @@
 ---
 title: "Back From the Dead: Resurrecting nathanpitman.com After a Decade in the Dark"
 description: "The story of how nathanpitman.com — a personal blog that went dark when its host shut down — was recovered from the Wayback Machine and rebuilt with Astro."
-date: 2026-03-15
+date: 2026-03-19
 tags:
   - "AI"
   - "Blogging"
@@ -47,7 +47,7 @@ It’s worth being honest about what was recovered and what it represents. This 
 
 ### Rebuilding the Stack
 
-The new site isn’t running ExpressionEngine. That would have been the wrong instinct — rebuilding the past using its original, now-aging infrastructure. Instead, the rebuild uses a modern, lightweight, statically-deployable stack that doesn’t depend on any single hosting provider’s goodwill, or their definition of “lifetime.” The architecture lives in the repo, documented in replit.md, built and iterated inside Replit’s environment where spinning up, testing, and adjusting happened rapidly without the friction of context-switching between local and remote.
+The new site isn’t running ExpressionEngine. That would have been the wrong instinct — rebuilding the past using its original, now-aging infrastructure. Instead, the rebuild uses a modern, lightweight ([Astro!](https://astro.build)), statically-deployable stack that doesn’t depend on any single hosting provider’s goodwill, or their definition of “lifetime.” The architecture lives in the repo, documented in replit.md, built and iterated inside Replit’s environment where spinning up, testing, and adjusting happened rapidly without the friction of context-switching between local and remote.
 
 ### Content Migration
 
@@ -59,7 +59,7 @@ There’s something worth pausing on in how this rebuild actually happened — b
 
 In the late 90s and early 2000s, one person could do it all. Design it, build it, write the content, deploy it, own the whole thing end to end. No team, no handoff, no Jira ticket. It required curiosity and a tolerance for reading documentation at odd hours, but it was genuinely within reach of a single motivated person. Then the web got more complex. Frameworks proliferated. Infrastructure became its own specialism. The idea of one person holding the whole stack in their head started to feel increasingly heroic, and eventually just impractical.
 
-What’s striking about this rebuild — happening in 2025, inside Replit, with an AI agent doing the heavy lifting on the archaeology, the extraction, and the scaffolding — is how much that earlier feeling has returned. Not through simplification exactly, but through abstraction. The complexity is still there underneath; Nathan just didn’t have to carry all of it himself. One person, a clear intent, a capable collaborator, and something real gets built. It’s a different kind of doing-it-all, but it rhymes with the original.
+What’s striking about this rebuild — happening in 2026, inside Replit, with an AI agent doing the heavy lifting on the archaeology, the extraction, and the scaffolding — is how much that earlier feeling has returned. Not through simplification exactly, but through abstraction. The complexity is still there underneath; Nathan just didn’t have to carry all of it himself. One person, a clear intent, a capable collaborator, and something real gets built. It’s a different kind of doing-it-all, but it rhymes with the original.
 
 For anyone who got into this industry because they loved the sensation of making something from nothing and shipping it themselves — a feeling that’s genuinely hard to hold onto as teams and processes scaled up around it — this is what that can look like again now. That’s not a small thing.
 
@@ -71,6 +71,6 @@ What Nathan hopes this becomes again is a place to think out loud — about tech
 
 But the impulse is the same as it always was: find something interesting, work out what you actually think about it, and put it somewhere.
 
-That’s what a personal blog is for. It’s good to have one again.
+That’s what a personal blog is for. It’s good to be back.
 
 *The full technical record of how this site was rebuilt lives in [replit.md](https://github.com/nathanpitman/Personal-Website/blob/main/replit.md) in the project repository. If you’re thinking about doing something similar with your own lost site, it’s worth a read — and [the Wayback Machine is worth a donation](https://archive.org/donate).*
