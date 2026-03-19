@@ -184,13 +184,6 @@ a:hover         { color: #0000ee; }
   margin-left: 0;
 }
 
-/* Featured image — bleeds left to mirror the original design */
-.post-image {
-  margin: 0 0 14px -20px;
-  border: 1px solid var(--border);
-  width: calc(100% + 20px);
-}
-
 /* Post body — indented to match original layout */
 .post-body {
   padding-left: 5%;
@@ -199,10 +192,11 @@ a:hover         { color: #0000ee; }
   line-height: 1.75;
 }
 
-.body img {
-  width: 100%;
-  display: block;
-  margin: 14px 0;
+/* Featured image — bleeds left to mirror the original design */
+.post-body img {
+  margin: 14px 0 14px -20px;
+  border: 1px solid var(--border);
+  width: calc(100% + 20px);
 }
 
 .post-body p + p {
