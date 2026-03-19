@@ -17,6 +17,8 @@
     "astro": "^4.16.19"
   },
   "devDependencies": {
+    "astro-pagefind": "^1.8.5",
+    "pagefind": "^1.4.0",
     "sharp": "^0.34.5",
     "tsx": "^4.21.0"
   }

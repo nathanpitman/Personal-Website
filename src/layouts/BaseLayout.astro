@@ -45,10 +45,110 @@ const year = new Date().getFullYear();
       <li class={activeNav === 'recently'  ? 'active' : ''}><a href="/">recently</a></li>
       <li class={activeNav === 'archives'  ? 'active' : ''}><a href="/archives">archives</a></li>
       <li class={activeNav === 'about'     ? 'active' : ''}><a href="/about">about</a></li>
+      <li class="nav-search-trigger">
+        <button id="search-open-btn" aria-label="Open search" type="button">
+          <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"
+            fill="none" stroke="currentColor" stroke-width="2.5"
+            stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="11" cy="11" r="8"/>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+          </svg>
+          <span class="search-shortcut" aria-hidden="true">⌘K</span>
+        </button>
+      </li>
     </ul>
   </nav>
 
   <slot />
+
+  <dialog id="search-modal" aria-label="Site search">
+    <div class="search-modal-inner">
+      <div class="search-input-wrap">
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"
+          fill="none" stroke="currentColor" stroke-width="2.5"
+          stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <circle cx="11" cy="11" r="8"/>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+        </svg>
+        <input
+          type="search"
+          id="modal-search-input"
+          placeholder="Search posts…"
+          autocomplete="off"
+          aria-label="Search posts"
+        />
+        <button id="modal-close-btn" type="button" aria-label="Close search">ESC</button>
+      </div>
+      <div id="modal-search-results"></div>
+    </div>
+  </dialog>
+
+  <script type="module">
+    const openBtn = document.getElementById('search-open-btn');
+    const modal = document.getElementById('search-modal');
+    const input = document.getElementById('modal-search-input');
+    const results = document.getElementById('modal-search-results');
+
+    let pagefind;
+
+    async function ensurePagefind() {
+      if (!pagefind) {
+        pagefind = await import('/pagefind/pagefind.js');
+        await pagefind.init();
+      }
+    }
+
+    const animOpts = { duration: 180, easing: 'ease' };
+    const fromState = { opacity: 0, transform: 'scale(0.97) translateY(-6px)' };
+    const toState   = { opacity: 1, transform: 'scale(1) translateY(0)' };
+
+    function openModal() {
+      modal.showModal();
+      modal.animate([fromState, toState], animOpts);
+      input.focus();
+      ensurePagefind();
+    }
+
+    function closeModal() {
+      modal.animate([toState, fromState], { ...animOpts, fill: 'forwards' });
+      setTimeout(() => {
+        modal.close();
+        input.value = '';
+        results.innerHTML = '';
+      }, animOpts.duration + 20);
+    }
+
+    openBtn.addEventListener('click', openModal);
+    document.getElementById('modal-close-btn').addEventListener('click', closeModal);
+
+    // Intercept native Escape so it uses the animated close
+    modal.addEventListener('cancel', e => {
+      e.preventDefault();
+      closeModal();
+    });
+
+    document.addEventListener('keydown', e => {
+      if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+        e.preventDefault();
+        modal.open ? closeModal() : openModal();
+      }
+    });
+
+    modal.addEventListener('click', e => {
+      if (e.target === modal) closeModal();
+    });
+
+    input.addEventListener('input', async () => {
+      const query = input.value.trim();
+      if (!query) { results.innerHTML = ''; return; }
+      await ensurePagefind();
+      const search = await pagefind.search(query);
+      const top = await Promise.all(search.results.slice(0, 8).map(r => r.data()));
+      results.innerHTML = top.length
+        ? top.map(r => `<a href="${r.url}">${r.meta.title}</a>`).join('')
+        : '<p class="no-results">No results found.</p>';
+    });
+  </script>
 
   <footer class="site-footer">
     <div class="site-footer-inner">
