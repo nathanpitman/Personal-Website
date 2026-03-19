@@ -47,13 +47,18 @@ function formatDate(date: Date): string {
   const y = date.getFullYear().toString().slice(-2);
   return `${months[date.getMonth()]} ${d}. ${y}`;
 }
+
+const d = post.data.date;
+const yyyy = d.getFullYear().toString();
+const mm = String(d.getMonth() + 1).padStart(2, '0');
+const dd = String(d.getDate()).padStart(2, '0');
 ---
 
 <BaseLayout title={`${post.data.title} — journal`} description={description} activeNav="recently">
   <div class="page">
 
     <main class="main">
-      <article class="post">
+      <article class="post" data-pagefind-meta={`date:${yyyy}-${mm}-${dd}`}>
         <header class="post-header">
           <div class="post-title-line">
             <h2 class="post-title">{post.data.title}</h2>
@@ -70,6 +75,7 @@ function formatDate(date: Date): string {
             ))}
           </p>
         )}
+        <span class="date-search-tokens">{yyyy}-{mm}-{dd} {yyyy}-{mm} {yyyy} {mm} {dd}</span>
       </article>
     </main>
 
