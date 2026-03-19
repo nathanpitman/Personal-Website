@@ -59,6 +59,7 @@ These are deliberate nods to the original site's aesthetic:
 - The Pagefind JS bundle (`/pagefind/pagefind.js`) is **lazily imported** only on first modal open — do not eagerly load it on page load
 - Search UI lives in `src/layouts/BaseLayout.astro` as a `<dialog>` element with a spotlight-style open/close animation
 - Results are capped at 8; `r.data()` is only called on the top slice because it fetches full page data and is expensive
+- **Index scoping**: `data-pagefind-body` on `<article>` in `[...slug].astro` limits post-page indexing to article content only. All `<aside>` sidebar components carry `data-pagefind-ignore` to prevent sidebar content (nav links, "Elsewhere" profiles, etc.) from polluting search results.
 
 ## Date Tokens in Post Pages — Do Not Remove
 
@@ -87,7 +88,7 @@ The close animation uses `fill: 'forwards'` + a `setTimeout` (animation duration
 | File | Purpose |
 |------|---------|
 | `src/layouts/BaseLayout.astro` | Shared HTML shell, search modal, WAAPI animation, Pagefind lazy load |
-| `src/pages/posts/[...slug].astro` | Post page layout, hidden date tokens, `data-pagefind-meta` |
+| `src/pages/posts/[...slug].astro` | Post page layout, hidden date tokens, `data-pagefind-meta`, `data-pagefind-body` |
 | `src/content.config.ts` | Content collection schemas (posts + pages) |
 | `src/utils/slugify.ts` | Shared slug utility — use for all tag slugs |
 | `public/styles/main.css` | All site styles (single file, no preprocessor) |
