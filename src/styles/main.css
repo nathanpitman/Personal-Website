@@ -383,7 +383,7 @@ a:hover         { color: #0000ee; }
 
 .archive-year-heading {
   font-family: var(--sans);
-  font-size: 2.4rem;
+  font-size: 2rem;
   font-weight: 800;
   color: var(--text);
   letter-spacing: -0.02em;
