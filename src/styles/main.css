@@ -191,18 +191,18 @@ a:hover         { color: #0000ee; }
   width: calc(100% + 20px);
 }
 
-.post-image img {
-  width: 100%;
-  display: block;
-  margin: 14px 0;
-}
-
 /* Post body — indented to match original layout */
 .post-body {
   padding-left: 5%;
   font-size: 0.95rem;
   color: var(--text-mid);
   line-height: 1.75;
+}
+
+.body img {
+  width: 100%;
+  display: block;
+  margin: 14px 0;
 }
 
 .post-body p + p {
