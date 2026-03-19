@@ -194,9 +194,8 @@ a:hover         { color: #0000ee; }
 
 /* Featured image — bleeds left to mirror the original design */
 .post-body img {
-  margin: 14px 0 14px -20px;
-  border: 1px solid var(--border);
-  width: calc(100% + 20px);
+  margin: 14px 0 14px -5%;
+  width: calc(100% + 5%);
 }
 
 .post-body p + p {
