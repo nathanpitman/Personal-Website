@@ -30,7 +30,7 @@ Microsoft offer 3 solutions to this problem, but none of them are acceptable.
 \*1. Ask users to [turn off local machine security](http://www.phdcc.com/xpsp2.htm#securityoptions)\*  
 *Ok, I can’t really see any clients agreeing to that approach.*
 
-**2. Add the ‘“Mark of the web”:http://www.phdcc.com/xpsp2.htm#markoftheweb’ to all your HTML pages**  
+**2. Add the ‘[Mark of the web](http://www.phdcc.com/xpsp2.htm#markoftheweb)’ to all your HTML pages**  
 *No good as links to other file types don’t work. I can’t add an HTML comment to a PDF document now can I.*
 
 \*3. Wrap your application in an [HTA file](http://www.phdcc.com/xpsp2.htm#hta)\*  
@@ -38,6 +38,6 @@ Microsoft offer 3 solutions to this problem, but none of them are acceptable.
 
 So, what can you do if you want to run an HTML based application off your local machine without having to resort to any of the above.
 
-After a bit of digging I came across a fantastic little product called ‘“Server2Go”:http://www.server2go-web.de/’. This is a fully functional free Apache web server that you can drag and drop onto a CD-ROM. This allows you to run your HTML application ‘through’ a real web server which exists only while that browser session is open, so to all intents are purposes your users are browsing ‘online content’ and so IE is quite happy to execute JavaScript and other Active Content.
+After a bit of digging I came across a fantastic little product called ‘[Server2Go](http://www.server2go-web.de). This is a fully functional free Apache web server that you can drag and drop onto a CD-ROM. This allows you to run your HTML application ‘through’ a real web server which exists only while that browser session is open, so to all intents are purposes your users are browsing ‘online content’ and so IE is quite happy to execute JavaScript and other Active Content.
 
 Problem Solved! :)
