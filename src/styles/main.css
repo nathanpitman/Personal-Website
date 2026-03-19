@@ -363,6 +363,15 @@ a:hover         { color: #0000ee; }
   color: var(--text-muted);
 }
 
+.date-search-tokens {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+}
+
 
 /* -----------------------------------------------------------------------------
    ARCHIVES PAGE
