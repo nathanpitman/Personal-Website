@@ -17,7 +17,7 @@ const sideProjects = await getCollection('projects');
 const visibleProjects = sideProjects.filter(project => !project.data.hidden);
 ---
 
-<aside class="sidebar" aria-label="Sidebar">
+<aside class="sidebar" aria-label="Sidebar" data-pagefind-ignore>
 
   <div class="site-identity">
     <a href="/" class="site-identity-link" aria-label="Nathan Pitman – go to homepage">
