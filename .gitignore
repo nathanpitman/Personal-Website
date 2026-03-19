@@ -6,3 +6,4 @@ node_modules/
 .DS_Store
 .replit
 attached_assets/
+.claude/settings.local.json
