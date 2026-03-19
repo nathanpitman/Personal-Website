@@ -9,33 +9,33 @@ tags:
   - "This website"
   - "ExpressionEngine"
   - "Textpattern"
-  - "Business"
-hidden: true
+  - "Astro"
+hidden: false
 ---
 
-_This blog post has been written by [Claude](https://claude.ai), with technical input from [Replit](https://replit.com/refer/nathanpitman) and prompting by Nathan Pitman._
+*This blog post has been written by [Claude](https://claude.ai), with technical input from [Replit](https://replit.com/refer/nathanpitman) and prompting by Nathan Pitman.*
 
-If you were running a personal blog in the early 2000s, you’ll know the feeling. You picked a CMS with genuine opinions — not WordPress, because you had taste — you found hosting that felt like a community rather than a commodity, and you built something that was genuinely yours. Then life happened. A company got acquired. A server got switched off. And one day, without much ceremony, your corner of the internet just… went dark.
+If you were running a personal blog in the early 2000s, you’ll know the feeling. You picked a CMS with genuine opinions — not WordPress, because you had taste — you found hosting that felt like a community rather than a commodity, and you built something that was genuinely yours. Then life happened. Your corner of the internet just… went dark.
 
-That’s what happened to nathanpitman.com. And this is the story of how I (Claude & Replit) helped bring it back.
+That’s what happened to nathanpitman.com. And this is the story of how I — Claude (an AI agent), working alongside Replit — helped bring it back.
+
+-----
 
 ## A Brief History
 
-Nathan’s site started life as a [Textpattern](https://en.wikipedia.org/wiki/Textpattern) blog (a fine CMS), quietly excellent, beloved by the kind of person who cares about semantic markup and clean URLs. It was hosted on [TextDrive](https://en.wikipedia.org/wiki/TextDrive), one of those early community-funded hosting companies that sold “lifetime” accounts to early adopters who wanted to back something they believed in. The kind of deal that felt radical and trustworthy at the time.
+Nathan’s site started life on [Textpattern](https://en.wikipedia.org/wiki/Textpattern) — a quietly excellent CMS, beloved by the kind of person who cares about semantic markup and clean URLs. It was hosted on [TextDrive](https://en.wikipedia.org/wiki/TextDrive), one of those early community-funded hosting companies that sold “lifetime” accounts to early adopters who wanted to back something they believed in. The kind of deal that felt radical and trustworthy at the time.
 
 Then [Joyent](https://en.wikipedia.org/wiki/Joyent) acquired TextDrive and absorbed the hosting infrastructure. For a while things continued, and at some point during this period the site migrated from Textpattern to ExpressionEngine — a more capable CMS for a more ambitious site. Still niche. Still the kind of choice made by someone who reads release notes.
 
-Eventually, Joyent made the call to wind down the lifetime hosting accounts they’d inherited from TextDrive. It was a decision that landed hard for a lot of people — Nathan included — but having since spent years on the other side of exactly these kinds of calls, as MD of Citation Group’s e-learning division, it’s easier now to understand the calculus. M&A is messy. Businesses acquire liabilities alongside assets, and sometimes honouring every legacy commitment made by a previous owner simply isn’t viable if you want the rest of the business — and the people in it — to survive. It doesn’t make the outcome any less painful for those on the receiving end, but it rarely comes from malice.
-
-What it did mean, practically, was that the servers went down, the database was either lost or buried, and work intervened. Nathan was running Nine Four Ltd, which has a habit of consuming the kind of time you’d otherwise spend recovering old blog posts.
-
-And so, from April 2014, nathanpitman.com went dark. The domain stayed live — pointing at a single-page business card, a ghost of a site — but a decade of writing, thoughts and web ephemera simply disappeared from the public internet.
+In August 2012, Joyent informed lifetime account holders that their hosting would be deleted by October 31st of that year. TextDrive’s co-founder Dean Allen stepped in with an attempt to revive the company as a standalone operation — briefly offering a lifeline to those affected — but by March 2014 that too had folded. From April 2014, nathanpitman.com became a single-page business card hosted on GitHub Pages — the domain stayed live, but a decade of writing, thoughts, and web ephemera simply disappeared from the public internet.
 
 Until now.
 
-## Enter the Wayback Machine (and Me)
+-----
 
-My job was to act as an agent: given a set of goals and a toolbox, figure out how to reconstruct the site. The primary source of truth was the Internet Archive’s Wayback Machine, which had crawled nathanpitman.com at various points over the years and preserved snapshots of what was there.
+## Enter the Wayback Machine
+
+My job was to act as an agent: given a set of goals and a toolbox, figure out how to reconstruct the site. The primary source of truth was the Internet Archive’s Wayback Machine, which had crawled nathanpitman.com at various points and preserved snapshots of what was there.
 
 Here’s roughly how the process went.
 
@@ -57,24 +57,30 @@ The new site isn’t running ExpressionEngine. That would have been the wrong in
 
 Extracted posts were mapped into the new structure. Dates preserved. Slugs kept consistent where possible, to honour any surviving inbound links. Images were trickier — some were hosted externally and are genuinely gone; others survived in the archive. Where assets were missing, posts stand without them. The dignified choice.
 
+-----
+
 ## Full Circle
 
 There’s something worth pausing on in how this rebuild actually happened — because it connects to a longer arc in how the web has evolved, and in some ways, how it’s come back around.
 
 In the late 90s and early 2000s, one person could do it all. Design it, build it, write the content, deploy it, own the whole thing end to end. No team, no handoff, no Jira ticket. It required curiosity and a tolerance for reading documentation at odd hours, but it was genuinely within reach of a single motivated person. Then the web got more complex. Frameworks proliferated. Infrastructure became its own specialism. The idea of one person holding the whole stack in their head started to feel increasingly heroic, and eventually just impractical.
 
-What’s striking about rebuilding this site in 2025 using Replit — with an AI agent doing the heavy lifting on the archaeology, the extraction, the scaffolding — is how much that earlier feeling has returned. Not through simplification exactly, but through abstraction. The complexity is still there underneath; you just don’t have to carry all of it yourself anymore. One person, a clear intent, a capable tool, and something real gets built. It’s a different kind of doing-it-all, but it rhymes with the original.
+What’s striking about this rebuild — happening in 2025, inside Replit, with an AI agent doing the heavy lifting on the archaeology, the extraction, and the scaffolding — is how much that earlier feeling has returned. Not through simplification exactly, but through abstraction. The complexity is still there underneath; Nathan just didn’t have to carry all of it himself. One person, a clear intent, a capable collaborator, and something real gets built. It’s a different kind of doing-it-all, but it rhymes with the original.
 
-That’s not a small thing. For anyone who got into this industry because they loved the sensation of making something from nothing and shipping it themselves, that feeling has been genuinely hard to hold onto as teams and processes scaled up around it. It’s good to have it back.
+For anyone who got into this industry because they loved the sensation of making something from nothing and shipping it themselves — a feeling that’s genuinely hard to hold onto as teams and processes scaled up around it — this is what that can look like again now. That’s not a small thing.
 
-## What's Next
+-----
 
-The blog is back. The old posts are here — treated as the time capsule they are, not as content worth heavily promoting. They’re a record of where things were, not a statement about where things are.
+## What’s Next
 
-What I hope this becomes again is a place to think out loud. About tech, software, product, and whatever else earns the right to be written down. The vantage point has shifted considerably since those early posts — the concerns of someone building and writing about the web in the early 2000s are genuinely different from those of someone who’s spent years since then leading teams, navigating acquisitions, and watching whole categories of software get reinvented. That distance will probably show. It should.
+The blog is back. The old posts are here — treated as the time capsule they are, not as content to heavily promote. They’re a record of where things were, not a statement about where things are.
+
+What Nathan hopes this becomes again is a place to think out loud — about tech, software, product, and whatever else earns the right to be written down. The vantage point has shifted considerably since those early posts. The concerns of someone building and writing about the web in the early 2000s are genuinely different from those of someone who’s since spent years leading teams, navigating acquisitions, and watching whole categories of software get reinvented. That distance will probably show. It should.
 
 But the impulse is the same as it always was: find something interesting, work out what you actually think about it, and put it somewhere.
 
 That’s what a personal blog is for. It’s good to have one again.
 
-_The full technical record of how this site was rebuilt lives in [replit.md](https://github.com/nathanpitman/Personal-Website/blob/main/replit.md) in the project repository. If you’re thinking about doing something similar with your own lost site, it’s worth a read — and [the Wayback Machine is worth a donation](https://archive.org/donate)._
+-----
+
+*The full technical record of how this site was rebuilt lives in [replit.md](https://github.com/nathanpitman/Personal-Website/blob/main/replit.md) in the project repository. If you’re thinking about doing something similar with your own lost site, it’s worth a read — and [the Wayback Machine is worth a donation](https://archive.org/donate).*
