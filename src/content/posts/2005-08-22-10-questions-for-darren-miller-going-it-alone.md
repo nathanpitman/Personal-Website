@@ -1,11 +1,13 @@
 ---
 title: 10 questions for Darren Miller (Going it alone)
-description: "Third in a series — Darren Miller discusses going freelance as a web designer and developer."
 date: 2005-08-22
 source: http://nathanpitman.com/394/10-questions-for-darren-miller-going-it-alone
 archive: https://web.archive.org/web/20100113151405/http://nathanpitman.com:80/394/10-questions-for-darren-miller-going-it-alone
+description: Third in a series — Darren Miller discusses going freelance as a
+  web designer and developer.
 tags:
-  - "Employment"
+  - Employment
+  - Interview
 ---
 
 In the third of five interviews with web designers and developers who are self employed I chat with [Darren Miller](http://www.darrenm.net/). I got to know Darren whilst working at [TMB](http://www.tmbmarcom.com/) on an event based video game for [HP](http://www.hp.co.uk/). Darren is a new media designer and developer.
@@ -47,7 +49,8 @@ I guess the lesson there is do a good job for people and they’ll come back for
 **Nathan:** How does your average work day pan out? For example do you have specific times during which you respond to prospects and clients, read blogs and eat biscuits, or do you just go with the flow?
 
 **Darren:** Depends on work load but I’ll usually do my emails and admin before getting stuck into paid work. It’s also important to devote at least one day per month to getting the bills out and the money in.  
-h3. Work and play
+
+### Work and play
 
 **Nathan:** Does working freelance ‘actually’ give you more free time for yourself and/or your family? Or in reality and do you actually spend every waking hour sat at the computer trying to make sure that you can pay the bills each month?
 

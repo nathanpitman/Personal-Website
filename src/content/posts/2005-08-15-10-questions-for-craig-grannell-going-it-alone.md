@@ -1,11 +1,13 @@
 ---
 title: 10 questions for Craig Grannell (Going it alone)
-description: "First in a series of interviews with self-employed web designers and developers. Craig Grannell shares his experience going freelance."
 date: 2005-08-15
 source: http://nathanpitman.com/390/10-questions-for-craig-grannell-going-it-alone
 archive: https://web.archive.org/web/20091217084216/http://nathanpitman.com:80/390/10-questions-for-craig-grannell-going-it-alone
+description: First in a series of interviews with self-employed web designers
+  and developers. Craig Grannell shares his experience going freelance.
 tags:
-  - "Employment"
+  - Employment
+  - Interview
 ---
 
 In the first of 5 interviews with web designers and developers who are self employed I chat with [Craig Grannell](http://www.snubcommunications.com/). I first met Craig whilst working at [Designation](http://www.designation.com/) way back in 1999. Craig’s business (Snub Communications) provides web design and copywriting services.
@@ -26,7 +28,7 @@ In the first of 5 interviews with web designers and developers who are self empl
 
 **Nathan:** On your first day did you do a shed load of work or just play PlayStation?
 
-**Craig:** I didn’t have a “first day” in the typical sense, as I’ve just said. However, anyone who spends their freelance work time messing around simply won’t make it â¹ you have to be committed and have plenty of will-power.
+**Craig:** I didn’t have a “first day” in the typical sense, as I’ve just said. However, anyone who spends their freelance work time messing around simply won’t make it - you have to be committed and have plenty of will-power.
 
 ### Rates
 
@@ -72,6 +74,6 @@ In the first of 5 interviews with web designers and developers who are self empl
 
 1. **Don’t fuck up.** If you state a deadline to a client, stick to it. Always do your best work, and don’t think you can get away with cutting corners.
 2. **Be realistic.** If a client says they want something by a certain date that’s simply not achievable, either try to convince them to shift the deadline or don’t take the job.
-3. **Be honest.** If you screw up, say so â¹ don’t try to fool a client. If you’re going to miss a deadline, for whatever reason, tell the client with as much advance warning as possible.
+3. **Be honest.** If you screw up, say so - don’t try to fool a client. If you’re going to miss a deadline, for whatever reason, tell the client with as much advance warning as possible.
 4. **Get an accountant.** Keep all your receipts, log all of your jobs (and when/if you’re paid) and get an accountant to do your tax returns.
-5. **Back-up.** You need a minimum of two levels of back-up â¹ get a one-touch external firewire drive to back-up your work to at least once every week (or daily, if possible) and also regularly back-up to DVDR.
+5. **Back-up.** You need a minimum of two levels of back-up - get a one-touch external firewire drive to back-up your work to at least once every week (or daily, if possible) and also regularly back-up to DVDR.

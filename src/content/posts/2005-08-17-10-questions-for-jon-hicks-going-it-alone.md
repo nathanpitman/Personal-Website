@@ -1,14 +1,16 @@
 ---
 title: 10 questions for Jon Hicks (Going it alone)
-description: "Second in a series of interviews with self-employed web professionals. Jon Hicks on the realities of working for yourself."
 date: 2005-08-17
 source: http://nathanpitman.com/389/10-questions-for-jon-hicks-going-it-alone
 archive: https://web.archive.org/web/20100107200850/http://nathanpitman.com:80/389/10-questions-for-jon-hicks-going-it-alone
+description: Second in a series of interviews with self-employed web
+  professionals. Jon Hicks on the realities of working for yourself.
 tags:
-  - "Employment"
+  - Employment
+  - Interview
 ---
 
-In the second of 5 interviews with web designers and developers who are self employed I chat with Jon Hicks. I’ve never ‘actually’ met Jon, but he’s a fellow Brit and makes his money off the back of some one man venture called ‘“Hicksdesign”:http://www.hicksdesign.co.uk’… ~~you’ve probably not heard of him, it’s not like he did the Firefox logo or anything~~ you’ve probably heard of him, he did the Firefox logo don’t you know.
+In the second of 5 interviews with web designers and developers who are self employed I chat with Jon Hicks. I’ve never ‘actually’ met Jon, but he’s a fellow Brit and makes his money off the back of some one man venture called '[Hicksdesign](http://www.hicksdesign.co.uk)'... ~~you’ve probably not heard of him, it’s not like he did the Firefox logo or anything~~ you’ve probably heard of him, he did the Firefox logo don’t you know.
 
 ### Why
 
