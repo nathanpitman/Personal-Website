@@ -40,7 +40,7 @@ const year = new Date().getFullYear();
 </head>
 <body class={bodyClass || undefined}>
 
-  <nav class="site-nav" aria-label="Primary navigation">
+  <nav class="site-nav" aria-label="Primary navigation" data-pagefind-ignore>
     <ul>
       <li class={activeNav === 'recently'  ? 'active' : ''}><a href="/">recently</a></li>
       <li class={activeNav === 'archives'  ? 'active' : ''}><a href="/archives">archives</a></li>
