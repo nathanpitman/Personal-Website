@@ -6,6 +6,7 @@ source: http://nathanpitman.com/25/goodbye-youth-hello-responsibility
 archive: https://web.archive.org/web/20100102214827/http://nathanpitman.com:80/25/goodbye-youth-hello-responsibility
 tags:
   - "Personal"
+  - "Cars"
 ---
 
 Today it feels as if somehow I’m saying goodbye to my youth. This is the last day I will drive to and from work in my two seater, rear engined convertible sports car. Or as it’s affectionatley known by my wife; Nibble.
