@@ -31,6 +31,6 @@ Here was a tool (an IDE of sorts) that I could interact with through a conversat
 
 Software design and development has changed forever (again) and there’s no going back.
 
-What’s evident to me is that the disruption isn’t even done yet, almost every week these tools are developing and improving, makers are out there writing skills for the AI agents, sharing their experiences and feeding this all back into the engine. 
+What’s evident to me is that the disruption isn’t even done yet, [almost every week these tools are developing and improving](https://claude.com/blog-category/announcements), makers are out there writing [skills for the AI agents](https://agentskills.io/home), sharing their experiences and feeding this all back into the engine. 
 
 I’m curious to see what this means for the tools we’ve called on for the last decade and excited to continue exploring how AI can accelerate how we bring ideas to life and magnify their impact.
