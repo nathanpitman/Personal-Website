@@ -13,7 +13,7 @@ So, why bring it back from the dead?
 
 October 2025 marked 5 years since I’d written a line of code, 5 years since my last commit, 5 years since that dopamine hit of dreaming something up and bringing it to life with my own hands.
 
-This is all my own doing of course. Back in 2020, after 5 years with iHasco as Creative & Technical Director, I took the opportunity to step into a full time MD role with the business, just as we were acquired by an investor backed group of UK companies. 
+This is all my own doing of course. Back in 2020, after 5 years with [iHasco](https://www.ihasco.co.uk) as Creative & Technical Director, I took the opportunity to step into a full time MD role with the business, just as we were acquired by an investor backed group of UK companies. 
 
 In the years since, I’ve probably remained more involved than most MDs in product, but as we continue to grow and bring more great people into our business, I’m involved less and less in steering the direction of the things we make and more and more in defining the vision that those things align to. 
 
