@@ -23,7 +23,7 @@ Making things has changed. Back when I started in the web, one person could do e
 
 What’s become very evident in recent years is that as the web has grown into a genuinely viable foundation for proper software development, the complexity of doing this has grown too. To me, it felt like it was no longer a domain one person could truly operate. 
 
-Last year I attended an AI session put on by [one of our investors](https://www.kkr.com) and this prompted me to start exploring beyond my previous casual “chat” interactions with ChatGPT. During this session I was introduced to Replit, which our Product team were using for rapid prototyping. 
+Last year I attended an AI session put on by [one of our investors](https://www.kkr.com) and this prompted me to start exploring beyond my previous casual “chat” interactions with ChatGPT. During this session I was introduced to [Replit](https://replit.com/refer/nathanpitman), which our Product team were using for rapid prototyping. 
 
 I was immediately won over.
 
