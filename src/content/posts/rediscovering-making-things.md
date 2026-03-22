@@ -7,8 +7,6 @@ tags:
   - product
 ---
 
-Rediscovering making things
-
 It’s been a while! This blog has gone without human input for almost 12 years and aside from my previous post (written with a helping hand from Claude) this is my first of a new era. 
 
 So, why bring it back from the dead?
