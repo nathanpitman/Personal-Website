@@ -1,0 +1,47 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { parseSourceId } from '../utils/routing';
+
+const posts = await getCollection('posts');
+const idMap: Record<string, string> = {};
+
+for (const post of posts) {
+  if (post.data.hidden) continue;
+  const id = parseSourceId(post.data.source);
+  if (!id) continue;
+  idMap[id] = post.slug;
+}
+
+const idMapJson = JSON.stringify(idMap);
+---
+
+<BaseLayout title="Page not found — journal">
+  <div class="page">
+    <main class="main">
+      <article class="post">
+        <header class="post-header">
+          <div class="post-title-line">
+            <h2 class="post-title">Page not found</h2>
+          </div>
+        </header>
+        <div class="post-body">
+          <p>This page doesn't exist, or may have moved. Try the <a href="/">home page</a> or <a href="/archives">archives</a>.</p>
+        </div>
+      </article>
+    </main>
+  </div>
+</BaseLayout>
+
+<script define:vars={{ idMapJson }}>
+  (function () {
+    const map = JSON.parse(idMapJson);
+
+    // Handle PHP-era URLs: /blog/index.php?id=NNN
+    const params = new URLSearchParams(window.location.search);
+    const id = params.get('id');
+    if (id && map[id]) {
+      window.location.replace('/posts/' + map[id] + '/');
+    }
+  })();
+</script>

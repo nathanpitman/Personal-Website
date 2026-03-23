@@ -8,7 +8,9 @@
     "prebuild": "node scripts/resize-images.mjs",
     "build": "astro build",
     "preview": "astro preview --host 0.0.0.0",
-    "generate-descriptions": "tsx scripts/generate-descriptions.ts"
+    "generate-descriptions": "tsx scripts/generate-descriptions.ts",
+    "test": "vitest run",
+    "test:watch": "vitest"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.79.0",
@@ -20,6 +22,7 @@
     "astro-pagefind": "^1.8.5",
     "pagefind": "^1.4.0",
     "sharp": "^0.34.5",
-    "tsx": "^4.21.0"
+    "tsx": "^4.21.0",
+    "vitest": "^4.1.1"
   }
 }
