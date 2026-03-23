@@ -7,3 +7,4 @@ node_modules/
 .replit
 attached_assets/
 .claude/settings.local.json
+.claude/launch.json
