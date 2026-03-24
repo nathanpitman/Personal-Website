@@ -7,6 +7,7 @@ archive: "https://web.archive.org/web/20090518024043/http://nathanpitman.com:80/
 tags:
   - "Chatter"
   - "Personal"
+  - "Cars"
 ---
 
 15 months ago we purchased a brand spanking new [Kia Sedona](http://www.kia.co.uk/sedonahome.asp) from our local dealership in Reading. Right from the day we took delivery of the car things have just not been right. Initially it was ill fitted and scratched dashboard panels but after a week we also noticed that there was an intermittent problem with the electric sliding doors.
