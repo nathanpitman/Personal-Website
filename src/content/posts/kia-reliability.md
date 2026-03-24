@@ -6,6 +6,7 @@ source: "http://nathanpitman.com/592/kia-reliability"
 archive: "https://web.archive.org/web/20091026063446/http://nathanpitman.com:80/592/kia-reliability"
 tags:
   - "Personal"
+  - "Cars"
 ---
 
 Just a short post really to rant publicly about the shocking reliability of our now 2 year old Kia Sedona. It’s 5 days since our car was delivered to West London Motor Group Kia in High Wycombe on the back of an AA truck. Our 2nd breakdown in 2 years of ownership (I won’t go into detail about the crazy number of times its been back and forth to the dealership in that period for non fatal reliability and build quality issues).
