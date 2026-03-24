@@ -6,6 +6,7 @@ source: "http://nathanpitman.com/605/demise-of-the-kia-sedona"
 archive: "https://web.archive.org/web/20110404105427/http://nathanpitman.com:80/605/demise-of-the-kia-sedona"
 tags:
   - "Personal"
+  - "Cars"
 ---
 
 It’s some time since we waved goodbye to the awful unreliable lump that was our [Kia Sedona](http://www.kia.co.uk/sedonahome.asp) and back in 2009 I set myself the target of denying Kia Â£1 million in car sales to repay them for their glorious customer service ethos.
