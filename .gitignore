@@ -8,3 +8,4 @@ node_modules/
 attached_assets/
 .claude/settings.local.json
 .claude/launch.json
+/.claude
