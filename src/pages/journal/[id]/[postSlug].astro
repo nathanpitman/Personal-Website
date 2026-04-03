@@ -1,0 +1,28 @@
+---
+import { getCollection } from 'astro:content';
+import { parseSourceUrl } from '../../../utils/routing';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  const paths = [];
+
+  for (const post of posts) {
+    if (!post.data.source || post.data.hidden) continue;
+
+    const parsed = parseSourceUrl(post.data.source);
+    if (!parsed) continue;
+
+    const { id, legacySlug } = parsed;
+
+    paths.push({
+      params: { id, postSlug: legacySlug },
+      props: { redirectTo: `/posts/${post.slug}/` },
+    });
+  }
+
+  return paths;
+}
+
+const { redirectTo } = Astro.props;
+return Astro.redirect(redirectTo, 301);
+---

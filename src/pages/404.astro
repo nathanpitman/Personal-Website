@@ -42,6 +42,13 @@ const idMapJson = JSON.stringify(idMap);
     const id = params.get('id');
     if (id && map[id]) {
       window.location.replace('/posts/' + map[id] + '/');
+      return;
+    }
+
+    // Handle /journal/{id}/{slug} legacy paths
+    const journalMatch = window.location.pathname.match(/^\/journal\/(\d+)\//);
+    if (journalMatch && map[journalMatch[1]]) {
+      window.location.replace('/posts/' + map[journalMatch[1]] + '/');
     }
   })();
 </script>
