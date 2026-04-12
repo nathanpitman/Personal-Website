@@ -33,6 +33,8 @@ This led me down a bit of a rabbit hole, I definitley wasn't ready to embark upo
 
 This was a great base to start from as the original FORTRAN code had been [repackaged and released under an open source license](https://gitlab.com/esr/open-adventure) back in 2017.
 
+![Colossal Cave Adventure running on a PDP-11/34 with a video display terminal](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Colossal_Cave_Adventure_on_VT100_terminal.jpg/960px-Colossal_Cave_Adventure_on_VT100_terminal.jpg)
+
 Being the somewhat rusty developer I am, I started fooling around pretty quickly using Replit to parse the original story YAML file to build a POC and establish the basis of the user interface. I had a lot of fun and probably burnt more tokens that I needed to, in retrospect I should have spent some time riffing off how to approach this with ChatGPT or Claude to establish a structured approach.
 
 Find a few hours here and there during evenings and over weekends I managed to get what felt like a playable intepretation of the game up and running, deployed to Github pages and with some fun additions like an improved natural language parser.
@@ -47,6 +49,6 @@ The thing I keep coming back to is that this project has been a really pure exam
 
 Is it finished? Definitley not. Will it ever be? Probably not! But it's playable, it's live, and it was made entirely on iOS using Replit.
 
-You can play it at [nathanpitman.github.io/CanonicalCaveAdventure](https://nathanpitman.github.io/CanonicalCaveAdventure/).
+You can play it at [nathanpitman.github.io/CanonicalCaveAdventure](https://nathanpitman.github.io/CanonicalCaveAdventure/) or dig into the code at [github.com/nathanpitman/CanonicalCaveAdventure](https://github.com/nathanpitman/CanonicalCaveAdventure)
 
-If you stumble into issues or problems, feel free to log an issue and I'll see what I can do! :)
+If you stumble into issues or problems, feel free to [log an issue](https://github.com/nathanpitman/CanonicalCaveAdventure/issues/new) and I'll see what I can do! :)
