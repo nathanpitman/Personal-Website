@@ -1,14 +1,13 @@
 ---
 slug: scratching-the-itch-to-build-a-game
-draft: true
 title: Scratching the itch to build a game
 date: 2026-04-11
+description: From BBC Micro to browser - how nostalgia for text adventures, a
+  dog-eared Ken Williams memoir, and some late-night Replit sessions led to a
+  mobile-friendly port of Colossal Cave Adventure, built entirely on iOS.
 tags:
   - Games
   - AI
-description: From BBC Micro to browser — how nostalgia for text adventures, a
-  dog-eared Ken Williams memoir, and some late-night Replit sessions led to a
-  mobile-friendly port of Colossal Cave Adventure, built entirely on iOS.
 ---
 
 Like many of you reading this, I grew up on computers. My earliest memories are of a BBC Micro which we had plugged into our CRT TV in the lounge, loading Elite from a tape drive, and hoping it didn't fail ten minutes in. Typing game code out from magazines line by line... only to discover I'd made a typo.
@@ -18,6 +17,8 @@ Before long my dad started to bring DOS based computers home from work, CRT base
 I spent hours learning the exact commands required to navigate and instruct these machines, `cd` to move around, `dir` to see what was there... Despite my limited knowledge (and a few erroneous deletions no doubt!) this felt powerful, like a direct conversation with the computer (even if you had to be exact to make things work).
 
 My earliest gaming memories on those machines are pretty vivid. I remember poking around in Microsoft BASIC, editing the [Gorilla Game](https://en.wikipedia.org/wiki/Gorillas_(video_game)) that shipped with MS-DOS 5 (the one where two giant apes on city rooftops throw exploding bananas at each other). I used to tweak the values in the .BAS file, save, re-run... see what I'd changed.
+
+![Fair use, https://en.wikipedia.org/w/index.php?curid=1716850](https://upload.wikimedia.org/wikipedia/en/2/2f/Gorillas_screenshot.png)
 
 Text adventures were also a part of my world. In a sense I guess they were an extension of the DOS interface, a blinking cursor that I could type words at to progress through a story. They reminded me of the "Choose your own adventure" books that I used to borrow from the local library every few weeks - I found them fascinating.
 
