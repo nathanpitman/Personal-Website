@@ -1,6 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
-import { slugify } from '../utils/slugify';
+import { slugify, displayTag } from '../utils/slugify';
 
 interface Props {
   activeTag?: string;
@@ -53,7 +53,7 @@ const sortedTags = Array.from(tagCounts.values()).sort((a, b) =>
     <ul class="sidebar-list">
       {sortedTags.map(tag => (
         <li data-tag={tag.slug}>
-          <a href={`/tag/${tag.slug}`} class={tag.slug === activeTag ? 'active-tag' : ''}>{tag.name} ({tag.count})</a>
+          <a href={`/tag/${tag.slug}`} class={tag.slug === activeTag ? 'active-tag' : ''}>{displayTag(tag.name)} ({tag.count})</a>
         </li>
       ))}
     </ul>

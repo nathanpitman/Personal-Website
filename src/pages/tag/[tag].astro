@@ -2,7 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SidebarTags from '../../components/SidebarTags.astro';
 import { getCollection } from 'astro:content';
-import { slugify } from '../../utils/slugify';
+import { slugify, displayTag } from '../../utils/slugify';
 
 function getPostTags(post: any): string[] {
   return post.data.tags ?? [];
@@ -42,12 +42,12 @@ function formatDate(date: Date): string {
 }
 ---
 
-<BaseLayout title={`Tag: ${tagName} — nathan pitman`} activeNav="archives" bodyClass={`tag-${tagSlug}`}>
+<BaseLayout title={`Tag: ${displayTag(tagName)} — nathan pitman`} activeNav="archives" bodyClass={`tag-${tagSlug}`}>
   <div class="page">
 
     <main class="main">
 
-      <h1 class="tag-heading">Archives / Tag: {tagName}</h1>
+      <h1 class="tag-heading">Archives / Tag: {displayTag(tagName)}</h1>
 
       {posts.map(async (post) => {
         const { Content } = await post.render();
@@ -66,7 +66,7 @@ function formatDate(date: Date): string {
             {getPostTags(post).length > 0 && (
               <p class="post-tags">
                 Tagged: {getPostTags(post).map((tag: string, i: number) => (
-                  <><a href={`/tag/${slugify(tag)}`}>{tag}</a>{i < getPostTags(post).length - 1 ? ', ' : ''}</>
+                  <><a href={`/tag/${slugify(tag)}`}>{displayTag(tag)}</a>{i < getPostTags(post).length - 1 ? ', ' : ''}</>
                 ))}
               </p>
             )}

@@ -2,7 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Sidebar from '../../components/Sidebar.astro';
 import { getCollection } from 'astro:content';
-import { slugify } from '../../utils/slugify';
+import { slugify, displayTag } from '../../utils/slugify';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
@@ -71,7 +71,7 @@ const dd = String(d.getDate()).padStart(2, '0');
         {tags.length > 0 && (
           <p class="post-tags">
             Tagged: {tags.map((tag: string, i: number) => (
-              <><a href={`/tag/${slugify(tag)}`}>{tag}</a>{i < tags.length - 1 ? ', ' : ''}</>
+              <><a href={`/tag/${slugify(tag)}`}>{displayTag(tag)}</a>{i < tags.length - 1 ? ', ' : ''}</>
             ))}
           </p>
         )}
