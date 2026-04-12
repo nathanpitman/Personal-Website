@@ -2,6 +2,7 @@
 title: "Back From the Dead: Resurrecting nathanpitman.com After a Decade in the Dark"
 description: "The story of how nathanpitman.com — a personal blog that went dark when its host shut down — was recovered from the Wayback Machine and rebuilt with Astro."
 date: 2026-03-19
+slug: 2026-03-15-back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark
 tags:
   - "AI"
   - "Blogging"
