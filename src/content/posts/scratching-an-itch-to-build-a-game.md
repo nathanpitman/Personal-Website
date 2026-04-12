@@ -36,7 +36,7 @@ This was a great base to start from as the original FORTRAN code had been [repac
 
 ![Colossal Cave Adventure running on a PDP-11/34 with a video display terminal](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Colossal_Cave_Adventure_on_VT100_terminal.jpg/960px-Colossal_Cave_Adventure_on_VT100_terminal.jpg)
 
-Being the somewhat rusty developer I am, I started fooling around pretty quickly using Replit to parse the original story YAML file to build a POC and establish the basis of the user interface. I had a lot of fun and probably burnt more tokens that I needed to, in retrospect I should have spent some time riffing off how to approach this with ChatGPT or Claude to establish a structured approach.
+Being the somewhat rusty developer I am, I started fooling around pretty quickly using Replit to parse the original story YAML file to build a POC and establish the basis of the user interface. I had a lot of fun and probably burnt more tokens that I needed to, in retrospect I should have spent some time riffing off how to approach this with ChatGPT or Claude to establish a structured plan.
 
 Find a few hours here and there during evenings and over weekends I managed to get what felt like a playable intepretation of the game up and running, deployed to Github pages and with some fun additions like an improved natural language parser.
 
