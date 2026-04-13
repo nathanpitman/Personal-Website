@@ -6,13 +6,29 @@ import { slugify, displayTag } from '../../utils/slugify';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
-  return posts.filter(p => !p.data.hidden).map(post => ({
+  const visible = posts.filter(p => !p.data.hidden);
+
+  const canonical = visible.map(post => ({
     params: { slug: post.slug },
-    props: { post },
+    props: { post, redirectTo: null },
   }));
+
+  const dateRedirects = visible.map(post => {
+    const d = post.data.date;
+    const yyyy = d.getFullYear();
+    const mm = String(d.getMonth() + 1).padStart(2, '0');
+    const dd = String(d.getDate()).padStart(2, '0');
+    return {
+      params: { slug: `${yyyy}-${mm}-${dd}-${post.slug}` },
+      props: { post, redirectTo: `/posts/${post.slug}/` },
+    };
+  });
+
+  return [...canonical, ...dateRedirects];
 }
 
-const { post } = Astro.props;
+const { post, redirectTo } = Astro.props;
+if (redirectTo) return Astro.redirect(redirectTo, 301);
 const { Content } = await post.render();
 const tags = post.data.tags ?? [];
 
