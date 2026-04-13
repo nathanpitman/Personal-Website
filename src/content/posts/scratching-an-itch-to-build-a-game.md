@@ -26,7 +26,7 @@ I can't remember exactly how the Sierra "Quest" games came into our house (proba
 
 I played through the Sierra games as quickly as my dad could source them; King's Quest, Police Quest, Leisure Suit Larry (which I definitely wasn't old enough for!).
 
-Getting to the point of all this... last year I picked up and consumed every single page of [Ken Williams memoir](https://www.amazon.com/dp/1716727367) and the desire to explore adventure games was rekindled. I'd also been fiddling around with [Replit](https://replit.com/refer/nathanpitman) at work and across a number of personal projects (one of them being to resurect this website), it occured to me that I could probably build my own text adventure game.
+Getting to the point of all this... last year I picked up and consumed every single page of [Ken Williams memoir](https://www.amazon.com/dp/1716727367) and the desire to explore adventure games was rekindled. I'd also been fiddling around with [Replit](https://replit.com/refer/nathanpitman) at work and across a number of personal projects ([one of them being to resurect this website](/posts/back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark/)), it occured to me that I could probably build my own text adventure game.
 
 Now, while I do enjoy penning words from time to time, I'm certainly no storyteller - so I decided it might be fun to riff off an existing story or an existing game.
 
