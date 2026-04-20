@@ -95,3 +95,19 @@ Tag slugs are generated via the shared `src/utils/slugify.ts` utility — always
 - **`SidebarArchives.astro`** — used on the Archives page. Also shows the full tag list, giving the archives page dual-purpose: chronological browsing on the left, topic browsing in the sidebar.
 
 Both components compute tag counts at build time by iterating all non-hidden posts.
+
+---
+
+## Sitemap
+
+The sitemap is auto-generated at build time by `@astrojs/sitemap`. It produces `sitemap-index.xml` (the index) and `sitemap-0.xml` (all URLs).
+
+Only canonical URLs are included. Redirect pages are excluded via a `filter` function in `astro.config.mjs`:
+
+| Excluded pattern | Reason |
+|---|---|
+| `/category/{slug}/` | Meta-refresh redirects to `/tag/{slug}/` |
+| `/posts/YYYY-MM-DD-{slug}/` | 301 redirects to canonical `/posts/{slug}/` |
+| `/{id}/{slug}/` | Legacy ID URLs, 301 redirect to canonical post |
+
+The remaining ~321 canonical URLs are: home, `/about`, `/archives`, all `/posts/{slug}/` pages, and all `/tag/{slug}/` pages.
