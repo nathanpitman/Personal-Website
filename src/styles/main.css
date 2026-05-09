@@ -289,6 +289,7 @@ a:hover         { color: #0000ee; }
 
 .post-title-line {
   line-height: 1.25;
+  text-wrap: balance;
 }
 
 .post-title {
