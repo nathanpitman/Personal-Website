@@ -2,13 +2,12 @@
 title: Energy Economy in Open Transport Tycoon Deluxe
 description: A full energy economy mod for OpenTTD that introduces nuclear and
   renewable industries over time — built for my own amusement.
-pubDate: 2025-05-09
+date: 2026-05-09
 tags:
-  - games
-  - making things
-  - openttd
-  - side projects
-draft: false
+  - "Games"
+  - "Making things"
+  - "OpenTTD"
+  - "Side Project"
 ---
 
 OpenTTD is a game I've come back to over and over again (for decades!). There's something deeply satisfying about its pace, the logic, building things, watching the towns grow, optimising travel routes for efficiency - I love it!
