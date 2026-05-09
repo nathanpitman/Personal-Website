@@ -6,12 +6,11 @@ tags: ["games", "making things", "openttd", "side projects"]
 draft: false
 ---
 
-OpenTTD is a game I come back to over and over again (for decades!). There's something deeply satisfying about its pace, the logic, building things, watching the towns grow, optimising travel routes for efficiency - I love it!
+OpenTTD is a game I've come back to over and over again (for decades!). There's something deeply satisfying about its pace, the logic, building things, watching the towns grow, optimising travel routes for efficiency - I love it!
 
-Something thats always nothered me though is how as the game clock ticks through the decades and the world changes with it, the energy economy remains static, the coal mine feeds the coal power station, the coal power station sits there forever, and somehow the game transitions to Maglev trains but we're still
-generating electricity from coal! [Robert Llewellyn](https://bsky.app/profile/did:plc:icpcewckffb4arhmydvyovun) would be shook!
+Something that's always nothered me though, is how as the game clock ticks through the decades and the world changes with it but the energy economy remains entirely static. The coal mine feeds the coal power station, the coal power station sits there forever, and meanwhile the game transitions from Steam trains to Maglevs ([Robert Llewellyn](https://bsky.app/profile/did:plc:icpcewckffb4arhmydvyovun) would be properly upset too).
 
-This bothered me so much that i decided to dust off a Claude chat and build something. now this is absolutely not finished, in fact the gaping chasm is the graphics... a pixel artist i am not so youll find some pretty ropey efforts from Claude in situ. maybe at soke point i can find someone generous enough to contribute some artwork. 
+This bothered me so much that I decided to dust off a Claude chat session and build something to make this right. Now this is absolutely not finished.., in fact the gaping chasm is the graphics... a pixel artist I am not so youll find some pretty ropey efforts from Claude in there. But it works! Maybe at some point I can find someone generous enough to contribute some wonderful in game artwork. 
 
 **Energy Transition Industries** is a NewGRF + Game Script combo that wires a proper energy economy into your game. New industries appear across the timeline — Hydroelectric Dams from 1950, Nuclear Power Plants from 1956, Tidal Stations in 1966, Wind Farms in 1980, Solar Farms from 1990. Coal plants stop spawning around 1970 and start closing out by 1990. The dates are all configurable if you want a different pace.
 
