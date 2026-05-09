@@ -21,7 +21,7 @@ This bothered me so much that I decided to dust off a Claude chat session and bu
 
 ![The Energy Transition Industries NewGRF Settings Screen](../../assets/posts/energy-economy-in-open-transport-tycoon-deluxe/energy-transition-industries-open-ttd-5ac8fc0f00.png)
 
-**[Energy Transition Industries](github.com/nathanpitman/Open-TTD-Renewable-Energy-Mod)** is a NewGRF + Game Script combo that wires a proper energy economy into the game. New industries appear across the timeline — Hydroelectric Dams from 1950, Nuclear Power Plants from 1956, Tidal Stations in 1966, Wind Farms in 1980, Solar Farms from 1990. Coal plants stop spawning around 1970 and start closing out by 1990. The dates are all configurable if you want a different pace.
+**[Energy Transition Industries](https://github.com/nathanpitman/Open-TTD-Renewable-Energy-Mod)** is a NewGRF + Game Script combo that wires a proper energy economy into the game. New industries appear across the timeline — Hydroelectric Dams from 1950, Nuclear Power Plants from 1956, Tidal Stations in 1966, Wind Farms in 1980, Solar Farms from 1990. Coal plants stop spawning around 1970 and start closing out by 1990. The dates are all configurable if you want a different pace.
 
 The bit I'm most pleased with is the invisible power grid. A Game Script runs every 30 days, scans towns for nearby generators, and sets growth rates based on how much power is available. No power? Town stops growing. Full power plus a nearby substation? It hums along nicely. It makes energy feel like something that actually matters, rather than just another cargo chain to ignore.
 
