@@ -1,0 +1,7 @@
+# Add recommended blogs and sites here.
+# Each entry: title, url, description. Set hidden: true to temporarily suppress an entry.
+
+- title: "Example Blog"
+  url: "https://example.com"
+  description: "Replace with a real recommendation."
+  hidden: true
