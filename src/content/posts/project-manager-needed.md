@@ -1,11 +1,25 @@
 ---
 title: Project Manager needed…
-description: "My employers Mirashade are in need of a new Project Manager so I thought I’d post an overview of the position here:"
-date: 2004-05-26
-source: http://nathanpitman.com/158/project-manager-needed
-archive: https://web.archive.org/web/20091209035447/http://nathanpitman.com:80/158/project-manager-needed
+description: >-
+  My employers Mirashade are in need of a new Project Manager so I thought I’d
+  post an overview of the position here:
+date: '2004-05-26'
+source: 'http://nathanpitman.com/158/project-manager-needed'
+archive: >-
+  https://web.archive.org/web/20091209035447/http://nathanpitman.com:80/158/project-manager-needed
 tags:
-  - "Jobs"
+  - Jobs
+relatedPosts:
+  - slug: web-developer-required-berkshire-uk
+    source: generated
+  - slug: senior-graphic-designer-required-berkshire-uk
+    source: generated
+  - slug: twisted-animator-required-berkshire-uk
+    source: generated
+  - slug: junior-creative-developer-london-uk
+    source: generated
+  - slug: web-dev-rqd-dorking-surrey-uk
+    source: generated
 ---
 
 My employers [Mirashade](http://www.mirashade.com/) are in need of a new Project Manager so I thought I’d post an overview of the position here:

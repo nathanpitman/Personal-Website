@@ -1,12 +1,24 @@
 ---
 title: ‘Inspire’ AutoShape for Fireworks
-description: "Trevor McCauley writes:"
-date: 2004-10-02
-source: http://nathanpitman.com/263/inspire-autoshape-for-fireworks
-archive: https://web.archive.org/web/20091225022939/http://nathanpitman.com:80/263/inspire-autoshape-for-fireworks
+description: 'Trevor McCauley writes:'
+date: '2004-10-02'
+source: 'http://nathanpitman.com/263/inspire-autoshape-for-fireworks'
+archive: >-
+  https://web.archive.org/web/20091225022939/http://nathanpitman.com:80/263/inspire-autoshape-for-fireworks
 tags:
-  - "Extensions"
-  - "Fireworks"
+  - Extensions
+  - Fireworks
+relatedPosts:
+  - slug: 3d-box-autoshape-for-fireworks
+    source: generated
+  - slug: fireworks-ruler-autoshape
+    source: generated
+  - slug: file-info-autoshape-for-fireworks
+    source: generated
+  - slug: pinwheel-autoshape-for-fireworks
+    source: generated
+  - slug: a-new-fireworks-mx-2004-autoshape-ribbon
+    source: generated
 ---
 
 [Trevor McCauley](http://www.senocular.com/) writes:

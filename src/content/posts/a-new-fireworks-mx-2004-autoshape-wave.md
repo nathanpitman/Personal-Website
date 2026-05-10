@@ -1,12 +1,26 @@
 ---
 title: 'A New Fireworks MX 2004 Autoshape: Wave'
-description: "Hiroshi Miyazawa of Macromedia has developed a new AutoShape for Fireworks MX 2004 called Wave."
-date: 2004-06-22
-source: http://nathanpitman.com/201/a-new-fireworks-mx-2004-autoshape-wave
-archive: https://web.archive.org/web/20090615074207/http://nathanpitman.com:80/201/a-new-fireworks-mx-2004-autoshape-wave
+description: >-
+  Hiroshi Miyazawa of Macromedia has developed a new AutoShape for Fireworks MX
+  2004 called Wave.
+date: '2004-06-22'
+source: 'http://nathanpitman.com/201/a-new-fireworks-mx-2004-autoshape-wave'
+archive: >-
+  https://web.archive.org/web/20090615074207/http://nathanpitman.com:80/201/a-new-fireworks-mx-2004-autoshape-wave
 tags:
-  - "Extensions"
-  - "Fireworks"
+  - Extensions
+  - Fireworks
+relatedPosts:
+  - slug: a-new-fireworks-mx-2004-autoshape-ribbon
+    source: generated
+  - slug: inspire-autoshape-for-fireworks
+    source: generated
+  - slug: 3d-box-autoshape-for-fireworks
+    source: generated
+  - slug: pinwheel-autoshape-for-fireworks
+    source: generated
+  - slug: fireworks-ruler-autoshape
+    source: generated
 ---
 
 Hiroshi Miyazawa of Macromedia has developed a new AutoShape for Fireworks MX 2004 called [Wave](http://www.communitymx.com/content/article.cfm?cid=71568).

@@ -1,12 +1,27 @@
 ---
 title: Getting on Google Maps
-description: "So, my mission should I choose to accept it, (which I have) is to have myself (or my domain name) appear on a Google Maps search for ‘nathan pitman..."
-date: 2005-05-03
-source: http://nathanpitman.com/348/getting-on-google-maps
-archive: https://web.archive.org/web/20100113140222/http://nathanpitman.com:80/348/getting-on-google-maps
+description: >-
+  So, my mission should I choose to accept it, (which I have) is to have myself
+  (or my domain name) appear on a Google Maps search for ‘nathan pitman...
+date: '2005-05-03'
+source: 'http://nathanpitman.com/348/getting-on-google-maps'
+archive: >-
+  https://web.archive.org/web/20100113140222/http://nathanpitman.com:80/348/getting-on-google-maps
 tags:
-  - "Code"
-  - "This website"
+  - Code
+  - This website
+relatedPosts:
+  - slug: adding-geographical-tags-to-your-website
+    source: generated
+  - slug: >-
+      back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark
+    source: generated
+  - slug: why-is-it-taking-so-long
+    source: generated
+  - slug: browsing-xml-with-flash
+    source: generated
+  - slug: a-simple-javascript-to-toggle-page-elements
+    source: generated
 ---
 
 So, my mission should I choose to accept it, (which I have) is to have myself (or my domain name) appear on a Google Maps search for ‘nathan pitman berkshire’. Right now [I’m listed](http://local.google.co.uk/maps?q=nathan+pitman&ll=51.449400,-0.966300&spn=0.316406,0.441059&near=Bracknell,+Berkshire,+RG12&hl=en)... well, [my work place](http://www.mirashade.com/) is anyhow. But I want my house to be highlighted! That would be super neat.

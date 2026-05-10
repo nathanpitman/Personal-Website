@@ -1,12 +1,27 @@
 ---
 title: RSS feeds by category
-description: "Following a recent post by Brandon on devnulled.com I’ve decided that it would be beneficial to make category based RSS (and Atom) feeds available for my site."
-date: 2004-06-04
-source: http://nathanpitman.com/165/rss-feeds-by-category
-archive: https://web.archive.org/web/20100104135710/http://nathanpitman.com:80/165/rss-feeds-by-category
+description: >-
+  Following a recent post by Brandon on devnulled.com I’ve decided that it would
+  be beneficial to make category based RSS (and Atom) feeds available for my
+  site.
+date: '2004-06-04'
+source: 'http://nathanpitman.com/165/rss-feeds-by-category'
+archive: >-
+  https://web.archive.org/web/20100104135710/http://nathanpitman.com:80/165/rss-feeds-by-category
 tags:
-  - "Code"
-  - "Web development"
+  - Code
+  - Web development
+relatedPosts:
+  - slug: mxna-2-public-beta
+    source: generated
+  - slug: mark-of-the-web-or-why-ie6-sucks
+    source: generated
+  - slug: cssvista-launched
+    source: generated
+  - slug: the-tools-of-my-trade
+    source: generated
+  - slug: let-devs-prefix-your-expressionengine-variables-with-a-custo
+    source: generated
 ---
 
 Following [a recent post by Brandon on devnulled.com](http://devnulled.com/archives/2004/06/offtopic_blog_entries.php) I’ve decided that it would be beneficial to make category based RSS (and Atom) feeds available for my site.

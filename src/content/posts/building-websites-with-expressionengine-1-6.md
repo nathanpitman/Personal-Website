@@ -1,11 +1,26 @@
 ---
-title: "Building websites with ExpressionEngine 1.6"
-description: "This week I had a rather nice email from a lady called Alice at Packt Publishing here in the UK. Packt are a publishing company specialising in IT focused..."
-date: 2008-08-17
-source: "http://nathanpitman.com/550/building-websites-with-expressionengine-16"
-archive: "https://web.archive.org/web/20090521150001/http://nathanpitman.com:80/550/building-websites-with-expressionengine-16"
+title: Building websites with ExpressionEngine 1.6
+description: >-
+  This week I had a rather nice email from a lady called Alice at Packt
+  Publishing here in the UK. Packt are a publishing company specialising in IT
+  focused...
+date: '2008-08-17'
+source: 'http://nathanpitman.com/550/building-websites-with-expressionengine-16'
+archive: >-
+  https://web.archive.org/web/20090521150001/http://nathanpitman.com:80/550/building-websites-with-expressionengine-16
 tags:
-  - "ExpressionEngine"
+  - ExpressionEngine
+relatedPosts:
+  - slug: expressionengine-extension-noscript-messages
+    source: generated
+  - slug: why-choose-expressionengine
+    source: generated
+  - slug: expressionengine-mug
+    source: generated
+  - slug: expressionengine-field-frame-field-type-uk-counties-select
+    source: generated
+  - slug: expressionengine-plug-in-us-states-select
+    source: generated
 ---
 
 This week I had a rather nice email from a lady called Alice at Packt Publishing here in the UK. Packt are a publishing company specialising in IT focused books and have just published a new book last month called [Building websites with ExpressionEngine 1.6](http://www.packtpub.com/building-websites-with-expressionengine-1.6/book).

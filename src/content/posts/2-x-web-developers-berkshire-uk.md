@@ -1,11 +1,26 @@
 ---
-title: "2 x Web Developers - Berkshire, UK."
-description: "Glen Richardson from IQ Development is making an appeal for web developers. At the moment they have an immediate requirement for 2 developers and will also..."
-date: 2007-12-14
-source: "http://nathanpitman.com/527/2-x-web-developers-berkshire-uk"
-archive: "https://web.archive.org/web/20100424235628/http://nathanpitman.com:80/527/2-x-web-developers-berkshire-uk"
+title: '2 x Web Developers - Berkshire, UK.'
+description: >-
+  Glen Richardson from IQ Development is making an appeal for web developers. At
+  the moment they have an immediate requirement for 2 developers and will
+  also...
+date: '2007-12-14'
+source: 'http://nathanpitman.com/527/2-x-web-developers-berkshire-uk'
+archive: >-
+  https://web.archive.org/web/20100424235628/http://nathanpitman.com:80/527/2-x-web-developers-berkshire-uk
 tags:
-  - "Jobs"
+  - Jobs
+relatedPosts:
+  - slug: web-dev-reqd-reading-berkshire-uk
+    source: generated
+  - slug: web-developer-berkshire-uk
+    source: generated
+  - slug: web-developer-required-berkshire-uk
+    source: generated
+  - slug: web-developer-london-uk
+    source: generated
+  - slug: web-dev-rqd-dorking-surrey-uk
+    source: generated
 ---
 
 Glen Richardson from IQ Development is making an appeal for web developers. At the moment they have an immediate requirement for 2 developers and will also be hiring on a regular basis throughout next year.

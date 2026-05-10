@@ -1,11 +1,26 @@
 ---
 title: Looking for talented interactive designers
-description: "A contact of mine is on the lookout for a number of junior to middleweight interactive designers. I know that a large proportion of my readership might be..."
-date: 2005-05-11
-source: http://nathanpitman.com/354/looking-for-talented-interactive-designers
-archive: https://web.archive.org/web/20101204083758/http://nathanpitman.com:80/354/looking-for-talented-interactive-designers
+description: >-
+  A contact of mine is on the lookout for a number of junior to middleweight
+  interactive designers. I know that a large proportion of my readership might
+  be...
+date: '2005-05-11'
+source: 'http://nathanpitman.com/354/looking-for-talented-interactive-designers'
+archive: >-
+  https://web.archive.org/web/20101204083758/http://nathanpitman.com:80/354/looking-for-talented-interactive-designers
 tags:
-  - "Jobs"
+  - Jobs
+relatedPosts:
+  - slug: my-employers-are-looking-for-a-new-media-developer
+    source: generated
+  - slug: looking-for-a-lamp-web-app-dev
+    source: generated
+  - slug: looking-for-asp-developers
+    source: generated
+  - slug: coldfusion-developer-windsor-uk
+    source: generated
+  - slug: junior-creative-developer-london-uk
+    source: generated
 ---
 
 A contact of mine is on the lookout for a number of junior to middleweight interactive designers. I know that a large proportion of my readership might be interested so here are the details…

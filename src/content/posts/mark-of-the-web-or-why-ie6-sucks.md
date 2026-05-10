@@ -1,12 +1,26 @@
 ---
 title: Mark of the web (or why IE6 sucks)
-description: "An exploration of IE6's Mark of the Web security feature and why it causes so many headaches for web developers."
-date: 2006-03-01
-source: http://nathanpitman.com/454/mark-of-the-web-or-why-ie6-sucks
-archive: https://web.archive.org/web/20090524024842/http://nathanpitman.com:80/454/mark-of-the-web-or-why-ie6-sucks
+description: >-
+  An exploration of IE6's Mark of the Web security feature and why it causes so
+  many headaches for web developers.
+date: '2006-03-01'
+source: 'http://nathanpitman.com/454/mark-of-the-web-or-why-ie6-sucks'
+archive: >-
+  https://web.archive.org/web/20090524024842/http://nathanpitman.com:80/454/mark-of-the-web-or-why-ie6-sucks
 tags:
-  - "Code"
-  - "Web development"
+  - Code
+  - Web development
+relatedPosts:
+  - slug: web-standards-who-cares-anyway
+    source: generated
+  - slug: let-devs-prefix-your-expressionengine-variables-with-a-custo
+    source: generated
+  - slug: cssvista-launched
+    source: generated
+  - slug: the-tools-of-my-trade
+    source: generated
+  - slug: mxna-2-public-beta
+    source: generated
 ---
 
 I’ve been having a very interesting time during the past few days discovering what a total mess Microsoft has made of IE6 with the XP SP2 upgrade. Let me begin the story.

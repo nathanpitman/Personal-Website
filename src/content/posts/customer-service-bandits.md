@@ -1,11 +1,25 @@
 ---
 title: Customer Service Bandits
-description: "A frustrating experience trying to get a refund from MFI after receiving damaged furniture — a cautionary tale about poor customer service."
-date: 2005-07-18
-source: http://nathanpitman.com/371/customer-service-bandits
-archive: https://web.archive.org/web/20090527120635/http://nathanpitman.com:80/371/customer-service-bandits
+description: >-
+  A frustrating experience trying to get a refund from MFI after receiving
+  damaged furniture — a cautionary tale about poor customer service.
+date: '2005-07-18'
+source: 'http://nathanpitman.com/371/customer-service-bandits'
+archive: >-
+  https://web.archive.org/web/20090527120635/http://nathanpitman.com:80/371/customer-service-bandits
 tags:
-  - "Chatter"
+  - Chatter
+relatedPosts:
+  - slug: customer-service-the-right-way
+    source: generated
+  - slug: the-great-staples-ordercare-scam
+    source: generated
+  - slug: ntl-to-penalise-early-broadband-adopters
+    source: generated
+  - slug: hsbc-internet-banking-fail
+    source: generated
+  - slug: whatever-you-do-dont-buy-a-kia-sedona
+    source: generated
 ---
 
 You’d think it’s simple really. You purchase goods, be that online or in person. The goods are damaged when they arrive. You return the goods and ask for a refund. The company in question apologises and gives you a refund, end of story right… er wrong.

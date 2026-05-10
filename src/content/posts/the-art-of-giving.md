@@ -1,11 +1,26 @@
 ---
-title: "The art of giving"
-description: "For the past couple of months here at Nine Four we’ve been working on behalf of Voyage to develop an e-commerce website for one of their clients; Innova Gifts."
-date: 2006-09-26
-source: "http://nathanpitman.com/489/the-art-of-giving"
-archive: "https://web.archive.org/web/20091214135413/http://nathanpitman.com:80/489/the-art-of-giving"
+title: The art of giving
+description: >-
+  For the past couple of months here at Nine Four we’ve been working on behalf
+  of Voyage to develop an e-commerce website for one of their clients; Innova
+  Gifts.
+date: '2006-09-26'
+source: 'http://nathanpitman.com/489/the-art-of-giving'
+archive: >-
+  https://web.archive.org/web/20091214135413/http://nathanpitman.com:80/489/the-art-of-giving
 tags:
-  - "Web development"
+  - Web development
+relatedPosts:
+  - slug: god-is-in-the-details
+    source: generated
+  - slug: customer-service-the-right-way
+    source: generated
+  - slug: dconstruct-2009
+    source: generated
+  - slug: automating-an-availability-statement-in-php
+    source: generated
+  - slug: alternatives-to-flash-for-animation-are-starting-to-float-to
+    source: generated
 ---
 
 For the past couple of months here at [Nine Four](http://www.ninefour.co.uk/) we’ve been working on behalf of [Voyage](http://www.bebrave.biz/) to develop an e-commerce website for one of their clients; [Innova Gifts](http://www.innovagifts.co.uk/).

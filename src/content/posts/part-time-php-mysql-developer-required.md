@@ -1,11 +1,26 @@
 ---
-title: "Part time PHP/MySQL developer required"
-description: "Here at Nine Four we’re looking for a remote working part-time PHP/MySQL developer. The ideal candidate will be experienced, motivated and very familiar..."
-date: 2010-01-23
-source: "http://nathanpitman.com/595/part-time-php-mysql-developer-required"
-archive: "https://web.archive.org/web/20100127195111/http://nathanpitman.com:80/595/part-time-php-mysql-developer-required"
+title: Part time PHP/MySQL developer required
+description: >-
+  Here at Nine Four we’re looking for a remote working part-time PHP/MySQL
+  developer. The ideal candidate will be experienced, motivated and very
+  familiar...
+date: '2010-01-23'
+source: 'http://nathanpitman.com/595/part-time-php-mysql-developer-required'
+archive: >-
+  https://web.archive.org/web/20100127195111/http://nathanpitman.com:80/595/part-time-php-mysql-developer-required
 tags:
-  - "Jobs"
+  - Jobs
+relatedPosts:
+  - slug: web-developer-required-berkshire-uk
+    source: generated
+  - slug: web-developer-south-east-uk
+    source: generated
+  - slug: web-developer-berkshire-uk
+    source: generated
+  - slug: my-employers-are-looking-for-a-new-media-developer
+    source: generated
+  - slug: web-developer-london-uk
+    source: generated
 ---
 
 Here at [Nine Four](http://ninefour.co.uk/) we’re looking for a **remote working part-time PHP/MySQL developer**. The ideal candidate will be experienced, motivated and very familiar with PHP, MySQL and jQuery. The **perfect candidate** will already have experience developing applications with the [Code Igniter](http://codeigniter.com/) framework and be at least vaguely familiar with the [ExpressionEngine](http://www.expressionengine.com/index.php?affiliate=nathanpitman) Content Management System (although this is not an absolute requirement).

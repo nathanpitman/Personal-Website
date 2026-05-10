@@ -1,12 +1,27 @@
 ---
 title: Kleanthis has released a set of 4 new Fireworks MX extensions…
-description: "Kleanthis has released a set of 4 new Fireworks MX extensions. I downloaded these some time ago, but totally forgot to report on them, they are:"
-date: 2003-04-29
-source: http://nathanpitman.com/108/kleanthis-has-released-a-set-of-4-new-fireworks-mx-extensions
-archive: https://web.archive.org/web/20100113001142/http://nathanpitman.com:80/108/kleanthis-has-released-a-set-of-4-new-fireworks-mx-extensions
+description: >-
+  Kleanthis has released a set of 4 new Fireworks MX extensions. I downloaded
+  these some time ago, but totally forgot to report on them, they are:
+date: '2003-04-29'
+source: >-
+  http://nathanpitman.com/108/kleanthis-has-released-a-set-of-4-new-fireworks-mx-extensions
+archive: >-
+  https://web.archive.org/web/20100113001142/http://nathanpitman.com:80/108/kleanthis-has-released-a-set-of-4-new-fireworks-mx-extensions
 tags:
-  - "Extensions"
-  - "Fireworks"
+  - Extensions
+  - Fireworks
+relatedPosts:
+  - slug: great-new-fireworks-extensions
+    source: generated
+  - slug: writing-extensions-for-fireworks-mx-is-fun
+    source: generated
+  - slug: new-fireworks-command-panel-auto-save
+    source: generated
+  - slug: style-guidelines-for-publishing-fireworks-extensions
+    source: generated
+  - slug: possible-issues-with-fireworks-mx-extensions-in-mx-2004
+    source: generated
 ---
 
 Kleanthis has released a set of 4 new Fireworks MX extensions. I downloaded these some time ago, but totally forgot to report on them, they are:

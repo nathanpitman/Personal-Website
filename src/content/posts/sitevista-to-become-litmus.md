@@ -1,11 +1,26 @@
 ---
-title: "SiteVista to become Litmus"
-description: "I’m rather excited about the news that the SiteVista team have been hard at work on a big shiny update to their website and email testing tools which will..."
-date: 2007-08-01
-source: "http://nathanpitman.com/515/sitevista-to-become-litmus"
-archive: "https://web.archive.org/web/20091209024140/http://nathanpitman.com:80/515/sitevista-to-become-litmus"
+title: SiteVista to become Litmus
+description: >-
+  I’m rather excited about the news that the SiteVista team have been hard at
+  work on a big shiny update to their website and email testing tools which
+  will...
+date: '2007-08-01'
+source: 'http://nathanpitman.com/515/sitevista-to-become-litmus'
+archive: >-
+  https://web.archive.org/web/20091209024140/http://nathanpitman.com:80/515/sitevista-to-become-litmus
 tags:
-  - "Web development"
+  - Web development
+relatedPosts:
+  - slug: sitevista-review
+    source: generated
+  - slug: cssvista-launched
+    source: generated
+  - slug: expression-engine-goes-free
+    source: generated
+  - slug: god-is-in-the-details
+    source: generated
+  - slug: mark-of-the-web-or-why-ie6-sucks
+    source: generated
 ---
 
 I’m rather excited about the news that the [SiteVista](http://www.sitevista.com/blog/archives/2007/07/introducing-litmus.html) team have been hard at work on a big shiny update to their website and email testing tools which will be relaunched as ‘Litmus’.

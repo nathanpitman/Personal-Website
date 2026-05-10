@@ -1,12 +1,26 @@
 ---
 title: New Phireworx Commands on the way
-description: "I hear on the grapevine from Steven Grosvenor at Phireworx that he has some new Fireworks MX Command panels on the way…"
-date: 2004-06-07
-source: http://nathanpitman.com/167/new-phireworx-commands-on-the-way
-archive: https://web.archive.org/web/20100105214204/http://nathanpitman.com:80/167/new-phireworx-commands-on-the-way
+description: >-
+  I hear on the grapevine from Steven Grosvenor at Phireworx that he has some
+  new Fireworks MX Command panels on the way…
+date: '2004-06-07'
+source: 'http://nathanpitman.com/167/new-phireworx-commands-on-the-way'
+archive: >-
+  https://web.archive.org/web/20100105214204/http://nathanpitman.com:80/167/new-phireworx-commands-on-the-way
 tags:
-  - "Extensions"
-  - "Fireworks"
+  - Extensions
+  - Fireworks
+relatedPosts:
+  - slug: phireworx-batch-resizer
+    source: generated
+  - slug: phireworx-image-edger-pro
+    source: generated
+  - slug: phireworx-release-shapeshifter-set-2-for-fireworks-mx
+    source: generated
+  - slug: phireworx-release-super-guides-for-fireworks-mx
+    source: generated
+  - slug: phireworx-smarttabs
+    source: generated
 ---
 
 I hear on the grapevine from Steven Grosvenor at [Phireworx](http://www.phireworx.com/) that he has some new Fireworks MX Command panels on the way…

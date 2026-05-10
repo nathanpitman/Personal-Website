@@ -1,11 +1,25 @@
 ---
-title: New mini iPod, iPod mini
-description: "I’ve always wanted an iPod, but have never been able to bring myself to spend that much on a luxury item. Here at Mirashade, my boss man Baz McCarthy has..."
-date: 2004-01-07
-source: http://nathanpitman.com/13/new-mini-ipod-ipod-mini
-archive: https://web.archive.org/web/20100104141516/http://nathanpitman.com:80/13/new-mini-ipod-ipod-mini
+title: 'New mini iPod, iPod mini'
+description: >-
+  I’ve always wanted an iPod, but have never been able to bring myself to spend
+  that much on a luxury item. Here at Mirashade, my boss man Baz McCarthy has...
+date: '2004-01-07'
+source: 'http://nathanpitman.com/13/new-mini-ipod-ipod-mini'
+archive: >-
+  https://web.archive.org/web/20100104141516/http://nathanpitman.com:80/13/new-mini-ipod-ipod-mini
 tags:
-  - "Technology"
+  - Technology
+relatedPosts:
+  - slug: mac-mini-ipod-shuffle-most-affordable-ever
+    source: generated
+  - slug: the-ipod-remixed-again
+    source: generated
+  - slug: ipod-av-real-or-fake
+    source: generated
+  - slug: flash-satay-the-new-old-way-to-embed-flash-movies-in-xhtml
+    source: generated
+  - slug: new-beastie-boys-album-is-evil-apparently
+    source: generated
 ---
 
 I’ve always wanted an [iPod](http://www.apple.com/ipod/), but have never been able to bring myself to spend that much on a luxury item. Here at Mirashade, my boss man Baz McCarthy has one, as does [Drew](http://www.allinthehead.com/). They’re very nice things, all white and shiny like. I think the appeal for me is linked to listening to music in my car, to have all my music at my fingertips without the associated multitude of CD cases rattling around would be great.

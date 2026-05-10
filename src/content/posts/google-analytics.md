@@ -1,11 +1,25 @@
 ---
 title: Google Analytics
-description: "Google Analytics, this could be the serious free competition which products like Mint and Delineate really didn’t need."
-date: 2005-11-15
-source: http://nathanpitman.com/421/google-analytics
-archive: https://web.archive.org/web/20100117023154/http://nathanpitman.com:80/421/google-analytics
+description: >-
+  Google Analytics, this could be the serious free competition which products
+  like Mint and Delineate really didn’t need.
+date: '2005-11-15'
+source: 'http://nathanpitman.com/421/google-analytics'
+archive: >-
+  https://web.archive.org/web/20100117023154/http://nathanpitman.com:80/421/google-analytics
 tags:
-  - "Technology"
+  - Technology
+relatedPosts:
+  - slug: firefox-start-page
+    source: generated
+  - slug: when-upgrades-turn-bad
+    source: generated
+  - slug: blogger-relaunch
+    source: generated
+  - slug: e-receipts
+    source: generated
+  - slug: bookmark-culling
+    source: generated
 ---
 
 [Google Analytics](http://www.google.com/analytics/), this could be the serious **free** competition which products like [Mint](http://www.haveamint.com/) and [Delineate](http://delineateit.com/web/) really didn’t need.

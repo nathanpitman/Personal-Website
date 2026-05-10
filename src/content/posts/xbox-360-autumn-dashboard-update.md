@@ -1,11 +1,25 @@
 ---
-title: "Xbox 360 Autumn Dashboard Update"
-description: "Thoughts on the Xbox 360's autumn 2006 dashboard update — what changed and what it means for users."
-date: 2006-10-30
-source: "http://nathanpitman.com/491/xbox-360-autumn-dashboard-update"
-archive: "https://web.archive.org/web/20100106033109/http://nathanpitman.com/491/xbox-360-autumn-dashboard-update"
+title: Xbox 360 Autumn Dashboard Update
+description: >-
+  Thoughts on the Xbox 360's autumn 2006 dashboard update — what changed and
+  what it means for users.
+date: '2006-10-30'
+source: 'http://nathanpitman.com/491/xbox-360-autumn-dashboard-update'
+archive: >-
+  https://web.archive.org/web/20100106033109/http://nathanpitman.com/491/xbox-360-autumn-dashboard-update
 tags:
-  - "Consoles"
+  - Consoles
+relatedPosts:
+  - slug: xbox-360-to-get-1080p
+    source: generated
+  - slug: on-demand-movies-tv-coming-to-xbox-360
+    source: generated
+  - slug: free-xbox360
+    source: generated
+  - slug: red-ring-of-death
+    source: generated
+  - slug: goodbye-ps2-hello-360
+    source: generated
 ---
 
 News on the [Autumn 360 dashboard update](http://www.eurogamer.net/article.php?article_id=69305) is out. I’m well chuffed to see that they’re including support for streaming video from any PC running Windows Media Connect or similar (WMP11 or Zune Software). This was a much requested feature and true to their word Microsoft are actually listening to the users.

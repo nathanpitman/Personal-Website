@@ -1,12 +1,27 @@
 ---
 title: Writing extensions for Fireworks MX is fun…
-description: "Writing extensions for Fireworks MX is fun. Last night I spent some time putting the final touches to a command panel that I’ve been working on for a long time."
-date: 2003-05-16
-source: http://nathanpitman.com/105/writing-extensions-for-fireworks-mx-is-fun
-archive: https://web.archive.org/web/20110901130352/http://nathanpitman.com/105/writing-extensions-for-fireworks-mx-is-fun
+description: >-
+  Writing extensions for Fireworks MX is fun. Last night I spent some time
+  putting the final touches to a command panel that I’ve been working on for a
+  long time.
+date: '2003-05-16'
+source: 'http://nathanpitman.com/105/writing-extensions-for-fireworks-mx-is-fun'
+archive: >-
+  https://web.archive.org/web/20110901130352/http://nathanpitman.com/105/writing-extensions-for-fireworks-mx-is-fun
 tags:
-  - "Extensions"
-  - "Fireworks"
+  - Extensions
+  - Fireworks
+relatedPosts:
+  - slug: possible-issues-with-fireworks-mx-extensions-in-mx-2004
+    source: generated
+  - slug: style-guidelines-for-publishing-fireworks-extensions
+    source: generated
+  - slug: kleanthis-has-released-a-set-of-4-new-fireworks-mx-extension
+    source: generated
+  - slug: great-new-fireworks-extensions
+    source: generated
+  - slug: my-fireworks-extensions-featured-in-practical-web-projects
+    source: generated
 ---
 
 Writing extensions for Fireworks MX is fun. Last night I spent some time putting the final touches to a command panel that I’ve been working on for a long time.

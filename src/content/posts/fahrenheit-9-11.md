@@ -1,11 +1,23 @@
 ---
 title: Fahrenheit 9/11
-description: "I just finished watching Fahrenheit 9/11 on Channel 4."
-date: 2005-01-28
-source: http://nathanpitman.com/319/fahrenheit-9-11
-archive: https://web.archive.org/web/20090721073421/http://nathanpitman.com:80/319/fahrenheit-9-11
+description: I just finished watching Fahrenheit 9/11 on Channel 4.
+date: '2005-01-28'
+source: 'http://nathanpitman.com/319/fahrenheit-9-11'
+archive: >-
+  https://web.archive.org/web/20090721073421/http://nathanpitman.com:80/319/fahrenheit-9-11
 tags:
-  - "Chatter"
+  - Chatter
+relatedPosts:
+  - slug: free-thinking-breakfast-reading-uk-tmrw
+    source: generated
+  - slug: why-is-no-one-linking
+    source: generated
+  - slug: linerider-jumps-the-shark
+    source: generated
+  - slug: email-signatures
+    source: generated
+  - slug: four-things
+    source: generated
 ---
 
 I just finished watching [Fahrenheit 9/11](http://www.fahrenheit911.com/) on [Channel 4](http://www.channel4.com/).

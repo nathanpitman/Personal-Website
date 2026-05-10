@@ -1,12 +1,27 @@
 ---
-title: "Source Code for my Fireworks Extensions"
-description: "I will warn you, this ain’t going to be pretty but a few people have been asking. Feel free to tear these apart… do what you will with them… no license… no..."
-date: 2011-07-29
-source: "http://nathanpitman.com/610/source-code-for-my-fireworks-extensions"
-archive: "https://web.archive.org/web/20110806142621/http://nathanpitman.com:80/610/source-code-for-my-fireworks-extensions"
+title: Source Code for my Fireworks Extensions
+description: >-
+  I will warn you, this ain’t going to be pretty but a few people have been
+  asking. Feel free to tear these apart… do what you will with them… no license…
+  no...
+date: '2011-07-29'
+source: 'http://nathanpitman.com/610/source-code-for-my-fireworks-extensions'
+archive: >-
+  https://web.archive.org/web/20110806142621/http://nathanpitman.com:80/610/source-code-for-my-fireworks-extensions
 tags:
-  - "Extensions"
-  - "Fireworks"
+  - Extensions
+  - Fireworks
+relatedPosts:
+  - slug: fireworks-main-toolbar-source-files
+    source: generated
+  - slug: writing-extensions-for-fireworks-mx-is-fun
+    source: generated
+  - slug: possible-issues-with-fireworks-mx-extensions-in-mx-2004
+    source: generated
+  - slug: my-fireworks-extensions-featured-in-practical-web-projects
+    source: generated
+  - slug: style-guidelines-for-publishing-fireworks-extensions
+    source: generated
 ---
 
 I will warn you, this ain’t going to be pretty but a few people have been asking. Feel free to tear these apart… do what you will with them… no license… no need to credit me… knock yourself out if you are that way inclined.

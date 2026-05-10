@@ -1,12 +1,27 @@
 ---
 title: Squeezebox!
-description: "A few months back I bought a ‘network MP3 player’, my first purchase of this kind, the idea being that it would replace my old Yamaha multidisc CD player..."
-date: 2003-11-27
-source: http://nathanpitman.com/6/squeezebox
-archive: https://web.archive.org/web/20100111160844/http://nathanpitman.com:80/6/squeezebox
+description: >-
+  A few months back I bought a ‘network MP3 player’, my first purchase of this
+  kind, the idea being that it would replace my old Yamaha multidisc CD
+  player...
+date: '2003-11-27'
+source: 'http://nathanpitman.com/6/squeezebox'
+archive: >-
+  https://web.archive.org/web/20100111160844/http://nathanpitman.com:80/6/squeezebox
 tags:
-  - "Personal"
-  - "Technology"
+  - Personal
+  - Technology
+relatedPosts:
+  - slug: the-best-ps200-i-ever-spent
+    source: generated
+  - slug: for-sale-20gb-creative-nomad-jukebox-zen
+    source: generated
+  - slug: going-pete-tong
+    source: generated
+  - slug: 2-fingers-up-to-copy-control-audio-cds-again
+    source: generated
+  - slug: junk-software
+    source: generated
 ---
 
 A few months back I bought a ‘network MP3 player’, my first purchase of this kind, the idea being that it would replace my old Yamaha multidisc CD player (Which regularly refuses to eject the CD tray completely, making nasty grinding noises as it does so).

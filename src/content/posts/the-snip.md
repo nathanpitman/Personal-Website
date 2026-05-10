@@ -1,11 +1,25 @@
 ---
-title: "The Snip"
-description: "A personal post about a significant life event — written with characteristic dry humour."
-date: 2007-06-13
-source: "http://nathanpitman.com/511/the-snip"
-archive: "https://web.archive.org/web/20090821183350/http://nathanpitman.com:80/511/the-snip"
+title: The Snip
+description: >-
+  A personal post about a significant life event — written with characteristic
+  dry humour.
+date: '2007-06-13'
+source: 'http://nathanpitman.com/511/the-snip'
+archive: >-
+  https://web.archive.org/web/20090821183350/http://nathanpitman.com:80/511/the-snip
 tags:
-  - "Personal"
+  - Personal
+relatedPosts:
+  - slug: on-monday-i-reached-the-grand-old-age-of-26
+    source: generated
+  - slug: goodbye-ps2-hello-360
+    source: generated
+  - slug: im-going-to-be-a-dad
+    source: generated
+  - slug: all-change
+    source: generated
+  - slug: inevitable
+    source: generated
 ---
 
 I’m sat here writing this from my bed, laid up with testicles that feel like they’re the size of Melons. And the Melons, they’re throbbing.

@@ -1,12 +1,26 @@
 ---
-title: "Red Ring of Death!"
-description: "A personal account of experiencing the Xbox 360's infamous Red Ring of Death hardware failure."
-date: 2008-05-23
-source: "http://nathanpitman.com/536/red-ring-of-death"
-archive: "https://web.archive.org/web/20090605055620/http://nathanpitman.com:80/536/red-ring-of-death"
+title: Red Ring of Death!
+description: >-
+  A personal account of experiencing the Xbox 360's infamous Red Ring of Death
+  hardware failure.
+date: '2008-05-23'
+source: 'http://nathanpitman.com/536/red-ring-of-death'
+archive: >-
+  https://web.archive.org/web/20090605055620/http://nathanpitman.com:80/536/red-ring-of-death
 tags:
-  - "Consoles"
-  - "Personal"
+  - Consoles
+  - Personal
+relatedPosts:
+  - slug: goodbye-ps2-hello-360
+    source: generated
+  - slug: xbox-360-to-get-1080p
+    source: generated
+  - slug: on-demand-movies-tv-coming-to-xbox-360
+    source: generated
+  - slug: xbox-360-autumn-dashboard-update
+    source: generated
+  - slug: free-xbox360
+    source: generated
 ---
 
 Just over 2 years after I first got my Xbox 360 and I have been graced with the 3 flashing red lights or “Red Ring of Death’ as it is affectionatley known.

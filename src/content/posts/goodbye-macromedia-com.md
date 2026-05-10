@@ -1,12 +1,26 @@
 ---
 title: Goodbye Macromedia.com
-description: "Looks like they ‘just’ made the switch, swapping the old macromedia logo out for an adobe one and making some subtle design changes to the site."
-date: 2005-12-05
-source: http://nathanpitman.com/428/goodbye-macromediacom
-archive: https://web.archive.org/web/20091214135253/http://nathanpitman.com:80/428/goodbye-macromediacom
+description: >-
+  Looks like they ‘just’ made the switch, swapping the old macromedia logo out
+  for an adobe one and making some subtle design changes to the site.
+date: '2005-12-05'
+source: 'http://nathanpitman.com/428/goodbye-macromediacom'
+archive: >-
+  https://web.archive.org/web/20091214135253/http://nathanpitman.com:80/428/goodbye-macromediacom
 tags:
-  - "Adobe"
-  - "Branding"
+  - Adobe
+  - Branding
+relatedPosts:
+  - slug: studio-8-announced
+    source: generated
+  - slug: team-macromedia-fireworks
+    source: generated
+  - slug: macromedia-devnet-resource-kit-volume-9-released
+    source: generated
+  - slug: goodbye-dear-friend
+    source: generated
+  - slug: macromedia-contribute-auction
+    source: generated
 ---
 
 Looks like [they](http://www.macromedia.com/) ‘just’ made the switch, swapping the old macromedia logo out for an adobe one and making some subtle design changes to the site.

@@ -1,11 +1,23 @@
 ---
-title: "Xbox 360 to get 1080p"
-description: "110 High-Definition Xbox 360 games showcased at TGS."
-date: 2006-09-20
-source: "http://nathanpitman.com/488/xbox-360-to-get-1080p"
-archive: "https://web.archive.org/web/20100106205051/http://nathanpitman.com:80/488/xbox-360-to-get-1080p"
+title: Xbox 360 to get 1080p
+description: 110 High-Definition Xbox 360 games showcased at TGS.
+date: '2006-09-20'
+source: 'http://nathanpitman.com/488/xbox-360-to-get-1080p'
+archive: >-
+  https://web.archive.org/web/20100106205051/http://nathanpitman.com:80/488/xbox-360-to-get-1080p
 tags:
-  - "Consoles"
+  - Consoles
+relatedPosts:
+  - slug: on-demand-movies-tv-coming-to-xbox-360
+    source: generated
+  - slug: xbox-360-autumn-dashboard-update
+    source: generated
+  - slug: free-xbox360
+    source: generated
+  - slug: red-ring-of-death
+    source: generated
+  - slug: goodbye-ps2-hello-360
+    source: generated
 ---
 
 **110 High-Definition Xbox 360 games showcased at TGS.**

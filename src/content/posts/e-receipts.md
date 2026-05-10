@@ -1,11 +1,27 @@
 ---
 title: e-receipts?
-description: "So, recently I’ve been thinking about the concept of ‘e-receipts’. It must be said, I’ve done no research into whether something like this is already in the..."
-date: 2005-03-31
-source: http://nathanpitman.com/333/e-receipts
-archive: https://web.archive.org/web/20100427034027/http://nathanpitman.com:80/333/e-receipts
+description: >-
+  So, recently I’ve been thinking about the concept of ‘e-receipts’. It must be
+  said, I’ve done no research into whether something like this is already in
+  the...
+date: '2005-03-31'
+source: 'http://nathanpitman.com/333/e-receipts'
+archive: >-
+  https://web.archive.org/web/20100427034027/http://nathanpitman.com:80/333/e-receipts
 tags:
-  - "Technology"
+  - Technology
+relatedPosts:
+  - slug: macromedia-announce-flash-paper-2-and-contribute-3
+    source: generated
+  - slug: >-
+      back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark
+    source: generated
+  - slug: when-upgrades-turn-bad
+    source: generated
+  - slug: joost-invites
+    source: generated
+  - slug: firefox-start-page
+    source: generated
 ---
 
 So, recently I’ve been thinking about the concept of ‘e-receipts’. It must be said, I’ve done no research into whether something like this is already in the works, if it is, great. In the meantime here’s my take on the idea.

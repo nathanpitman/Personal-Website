@@ -1,11 +1,25 @@
 ---
 title: Burnout 3 first impressions…
-description: "We have a copy of Burnout 3 for the PS2 at work. We’ve given it a little play over the past few days."
-date: 2004-09-15
-source: http://nathanpitman.com/241/burnout-3-first-impressions
-archive: https://web.archive.org/web/20091231042030/http://nathanpitman.com:80/241/burnout-3-first-impressions
+description: >-
+  We have a copy of Burnout 3 for the PS2 at work. We’ve given it a little play
+  over the past few days.
+date: '2004-09-15'
+source: 'http://nathanpitman.com/241/burnout-3-first-impressions'
+archive: >-
+  https://web.archive.org/web/20091231042030/http://nathanpitman.com:80/241/burnout-3-first-impressions
 tags:
-  - "Consoles"
+  - Consoles
+relatedPosts:
+  - slug: free-xbox360
+    source: generated
+  - slug: xbox-360-autumn-dashboard-update
+    source: generated
+  - slug: goodbye-ps2-hello-360
+    source: generated
+  - slug: xbox-360-to-get-1080p
+    source: generated
+  - slug: red-ring-of-death
+    source: generated
 ---
 
 We have a copy of [Burnout 3](http://burnout3.eagames.co.uk/flash_mx/player.asp) for the PS2 at [work](http://www.mirashade.com/). We’ve given it a little play over the past few days.

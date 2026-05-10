@@ -1,11 +1,26 @@
 ---
-title: "ExpressionEngine Extension: NoScript Messages"
-description: "While working on a project recently I noted that ExpressionEngine uses a ‘JavaScript:history.go(-1)’ within the ‘User Message’ templates to allow you to..."
-date: 2008-09-18
-source: "http://nathanpitman.com/551/expressionengine-extension-noscript-messages"
-archive: "https://web.archive.org/web/20090520003125/http://nathanpitman.com:80/551/expressionengine-extension-noscript-messages"
+title: 'ExpressionEngine Extension: NoScript Messages'
+description: >-
+  While working on a project recently I noted that ExpressionEngine uses a
+  ‘JavaScript:history.go(-1)’ within the ‘User Message’ templates to allow you
+  to...
+date: '2008-09-18'
+source: 'http://nathanpitman.com/551/expressionengine-extension-noscript-messages'
+archive: >-
+  https://web.archive.org/web/20090520003125/http://nathanpitman.com:80/551/expressionengine-extension-noscript-messages
 tags:
-  - "ExpressionEngine"
+  - ExpressionEngine
+relatedPosts:
+  - slug: expressionengine-extension-push-to-foxycart
+    source: generated
+  - slug: expressionengine-plug-in-member-online
+    source: generated
+  - slug: expressionengine-plug-in-us-states-select
+    source: generated
+  - slug: building-websites-with-expressionengine-1-6
+    source: generated
+  - slug: expressionengine-plug-in-uk-counties-select
+    source: generated
 ---
 
 While working on a project recently I noted that [ExpressionEngine](http://www.expressionengine.com/index.php?affiliate=nathanpitman) uses a ‘JavaScript:history.go(-1)’ within the ‘User Message’ templates to allow you to return to the page from whence you came if you submit a form without completing all the required fields, perform a search and return no results etc.

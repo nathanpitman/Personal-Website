@@ -1,11 +1,25 @@
 ---
-title: "Digital Designer - Reading, Berks, UK"
-description: "Distribution Technology are a leading-edge financial services software company looking for a creative, energetic and highly intelligent digital designer...."
-date: 2007-08-28
-source: "http://nathanpitman.com/518/digital-designer-reading-berks-uk"
-archive: "https://web.archive.org/web/20091209173416/http://nathanpitman.com:80/518/digital-designer-reading-berks-uk"
+title: 'Digital Designer - Reading, Berks, UK'
+description: >-
+  Distribution Technology are a leading-edge financial services software company
+  looking for a creative, energetic and highly intelligent digital designer....
+date: '2007-08-28'
+source: 'http://nathanpitman.com/518/digital-designer-reading-berks-uk'
+archive: >-
+  https://web.archive.org/web/20091209173416/http://nathanpitman.com:80/518/digital-designer-reading-berks-uk
 tags:
-  - "Jobs"
+  - Jobs
+relatedPosts:
+  - slug: flash-web-designer-reqd-wokingham-berks-uk
+    source: generated
+  - slug: jobs-going-at-voyage-reading-berks-uk
+    source: generated
+  - slug: creative-director-reqd-reading-berks-uk
+    source: generated
+  - slug: junior-front-end-developer-wokingham-berks-uk
+    source: generated
+  - slug: web-dev-reqd-reading-berkshire-uk
+    source: generated
 ---
 
 [Distribution Technology](http://www.distribution-technology.com/) are a leading-edge financial services software company looking for a creative, energetic and highly intelligent digital designer. The position would suit a hard working graduate or someone in the earlier stages of their digital design career, whatever your age.

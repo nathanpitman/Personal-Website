@@ -1,12 +1,27 @@
 ---
 title: 'New Fireworks Command Panel: Calculator'
-description: "I’ve developed a Calculator command panel for Fireworks. You can use the ï¿½x,y,w & hï¿½ buttons to grab information from the selected object/s on the canvas."
-date: 2004-04-22
-source: http://nathanpitman.com/78/new-fireworks-command-panel-calculator
-archive: https://web.archive.org/web/20100113103638/http://nathanpitman.com:80/78/new-fireworks-command-panel-calculator
+description: >-
+  I’ve developed a Calculator command panel for Fireworks. You can use the
+  ï¿½x,y,w & hï¿½ buttons to grab information from the selected object/s on the
+  canvas.
+date: '2004-04-22'
+source: 'http://nathanpitman.com/78/new-fireworks-command-panel-calculator'
+archive: >-
+  https://web.archive.org/web/20100113103638/http://nathanpitman.com:80/78/new-fireworks-command-panel-calculator
 tags:
-  - "Extensions"
-  - "Fireworks"
+  - Extensions
+  - Fireworks
+relatedPosts:
+  - slug: new-fireworks-command-panel-auto-save
+    source: generated
+  - slug: fireworks-main-toolbar-command-panel
+    source: generated
+  - slug: fireworks-main-toolbar-command-panel-progress
+    source: generated
+  - slug: new-fireworks-color-palette-panel
+    source: generated
+  - slug: fireworks-stroke-path-command
+    source: generated
 ---
 
 I’ve developed a [Calculator](http://www.nathanpitman.com/source/extensions.php?id=75) command panel for Fireworks. You can use the ï¿½x,y,w & hï¿½ buttons to grab information from the selected object/s on the canvas.

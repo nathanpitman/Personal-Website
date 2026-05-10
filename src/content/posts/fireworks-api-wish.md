@@ -1,11 +1,26 @@
 ---
 title: Fireworks API wish
-description: "So, I’ve been looking into writing some more Fireworks MX Extensions recently and something has cropped up. The one thing the Fireworks API really lacks is..."
-date: 2004-05-24
-source: http://nathanpitman.com/138/fireworks-api-wish
-archive: https://web.archive.org/web/20100106032947/http://nathanpitman.com/138/fireworks-api-wish
+description: >-
+  So, I’ve been looking into writing some more Fireworks MX Extensions recently
+  and something has cropped up. The one thing the Fireworks API really lacks
+  is...
+date: '2004-05-24'
+source: 'http://nathanpitman.com/138/fireworks-api-wish'
+archive: >-
+  https://web.archive.org/web/20100106032947/http://nathanpitman.com/138/fireworks-api-wish
 tags:
-  - "Fireworks"
+  - Fireworks
+relatedPosts:
+  - slug: fireworks-symbol-wish
+    source: generated
+  - slug: fireworks-main-toolbar-source-files
+    source: generated
+  - slug: creating-advanced-custom-fireworks-panels
+    source: generated
+  - slug: fireworks-main-toolbar-command-panel
+    source: generated
+  - slug: fireworks-main-toolbar-command-panel-progress
+    source: generated
 ---
 
 So, I’ve been looking into writing some more Fireworks MX Extensions recently and something has cropped up. The one thing the Fireworks API really lacks is a method for grouping history steps.

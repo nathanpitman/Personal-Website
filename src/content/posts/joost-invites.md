@@ -1,11 +1,25 @@
 ---
-title: "Joost Invites"
-description: "Yes, that’s right. I’ve got Joost invites. Want me to hook you up? Leave a suitably amusing comment and your wish will be granted. :)"
-date: 2007-05-11
-source: "http://nathanpitman.com/507/joost-invites"
-archive: "https://web.archive.org/web/20091220115728/http://nathanpitman.com:80/507/joost-invites"
+title: Joost Invites
+description: >-
+  Yes, that’s right. I’ve got Joost invites. Want me to hook you up? Leave a
+  suitably amusing comment and your wish will be granted. :)
+date: '2007-05-11'
+source: 'http://nathanpitman.com/507/joost-invites'
+archive: >-
+  https://web.archive.org/web/20091220115728/http://nathanpitman.com:80/507/joost-invites
 tags:
-  - "Technology"
+  - Technology
+relatedPosts:
+  - slug: 50-gmail-invites
+    source: generated
+  - slug: loadsa-gmail-invites
+    source: generated
+  - slug: e-receipts
+    source: generated
+  - slug: when-upgrades-turn-bad
+    source: generated
+  - slug: listen-to-me-talkr-kinda
+    source: generated
 ---
 
 ![](/images/164.gif)

@@ -1,11 +1,25 @@
 ---
 title: Sidebar / Explorer Bar queries
-description: "I’m working on a project at work at the moment where I’m considering using a browser Sidebar (Firefox) / Explorer Bar (IE) in place of a JavaScript pop-up."
-date: 2004-09-15
-source: http://nathanpitman.com/242/sidebar-explorer-bar-queries
-archive: https://web.archive.org/web/20100116054845/http://nathanpitman.com:80/242/sidebar-explorer-bar-queries
+description: >-
+  I’m working on a project at work at the moment where I’m considering using a
+  browser Sidebar (Firefox) / Explorer Bar (IE) in place of a JavaScript pop-up.
+date: '2004-09-15'
+source: 'http://nathanpitman.com/242/sidebar-explorer-bar-queries'
+archive: >-
+  https://web.archive.org/web/20100116054845/http://nathanpitman.com:80/242/sidebar-explorer-bar-queries
 tags:
-  - "Code"
+  - Code
+relatedPosts:
+  - slug: mark-of-the-web-or-why-ie6-sucks
+    source: generated
+  - slug: pink-cow-s
+    source: generated
+  - slug: css3-in-firefox
+    source: generated
+  - slug: cssvista-launched
+    source: generated
+  - slug: small-budgets-are-great
+    source: generated
 ---
 
 I’m working on a project at [work](http://www.mirashade.com/) at the moment where I’m considering using a browser Sidebar (Firefox) / Explorer Bar (IE) in place of a JavaScript pop-up.

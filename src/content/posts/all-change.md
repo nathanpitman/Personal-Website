@@ -1,11 +1,25 @@
 ---
 title: All change…
-description: "So, I finally got round to scrapping my old domain and shifting everything across to this site. I’ve spent what seems like hours, days and weeks..."
-date: 2003-12-02
-source: http://nathanpitman.com/5/all-change
-archive: https://web.archive.org/web/20100106035701/http://nathanpitman.com/5/all-change
+description: >-
+  So, I finally got round to scrapping my old domain and shifting everything
+  across to this site. I’ve spent what seems like hours, days and weeks...
+date: '2003-12-02'
+source: 'http://nathanpitman.com/5/all-change'
+archive: >-
+  https://web.archive.org/web/20100106035701/http://nathanpitman.com/5/all-change
 tags:
-  - "Personal"
+  - Personal
+relatedPosts:
+  - slug: make-hotel-reservations
+    source: generated
+  - slug: page-23
+    source: generated
+  - slug: yesterday-i-started-my-new-job
+    source: generated
+  - slug: halfway-between-the-gutter-and-the-stars
+    source: generated
+  - slug: inevitable
+    source: generated
 ---
 
 So, I finally got round to scrapping my old domain and shifting everything across to this site. I’ve spent what seems like hours, days and weeks re-designing my site over and over… finally settling on something which should be simple enough to evolve and grow with time.

@@ -1,11 +1,25 @@
 ---
 title: London wins Olympic bid!
-description: "Just heard on the radio that London has won it’s bid to host the 2012 Olympics!"
-date: 2005-07-06
-source: http://nathanpitman.com/374/london-wins-olympic-bid
-archive: https://web.archive.org/web/20090609020235/http://nathanpitman.com:80/374/london-wins-olympic-bid
+description: >-
+  Just heard on the radio that London has won it’s bid to host the 2012
+  Olympics!
+date: '2005-07-06'
+source: 'http://nathanpitman.com/374/london-wins-olympic-bid'
+archive: >-
+  https://web.archive.org/web/20090609020235/http://nathanpitman.com:80/374/london-wins-olympic-bid
 tags:
-  - "Personal"
+  - Personal
+relatedPosts:
+  - slug: two-months-old
+    source: generated
+  - slug: im-going-to-be-a-dad
+    source: generated
+  - slug: going-pete-tong
+    source: generated
+  - slug: im-a-dad
+    source: generated
+  - slug: kia-reliability
+    source: generated
 ---
 
 Just heard on the radio that [London has won it’s bid to host the 2012 Olympics](http://news.bbc.co.uk/sport1/hi/front_page/4655555.stm)!

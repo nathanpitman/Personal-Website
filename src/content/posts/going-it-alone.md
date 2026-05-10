@@ -1,11 +1,25 @@
 ---
 title: Going it alone
-description: "As an individual that’s been fully employed since 1997 I regularly wonder what it would be like to set up on my own, whether I could make it work and how..."
-date: 2005-08-12
-source: http://nathanpitman.com/352/going-it-alone
-archive: https://web.archive.org/web/20100106034301/http://nathanpitman.com/352/going-it-alone
+description: >-
+  As an individual that’s been fully employed since 1997 I regularly wonder what
+  it would be like to set up on my own, whether I could make it work and how...
+date: '2005-08-12'
+source: 'http://nathanpitman.com/352/going-it-alone'
+archive: >-
+  https://web.archive.org/web/20100106034301/http://nathanpitman.com/352/going-it-alone
 tags:
-  - "Employment"
+  - Employment
+relatedPosts:
+  - slug: 10-questions-for-craig-grannell-going-it-alone
+    source: generated
+  - slug: 10-questions-for-david-longworth-going-it-alone
+    source: generated
+  - slug: 10-questions-for-darren-miller-going-it-alone
+    source: generated
+  - slug: 10-questions-for-jon-hicks-going-it-alone
+    source: generated
+  - slug: 10-questions-for-john-oxton-going-it-alone
+    source: generated
 ---
 
 As an individual that’s been fully employed since 1997 I regularly wonder what it would be like to set up on my own, whether I could make it work and how others have managed.

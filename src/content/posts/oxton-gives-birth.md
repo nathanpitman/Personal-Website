@@ -1,11 +1,25 @@
 ---
-title: "Oxton gives birth!"
-description: "It was beautiful I’m telling you, I was there when it happened, Oxton just gave birth… to Bite Size Standards."
-date: 2006-04-14
-source: "http://nathanpitman.com/470/oxton-gives-birth"
-archive: "https://web.archive.org/web/20091229024411/http://nathanpitman.com:80/470/oxton-gives-birth"
+title: Oxton gives birth!
+description: >-
+  It was beautiful I’m telling you, I was there when it happened, Oxton just
+  gave birth… to Bite Size Standards.
+date: '2006-04-14'
+source: 'http://nathanpitman.com/470/oxton-gives-birth'
+archive: >-
+  https://web.archive.org/web/20091229024411/http://nathanpitman.com:80/470/oxton-gives-birth
 tags:
-  - "Web development"
+  - Web development
+relatedPosts:
+  - slug: web-standards-who-cares-anyway
+    source: generated
+  - slug: god-is-in-the-details
+    source: generated
+  - slug: linux-virgin
+    source: generated
+  - slug: ubuntu-ubuntu-they-drink-it-in-the-congo
+    source: generated
+  - slug: looking-for-asp-developers
+    source: generated
 ---
 
 It was beautiful I’m telling you, I was there when it happened, [Oxton](http://www.joshuaink.com/) just gave birth… to [Bite Size Standards](http://bitesizestandards.com/).

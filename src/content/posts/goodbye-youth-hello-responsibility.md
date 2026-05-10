@@ -1,12 +1,27 @@
 ---
-title: Goodbye youth, Hello responsibility
-description: "Today it feels as if somehow I’m saying goodbye to my youth. This is the last day I will drive to and from work in my two seater, rear engined convertible..."
-date: 2004-02-22
-source: http://nathanpitman.com/25/goodbye-youth-hello-responsibility
-archive: https://web.archive.org/web/20100102214827/http://nathanpitman.com:80/25/goodbye-youth-hello-responsibility
+title: 'Goodbye youth, Hello responsibility'
+description: >-
+  Today it feels as if somehow I’m saying goodbye to my youth. This is the last
+  day I will drive to and from work in my two seater, rear engined
+  convertible...
+date: '2004-02-22'
+source: 'http://nathanpitman.com/25/goodbye-youth-hello-responsibility'
+archive: >-
+  https://web.archive.org/web/20100102214827/http://nathanpitman.com:80/25/goodbye-youth-hello-responsibility
 tags:
-  - "Personal"
-  - "Cars"
+  - Personal
+  - Cars
+relatedPosts:
+  - slug: my-car-for-sale-toyota-mr2-roadster
+    source: generated
+  - slug: whatever-you-do-dont-buy-a-kia-sedona
+    source: generated
+  - slug: kia-reliability
+    source: generated
+  - slug: dont-let-the-door-hit-you-on-the-way-out
+    source: generated
+  - slug: demise-of-the-kia-sedona
+    source: generated
 ---
 
 Today it feels as if somehow I’m saying goodbye to my youth. This is the last day I will drive to and from work in my two seater, rear engined convertible sports car. Or as it’s affectionatley known by my wife; Nibble.

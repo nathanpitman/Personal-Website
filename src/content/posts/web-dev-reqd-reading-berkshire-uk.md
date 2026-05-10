@@ -1,11 +1,23 @@
 ---
-title: "Web Dev Reqd - Reading, Berkshire, UK"
-description: "Just pimping a vacancy for a friend…"
-date: 2006-09-13
-source: "http://nathanpitman.com/485/web-dev-reqd-reading-berkshire-uk"
-archive: "https://web.archive.org/web/20091226075110/http://nathanpitman.com:80/485/web-dev-reqd-reading-berkshire-uk"
+title: 'Web Dev Reqd - Reading, Berkshire, UK'
+description: Just pimping a vacancy for a friend…
+date: '2006-09-13'
+source: 'http://nathanpitman.com/485/web-dev-reqd-reading-berkshire-uk'
+archive: >-
+  https://web.archive.org/web/20091226075110/http://nathanpitman.com:80/485/web-dev-reqd-reading-berkshire-uk
 tags:
-  - "Jobs"
+  - Jobs
+relatedPosts:
+  - slug: 2-x-web-developers-berkshire-uk
+    source: generated
+  - slug: web-dev-rqd-dorking-surrey-uk
+    source: generated
+  - slug: web-developer-reqd-windsor-berks-uk
+    source: generated
+  - slug: web-developer-berkshire-uk
+    source: generated
+  - slug: flash-web-designer-reqd-wokingham-berks-uk
+    source: generated
 ---
 
 Just pimping a vacancy for a friend…

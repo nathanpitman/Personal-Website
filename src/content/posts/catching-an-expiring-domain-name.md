@@ -1,11 +1,25 @@
 ---
-title: "Catching an expiring domain name"
-description: "A guide to the process of trying to catch and register an expiring domain name before anyone else does."
-date: 2008-08-17
-source: "http://nathanpitman.com/549/catching-an-expiring-domain-name"
-archive: "https://web.archive.org/web/20090714120858/http://nathanpitman.com:80/549/catching-an-expiring-domain-name"
+title: Catching an expiring domain name
+description: >-
+  A guide to the process of trying to catch and register an expiring domain name
+  before anyone else does.
+date: '2008-08-17'
+source: 'http://nathanpitman.com/549/catching-an-expiring-domain-name'
+archive: >-
+  https://web.archive.org/web/20090714120858/http://nathanpitman.com:80/549/catching-an-expiring-domain-name
 tags:
-  - "Branding"
+  - Branding
+relatedPosts:
+  - slug: print-designer-i-aint-update
+    source: generated
+  - slug: branding-nine-four
+    source: generated
+  - slug: contract-furniture-solutions
+    source: generated
+  - slug: studio-8-announced
+    source: generated
+  - slug: windows-vista
+    source: generated
 ---
 
 From the moment that I decided to go it alone and start my own business with my wife 3 years back I was keen to ensure that I bagged a .com as our primary domain. However it very soon became obvious that the chances of settling on a name that we were happy with and it being available as a .com were pretty much nil.

@@ -1,13 +1,25 @@
 ---
-title: "Goodbye dear friend"
-description: "Adobe Fireworks is dead"
-date: 2013-05-07
-source: "http://nathanpitman.com/625/goodbye-dear-friend"
-archive: "https://web.archive.org/web/20130510164111/http://nathanpitman.com:80/625/goodbye-dear-friend"
+title: Goodbye dear friend
+description: Adobe Fireworks is dead
+date: '2013-05-07'
+source: 'http://nathanpitman.com/625/goodbye-dear-friend'
+archive: >-
+  https://web.archive.org/web/20130510164111/http://nathanpitman.com:80/625/goodbye-dear-friend
 tags:
-  - "Adobe"
-  - "Design"
-  - "Fireworks"
+  - Adobe
+  - Design
+  - Fireworks
+relatedPosts:
+  - slug: existing-creative-apps-for-designers-are-not-suited-to-today
+    source: generated
+  - slug: dear-adobe-fireworks-its-not-you-its-me
+    source: generated
+  - slug: an-open-letter-to-software-developers-re-adobe-fireworks
+    source: generated
+  - slug: still-no-real-competition-for-fireworks
+    source: generated
+  - slug: alternatives-to-flash-for-animation-are-starting-to-float-to
+    source: generated
 ---
 
 [Adobe Fireworks is dead](http://blogs.adobe.com/fireworks/2013/05/the-future-of-adobe-fireworks.html)

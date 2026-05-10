@@ -1,11 +1,25 @@
 ---
 title: Fireworks Tips & Tricks Revealed
-description: "Five designers interviewed are asked to reveal some of their favorite Fireworks Tips & Tricks in the December Macromedia Edge Newsletter."
-date: 2004-12-23
-source: http://nathanpitman.com/308/fireworks-tips-tricks-revealed
-archive: https://web.archive.org/web/20090619210931/http://nathanpitman.com:80/308/fireworks-tips-tricks-revealed
+description: >-
+  Five designers interviewed are asked to reveal some of their favorite
+  Fireworks Tips & Tricks in the December Macromedia Edge Newsletter.
+date: '2004-12-23'
+source: 'http://nathanpitman.com/308/fireworks-tips-tricks-revealed'
+archive: >-
+  https://web.archive.org/web/20090619210931/http://nathanpitman.com:80/308/fireworks-tips-tricks-revealed
 tags:
-  - "Fireworks"
+  - Fireworks
+relatedPosts:
+  - slug: fireworks-symbol-wish
+    source: generated
+  - slug: fireworks-best-practices-macrochat
+    source: generated
+  - slug: team-macromedia-fireworks
+    source: generated
+  - slug: an-open-letter-to-software-developers-re-adobe-fireworks
+    source: generated
+  - slug: extending-fireworks
+    source: generated
 ---
 
 Five designers interviewed are asked to reveal some of their favorite Fireworks Tips & Tricks in the [December Macromedia Edge Newsletter](http://www.macromedia.com/newsletters/edge/december2004/).

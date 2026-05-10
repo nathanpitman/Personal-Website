@@ -1,12 +1,24 @@
 ---
-title: Twisted Animator Required… (Berkshire, UK)
-description: "Via Mirashade..."
-date: 2004-09-13
-source: http://nathanpitman.com/240/twisted-animator-required-berkshire-uk
-archive: https://web.archive.org/web/20100113164458/http://nathanpitman.com:80/240/twisted-animator-required-berkshire-uk
+title: 'Twisted Animator Required… (Berkshire, UK)'
+description: Via Mirashade...
+date: '2004-09-13'
+source: 'http://nathanpitman.com/240/twisted-animator-required-berkshire-uk'
+archive: >-
+  https://web.archive.org/web/20100113164458/http://nathanpitman.com:80/240/twisted-animator-required-berkshire-uk
 tags:
-  - "Animation"
-  - "Jobs"
+  - Animation
+  - Jobs
+relatedPosts:
+  - slug: web-developer-required-berkshire-uk
+    source: generated
+  - slug: senior-graphic-designer-required-berkshire-uk
+    source: generated
+  - slug: part-time-php-mysql-developer-required
+    source: generated
+  - slug: web-developer-berkshire-uk
+    source: generated
+  - slug: creative-artworker-rqd-reading-berkshire-uk
+    source: generated
 ---
 
 Via [Mirashade](http://www.mirashade.com/)...

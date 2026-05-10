@@ -1,11 +1,27 @@
 ---
-title: "Just to clarify my position in the Mac vs PC debate"
-description: "Some time having passed, I thought that I should ‘come clean’ and clarify my position in the Mac vs PC debate. Back in August 2005 I blogged about the end..."
-date: 2007-05-10
-source: "http://nathanpitman.com/505/just-to-clarify-my-position-in-the-mac-vs-pc-debate"
-archive: "https://web.archive.org/web/20100113163323/http://nathanpitman.com:80/505/just-to-clarify-my-position-in-the-mac-vs-pc-debate"
+title: Just to clarify my position in the Mac vs PC debate
+description: >-
+  Some time having passed, I thought that I should ‘come clean’ and clarify my
+  position in the Mac vs PC debate. Back in August 2005 I blogged about the
+  end...
+date: '2007-05-10'
+source: >-
+  http://nathanpitman.com/505/just-to-clarify-my-position-in-the-mac-vs-pc-debate
+archive: >-
+  https://web.archive.org/web/20100113163323/http://nathanpitman.com:80/505/just-to-clarify-my-position-in-the-mac-vs-pc-debate
 tags:
-  - "Apple"
+  - Apple
+relatedPosts:
+  - slug: pah-out-with-the-mac
+    source: generated
+  - slug: mac-newbie-seeks-mac-guru-for-short-term-relationship
+    source: generated
+  - slug: one-day-soon-os-x-will-be-free
+    source: generated
+  - slug: when-spotlight-attacks
+    source: generated
+  - slug: first-impressions-of-the-3rd-gen-apple-tv
+    source: generated
 ---
 
 Some time having passed, I thought that I should ‘come clean’ and clarify my position in the Mac vs PC debate. Back in August 2005 I blogged about [the end of a short term relationship with a G5](http://nathanpitman.com/journal/378/pah-out-with-the-mac).

@@ -1,11 +1,25 @@
 ---
 title: Flash Player 8 demo’ed in Tokyo
-description: "Colin Moock has posted a video on his blog of Kevin Lynch, Macromedia’s chief software architect, demonstrating the next generation version of the Flash..."
-date: 2004-10-25
-source: http://nathanpitman.com/274/flash-player-8-demoed-in-tokyo
-archive: https://web.archive.org/web/20090801030707/http://nathanpitman.com:80/274/flash-player-8-demoed-in-tokyo
+description: >-
+  Colin Moock has posted a video on his blog of Kevin Lynch, Macromedia’s chief
+  software architect, demonstrating the next generation version of the Flash...
+date: '2004-10-25'
+source: 'http://nathanpitman.com/274/flash-player-8-demoed-in-tokyo'
+archive: >-
+  https://web.archive.org/web/20090801030707/http://nathanpitman.com:80/274/flash-player-8-demoed-in-tokyo
 tags:
-  - "Flash"
+  - Flash
+relatedPosts:
+  - slug: flash-player-detection-kit-macrochat
+    source: generated
+  - slug: flash-video-kit-announced
+    source: generated
+  - slug: another-flash-patch-ellipsis
+    source: generated
+  - slug: ellipsis-flash-7-2-updater-out
+    source: generated
+  - slug: populating-a-flash-application-with-data-from-mysql-via-php
+    source: generated
 ---
 
 [Colin Moock](http://www.moock.org/blog/archives/000146.html) has posted a video on his blog of Kevin Lynch, Macromedia’s chief software architect, demonstrating the next generation version of the Flash Player at the Macromedia Flash conference in Tokyo, Japan.

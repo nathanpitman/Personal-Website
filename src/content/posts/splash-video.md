@@ -1,12 +1,26 @@
 ---
 title: Splash Video
-description: "Well, Neve had so much fun in the bath last night, I thought I would share her smiles and ‘splish splash madness’."
-date: 2004-05-20
-source: http://nathanpitman.com/90/splash-video
-archive: https://web.archive.org/web/20100106032039/http://nathanpitman.com/90/splash-video
+description: >-
+  Well, Neve had so much fun in the bath last night, I thought I would share her
+  smiles and ‘splish splash madness’.
+date: '2004-05-20'
+source: 'http://nathanpitman.com/90/splash-video'
+archive: >-
+  https://web.archive.org/web/20100106032039/http://nathanpitman.com/90/splash-video
 tags:
-  - "Flash"
-  - "Personal"
+  - Flash
+  - Personal
+relatedPosts:
+  - slug: flash-video-kit-announced
+    source: generated
+  - slug: two-months-old
+    source: generated
+  - slug: one-month-old
+    source: generated
+  - slug: 10-days-1-camera-and-some-fantastic-light
+    source: generated
+  - slug: calling-all-freelance-flash-developers
+    source: generated
 ---
 
 Well, Neve had so much fun in the bath last night, I thought I would share her smiles and ‘splish splash madness’.

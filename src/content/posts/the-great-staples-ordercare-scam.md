@@ -1,11 +1,25 @@
 ---
-title: "The great Staples ‘OrderCare’ scam"
-description: "An account of a frustrating experience with Staples' OrderCare protection scheme — and why it turned out to be a waste of money."
-date: 2008-10-06
-source: "http://nathanpitman.com/560/the-great-staples-ordercare-scam"
-archive: "https://web.archive.org/web/20090518094518/http://nathanpitman.com:80/560/the-great-staples-ordercare-scam"
+title: The great Staples ‘OrderCare’ scam
+description: >-
+  An account of a frustrating experience with Staples' OrderCare protection
+  scheme — and why it turned out to be a waste of money.
+date: '2008-10-06'
+source: 'http://nathanpitman.com/560/the-great-staples-ordercare-scam'
+archive: >-
+  https://web.archive.org/web/20090518094518/http://nathanpitman.com:80/560/the-great-staples-ordercare-scam
 tags:
-  - "Chatter"
+  - Chatter
+relatedPosts:
+  - slug: customer-service-bandits
+    source: generated
+  - slug: ntl-to-penalise-early-broadband-adopters
+    source: generated
+  - slug: hsbc-internet-banking-fail
+    source: generated
+  - slug: how-to-cut-your-monthly-ntl-bill
+    source: generated
+  - slug: free-xbox360
+    source: generated
 ---
 
 As a business ([Nine Four](http://www.ninefour.co.uk/)) we have used [Staples](http://www.staples.co.uk/) to purchase office supplies on a regular basis for the past couple of years. The last time I used the Staples website to place an order I noticed that the total for my goods was a little higher than I expected, I reviewed the basket again and noticed that a line had been added with the label ‘OrderCare’ and a small additional sum, between 2 and 3 pounds if I remember rightly.

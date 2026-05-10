@@ -1,11 +1,27 @@
 ---
-title: "Must have add-ons for any new #eecms project"
-description: "It never ceases to amaze me how many amazing add-ons there are for ExpressionEngine, so many in fact that I often forget about some of the best ‘must haves’..."
-date: 2012-08-01
-source: "http://nathanpitman.com/619/must-have-add-ons-for-any-new-eecms-project"
-archive: "https://web.archive.org/web/20120809232737/http://nathanpitman.com:80/619/must-have-add-ons-for-any-new-eecms-project"
+title: 'Must have add-ons for any new #eecms project'
+description: >-
+  It never ceases to amaze me how many amazing add-ons there are for
+  ExpressionEngine, so many in fact that I often forget about some of the best
+  ‘must haves’...
+date: '2012-08-01'
+source: 'http://nathanpitman.com/619/must-have-add-ons-for-any-new-eecms-project'
+archive: >-
+  https://web.archive.org/web/20120809232737/http://nathanpitman.com:80/619/must-have-add-ons-for-any-new-eecms-project
 tags:
-  - "ExpressionEngine"
+  - ExpressionEngine
+relatedPosts:
+  - slug: expressionengine-plug-in-add-vat
+    source: generated
+  - slug: hacking-expression-engine-to-add-radio-buttons-and-checkboxe
+    source: generated
+  - slug: >-
+      back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark
+    source: generated
+  - slug: contract-furniture-solutions
+    source: generated
+  - slug: expressionengine-field-frame-field-type-uk-counties-select
+    source: generated
 ---
 
 It never ceases to amaze me how many amazing add-ons there are for ExpressionEngine, so many in fact that I often forget about some of the best ‘must haves’ for new projects. In an attempt to remind myself of these gems I thought I would collate the ‘gratis’ must have add-ons in a list here on my humble blog.

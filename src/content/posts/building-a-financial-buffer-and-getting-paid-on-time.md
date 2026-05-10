@@ -1,12 +1,27 @@
 ---
-title: "Building a financial buffer and getting paid on time"
-description: "So often I think I should write more here on the ups and downs of running your own business but somehow the time required always evades me. Thankfully my..."
-date: 2012-10-26
-source: "http://nathanpitman.com/622/building-a-financial-buffer-and-getting-paid-on-time"
-archive: "https://web.archive.org/web/20121130040336/http://nathanpitman.com:80/622/building-a-financial-buffer-and-getting-paid-on-time"
+title: Building a financial buffer and getting paid on time
+description: >-
+  So often I think I should write more here on the ups and downs of running your
+  own business but somehow the time required always evades me. Thankfully my...
+date: '2012-10-26'
+source: >-
+  http://nathanpitman.com/622/building-a-financial-buffer-and-getting-paid-on-time
+archive: >-
+  https://web.archive.org/web/20121130040336/http://nathanpitman.com:80/622/building-a-financial-buffer-and-getting-paid-on-time
 tags:
-  - "Business"
-  - "Employment"
+  - Business
+  - Employment
+relatedPosts:
+  - slug: going-it-alone
+    source: generated
+  - slug: 10-questions-for-paul-farnell-going-it-alone
+    source: generated
+  - slug: 10-questions-the-tables-turned
+    source: generated
+  - slug: 10-questions-for-jon-hicks-going-it-alone
+    source: generated
+  - slug: 10-questions-for-john-oxton-going-it-alone
+    source: generated
 ---
 
 So often I think I should write more here on the ups and downs of running your own business but somehow the time required always evades me. Thankfully my colleague [Paul Cripps](http://alpha.app.net/paulcripps) has pointed me in the direction of some pearls of wisdom penned by Andy Clarke.

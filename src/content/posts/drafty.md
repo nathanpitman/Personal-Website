@@ -1,12 +1,26 @@
 ---
 title: Drafty
-description: "Thoughts on managing draft blog posts — the ones that never quite make it to publish."
-date: 2005-12-23
-source: http://nathanpitman.com/433/drafty
-archive: https://web.archive.org/web/20100106033033/http://nathanpitman.com/433/drafty
+description: >-
+  Thoughts on managing draft blog posts — the ones that never quite make it to
+  publish.
+date: '2005-12-23'
+source: 'http://nathanpitman.com/433/drafty'
+archive: 'https://web.archive.org/web/20100106033033/http://nathanpitman.com/433/drafty'
 tags:
-  - "This website"
-  - "Web development"
+  - This website
+  - Web development
+relatedPosts:
+  - slug: >-
+      back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark
+    source: generated
+  - slug: mark-of-the-web-or-why-ie6-sucks
+    source: generated
+  - slug: re-writing-history
+    source: generated
+  - slug: ubuntu-ubuntu-they-drink-it-in-the-congo
+    source: generated
+  - slug: why-is-it-taking-so-long
+    source: generated
 ---
 
 If like me you often have ideas for blog posts but never get round to actually writing them, you’ll have a bunch of ‘drafts’ in your CMS of choice.

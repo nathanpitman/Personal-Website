@@ -1,11 +1,26 @@
 ---
 title: Sorry…
-description: "Sorry things are a little silent on the blog front, combination of a huge workload at mirashade and lack of sleep at home due to a teething daughter is..."
-date: 2004-12-15
-source: http://nathanpitman.com/295/sorry
-archive: https://web.archive.org/web/20090607022420/http://nathanpitman.com:80/295/sorry
+description: >-
+  Sorry things are a little silent on the blog front, combination of a huge
+  workload at mirashade and lack of sleep at home due to a teething daughter
+  is...
+date: '2004-12-15'
+source: 'http://nathanpitman.com/295/sorry'
+archive: >-
+  https://web.archive.org/web/20090607022420/http://nathanpitman.com:80/295/sorry
 tags:
-  - "This website"
+  - This website
+relatedPosts:
+  - slug: why-is-it-taking-so-long
+    source: generated
+  - slug: re-writing-history
+    source: generated
+  - slug: drafty
+    source: generated
+  - slug: textdrive-is-kinda-sucking-right-now
+    source: generated
+  - slug: listen-to-me-talkr-kinda
+    source: generated
 ---
 
 Sorry things are a little silent on the blog front, combination of a huge workload at [mirashade](http://www.mirashade.com/) and lack of sleep at home due to a teething [daughter](http://www.nathanpitman.com/blog/?id=289) is taking it’s toll on my ability to blog reguarly, normal service *will* resume some time soon, hopefully! :)

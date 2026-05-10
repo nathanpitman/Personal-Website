@@ -1,11 +1,23 @@
 ---
-title: "When Spotlight Attacks"
-description: "On Mac OS X Spotlight causing unexpected problems — and how to fix them."
-date: 2007-06-28
-source: "http://nathanpitman.com/512/when-spotlight-attacks"
-archive: "https://web.archive.org/web/20090823042016/http://nathanpitman.com:80/512/when-spotlight-attacks"
+title: When Spotlight Attacks
+description: On Mac OS X Spotlight causing unexpected problems — and how to fix them.
+date: '2007-06-28'
+source: 'http://nathanpitman.com/512/when-spotlight-attacks'
+archive: >-
+  https://web.archive.org/web/20090823042016/http://nathanpitman.com:80/512/when-spotlight-attacks
 tags:
-  - "Apple"
+  - Apple
+relatedPosts:
+  - slug: just-to-clarify-my-position-in-the-mac-vs-pc-debate
+    source: generated
+  - slug: one-day-soon-os-x-will-be-free
+    source: generated
+  - slug: os-x-pet-peeves
+    source: generated
+  - slug: first-impressions-of-the-3rd-gen-apple-tv
+    source: generated
+  - slug: pah-out-with-the-mac
+    source: generated
 ---
 
 With my MacBook only being a couple of weeks old there are still a few kinks to iron out in the [Nine Four](http://www.ninefour.co.uk/) IT infrastructure, one of those being printing to a shared printer on a Windows machine which I affectionately call ‘Oto’.

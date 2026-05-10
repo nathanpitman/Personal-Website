@@ -1,11 +1,23 @@
 ---
 title: Installing Instiki on Debian
-description: "Notes on getting the Instiki wiki running on Debian for an internal team wiki."
-date: 2005-08-12
-source: http://nathanpitman.com/391/installing-instiki-on-debian
-archive: https://web.archive.org/web/20100106033419/http://nathanpitman.com/391/installing-instiki-on-debian
+description: Notes on getting the Instiki wiki running on Debian for an internal team wiki.
+date: '2005-08-12'
+source: 'http://nathanpitman.com/391/installing-instiki-on-debian'
+archive: >-
+  https://web.archive.org/web/20100106033419/http://nathanpitman.com/391/installing-instiki-on-debian
 tags:
-  - "Linux"
+  - Linux
+relatedPosts:
+  - slug: ubuntu-ubuntu-they-drink-it-in-the-congo
+    source: generated
+  - slug: setting-up-a-lamp-server-part-1
+    source: generated
+  - slug: linux-virgin-no-more
+    source: generated
+  - slug: migrating-from-txp-to-ee-step-1
+    source: generated
+  - slug: linux-virgin
+    source: generated
 ---
 
 I decided it was about time I had a play with [Instiki](http://www.instiki.org/) here at [Bite CP](http://www.bitecp.com/) since we used to have an install back at [Mirashade](http://www.mirashade.com/).

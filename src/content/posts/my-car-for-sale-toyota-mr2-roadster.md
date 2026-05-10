@@ -1,12 +1,26 @@
 ---
-title: "My car, for sale: Toyota MR2 Roadster"
-description: "The time has come to part company with my beloved car. Working from home has meant that it rarely gets driven these days and so I’m ‘downsizing’, most..."
-date: 2007-08-13
-source: "http://nathanpitman.com/517/my-car-for-sale-toyota-mr2-roadster"
-archive: "https://web.archive.org/web/20090715080647/http://nathanpitman.com:80/517/my-car-for-sale-toyota-mr2-roadster"
+title: 'My car, for sale: Toyota MR2 Roadster'
+description: >-
+  The time has come to part company with my beloved car. Working from home has
+  meant that it rarely gets driven these days and so I’m ‘downsizing’, most...
+date: '2007-08-13'
+source: 'http://nathanpitman.com/517/my-car-for-sale-toyota-mr2-roadster'
+archive: >-
+  https://web.archive.org/web/20090715080647/http://nathanpitman.com:80/517/my-car-for-sale-toyota-mr2-roadster
 tags:
-  - "Personal"
-  - "Cars"
+  - Personal
+  - Cars
+relatedPosts:
+  - slug: goodbye-youth-hello-responsibility
+    source: generated
+  - slug: whatever-you-do-dont-buy-a-kia-sedona
+    source: generated
+  - slug: kia-reliability
+    source: generated
+  - slug: demise-of-the-kia-sedona
+    source: generated
+  - slug: dont-let-the-door-hit-you-on-the-way-out
+    source: generated
 ---
 
 The time has come to part company with my beloved car. Working from home has meant that it rarely gets driven these days and so I’m ‘downsizing’, most likely buying a 2nd hand Toyota Aygo or something similar.

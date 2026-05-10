@@ -1,11 +1,25 @@
 ---
 title: Thunderbird re-branded
-description: "There’s a nice post on the hicksdesign journal regarding the re-design of the Mozilla Thunderbird logo which they’ve just completed."
-date: 2004-04-21
-source: http://nathanpitman.com/74/thunderbird-re-branded
-archive: https://web.archive.org/web/20091225122258/http://nathanpitman.com:80/74/thunderbird-re-branded
+description: >-
+  There’s a nice post on the hicksdesign journal regarding the re-design of the
+  Mozilla Thunderbird logo which they’ve just completed.
+date: '2004-04-21'
+source: 'http://nathanpitman.com/74/thunderbird-re-branded'
+archive: >-
+  https://web.archive.org/web/20091225122258/http://nathanpitman.com:80/74/thunderbird-re-branded
 tags:
-  - "Design"
+  - Design
+relatedPosts:
+  - slug: design-is
+    source: generated
+  - slug: mozilla-redesign
+    source: generated
+  - slug: armadillo-v2
+    source: generated
+  - slug: shauninman-com-pirated
+    source: generated
+  - slug: its-all-in-the-detail
+    source: generated
 ---
 
 There’s a [nice post](http://www.hicksdesign.co.uk/journal/2004/04/thunderbird/index.php) on the hicksdesign journal regarding the re-design of the Mozilla Thunderbird logo which they’ve just completed.

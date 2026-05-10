@@ -1,11 +1,23 @@
 ---
-title: "Flash/Web Designer Reqd - Wokingham, Berks, UK"
-description: "Just pimping a vacancy for a friendâ¦"
-date: 2007-03-07
-source: "http://nathanpitman.com/499/flash-web-designer-reqd-wokingham-berks-uk"
-archive: "https://web.archive.org/web/20100117024957/http://nathanpitman.com:80/499/flash-web-designer-reqd-wokingham-berks-uk"
+title: 'Flash/Web Designer Reqd - Wokingham, Berks, UK'
+description: "Just pimping a vacancy for a friendâ\x80¦"
+date: '2007-03-07'
+source: 'http://nathanpitman.com/499/flash-web-designer-reqd-wokingham-berks-uk'
+archive: >-
+  https://web.archive.org/web/20100117024957/http://nathanpitman.com:80/499/flash-web-designer-reqd-wokingham-berks-uk
 tags:
-  - "Jobs"
+  - Jobs
+relatedPosts:
+  - slug: junior-front-end-developer-wokingham-berks-uk
+    source: generated
+  - slug: web-developer-reqd-windsor-berks-uk
+    source: generated
+  - slug: digital-designer-reading-berks-uk
+    source: generated
+  - slug: web-dev-reqd-reading-berkshire-uk
+    source: generated
+  - slug: creative-director-reqd-reading-berks-uk
+    source: generated
 ---
 
 Just pimping a vacancy for a friendâ¦

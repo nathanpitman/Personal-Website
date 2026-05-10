@@ -1,11 +1,25 @@
 ---
-title: ‘PC World’, full of sales guys who know nothing…
-description: "Last night I took a visit to ‘PC World’, full of sales guys who know nothing about the product and just want to sell you a service plan."
-date: 2003-05-07
-source: http://nathanpitman.com/107/pc-world-full-of-sales-guys-who-know-nothing
-archive: https://web.archive.org/web/20091214150837/http://nathanpitman.com:80/107/pc-world-full-of-sales-guys-who-know-nothing
+title: '‘PC World’, full of sales guys who know nothing…'
+description: >-
+  Last night I took a visit to ‘PC World’, full of sales guys who know nothing
+  about the product and just want to sell you a service plan.
+date: '2003-05-07'
+source: 'http://nathanpitman.com/107/pc-world-full-of-sales-guys-who-know-nothing'
+archive: >-
+  https://web.archive.org/web/20091214150837/http://nathanpitman.com:80/107/pc-world-full-of-sales-guys-who-know-nothing
 tags:
-  - "Technology"
+  - Technology
+relatedPosts:
+  - slug: the-joys-of-technology
+    source: generated
+  - slug: junk-software
+    source: generated
+  - slug: first-impressions-of-the-3rd-gen-apple-tv
+    source: generated
+  - slug: when-upgrades-turn-bad
+    source: generated
+  - slug: thoughts-on-flash-communication-server-mx
+    source: generated
 ---
 
 Last night I took a visit to ‘PC World’, full of sales guys who know nothing about the product and just want to sell you a service plan.

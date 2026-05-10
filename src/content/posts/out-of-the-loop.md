@@ -1,12 +1,26 @@
 ---
 title: Out of the loop
-description: "Well, I’ve been a little out of the loop for the past week or so. I’m ‘on holiday’ at home until the end of this week with my ‘family’. :)"
-date: 2004-05-10
-source: http://nathanpitman.com/84/out-of-the-loop
-archive: https://web.archive.org/web/20091231014939/http://nathanpitman.com:80/84/out-of-the-loop
+description: >-
+  Well, I’ve been a little out of the loop for the past week or so. I’m ‘on
+  holiday’ at home until the end of this week with my ‘family’. :)
+date: '2004-05-10'
+source: 'http://nathanpitman.com/84/out-of-the-loop'
+archive: >-
+  https://web.archive.org/web/20091231014939/http://nathanpitman.com:80/84/out-of-the-loop
 tags:
-  - "Flash"
-  - "Technology"
+  - Flash
+  - Technology
+relatedPosts:
+  - slug: rubberduck-launch-sreenweaver-mx
+    source: generated
+  - slug: flash-satay-the-new-old-way-to-embed-flash-movies-in-xhtml
+    source: generated
+  - slug: expression-microsofts-first-product-to-export-to-swf
+    source: generated
+  - slug: ellipsis-flash-7-2-updater-out
+    source: generated
+  - slug: browsing-xml-with-flash
+    source: generated
 ---
 
 Well, I’ve been a little out of the loop for the past week or so. I’m ‘on holiday’ at home until the end of this week with my ‘family’. :)

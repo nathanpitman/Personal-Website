@@ -1,12 +1,26 @@
 ---
-title: "Creative Assembly April 08"
-description: "Well we had our inaugural Creative Assembly meeting last night in the Atrium Bar at the South Hill Park Arts Centre. I was expecting a turnout of 6 or 7..."
-date: 2008-04-02
-source: "http://nathanpitman.com/530/creative-assembly-april-08"
-archive: "https://web.archive.org/web/20100106034130/http://nathanpitman.com/530/creative-assembly-april-08"
+title: Creative Assembly April 08
+description: >-
+  Well we had our inaugural Creative Assembly meeting last night in the Atrium
+  Bar at the South Hill Park Arts Centre. I was expecting a turnout of 6 or 7...
+date: '2008-04-02'
+source: 'http://nathanpitman.com/530/creative-assembly-april-08'
+archive: >-
+  https://web.archive.org/web/20100106034130/http://nathanpitman.com/530/creative-assembly-april-08
 tags:
-  - "Chatter"
-  - "Employment"
+  - Chatter
+  - Employment
+relatedPosts:
+  - slug: creative-assembly-may-08
+    source: generated
+  - slug: featured-in-computer-arts
+    source: generated
+  - slug: 10-questions-for-paul-farnell-going-it-alone
+    source: generated
+  - slug: free-thinking-breakfast-reading-uk-tmrw
+    source: generated
+  - slug: available
+    source: generated
 ---
 
 Well we had our inaugural [Creative Assembly](http://www.creativeassembly.net/) meeting last night in the Atrium Bar at the South Hill Park Arts Centre. I was expecting a turnout of 6 or 7 people but I was blown away when 18 people turned up.

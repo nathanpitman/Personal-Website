@@ -1,12 +1,26 @@
 ---
-title: "I ❤ ExpressionEngine"
-description: "After my recent rant about having to edit CMS templates via a browser text field I think I have perhaps stumbled across ExpressionEngines best feature yet...."
-date: 2006-03-10
-source: "http://nathanpitman.com/463/i"
-archive: "https://web.archive.org/web/20091210071344/http://nathanpitman.com:80/463/i"
+title: I ❤ ExpressionEngine
+description: >-
+  After my recent rant about having to edit CMS templates via a browser text
+  field I think I have perhaps stumbled across ExpressionEngines best feature
+  yet....
+date: '2006-03-10'
+source: 'http://nathanpitman.com/463/i'
+archive: 'https://web.archive.org/web/20091210071344/http://nathanpitman.com:80/463/i'
 tags:
-  - "Code"
-  - "ExpressionEngine"
+  - Code
+  - ExpressionEngine
+relatedPosts:
+  - slug: let-devs-prefix-your-expressionengine-variables-with-a-custo
+    source: generated
+  - slug: hacking-expression-engine-to-add-radio-buttons-and-checkboxe
+    source: generated
+  - slug: things-about-expressionengine-2-that-wind-me-up-good-and-pro
+    source: generated
+  - slug: expressionengine-extension-noscript-messages
+    source: generated
+  - slug: expressionengine-mug
+    source: generated
 ---
 
 After my [recent rant](http://nathanpitman.com/journal/456/bah-its-ghastly) about having to edit CMS templates via a browser text field I think I have perhaps stumbled across ExpressionEngines best feature yet. It is for sure going to save my sanity.

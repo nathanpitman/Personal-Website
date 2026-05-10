@@ -1,12 +1,26 @@
 ---
 title: 'For Sale: 20GB Creative Nomad Jukebox Zen'
-description: "I’m selling my ‘Creative Nomad Jukebox Zen’ (Snappy product name!) on eBay. Ok so it’s no iPod beater but if you’re after a less expensive mp3 player then..."
-date: 2004-10-27
-source: http://nathanpitman.com/276/for-sale-20gb-creative-nomad-jukebox-zen
-archive: https://web.archive.org/web/20090801030728/http://nathanpitman.com:80/276/for-sale-20gb-creative-nomad-jukebox-zen
+description: >-
+  I’m selling my ‘Creative Nomad Jukebox Zen’ (Snappy product name!) on eBay. Ok
+  so it’s no iPod beater but if you’re after a less expensive mp3 player then...
+date: '2004-10-27'
+source: 'http://nathanpitman.com/276/for-sale-20gb-creative-nomad-jukebox-zen'
+archive: >-
+  https://web.archive.org/web/20090801030728/http://nathanpitman.com:80/276/for-sale-20gb-creative-nomad-jukebox-zen
 tags:
-  - "Personal"
-  - "Technology"
+  - Personal
+  - Technology
+relatedPosts:
+  - slug: squeezebox
+    source: generated
+  - slug: the-best-ps200-i-ever-spent
+    source: generated
+  - slug: 2-fingers-up-to-copy-control-audio-cds-again
+    source: generated
+  - slug: going-pete-tong
+    source: generated
+  - slug: bookmark-culling
+    source: generated
 ---
 
 I’m selling my ‘Creative Nomad Jukebox Zen’ (Snappy product name!) on [eBay](http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&rd=1&item=5726813993&ssPageName=STRK:MESE:IT). Ok so it’s no [iPod](http://www.apple.com/ipod/) beater but if you’re after a less expensive mp3 player then this might do the job.

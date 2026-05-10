@@ -1,13 +1,26 @@
 ---
 title: 10 questions for John Oxton (Going it alone)
-date: 2005-09-05
-source: http://nathanpitman.com/393/10-questions-for-john-oxton-going-it-alone
-archive: https://web.archive.org/web/20091117062638/http://nathanpitman.com:80/393/10-questions-for-john-oxton-going-it-alone
-description: Fifth and final interview in the Going it alone series — John Oxton
-  on freelancing in web design and development.
+date: '2005-09-05'
+source: 'http://nathanpitman.com/393/10-questions-for-john-oxton-going-it-alone'
+archive: >-
+  https://web.archive.org/web/20091117062638/http://nathanpitman.com:80/393/10-questions-for-john-oxton-going-it-alone
+description: >-
+  Fifth and final interview in the Going it alone series — John Oxton on
+  freelancing in web design and development.
 tags:
   - Employment
   - Interview
+relatedPosts:
+  - slug: 10-questions-for-paul-farnell-going-it-alone
+    source: generated
+  - slug: 10-questions-for-jon-hicks-going-it-alone
+    source: generated
+  - slug: 10-questions-for-david-longworth-going-it-alone
+    source: generated
+  - slug: 10-questions-for-darren-miller-going-it-alone
+    source: generated
+  - slug: 10-questions-for-craig-grannell-going-it-alone
+    source: generated
 ---
 
 Finally I get around to posting my final ’10 questions’ for web designers and developers who are self employed (Sorry for the delay, [new arrivals](http://nathanpitman.com/journal/397/im-a-dad-again) do throw a spanner in the works). This time I ‘metaphorically’ sat down for a chat with [John Oxton](http://www.joshuaink.com/). John is a web developer based in the Cotswolds. Well known for his use of the ‘F’ word, he’s really a jolly nice chap. On with the questions!

@@ -1,11 +1,25 @@
 ---
 title: Print designer I ain’t (update)
-description: "An update on a print design project — reflecting on the difference between screen and print work."
-date: 2005-10-25
-source: http://nathanpitman.com/412/print-designer-i-aint-update
-archive: https://web.archive.org/web/20100106034320/http://nathanpitman.com/412/print-designer-i-aint-update
+description: >-
+  An update on a print design project — reflecting on the difference between
+  screen and print work.
+date: '2005-10-25'
+source: 'http://nathanpitman.com/412/print-designer-i-aint-update'
+archive: >-
+  https://web.archive.org/web/20100106034320/http://nathanpitman.com/412/print-designer-i-aint-update
 tags:
-  - "Branding"
+  - Branding
+relatedPosts:
+  - slug: branding-nine-four
+    source: generated
+  - slug: branding-nine-four-again
+    source: generated
+  - slug: catching-an-expiring-domain-name
+    source: generated
+  - slug: contract-furniture-solutions
+    source: generated
+  - slug: goodbye-macromedia-com
+    source: generated
 ---
 
 Well as the title says, I’m no print designer, but with a few minutes to spare between children going to bed and the increasingly excellent [afterlife](http://afterlife.itv.com/) I thought I’d have a shot at a concept for my business cards. The number of times in the last month I wish I’d had a bunch of these in my pocket is getting beyond a joke, so it’s time to pull my finger out.

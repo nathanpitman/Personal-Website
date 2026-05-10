@@ -1,11 +1,25 @@
 ---
-title: "Google Mail Labels. Maxlength=40."
-description: "Well after hearing from Darren that he was switching in full to using Google for business email I decided to investigate myself. Google have a fantastic..."
-date: 2008-07-07
-source: "http://nathanpitman.com/540/google-mail-labels-maxlength40"
-archive: "https://web.archive.org/web/20100106033925/http://nathanpitman.com/540/google-mail-labels-maxlength40"
+title: Google Mail Labels. Maxlength=40.
+description: >-
+  Well after hearing from Darren that he was switching in full to using Google
+  for business email I decided to investigate myself. Google have a fantastic...
+date: '2008-07-07'
+source: 'http://nathanpitman.com/540/google-mail-labels-maxlength40'
+archive: >-
+  https://web.archive.org/web/20100106033925/http://nathanpitman.com/540/google-mail-labels-maxlength40
 tags:
-  - "Web applications"
+  - Web applications
+relatedPosts:
+  - slug: sitevista-launches-email-testing-service
+    source: generated
+  - slug: hsbc-internet-banking-fail
+    source: generated
+  - slug: carson-summit-podcasts
+    source: generated
+  - slug: will-you-be-at-the-carson-summit
+    source: generated
+  - slug: basecamp-themes
+    source: generated
 ---
 
 Well after hearing from [Darren](http://www.darrenm.net/) that he was switching in full to using Google for business email I decided to investigate myself. Google have a fantastic offer for small businesses; up to 25 mail accounts with a 6Gb limit ‘each’ which runs through your own domain.

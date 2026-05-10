@@ -1,11 +1,26 @@
 ---
-title: "ExpressionEngine Plug-in: Member Online?"
-description: "Whilst working on the Wired In website I came up against a little problem. I wanted to be ale to show if a specific user was online or offline, much like..."
-date: 2008-07-08
-source: "http://nathanpitman.com/541/expressionengine-plug-in-member-online"
-archive: "https://web.archive.org/web/20090616071925/http://nathanpitman.com:80/541/expressionengine-plug-in-member-online"
+title: 'ExpressionEngine Plug-in: Member Online?'
+description: >-
+  Whilst working on the Wired In website I came up against a little problem. I
+  wanted to be ale to show if a specific user was online or offline, much
+  like...
+date: '2008-07-08'
+source: 'http://nathanpitman.com/541/expressionengine-plug-in-member-online'
+archive: >-
+  https://web.archive.org/web/20090616071925/http://nathanpitman.com:80/541/expressionengine-plug-in-member-online
 tags:
-  - "ExpressionEngine"
+  - ExpressionEngine
+relatedPosts:
+  - slug: expressionengine-plug-in-link-target
+    source: generated
+  - slug: expressionengine-plug-in-encode-decode
+    source: generated
+  - slug: expressionengine-plug-in-add-vat
+    source: generated
+  - slug: expressionengine-plug-in-uk-counties-select
+    source: generated
+  - slug: expressionengine-plug-in-us-states-select
+    source: generated
 ---
 
 Whilst working on the [Wired In](http://www.wiredin.org.uk/) website I came up against a little problem. I wanted to be ale to show if a specific user was online or offline, much like you would on a social networking site. However although there are tags to return a list of online users within [ExpressionEngine](http://www.expressionengine.com/index.php?affiliate=nathanpitman), you cannot pass this a specific username with a view to returning a true/false response.

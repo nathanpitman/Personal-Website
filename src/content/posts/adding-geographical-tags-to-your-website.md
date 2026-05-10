@@ -1,11 +1,25 @@
 ---
 title: Adding geographical tags to your website
-description: "Having noticed geographical data in the meta tags of many blogs recently I decided to investigate a little further and work out how to indicate the..."
-date: 2005-04-23
-source: http://nathanpitman.com/346/adding-geographical-tags-to-your-website
-archive: https://web.archive.org/web/20090522145154/http://nathanpitman.com:80/346/adding-geographical-tags-to-your-website/
+description: >-
+  Having noticed geographical data in the meta tags of many blogs recently I
+  decided to investigate a little further and work out how to indicate the...
+date: '2005-04-23'
+source: 'http://nathanpitman.com/346/adding-geographical-tags-to-your-website'
+archive: >-
+  https://web.archive.org/web/20090522145154/http://nathanpitman.com:80/346/adding-geographical-tags-to-your-website/
 tags:
-  - "Code"
+  - Code
+relatedPosts:
+  - slug: adding-on-hover-copyright-to-lightbox
+    source: generated
+  - slug: joined-up-website-design
+    source: generated
+  - slug: browsing-xml-with-flash
+    source: generated
+  - slug: mark-of-the-web-or-why-ie6-sucks
+    source: generated
+  - slug: new-tricks-with-textile
+    source: generated
 ---
 
 Having noticed geographical data in the [meta](http://www.shauninman.com/) [tags](http://www.andybudd.com/) of [many](http://www.smalltransport.com/) [blogs](http://www.hicksdesign.co.uk/journal/) recently I decided to investigate a little further and work out how to indicate the geographical location associated with my website. It took a bit of digging about, so I thought I’d share the results with you all.

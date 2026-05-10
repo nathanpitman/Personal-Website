@@ -1,11 +1,25 @@
 ---
 title: London Terrorist Attacks
-description: "Not really much you can say when the images themselves speak with such volume, but here I am regardless trying to think of something to write, but my mind..."
-date: 2005-07-07
-source: http://nathanpitman.com/375/london-terrorist-attacks
-archive: https://web.archive.org/web/20100105143959/http://nathanpitman.com:80/375/london-terrorist-attacks
+description: >-
+  Not really much you can say when the images themselves speak with such volume,
+  but here I am regardless trying to think of something to write, but my mind...
+date: '2005-07-07'
+source: 'http://nathanpitman.com/375/london-terrorist-attacks'
+archive: >-
+  https://web.archive.org/web/20100105143959/http://nathanpitman.com:80/375/london-terrorist-attacks
 tags:
-  - "Chatter"
+  - Chatter
+relatedPosts:
+  - slug: flickrlicious
+    source: generated
+  - slug: whatever-you-do-dont-buy-a-kia-sedona
+    source: generated
+  - slug: why-is-no-one-linking
+    source: generated
+  - slug: free-xbox360
+    source: generated
+  - slug: fahrenheit-9-11
+    source: generated
 ---
 
 ![Passengers escaping London Underground after bomb blast](/images/102.jpg "Passengers escaping London Underground after bomb blast")

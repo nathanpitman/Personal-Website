@@ -1,11 +1,25 @@
 ---
 title: Very Occasional Central
-description: "Today I was clearing out old apps, tidying up my machine when I came across something interesting."
-date: 2004-02-24
-source: http://nathanpitman.com/27/very-occasional-central
-archive: https://web.archive.org/web/20100106033706/http://nathanpitman.com/27/very-occasional-central
+description: >-
+  Today I was clearing out old apps, tidying up my machine when I came across
+  something interesting.
+date: '2004-02-24'
+source: 'http://nathanpitman.com/27/very-occasional-central'
+archive: >-
+  https://web.archive.org/web/20100106033706/http://nathanpitman.com/27/very-occasional-central
 tags:
-  - "Technology"
+  - Technology
+relatedPosts:
+  - slug: ipod-av-real-or-fake
+    source: generated
+  - slug: adobe-to-acquire-macromedia
+    source: generated
+  - slug: my-thoughts-on-apple-tv-apps
+    source: generated
+  - slug: first-impressions-of-the-3rd-gen-apple-tv
+    source: generated
+  - slug: flash-satay-the-new-old-way-to-embed-flash-movies-in-xhtml
+    source: generated
 ---
 
 Today I was clearing out old apps, tidying up my machine when I came across something interesting.

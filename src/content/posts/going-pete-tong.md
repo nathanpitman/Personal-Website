@@ -1,12 +1,24 @@
 ---
 title: Going Pete Tong
-description: "Every thing’s going Pete Tong! Yesterday:"
-date: 2004-06-18
-source: http://nathanpitman.com/199/going-pete-tong
-archive: https://web.archive.org/web/20100107152612/http://nathanpitman.com:80/199/going-pete-tong
+description: 'Every thing’s going Pete Tong! Yesterday:'
+date: '2004-06-18'
+source: 'http://nathanpitman.com/199/going-pete-tong'
+archive: >-
+  https://web.archive.org/web/20100107152612/http://nathanpitman.com:80/199/going-pete-tong
 tags:
-  - "Personal"
-  - "Technology"
+  - Personal
+  - Technology
+relatedPosts:
+  - slug: 2-fingers-up-to-copy-control-audio-cds-again
+    source: generated
+  - slug: squeezebox
+    source: generated
+  - slug: the-best-ps200-i-ever-spent
+    source: generated
+  - slug: bookmark-culling
+    source: generated
+  - slug: junk-software
+    source: generated
 ---
 
 Every thing’s going [Pete Tong!](http://www.bbc.co.uk/radio1/dance/petetong/index.shtml) Yesterday:

@@ -1,12 +1,27 @@
 ---
 title: Dreamweaver Extensions going Pete Tong
-description: "For some time I’ve guessed that I might need to update my Dreamweaver Extensions to function correctly with Dreamweaver MX 2004. Today I found some time to..."
-date: 2004-02-06
-source: http://nathanpitman.com/21/dreamweaver-extensions-going-pete-tong
-archive: https://web.archive.org/web/20090601223412/http://nathanpitman.com:80/21/dreamweaver-extensions-going-pete-tong
+description: >-
+  For some time I’ve guessed that I might need to update my Dreamweaver
+  Extensions to function correctly with Dreamweaver MX 2004. Today I found some
+  time to...
+date: '2004-02-06'
+source: 'http://nathanpitman.com/21/dreamweaver-extensions-going-pete-tong'
+archive: >-
+  https://web.archive.org/web/20090601223412/http://nathanpitman.com:80/21/dreamweaver-extensions-going-pete-tong
 tags:
-  - "Adobe"
-  - "Extensions"
+  - Adobe
+  - Extensions
+relatedPosts:
+  - slug: making-my-dreamweaver-extensions-mx-2004-compliant
+    source: generated
+  - slug: writing-extensions-for-fireworks-mx-is-fun
+    source: generated
+  - slug: possible-issues-with-fireworks-mx-extensions-in-mx-2004
+    source: generated
+  - slug: my-fireworks-extensions-featured-in-practical-web-projects
+    source: generated
+  - slug: source-code-for-my-fireworks-extensions
+    source: generated
 ---
 
 For some time I’ve guessed that I might need to update [my Dreamweaver Extensions](http://www.nathanpitman.com/source/extensions.php) to function correctly with Dreamweaver MX 2004. Today I found some time to take a little bit of a closer look at the subject.

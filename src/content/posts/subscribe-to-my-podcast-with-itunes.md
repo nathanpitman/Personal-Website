@@ -1,11 +1,25 @@
 ---
 title: Subscribe to my podcast with iTunes
-description: "I know, you have to ask why… but now you can subscribe to the podcast of my journal (spoken with Talkr) using iTunes."
-date: 2006-01-26
-source: http://nathanpitman.com/446/subscribe-to-my-podcast-with-itunes
-archive: https://web.archive.org/web/20090814210349/http://nathanpitman.com:80/446/subscribe-to-my-podcast-with-itunes
+description: >-
+  I know, you have to ask why… but now you can subscribe to the podcast of my
+  journal (spoken with Talkr) using iTunes.
+date: '2006-01-26'
+source: 'http://nathanpitman.com/446/subscribe-to-my-podcast-with-itunes'
+archive: >-
+  https://web.archive.org/web/20090814210349/http://nathanpitman.com:80/446/subscribe-to-my-podcast-with-itunes
 tags:
-  - "This website"
+  - This website
+relatedPosts:
+  - slug: listen-to-me-talkr-kinda
+    source: generated
+  - slug: why-is-it-taking-so-long
+    source: generated
+  - slug: textdrive-is-kinda-sucking-right-now
+    source: generated
+  - slug: re-design-step-3-er-start-again
+    source: generated
+  - slug: 412-precondition-failed
+    source: generated
 ---
 
 I know, you have to ask why… but now you can [subscribe to the podcast of my journal](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=117364340&s=143444) (spoken with [Talkr](http://www.talkr.com/)) using iTunes.

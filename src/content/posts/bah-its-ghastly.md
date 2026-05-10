@@ -1,12 +1,28 @@
 ---
-title: Bah, it’s ghastly.
-description: "Well, I started faffing about with what was intended to be a small ‘re-align’ or whatever, now it’s turning into a ghastly mess with content flailing wildly..."
-date: 2006-03-02
-source: http://nathanpitman.com/456/bah-its-ghastly
-archive: https://web.archive.org/web/20091017084207/http://nathanpitman.com:80/456/bah-its-ghastly
+title: 'Bah, it’s ghastly.'
+description: >-
+  Well, I started faffing about with what was intended to be a small ‘re-align’
+  or whatever, now it’s turning into a ghastly mess with content flailing
+  wildly...
+date: '2006-03-02'
+source: 'http://nathanpitman.com/456/bah-its-ghastly'
+archive: >-
+  https://web.archive.org/web/20091017084207/http://nathanpitman.com:80/456/bah-its-ghastly
 tags:
-  - "Textpattern"
-  - "This website"
+  - Textpattern
+  - This website
+relatedPosts:
+  - slug: >-
+      back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark
+    source: generated
+  - slug: textdrive-is-kinda-sucking-right-now
+    source: generated
+  - slug: migrating-from-txp-to-ee-step-3
+    source: generated
+  - slug: textpattern-resources
+    source: generated
+  - slug: re-writing-history
+    source: generated
 ---
 
 Well, I started faffing about with what was intended to be a small ‘re-align’ or whatever, now it’s turning into a ghastly mess with content flailing wildly all over the place and background images wandering off without any intention of returning to a sensible or desired location.

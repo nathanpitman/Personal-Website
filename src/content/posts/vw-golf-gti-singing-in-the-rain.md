@@ -1,11 +1,23 @@
 ---
 title: VW Golf GTI - Singing in the rain
-description: "If you haven’t seen the new VW Golf GTI ad …"
-date: 2005-01-28
-source: http://nathanpitman.com/321/vw-golf-gti-singing-in-the-rain
-archive: https://web.archive.org/web/20100725074015/http://nathanpitman.com:80/321/vw-golf-gti-singing-in-the-rain
+description: If you haven’t seen the new VW Golf GTI ad …
+date: '2005-01-28'
+source: 'http://nathanpitman.com/321/vw-golf-gti-singing-in-the-rain'
+archive: >-
+  https://web.archive.org/web/20100725074015/http://nathanpitman.com:80/321/vw-golf-gti-singing-in-the-rain
 tags:
-  - "Marketing/Advertising"
+  - Marketing/Advertising
+relatedPosts:
+  - slug: featured-in-computer-arts
+    source: generated
+  - slug: os-x-desktop-as-a-music-video
+    source: generated
+  - slug: 12-free-itunes-tracks-uk-only
+    source: generated
+  - slug: see-how-it-feels
+    source: generated
+  - slug: julia-roberts-in-spam-scandal
+    source: generated
 ---
 
 If you haven’t seen [the new VW Golf GTI ad](http://ninefour-assets.s3.amazonaws.com/nathanpitman/images/uploads/vw_golfGTI_medium.mov) …

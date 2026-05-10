@@ -1,11 +1,26 @@
 ---
 title: It’s a girl!
-description: "We had a bit of a baby related scare this morning. So after a quick call to NHS Direct we rushed over to the Maternity unit at Heatherwood Hospital in Ascot."
-date: 2003-12-18
-source: http://nathanpitman.com/10/its-a-girl
-archive: https://web.archive.org/web/20100113133222/http://nathanpitman.com:80/10/its-a-girl
+description: >-
+  We had a bit of a baby related scare this morning. So after a quick call to
+  NHS Direct we rushed over to the Maternity unit at Heatherwood Hospital in
+  Ascot.
+date: '2003-12-18'
+source: 'http://nathanpitman.com/10/its-a-girl'
+archive: >-
+  https://web.archive.org/web/20100113133222/http://nathanpitman.com:80/10/its-a-girl
 tags:
-  - "Personal"
+  - Personal
+relatedPosts:
+  - slug: im-going-to-be-a-dad
+    source: generated
+  - slug: 3-is-the-magic-number
+    source: generated
+  - slug: squeezebox
+    source: generated
+  - slug: macromedia-devnet-travel-mug-up-for-grabs
+    source: generated
+  - slug: im-a-dad
+    source: generated
 ---
 
 We had a bit of a [baby](http://www.nathanpitman.com/babypitman/) related scare this morning. So after a quick call to NHS Direct we rushed over to the Maternity unit at Heatherwood Hospital in Ascot.

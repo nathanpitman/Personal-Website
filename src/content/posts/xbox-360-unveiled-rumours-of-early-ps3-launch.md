@@ -1,11 +1,26 @@
 ---
 title: Xbox 360 unveiled & rumours of early PS3 launch
-description: "Microsoft have officially unveiled the Xbox 360, wireless controllers and all. Looks pretty neat but from what I hear it’s a bit of a beast (size wise) much..."
-date: 2005-05-13
-source: http://nathanpitman.com/356/xbox-360-unveiled-rumours-of-early-ps3-launch
-archive: https://web.archive.org/web/20090518092650/http://nathanpitman.com:80/356/xbox-360-unveiled-rumours-of-early-ps3-launch/
+description: >-
+  Microsoft have officially unveiled the Xbox 360, wireless controllers and all.
+  Looks pretty neat but from what I hear it’s a bit of a beast (size wise)
+  much...
+date: '2005-05-13'
+source: 'http://nathanpitman.com/356/xbox-360-unveiled-rumours-of-early-ps3-launch'
+archive: >-
+  https://web.archive.org/web/20090518092650/http://nathanpitman.com:80/356/xbox-360-unveiled-rumours-of-early-ps3-launch/
 tags:
-  - "Design"
+  - Design
+relatedPosts:
+  - slug: sony-playstation-3-unveiled
+    source: generated
+  - slug: nintendo-revolution-unveiled
+    source: generated
+  - slug: all-the-rage-animated-favicons
+    source: generated
+  - slug: edge
+    source: generated
+  - slug: nice-or-nasty
+    source: generated
 ---
 
 Microsoft have officially unveiled the [Xbox 360](http://www.xbox360.com/), wireless controllers and all. Looks pretty neat but from what I hear it’s a bit of a beast (size wise) much like the original Xbox. That thing was pretty handy for holding open doors.

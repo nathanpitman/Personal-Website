@@ -1,11 +1,27 @@
 ---
-title: "Hiding the Solspace Tag Tab for certain Weblogs in ExpressionEngine"
-description: "The Solspace Tag Module is a fantastic addition to ExpressionEngine but it lacks the option to ‘disable’ tags for certain weblogs (sections). Not to fear,..."
-date: 2008-07-15
-source: "http://nathanpitman.com/544/hiding-the-solspace-tag-tab-for-certain-weblogs-in-expressionengine"
-archive: "https://web.archive.org/web/20091002192953/http://nathanpitman.com:80/544/hiding-the-solspace-tag-tab-for-certain-weblogs-in-expressionengine"
+title: Hiding the Solspace Tag Tab for certain Weblogs in ExpressionEngine
+description: >-
+  The Solspace Tag Module is a fantastic addition to ExpressionEngine but it
+  lacks the option to ‘disable’ tags for certain weblogs (sections). Not to
+  fear,...
+date: '2008-07-15'
+source: >-
+  http://nathanpitman.com/544/hiding-the-solspace-tag-tab-for-certain-weblogs-in-expressionengine
+archive: >-
+  https://web.archive.org/web/20091002192953/http://nathanpitman.com:80/544/hiding-the-solspace-tag-tab-for-certain-weblogs-in-expressionengine
 tags:
-  - "ExpressionEngine"
+  - ExpressionEngine
+relatedPosts:
+  - slug: let-devs-prefix-your-expressionengine-variables-with-a-custo
+    source: generated
+  - slug: expressionengine-extension-push-to-foxycart
+    source: generated
+  - slug: expressionengine-plug-in-member-online
+    source: generated
+  - slug: expressionengine-plug-in-uk-counties-select
+    source: generated
+  - slug: hide-template-based-content-until-a-specified-date-in-expres
+    source: generated
 ---
 
 The Solspace [Tag Module](http://www.solspace.com/software/detail/tag/) is a fantastic addition to [ExpressionEngine](http://www.expressionengine.com/index.php?affiliate=nathanpitman) but it lacks the option to ‘disable’ tags for certain weblogs (sections). Not to fear, your friend the PHP if statement is here. In ‘ext.tag.php’ at around about line 262 there is a code block called ‘Add tag tab to tab array’. Just modify those two lines as per the example below:

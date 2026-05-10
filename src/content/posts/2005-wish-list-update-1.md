@@ -1,11 +1,25 @@
 ---
 title: '2005 Wish List Update #1'
-description: "Way back in December last year when it was ‘neat-n-trendy’ to post wish lists, I composed my own for 2005. I thought I’d run an update for each wish that..."
-date: 2005-06-28
-source: http://nathanpitman.com/370/2005-wish-list-update-1
-archive: https://web.archive.org/web/20090529015654/http://nathanpitman.com:80/370/2005-wish-list-update-1
+description: >-
+  Way back in December last year when it was ‘neat-n-trendy’ to post wish lists,
+  I composed my own for 2005. I thought I’d run an update for each wish that...
+date: '2005-06-28'
+source: 'http://nathanpitman.com/370/2005-wish-list-update-1'
+archive: >-
+  https://web.archive.org/web/20090529015654/http://nathanpitman.com:80/370/2005-wish-list-update-1
 tags:
-  - "Personal"
+  - Personal
+relatedPosts:
+  - slug: my-2005-wish-list
+    source: generated
+  - slug: page-23
+    source: generated
+  - slug: the-longest-non-classical-song
+    source: generated
+  - slug: kia-reliability
+    source: generated
+  - slug: halfway-between-the-gutter-and-the-stars
+    source: generated
 ---
 
 Way back in December last year when it was ‘neat-n-trendy’ to post wish lists, I composed [my own for 2005](http://nathanpitman.com/journal/306/my-2005-wish-list). I thought I’d run an update for each wish that comes true.

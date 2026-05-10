@@ -1,12 +1,26 @@
 ---
 title: Edge
-description: "I remember the very day I bought the first issue of Edge magazine, it was during a summer when I was working for my dad at his offices in Lower Earley. This..."
-date: 2004-04-27
-source: http://nathanpitman.com/81/edge
-archive: https://web.archive.org/web/20090520090948/http://nathanpitman.com:80/81/edge
+description: >-
+  I remember the very day I bought the first issue of Edge magazine, it was
+  during a summer when I was working for my dad at his offices in Lower Earley.
+  This...
+date: '2004-04-27'
+source: 'http://nathanpitman.com/81/edge'
+archive: 'https://web.archive.org/web/20090520090948/http://nathanpitman.com:80/81/edge'
 tags:
-  - "Design"
-  - "Personal"
+  - Design
+  - Personal
+relatedPosts:
+  - slug: all-the-best-blogs-have-favicons
+    source: generated
+  - slug: im-going-to-be-a-dad
+    source: generated
+  - slug: goodbye-ps2-hello-360
+    source: generated
+  - slug: alternatives-to-flash-for-animation-are-starting-to-float-to
+    source: generated
+  - slug: 2-fingers-up-to-copy-control-audio-cds
+    source: generated
 ---
 
 I remember the very day I bought the first issue of Edge magazine, it was during a summer when I was working for my dad at his offices in Lower Earley. This particular lunchtime I walked up to the local supermarket and handed over my hard earned cash for what was to become one of the most respected video games publications of the nineties.

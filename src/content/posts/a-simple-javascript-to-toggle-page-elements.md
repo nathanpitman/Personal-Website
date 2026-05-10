@@ -1,11 +1,25 @@
 ---
-title: "A simple JavaScript to toggle page elements"
-description: "No rocket science here but I thought I’d blog this for my own future reference. Just a handy little script to have about."
-date: 2007-02-16
-source: "http://nathanpitman.com/498/a-simple-javascript-to-toggle-page-elements"
-archive: "https://web.archive.org/web/20090526234246/http://nathanpitman.com:80/498/a-simple-javascript-to-toggle-page-elements"
+title: A simple JavaScript to toggle page elements
+description: >-
+  No rocket science here but I thought I’d blog this for my own future
+  reference. Just a handy little script to have about.
+date: '2007-02-16'
+source: 'http://nathanpitman.com/498/a-simple-javascript-to-toggle-page-elements'
+archive: >-
+  https://web.archive.org/web/20090526234246/http://nathanpitman.com:80/498/a-simple-javascript-to-toggle-page-elements
 tags:
-  - "Code"
+  - Code
+relatedPosts:
+  - slug: javascript-support-in-director
+    source: generated
+  - slug: styling-horizontal-rules-with-css
+    source: generated
+  - slug: css3-in-firefox
+    source: generated
+  - slug: mark-of-the-web-or-why-ie6-sucks
+    source: generated
+  - slug: new-tricks-with-textile
+    source: generated
 ---
 
 No rocket science here but I thought I’d blog this for my own future reference. Just a handy little script to have about.

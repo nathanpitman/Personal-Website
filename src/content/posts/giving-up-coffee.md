@@ -1,11 +1,25 @@
 ---
 title: Giving up Coffee
-description: "I’ve been giving up Coffee for 2 weeks now. So far I’ve only had one slip up (It was a hard day at work, I was weak)."
-date: 2005-01-30
-source: http://nathanpitman.com/323/giving-up-coffee
-archive: https://web.archive.org/web/20091010080105/http://nathanpitman.com:80/323/giving-up-coffee
+description: >-
+  I’ve been giving up Coffee for 2 weeks now. So far I’ve only had one slip up
+  (It was a hard day at work, I was weak).
+date: '2005-01-30'
+source: 'http://nathanpitman.com/323/giving-up-coffee'
+archive: >-
+  https://web.archive.org/web/20091010080105/http://nathanpitman.com:80/323/giving-up-coffee
 tags:
-  - "Personal"
+  - Personal
+relatedPosts:
+  - slug: macromedia-devnet-travel-mug-up-for-grabs
+    source: generated
+  - slug: halfway-between-the-gutter-and-the-stars
+    source: generated
+  - slug: one-month-old
+    source: generated
+  - slug: the-snip
+    source: generated
+  - slug: going-pete-tong
+    source: generated
 ---
 
 I’ve been giving up Coffee for 2 weeks now. So far I’ve only had one slip up (It was a hard day at work, I was weak).

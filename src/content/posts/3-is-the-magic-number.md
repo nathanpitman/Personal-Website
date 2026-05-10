@@ -1,11 +1,25 @@
 ---
-title: "3 is the magic number"
-description: "Without further delay, let me announce Baby Pitman #3! Due early to mid November. This really is the last one. Honest guv."
-date: 2006-04-26
-source: "http://nathanpitman.com/471/3-is-the-magic-number"
-archive: "https://web.archive.org/web/20110927083736/http://nathanpitman.com/471/3-is-the-magic-number"
+title: 3 is the magic number
+description: >-
+  Without further delay, let me announce Baby Pitman #3! Due early to mid
+  November. This really is the last one. Honest guv.
+date: '2006-04-26'
+source: 'http://nathanpitman.com/471/3-is-the-magic-number'
+archive: >-
+  https://web.archive.org/web/20110927083736/http://nathanpitman.com/471/3-is-the-magic-number
 tags:
-  - "Personal"
+  - Personal
+relatedPosts:
+  - slug: im-going-to-be-a-dad
+    source: generated
+  - slug: its-a-girl
+    source: generated
+  - slug: im-a-dad
+    source: generated
+  - slug: its-not-you-its-me
+    source: generated
+  - slug: my-car-for-sale-toyota-mr2-roadster
+    source: generated
 ---
 
 Without further delay, let me announce Baby Pitman #3! Due early to mid November. This really is the last one. Honest guv.

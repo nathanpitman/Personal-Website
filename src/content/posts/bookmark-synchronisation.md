@@ -1,11 +1,26 @@
 ---
 title: Bookmark synchronisation
-description: "Bookmark synchronisation is one of those annoying little issues. I have a PC at work, and a PC at home.., but the bookmarks are never synchronised, simply..."
-date: 2004-06-23
-source: http://nathanpitman.com/203/bookmark-synchronisation
-archive: https://web.archive.org/web/20100105124130/http://nathanpitman.com:80/203/bookmark-synchronisation
+description: >-
+  Bookmark synchronisation is one of those annoying little issues. I have a PC
+  at work, and a PC at home.., but the bookmarks are never synchronised,
+  simply...
+date: '2004-06-23'
+source: 'http://nathanpitman.com/203/bookmark-synchronisation'
+archive: >-
+  https://web.archive.org/web/20100105124130/http://nathanpitman.com:80/203/bookmark-synchronisation
 tags:
-  - "Technology"
+  - Technology
+relatedPosts:
+  - slug: bookmark-culling
+    source: generated
+  - slug: firefox-0-9-released
+    source: generated
+  - slug: firefox-start-page
+    source: generated
+  - slug: mozilla-launches-firefox-1-0
+    source: generated
+  - slug: where-is-firefox-1-0
+    source: generated
 ---
 
 Bookmark synchronisation is one of those annoying little issues. I have a PC at work, and a PC at home.., but the bookmarks are never synchronised, simply because there has been no easy way to do so.

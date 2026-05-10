@@ -1,12 +1,27 @@
 ---
-title: "One day soon OS X will be free"
-description: "It’s interesting to note though how Apple are learning from the iPhone and iPad with the new Retina MacBook Pro and the imminent release of Mountain Lion...."
-date: 2012-06-15
-source: "http://nathanpitman.com/618/one-day-soon-os-x-will-be-free"
-archive: "https://web.archive.org/web/20120706033144/http://nathanpitman.com:80/618/one-day-soon-os-x-will-be-free"
+title: One day soon OS X will be free
+description: >-
+  It’s interesting to note though how Apple are learning from the iPhone and
+  iPad with the new Retina MacBook Pro and the imminent release of Mountain
+  Lion....
+date: '2012-06-15'
+source: 'http://nathanpitman.com/618/one-day-soon-os-x-will-be-free'
+archive: >-
+  https://web.archive.org/web/20120706033144/http://nathanpitman.com:80/618/one-day-soon-os-x-will-be-free
 tags:
-  - "Chatter"
-  - "Apple"
+  - Chatter
+  - Apple
+relatedPosts:
+  - slug: my-thoughts-on-apple-tv-apps
+    source: generated
+  - slug: free-xbox360
+    source: generated
+  - slug: why-is-no-one-linking
+    source: generated
+  - slug: 12-free-itunes-tracks-uk-only
+    source: generated
+  - slug: free-thinking-breakfast-reading-uk-tmrw
+    source: generated
 ---
 
 It’s interesting to note though how [Apple](http://www.apple.com/) are learning from the iPhone and iPad with the new [Retina MacBook Pro](http://www.apple.com/macbook-pro/) and the imminent release of [Mountain Lion](http://www.apple.com/osx/). OS X releases are tumbling in price while devices are seemingly becoming more ‘fixed’ at the point if purchase. Just as you can’t upgrade the internals of your iPhone or iPad [you can’t upgrade a new Retina MacBook](http://www.wired.com/gadgetlab/2012/06/opinion-apple-retina-displa/) once you commit to a configuration.

@@ -1,11 +1,26 @@
 ---
-title: "PS3 launch dates confirmed"
-description: "Ken Kutaragi, president of Sony Computer Entertainment, took center stage at the PlayStation Business Conference in Tokyo (Japan) and delivered the news:..."
-date: 2006-03-15
-source: "http://nathanpitman.com/465/ps3-launch-dates-confirmed"
-archive: "https://web.archive.org/web/20091210065900/http://nathanpitman.com:80/465/ps3-launch-dates-confirmed"
+title: PS3 launch dates confirmed
+description: >-
+  Ken Kutaragi, president of Sony Computer Entertainment, took center stage at
+  the PlayStation Business Conference in Tokyo (Japan) and delivered the
+  news:...
+date: '2006-03-15'
+source: 'http://nathanpitman.com/465/ps3-launch-dates-confirmed'
+archive: >-
+  https://web.archive.org/web/20091210065900/http://nathanpitman.com:80/465/ps3-launch-dates-confirmed
 tags:
-  - "Consoles"
+  - Consoles
+relatedPosts:
+  - slug: sony-redesigns-playstation-2
+    source: generated
+  - slug: goodbye-ps2-hello-360
+    source: generated
+  - slug: sony-playstation-3-unveiled
+    source: generated
+  - slug: on-demand-movies-tv-coming-to-xbox-360
+    source: generated
+  - slug: ps3-downscales-blu-ray-to-480p-on-720p-hdtvs
+    source: generated
 ---
 
 Ken Kutaragi, president of Sony Computer Entertainment, took center stage at the PlayStation Business Conference in Tokyo (Japan) and delivered the news: **PlayStation 3 will not release until November 2006**.

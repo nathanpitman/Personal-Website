@@ -1,11 +1,23 @@
 ---
-title: "2 freelance web devs rqd"
-description: "Just pimping a couple of freelance vacancies for a friendâ¦"
-date: 2006-12-15
-source: "http://nathanpitman.com/494/2-freelance-web-devs-rqd"
-archive: "https://web.archive.org/web/20110807184542/http://nathanpitman.com:80/494/2-freelance-web-devs-rqd"
+title: 2 freelance web devs rqd
+description: "Just pimping a couple of freelance vacancies for a friendâ\x80¦"
+date: '2006-12-15'
+source: 'http://nathanpitman.com/494/2-freelance-web-devs-rqd'
+archive: >-
+  https://web.archive.org/web/20110807184542/http://nathanpitman.com:80/494/2-freelance-web-devs-rqd
 tags:
-  - "Jobs"
+  - Jobs
+relatedPosts:
+  - slug: web-dev-rqd-dorking-surrey-uk
+    source: generated
+  - slug: web-developer-london-uk
+    source: generated
+  - slug: web-developer-south-east-uk
+    source: generated
+  - slug: creative-artworker-rqd-reading-berkshire-uk
+    source: generated
+  - slug: 2-x-web-developers-berkshire-uk
+    source: generated
 ---
 
 Just pimping a couple of freelance vacancies for a friendâ¦

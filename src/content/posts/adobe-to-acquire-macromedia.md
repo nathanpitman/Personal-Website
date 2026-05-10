@@ -1,11 +1,25 @@
 ---
 title: Adobe to acquire Macromedia
-description: "According to Macromedia.com and Adobe.com as of the 18th of April Adobe is to acquire Macromedia!"
-date: 2005-04-18
-source: http://nathanpitman.com/344/adobe-to-acquire-macromedia
-archive: https://web.archive.org/web/20100111181125/http://nathanpitman.com:80/344/adobe-to-acquire-macromedia
+description: >-
+  According to Macromedia.com and Adobe.com as of the 18th of April Adobe is to
+  acquire Macromedia!
+date: '2005-04-18'
+source: 'http://nathanpitman.com/344/adobe-to-acquire-macromedia'
+archive: >-
+  https://web.archive.org/web/20100111181125/http://nathanpitman.com:80/344/adobe-to-acquire-macromedia
 tags:
-  - "Technology"
+  - Technology
+relatedPosts:
+  - slug: macromedia-announce-flash-paper-2-and-contribute-3
+    source: generated
+  - slug: thoughts-on-flash-communication-server-mx
+    source: generated
+  - slug: ie-changes
+    source: generated
+  - slug: flash-satay-the-new-old-way-to-embed-flash-movies-in-xhtml
+    source: generated
+  - slug: expression-microsofts-first-product-to-export-to-swf
+    source: generated
 ---
 
 According to [Macromedia.com](http://www.macromedia.com/macromedia/proom/pr/2005/adobe_macromedia.html) and [Adobe.com](http://www.adobe.com/aboutadobe/invrelations/adobeandmacromedia.html) as of the 18th of April Adobe is to acquire Macromedia!

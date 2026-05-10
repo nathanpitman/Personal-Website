@@ -1,13 +1,27 @@
 ---
-title: "Whatever you do, don’t buy a Kia Sedona."
-description: "A detailed, frustrated account of 15 months of reliability problems with a new Kia Sedona — a strong warning to potential buyers."
-date: 2009-01-01
-source: "http://nathanpitman.com/563/whatever-you-do-dont-buy-a-kia-sedona"
-archive: "https://web.archive.org/web/20090518024043/http://nathanpitman.com:80/563/whatever-you-do-dont-buy-a-kia-sedona"
+title: 'Whatever you do, don’t buy a Kia Sedona.'
+description: >-
+  A detailed, frustrated account of 15 months of reliability problems with a new
+  Kia Sedona — a strong warning to potential buyers.
+date: '2009-01-01'
+source: 'http://nathanpitman.com/563/whatever-you-do-dont-buy-a-kia-sedona'
+archive: >-
+  https://web.archive.org/web/20090518024043/http://nathanpitman.com:80/563/whatever-you-do-dont-buy-a-kia-sedona
 tags:
-  - "Chatter"
-  - "Personal"
-  - "Cars"
+  - Chatter
+  - Personal
+  - Cars
+relatedPosts:
+  - slug: demise-of-the-kia-sedona
+    source: generated
+  - slug: kia-reliability
+    source: generated
+  - slug: dont-let-the-door-hit-you-on-the-way-out
+    source: generated
+  - slug: my-car-for-sale-toyota-mr2-roadster
+    source: generated
+  - slug: goodbye-youth-hello-responsibility
+    source: generated
 ---
 
 15 months ago we purchased a brand spanking new [Kia Sedona](http://www.kia.co.uk/sedonahome.asp) from our local dealership in Reading. Right from the day we took delivery of the car things have just not been right. Initially it was ill fitted and scratched dashboard panels but after a week we also noticed that there was an intermittent problem with the electric sliding doors.

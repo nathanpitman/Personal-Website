@@ -1,12 +1,26 @@
 ---
-title: "Kia Reliability"
-description: "A follow-up rant about ongoing reliability issues with a Kia Sedona — more problems, more frustration."
-date: 2009-10-23
-source: "http://nathanpitman.com/592/kia-reliability"
-archive: "https://web.archive.org/web/20091026063446/http://nathanpitman.com:80/592/kia-reliability"
+title: Kia Reliability
+description: >-
+  A follow-up rant about ongoing reliability issues with a Kia Sedona — more
+  problems, more frustration.
+date: '2009-10-23'
+source: 'http://nathanpitman.com/592/kia-reliability'
+archive: >-
+  https://web.archive.org/web/20091026063446/http://nathanpitman.com:80/592/kia-reliability
 tags:
-  - "Personal"
-  - "Cars"
+  - Personal
+  - Cars
+relatedPosts:
+  - slug: whatever-you-do-dont-buy-a-kia-sedona
+    source: generated
+  - slug: demise-of-the-kia-sedona
+    source: generated
+  - slug: dont-let-the-door-hit-you-on-the-way-out
+    source: generated
+  - slug: my-car-for-sale-toyota-mr2-roadster
+    source: generated
+  - slug: goodbye-youth-hello-responsibility
+    source: generated
 ---
 
 Just a short post really to rant publicly about the shocking reliability of our now 2 year old Kia Sedona. It’s 5 days since our car was delivered to West London Motor Group Kia in High Wycombe on the back of an AA truck. Our 2nd breakdown in 2 years of ownership (I won’t go into detail about the crazy number of times its been back and forth to the dealership in that period for non fatal reliability and build quality issues).

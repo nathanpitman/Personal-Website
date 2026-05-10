@@ -1,12 +1,24 @@
 ---
-title: "Migrating from TXP to EE - Step 4"
-description: "Step 4: fixing up content after the Textpattern-to-ExpressionEngine migration."
-date: 2008-10-04
-source: "http://nathanpitman.com/556/migrating-from-txp-to-ee-step-4"
-archive: "https://web.archive.org/web/20090519081155/http://nathanpitman.com:80/556/migrating-from-txp-to-ee-step-4"
+title: Migrating from TXP to EE - Step 4
+description: 'Step 4: fixing up content after the Textpattern-to-ExpressionEngine migration.'
+date: '2008-10-04'
+source: 'http://nathanpitman.com/556/migrating-from-txp-to-ee-step-4'
+archive: >-
+  https://web.archive.org/web/20090519081155/http://nathanpitman.com:80/556/migrating-from-txp-to-ee-step-4
 tags:
-  - "ExpressionEngine"
-  - "Textpattern"
+  - ExpressionEngine
+  - Textpattern
+relatedPosts:
+  - slug: migrating-from-txp-to-ee-step-3
+    source: generated
+  - slug: migrating-from-txp-to-ee-step-1
+    source: generated
+  - slug: migrating-from-txp-to-ee-step-2
+    source: generated
+  - slug: migrating-from-txp-to-ee-step-5
+    source: generated
+  - slug: migrating-from-txp-to-ee-conclusion
+    source: generated
 ---
 
 Right so, a quick re-cap… we’ve exported our data from Textpattern, imported it into [ExpressionEngine](http://www.expressionengine.com/index.php?affiliate=nathanpitman) and done a quick find and replace to fix up our embedded images.

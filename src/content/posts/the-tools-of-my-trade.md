@@ -1,14 +1,26 @@
 ---
-title: "The tools of my trade"
-description: "Sometimes people ask, so to save tweets here’s a quick summary:"
-date: 2013-11-14
-source: "http://nathanpitman.com/629/the-tools-of-my-trade"
-archive: "https://web.archive.org/web/20131117100822/http://nathanpitman.com:80/629/the-tools-of-my-trade"
+title: The tools of my trade
+description: 'Sometimes people ask, so to save tweets here’s a quick summary:'
+date: '2013-11-14'
+source: 'http://nathanpitman.com/629/the-tools-of-my-trade'
+archive: >-
+  https://web.archive.org/web/20131117100822/http://nathanpitman.com:80/629/the-tools-of-my-trade
 tags:
-  - "Business"
-  - "Code"
-  - "Technology"
-  - "Web development"
+  - Business
+  - Code
+  - Technology
+  - Web development
+relatedPosts:
+  - slug: mark-of-the-web-or-why-ie6-sucks
+    source: generated
+  - slug: thoughts-on-flash-communication-server-mx
+    source: generated
+  - slug: cssvista-launched
+    source: generated
+  - slug: mxna-2-public-beta
+    source: generated
+  - slug: what-browsers-do-you-develop-for
+    source: generated
 ---
 
 Sometimes people ask, so to save tweets here’s a quick summary:

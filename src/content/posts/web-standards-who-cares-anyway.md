@@ -1,12 +1,26 @@
 ---
 title: 'Web standards: Who cares anyway?'
-description: "The Web Standards Project is asking you – do you use web standards? And who the heck are you anyway?"
-date: 2004-06-09
-source: http://nathanpitman.com/171/web-standards-who-cares-anyway
-archive: https://web.archive.org/web/20100107142801/http://nathanpitman.com:80/171/web-standards-who-cares-anyway
+description: >-
+  The Web Standards Project is asking you – do you use web standards? And who
+  the heck are you anyway?
+date: '2004-06-09'
+source: 'http://nathanpitman.com/171/web-standards-who-cares-anyway'
+archive: >-
+  https://web.archive.org/web/20100107142801/http://nathanpitman.com:80/171/web-standards-who-cares-anyway
 tags:
-  - "Code"
-  - "Web development"
+  - Code
+  - Web development
+relatedPosts:
+  - slug: mark-of-the-web-or-why-ie6-sucks
+    source: generated
+  - slug: let-devs-prefix-your-expressionengine-variables-with-a-custo
+    source: generated
+  - slug: cssvista-launched
+    source: generated
+  - slug: the-tools-of-my-trade
+    source: generated
+  - slug: mxna-2-public-beta
+    source: generated
 ---
 
 The Web Standards Project is asking you – [do you use web standards? And who the heck are you anyway?](http://webstandards.org/press/releases/archive/2004/06/08/)

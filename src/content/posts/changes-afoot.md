@@ -1,11 +1,25 @@
 ---
 title: Changes afoot
-description: "Changes are afoot. On Friday the 30th of August Nine Four Ltd was incorporated."
-date: 2005-09-02
-source: http://nathanpitman.com/399/changes-afoot
-archive: https://web.archive.org/web/20091117062642/http://nathanpitman.com:80/399/changes-afoot
+description: >-
+  Changes are afoot. On Friday the 30th of August Nine Four Ltd was
+  incorporated.
+date: '2005-09-02'
+source: 'http://nathanpitman.com/399/changes-afoot'
+archive: >-
+  https://web.archive.org/web/20091117062642/http://nathanpitman.com:80/399/changes-afoot
 tags:
-  - "Employment"
+  - Employment
+relatedPosts:
+  - slug: halfway-between-the-gutter-and-the-stars
+    source: generated
+  - slug: thank-you
+    source: generated
+  - slug: hello-mr-cripps
+    source: generated
+  - slug: 10-questions-the-tables-turned
+    source: generated
+  - slug: 10-questions-for-paul-farnell-going-it-alone
+    source: generated
 ---
 
 Changes are afoot. On Friday the 30th of August Nine Four Ltd was incorporated.

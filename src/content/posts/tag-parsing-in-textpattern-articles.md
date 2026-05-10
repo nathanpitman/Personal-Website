@@ -1,11 +1,26 @@
 ---
 title: Tag parsing in Textpattern articles
-description: "Did you know that you can nest Texpattern tags in your article body? This is super neat (and probably pretty obvious) but I never realised until now. I’ve..."
-date: 2005-08-03
-source: http://nathanpitman.com/383/tag-parsing-in-textpattern-articles
-archive: https://web.archive.org/web/20100104184606/http://nathanpitman.com:80/383/tag-parsing-in-textpattern-articles
+description: >-
+  Did you know that you can nest Texpattern tags in your article body? This is
+  super neat (and probably pretty obvious) but I never realised until now.
+  I’ve...
+date: '2005-08-03'
+source: 'http://nathanpitman.com/383/tag-parsing-in-textpattern-articles'
+archive: >-
+  https://web.archive.org/web/20100104184606/http://nathanpitman.com:80/383/tag-parsing-in-textpattern-articles
 tags:
-  - "Textpattern"
+  - Textpattern
+relatedPosts:
+  - slug: textpattern-1-0
+    source: generated
+  - slug: textpattern-cake-nearly-ready
+    source: generated
+  - slug: another-blog-switch-to-textpattern
+    source: generated
+  - slug: textpattern-resources
+    source: generated
+  - slug: textpattern-plugins
+    source: generated
 ---
 
 Did you know that you can nest Texpattern tags in your article body? This is super neat (and probably pretty obvious) but I never realised until now. I’ve been fiddling with a new section called ‘etc’ ([maniacal rage](http://www.maniacalrage.net/etc/) inspired name) and wanted to add articles in the usual manner but needed to list a bunch of file downloads. At first I thought I’d have to hard code the relevant tags into my page template… Hoorah for tag parsing in articles! :)

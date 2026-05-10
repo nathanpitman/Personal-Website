@@ -1,11 +1,26 @@
 ---
-title: "On demand Movies & TV coming to Xbox 360"
-description: "In what can only be described as an inspired move, Microsoft is bringing HD-quality movies to the 360 without requiring that owners purchase the external HD..."
-date: 2006-11-07
-source: "http://nathanpitman.com/492/on-demand-movies-tv-coming-to-xbox-360"
-archive: "https://web.archive.org/web/20100104131333/http://nathanpitman.com:80/492/on-demand-movies-tv-coming-to-xbox-360"
+title: On demand Movies & TV coming to Xbox 360
+description: >-
+  In what can only be described as an inspired move, Microsoft is bringing
+  HD-quality movies to the 360 without requiring that owners purchase the
+  external HD...
+date: '2006-11-07'
+source: 'http://nathanpitman.com/492/on-demand-movies-tv-coming-to-xbox-360'
+archive: >-
+  https://web.archive.org/web/20100104131333/http://nathanpitman.com:80/492/on-demand-movies-tv-coming-to-xbox-360
 tags:
-  - "Consoles"
+  - Consoles
+relatedPosts:
+  - slug: xbox-360-to-get-1080p
+    source: generated
+  - slug: xbox-360-autumn-dashboard-update
+    source: generated
+  - slug: free-xbox360
+    source: generated
+  - slug: red-ring-of-death
+    source: generated
+  - slug: goodbye-ps2-hello-360
+    source: generated
 ---
 
 In what can only be described as an inspired move, Microsoft is bringing HD-quality movies to the 360 without requiring that owners purchase the external HD DVD drive.

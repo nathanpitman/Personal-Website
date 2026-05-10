@@ -1,11 +1,25 @@
 ---
 title: Expression Engine goes free
-description: "Great news today for anyone who’s fancied giving the Expression Engine CMS a shot but has never been able to swallow the rather reasonable price tag...."
-date: 2005-12-19
-source: http://nathanpitman.com/431/expression-engine-goes-free
-archive: https://web.archive.org/web/20090531201259/http://nathanpitman.com:80/431/expression-engine-goes-free
+description: >-
+  Great news today for anyone who’s fancied giving the Expression Engine CMS a
+  shot but has never been able to swallow the rather reasonable price tag....
+date: '2005-12-19'
+source: 'http://nathanpitman.com/431/expression-engine-goes-free'
+archive: >-
+  https://web.archive.org/web/20090531201259/http://nathanpitman.com:80/431/expression-engine-goes-free
 tags:
-  - "Web development"
+  - Web development
+relatedPosts:
+  - slug: customer-service-the-right-way
+    source: generated
+  - slug: decisions-decisions
+    source: generated
+  - slug: a-fresh-lick-of-paint-for-pro-bel
+    source: generated
+  - slug: god-is-in-the-details
+    source: generated
+  - slug: sitevista-to-become-litmus
+    source: generated
 ---
 
 Great news today for anyone who’s fancied giving the [Expression Engine](http://www.expressionengine.com/index.php?affiliate=nathanpitman) CMS a shot but has never been able to swallow the rather reasonable price tag. pMachine have just released a [free ‘Core’ version](http://www.expressionengine.com/index.php?affiliate=nathanpitman) which includes many of the great features included in the full commercial version.

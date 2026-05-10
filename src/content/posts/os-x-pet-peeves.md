@@ -1,11 +1,25 @@
 ---
-title: "OS X pet peeves"
-description: "A list of small but persistent annoyances in Mac OS X from the perspective of a longtime Windows convert."
-date: 2009-05-22
-source: "http://nathanpitman.com/585/os-x-pet-peeves"
-archive: "https://web.archive.org/web/20090527052738/http://nathanpitman.com:80/585/os-x-pet-peeves"
+title: OS X pet peeves
+description: >-
+  A list of small but persistent annoyances in Mac OS X from the perspective of
+  a longtime Windows convert.
+date: '2009-05-22'
+source: 'http://nathanpitman.com/585/os-x-pet-peeves'
+archive: >-
+  https://web.archive.org/web/20090527052738/http://nathanpitman.com:80/585/os-x-pet-peeves
 tags:
-  - "Apple"
+  - Apple
+relatedPosts:
+  - slug: first-impressions-of-the-3rd-gen-apple-tv
+    source: generated
+  - slug: safari-on-ios-7-beta-breaks-the-internet
+    source: generated
+  - slug: just-to-clarify-my-position-in-the-mac-vs-pc-debate
+    source: generated
+  - slug: pah-out-with-the-mac
+    source: generated
+  - slug: mac-newbie-seeks-mac-guru-for-short-term-relationship
+    source: generated
 ---
 
 Having lived day to day with a [Mac](http://www.apple.com/mac/) now for a good few years I thought it was about time I documented some of my pet peeves as a one time Windows user. So here they are in the form of a brief wish list for OS X Snow Leopard. This is in the vein hope that Steve Jobs is a regular reader of my blog (*pft – yea right!*) and that he will do something about these very minor issues. :)

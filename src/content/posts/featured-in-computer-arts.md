@@ -1,12 +1,26 @@
 ---
 title: Featured in Computer Arts
-description: "Well I’ve not seen it yet but I’m in there somewhere apparently. Via a feature written by Craig Grannell."
-date: 2006-02-16
-source: http://nathanpitman.com/449/featured-in-computer-arts
-archive: https://web.archive.org/web/20100107152028/http://nathanpitman.com:80/449/featured-in-computer-arts
+description: >-
+  Well I’ve not seen it yet but I’m in there somewhere apparently. Via a feature
+  written by Craig Grannell.
+date: '2006-02-16'
+source: 'http://nathanpitman.com/449/featured-in-computer-arts'
+archive: >-
+  https://web.archive.org/web/20100107152028/http://nathanpitman.com:80/449/featured-in-computer-arts
 tags:
-  - "Employment"
-  - "Marketing/Advertising"
+  - Employment
+  - Marketing/Advertising
+relatedPosts:
+  - slug: 10-questions-for-craig-grannell-going-it-alone
+    source: generated
+  - slug: going-it-alone
+    source: generated
+  - slug: creative-assembly-april-08
+    source: generated
+  - slug: 10-questions-for-darren-miller-going-it-alone
+    source: generated
+  - slug: 10-questions-for-paul-farnell-going-it-alone
+    source: generated
 ---
 
 ![Me, in there... nah.](/images/137.jpg "Me, in there... nah.")I hear from [Phu](http://ifelse.co.uk/) that the latest issue of Computer Arts is out ([issue 120 I think](http://www.computerarts.co.uk/about_us/latest_issue/computer_arts_issue_120)).

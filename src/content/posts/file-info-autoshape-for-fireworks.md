@@ -1,12 +1,26 @@
 ---
 title: ‘File Info’ AutoShape for Fireworks
-description: "Trevor McCauley has released another(!) new Fireworks AutoShape called ‘“File..."
-date: 2004-12-22
-source: http://nathanpitman.com/298/file-info-autoshape-for-fireworks
-archive: https://web.archive.org/web/20100104201139/http://nathanpitman.com:80/298/file-info-autoshape-for-fireworks
+description: >-
+  Trevor McCauley has released another(!) new Fireworks AutoShape called
+  ‘“File...
+date: '2004-12-22'
+source: 'http://nathanpitman.com/298/file-info-autoshape-for-fireworks'
+archive: >-
+  https://web.archive.org/web/20100104201139/http://nathanpitman.com:80/298/file-info-autoshape-for-fireworks
 tags:
-  - "Extensions"
-  - "Fireworks"
+  - Extensions
+  - Fireworks
+relatedPosts:
+  - slug: fireworks-ruler-autoshape
+    source: generated
+  - slug: inspire-autoshape-for-fireworks
+    source: generated
+  - slug: pinwheel-autoshape-for-fireworks
+    source: generated
+  - slug: 3d-box-autoshape-for-fireworks
+    source: generated
+  - slug: fireworks-heart-autoshape
+    source: generated
 ---
 
 [Trevor McCauley](http://www.senocular.com/) has released another(!) new Fireworks AutoShape called ‘“File Info”:http://www.senocular.com/downloads/index.php?subaction=showfull&id=1101933160&archive=&start\_from=&ucat=8&kind=8’.

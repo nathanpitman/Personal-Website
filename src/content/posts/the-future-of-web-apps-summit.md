@@ -1,11 +1,26 @@
 ---
 title: The Future of Web Apps Summit
-description: "A little late I know, but since I was supposed to have been attending the Carson Workshops Future of Web Apps Summit, I thought that the least I could do in..."
-date: 2006-02-16
-source: http://nathanpitman.com/448/the-future-of-web-apps-summit
-archive: https://web.archive.org/web/20090814210148/http://nathanpitman.com:80/448/the-future-of-web-apps-summit
+description: >-
+  A little late I know, but since I was supposed to have been attending the
+  Carson Workshops Future of Web Apps Summit, I thought that the least I could
+  do in...
+date: '2006-02-16'
+source: 'http://nathanpitman.com/448/the-future-of-web-apps-summit'
+archive: >-
+  https://web.archive.org/web/20090814210148/http://nathanpitman.com:80/448/the-future-of-web-apps-summit
 tags:
-  - "Web applications"
+  - Web applications
+relatedPosts:
+  - slug: will-you-be-at-the-carson-summit
+    source: generated
+  - slug: carson-summit-podcasts
+    source: generated
+  - slug: sitevista-launches-email-testing-service
+    source: generated
+  - slug: basecamp-themes
+    source: generated
+  - slug: google-mail-labels-maxlength-40
+    source: generated
 ---
 
 A little late I know, but since I was supposed to have been attending the Carson Workshops [Future of Web Apps Summit](http://www.carsonworkshops.com/summit/), I thought that the least I could do in the absence of a personal viewpoint would be to provide a write up by proxy of a couple of mates who did make it. **Still gutted**.

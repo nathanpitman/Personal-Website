@@ -1,12 +1,26 @@
 ---
 title: Team Macromedia (Fireworks)
-description: "Last month I was invited to become a member of the Team Macromedia programme for Fireworks."
-date: 2004-09-15
-source: http://nathanpitman.com/243/team-macromedia-fireworks
-archive: https://web.archive.org/web/20100106031938/http://nathanpitman.com/243/team-macromedia-fireworks
+description: >-
+  Last month I was invited to become a member of the Team Macromedia programme
+  for Fireworks.
+date: '2004-09-15'
+source: 'http://nathanpitman.com/243/team-macromedia-fireworks'
+archive: >-
+  https://web.archive.org/web/20100106031938/http://nathanpitman.com/243/team-macromedia-fireworks
 tags:
-  - "Adobe"
-  - "Fireworks"
+  - Adobe
+  - Fireworks
+relatedPosts:
+  - slug: macromedia-fireworks-beta
+    source: generated
+  - slug: an-open-letter-to-software-developers-re-adobe-fireworks
+    source: generated
+  - slug: still-no-real-competition-for-fireworks
+    source: generated
+  - slug: dear-adobe-fireworks-its-not-you-its-me
+    source: generated
+  - slug: goodbye-dear-friend
+    source: generated
 ---
 
 Last month I was invited to become a member of the [Team Macromedia](http://www.macromedia.com/support/forums/team_macromedia/) programme for Fireworks.

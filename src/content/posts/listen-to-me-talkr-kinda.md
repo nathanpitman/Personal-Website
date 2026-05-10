@@ -1,12 +1,28 @@
 ---
 title: Listen to me Talkr (kinda)
-description: "I stumbled across this great little free online service for converting your RSS feeds into MP3 files for podcasting goodness. Talkr might not have a trendy..."
-date: 2006-01-04
-source: http://nathanpitman.com/434/listen-to-me-talkr-kinda
-archive: https://web.archive.org/web/20091224044121/http://nathanpitman.com:80/434/listen-to-me-talkr-kinda
+description: >-
+  I stumbled across this great little free online service for converting your
+  RSS feeds into MP3 files for podcasting goodness. Talkr might not have a
+  trendy...
+date: '2006-01-04'
+source: 'http://nathanpitman.com/434/listen-to-me-talkr-kinda'
+archive: >-
+  https://web.archive.org/web/20091224044121/http://nathanpitman.com:80/434/listen-to-me-talkr-kinda
 tags:
-  - "Technology"
-  - "This website"
+  - Technology
+  - This website
+relatedPosts:
+  - slug: >-
+      back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark
+    source: generated
+  - slug: textdrive-is-kinda-sucking-right-now
+    source: generated
+  - slug: subscribe-to-my-podcast-with-itunes
+    source: generated
+  - slug: re-writing-history
+    source: generated
+  - slug: out-of-the-loop
+    source: generated
 ---
 
 I stumbled across this great little free online service for converting your RSS feeds into MP3 files for podcasting goodness. [Talkr](http://www.talkr.com/5647/partners/) might not have a trendy logo or backing from [Yahoo!](http://www.yahoo.com/) but they got themselves an *r* on the end of the name and a pretty neat little service to boot.

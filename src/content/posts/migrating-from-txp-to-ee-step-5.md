@@ -1,12 +1,26 @@
 ---
-title: "Migrating from TXP to EE - Step 5"
-description: "Step 5: setting up links and finishing touches after migrating from Textpattern to ExpressionEngine."
-date: 2008-10-16
-source: "http://nathanpitman.com/558/migrating-from-txp-to-ee-step-5"
-archive: "https://web.archive.org/web/20090518092434/http://nathanpitman.com:80/558/migrating-from-txp-to-ee-step-5"
+title: Migrating from TXP to EE - Step 5
+description: >-
+  Step 5: setting up links and finishing touches after migrating from
+  Textpattern to ExpressionEngine.
+date: '2008-10-16'
+source: 'http://nathanpitman.com/558/migrating-from-txp-to-ee-step-5'
+archive: >-
+  https://web.archive.org/web/20090518092434/http://nathanpitman.com:80/558/migrating-from-txp-to-ee-step-5
 tags:
-  - "ExpressionEngine"
-  - "Textpattern"
+  - ExpressionEngine
+  - Textpattern
+relatedPosts:
+  - slug: migrating-from-txp-to-ee-step-3
+    source: generated
+  - slug: migrating-from-txp-to-ee-step-4
+    source: generated
+  - slug: migrating-from-txp-to-ee-step-1
+    source: generated
+  - slug: migrating-from-txp-to-ee-step-2
+    source: generated
+  - slug: migrating-from-txp-to-ee-conclusion
+    source: generated
 ---
 
 [ExpressionEngine](http://www.expressionengine.com/index.php?affiliate=nathanpitman) does not provide a ‘native’ facility for recording links but the immense flexibility of ExpressionEngine Weblogs allows you to create your own links facility by just creating a new Weblog with the relevant custom fields (Title, URL & Description) and then setting up a related category group.

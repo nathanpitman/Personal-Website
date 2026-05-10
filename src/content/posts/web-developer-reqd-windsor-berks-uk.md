@@ -1,11 +1,25 @@
 ---
-title: "Web Developer Reqd - Windsor, Berks, UK"
-description: "Our client is an integrated full service agency, complete with in-house design team, that addresses all of their clients marketing needs. They have an..."
-date: 2007-04-18
-source: "http://nathanpitman.com/502/web-developer-reqd-windsor-berks-uk"
-archive: "https://web.archive.org/web/20101225135554/http://nathanpitman.com:80/502/web-developer-reqd-windsor-berks-uk"
+title: 'Web Developer Reqd - Windsor, Berks, UK'
+description: >-
+  Our client is an integrated full service agency, complete with in-house design
+  team, that addresses all of their clients marketing needs. They have an...
+date: '2007-04-18'
+source: 'http://nathanpitman.com/502/web-developer-reqd-windsor-berks-uk'
+archive: >-
+  https://web.archive.org/web/20101225135554/http://nathanpitman.com:80/502/web-developer-reqd-windsor-berks-uk
 tags:
-  - "Jobs"
+  - Jobs
+relatedPosts:
+  - slug: flash-web-designer-reqd-wokingham-berks-uk
+    source: generated
+  - slug: web-developer-london-uk
+    source: generated
+  - slug: web-dev-reqd-reading-berkshire-uk
+    source: generated
+  - slug: web-developer-south-east-uk
+    source: generated
+  - slug: junior-front-end-developer-wokingham-berks-uk
+    source: generated
 ---
 
 Our client is an integrated full service agency, complete with in-house design team, that addresses all of their clients marketing needs. They have an immediate vacancy for a web developer with the following skills:

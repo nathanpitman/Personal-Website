@@ -1,12 +1,26 @@
 ---
 title: Calling all Freelance Flash Developers!
-description: "Here at Nine Four we have a fair few Flash based projects on the horizon, and I’m a little short on freelance Flash talent. So if you think:"
-date: 2006-03-09
-source: http://nathanpitman.com/462/calling-all-freelance-flash-developers
-archive: https://web.archive.org/web/20091209040906/http://nathanpitman.com:80/462/calling-all-freelance-flash-developers
+description: >-
+  Here at Nine Four we have a fair few Flash based projects on the horizon, and
+  I’m a little short on freelance Flash talent. So if you think:
+date: '2006-03-09'
+source: 'http://nathanpitman.com/462/calling-all-freelance-flash-developers'
+archive: >-
+  https://web.archive.org/web/20091209040906/http://nathanpitman.com:80/462/calling-all-freelance-flash-developers
 tags:
-  - "Flash"
-  - "Jobs"
+  - Flash
+  - Jobs
+relatedPosts:
+  - slug: looking-for-asp-developers
+    source: generated
+  - slug: flash-video-kit-announced
+    source: generated
+  - slug: when-flash-is-good
+    source: generated
+  - slug: populating-a-flash-application-with-data-from-mysql-via-php
+    source: generated
+  - slug: ellipsis-flash-7-2-updater-out
+    source: generated
 ---
 
 Here at [Nine Four](http://www.ninefour.co.uk/) we have a fair few Flash based projects on the horizon, and I’m a little short on freelance Flash talent. So if you think:

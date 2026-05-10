@@ -1,12 +1,27 @@
 ---
 title: My employers are looking for a New Media Developer…
-description: "Mirashade are a rapidly expanding, highly creative ‘media solutions’ company based in Reading, Berkshire (UK). We work in 2D, 3D, web, print, CD-ROM, DVD..."
-date: 2003-10-13
-source: http://nathanpitman.com/91/my-employers-are-looking-for-a-new-media-developer
-archive: https://web.archive.org/web/20111009173255/http://nathanpitman.com/91/my-employers-are-looking-for-a-new-media-developer
+description: >-
+  Mirashade are a rapidly expanding, highly creative ‘media solutions’ company
+  based in Reading, Berkshire (UK). We work in 2D, 3D, web, print, CD-ROM,
+  DVD...
+date: '2003-10-13'
+source: 'http://nathanpitman.com/91/my-employers-are-looking-for-a-new-media-developer'
+archive: >-
+  https://web.archive.org/web/20111009173255/http://nathanpitman.com/91/my-employers-are-looking-for-a-new-media-developer
 tags:
-  - "Design"
-  - "Jobs"
+  - Design
+  - Jobs
+relatedPosts:
+  - slug: senior-graphic-designer-required-berkshire-uk
+    source: generated
+  - slug: web-developer-south-east-uk
+    source: generated
+  - slug: junior-front-end-developer-wokingham-berks-uk
+    source: generated
+  - slug: web-developer-berkshire-uk
+    source: generated
+  - slug: junior-creative-developer-london-uk
+    source: generated
 ---
 
 Mirashade are a rapidly expanding, highly creative ‘media solutions’ company based in Reading, Berkshire (UK). We work in 2D, 3D, web, print, CD-ROM, DVD and Broadcast, so you’re sure to be kept busy with a broad range of dynamic and challenging projects.

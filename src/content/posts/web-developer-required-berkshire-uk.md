@@ -1,12 +1,24 @@
 ---
-title: Web Developer Required… (Berkshire, UK)
-description: "Via Mirashade..."
-date: 2005-02-25
-source: http://nathanpitman.com/329/web-developer-required-berkshire-uk
-archive: https://web.archive.org/web/20100113134527/http://nathanpitman.com:80/329/web-developer-required-berkshire-uk
+title: 'Web Developer Required… (Berkshire, UK)'
+description: Via Mirashade...
+date: '2005-02-25'
+source: 'http://nathanpitman.com/329/web-developer-required-berkshire-uk'
+archive: >-
+  https://web.archive.org/web/20100113134527/http://nathanpitman.com:80/329/web-developer-required-berkshire-uk
 tags:
-  - "Jobs"
-  - "Web development"
+  - Jobs
+  - Web development
+relatedPosts:
+  - slug: looking-for-asp-developers
+    source: generated
+  - slug: senior-graphic-designer-required-berkshire-uk
+    source: generated
+  - slug: web-developer-berkshire-uk
+    source: generated
+  - slug: twisted-animator-required-berkshire-uk
+    source: generated
+  - slug: web-developer-south-east-uk
+    source: generated
 ---
 
 Via [Mirashade](http://www.mirashade.com/)...

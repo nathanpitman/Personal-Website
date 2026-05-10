@@ -1,12 +1,27 @@
 ---
 title: Halfway Between the Gutter and the Stars
-description: "Tommorow is my last day as an employee. I handed my notice in at Bite CP on Monday and as of 5:30pm on Friday I’m self-employed as Managing Director of Nine..."
-date: 2005-09-08
-source: http://nathanpitman.com/400/halfway-between-the-gutter-and-the-stars
-archive: https://web.archive.org/web/20090831030523/http://nathanpitman.com:80/400/halfway-between-the-gutter-and-the-stars
+description: >-
+  Tommorow is my last day as an employee. I handed my notice in at Bite CP on
+  Monday and as of 5:30pm on Friday I’m self-employed as Managing Director of
+  Nine...
+date: '2005-09-08'
+source: 'http://nathanpitman.com/400/halfway-between-the-gutter-and-the-stars'
+archive: >-
+  https://web.archive.org/web/20090831030523/http://nathanpitman.com:80/400/halfway-between-the-gutter-and-the-stars
 tags:
-  - "Employment"
-  - "Personal"
+  - Employment
+  - Personal
+relatedPosts:
+  - slug: hello-mr-cripps
+    source: generated
+  - slug: yesterday-i-started-my-new-job
+    source: generated
+  - slug: hey-ive-only-gone-and-got-myself-a-new-job
+    source: generated
+  - slug: changes-afoot
+    source: generated
+  - slug: 10-questions-for-john-oxton-going-it-alone
+    source: generated
 ---
 
 Tommorow is my last day as an employee. I handed my notice in at [Bite CP](http://www.bitecp.com/) on Monday and as of 5:30pm on Friday I’m self-employed as Managing Director of [Nine Four Ltd](http://ninefour.co.uk/ "Web design, Bracknell, Berkshire").

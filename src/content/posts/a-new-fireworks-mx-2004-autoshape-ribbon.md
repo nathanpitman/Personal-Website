@@ -1,12 +1,26 @@
 ---
 title: 'A New Fireworks MX 2004 Autoshape: Ribbon'
-description: "Hiroshi Miyazawa of Macromedia has developed another new AutoShape for Fireworks MX 2004 called Ribbon."
-date: 2004-07-09
-source: http://nathanpitman.com/214/a-new-fireworks-mx-2004-autoshape-ribbon
-archive: https://web.archive.org/web/20100719110733/http://nathanpitman.com:80/214/a-new-fireworks-mx-2004-autoshape-ribbon
+description: >-
+  Hiroshi Miyazawa of Macromedia has developed another new AutoShape for
+  Fireworks MX 2004 called Ribbon.
+date: '2004-07-09'
+source: 'http://nathanpitman.com/214/a-new-fireworks-mx-2004-autoshape-ribbon'
+archive: >-
+  https://web.archive.org/web/20100719110733/http://nathanpitman.com:80/214/a-new-fireworks-mx-2004-autoshape-ribbon
 tags:
-  - "Extensions"
-  - "Fireworks"
+  - Extensions
+  - Fireworks
+relatedPosts:
+  - slug: a-new-fireworks-mx-2004-autoshape-wave
+    source: generated
+  - slug: inspire-autoshape-for-fireworks
+    source: generated
+  - slug: 3d-box-autoshape-for-fireworks
+    source: generated
+  - slug: pinwheel-autoshape-for-fireworks
+    source: generated
+  - slug: fireworks-ruler-autoshape
+    source: generated
 ---
 
 Hiroshi Miyazawa of Macromedia has developed another new AutoShape for Fireworks MX 2004 called [Ribbon](http://www.communitymx.com/content/article.cfm?cid=4C7DD).

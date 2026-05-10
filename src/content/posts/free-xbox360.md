@@ -1,12 +1,26 @@
 ---
-title: "Free Xbox360"
-description: "On scepticism about 'free gadget' offers online — and what happened when one turned out to be legitimate."
-date: 2006-03-21
-source: "http://nathanpitman.com/466/free-xbox360"
-archive: "https://web.archive.org/web/20090614072315/http://nathanpitman.com:80/466/free-xbox360"
+title: Free Xbox360
+description: >-
+  On scepticism about 'free gadget' offers online — and what happened when one
+  turned out to be legitimate.
+date: '2006-03-21'
+source: 'http://nathanpitman.com/466/free-xbox360'
+archive: >-
+  https://web.archive.org/web/20090614072315/http://nathanpitman.com:80/466/free-xbox360
 tags:
-  - "Chatter"
-  - "Consoles"
+  - Chatter
+  - Consoles
+relatedPosts:
+  - slug: xbox-360-to-get-1080p
+    source: generated
+  - slug: on-demand-movies-tv-coming-to-xbox-360
+    source: generated
+  - slug: xbox-360-autumn-dashboard-update
+    source: generated
+  - slug: 12-free-itunes-tracks-uk-only
+    source: generated
+  - slug: free-thinking-breakfast-reading-uk-tmrw
+    source: generated
 ---
 
 I must admit, I’ve been just a little dubious of all the banner ads you see sprinkled on the web advertising free ipods, PSPs etc. Well, after stumbling upon a blog entry by some seemingly normal fellow, and taking some time to do a little reading up on the subject, it actually seems that some of these websites are for real.

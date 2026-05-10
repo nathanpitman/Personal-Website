@@ -1,11 +1,25 @@
 ---
 title: Flash Visual Sound Mixer
-description: "Via Flex-mx I came across this very neat Flash experiment based around audio that responds to the cursors distance from the floating globes."
-date: 2004-05-27
-source: http://nathanpitman.com/161/flash-visual-sound-mixer
-archive: https://web.archive.org/web/20090708061715/http://nathanpitman.com:80/161/flash-visual-sound-mixer
+description: >-
+  Via Flex-mx I came across this very neat Flash experiment based around audio
+  that responds to the cursors distance from the floating globes.
+date: '2004-05-27'
+source: 'http://nathanpitman.com/161/flash-visual-sound-mixer'
+archive: >-
+  https://web.archive.org/web/20090708061715/http://nathanpitman.com:80/161/flash-visual-sound-mixer
 tags:
-  - "Flash"
+  - Flash
+relatedPosts:
+  - slug: calling-all-freelance-flash-developers
+    source: generated
+  - slug: browsing-xml-with-flash
+    source: generated
+  - slug: flash-video-kit-announced
+    source: generated
+  - slug: when-flash-is-good
+    source: generated
+  - slug: populating-a-flash-application-with-data-from-mysql-via-php
+    source: generated
 ---
 
 Via [Flex-mx](http://www.flex-mx.com/archives/000782.html) I came across this [very neat Flash experiment](http://www.seb.cc/spacializer/) based around audio that responds to the cursors distance from the floating globes.

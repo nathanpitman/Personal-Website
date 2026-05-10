@@ -1,11 +1,23 @@
 ---
 title: Macromedia DevNet Resource Kit Vol 8 Released
-description: "Volume 8 of the Macromedia Devnet Resource Kit is now available."
-date: 2004-07-23
-source: http://nathanpitman.com/222/macromedia-devnet-resource-kit-vol-8-released
-archive: https://web.archive.org/web/20091214165017/http://nathanpitman.com:80/222/macromedia-devnet-resource-kit-vol-8-released
+description: Volume 8 of the Macromedia Devnet Resource Kit is now available.
+date: '2004-07-23'
+source: 'http://nathanpitman.com/222/macromedia-devnet-resource-kit-vol-8-released'
+archive: >-
+  https://web.archive.org/web/20091214165017/http://nathanpitman.com:80/222/macromedia-devnet-resource-kit-vol-8-released
 tags:
-  - "Adobe"
+  - Adobe
+relatedPosts:
+  - slug: macromedia-devnet-resource-kit-vol-6-released
+    source: generated
+  - slug: macromedia-devnet-resource-kit-volume-9-released
+    source: generated
+  - slug: macromedia-devnet-travel-mug-up-for-grabs
+    source: generated
+  - slug: team-macromedia-fireworks
+    source: generated
+  - slug: flash-video-kit-announced
+    source: generated
 ---
 
 [Volume 8](http://www.macromedia.com/software/drk/productinfo/product_overview/volume8/) of the Macromedia Devnet Resource Kit is now available.

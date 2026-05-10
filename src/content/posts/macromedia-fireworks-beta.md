@@ -1,12 +1,26 @@
 ---
 title: Macromedia Fireworks Beta
-description: "The Macromedia Fireworks development team are looking for candidates to beta test the next version of Macromedia Fireworks."
-date: 2005-04-11
-source: http://nathanpitman.com/340/macromedia-fireworks-beta
-archive: https://web.archive.org/web/20100106035102/http://nathanpitman.com/340/macromedia-fireworks-beta
+description: >-
+  The Macromedia Fireworks development team are looking for candidates to beta
+  test the next version of Macromedia Fireworks.
+date: '2005-04-11'
+source: 'http://nathanpitman.com/340/macromedia-fireworks-beta'
+archive: >-
+  https://web.archive.org/web/20100106035102/http://nathanpitman.com/340/macromedia-fireworks-beta
 tags:
-  - "Adobe"
-  - "Fireworks"
+  - Adobe
+  - Fireworks
+relatedPosts:
+  - slug: team-macromedia-fireworks
+    source: generated
+  - slug: an-open-letter-to-software-developers-re-adobe-fireworks
+    source: generated
+  - slug: still-no-real-competition-for-fireworks
+    source: generated
+  - slug: dear-adobe-fireworks-its-not-you-its-me
+    source: generated
+  - slug: goodbye-dear-friend
+    source: generated
 ---
 
 The Macromedia Fireworks development team are looking for candidates to beta test the next version of Macromedia Fireworks.

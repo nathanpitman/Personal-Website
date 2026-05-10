@@ -1,11 +1,25 @@
 ---
 title: Pink Cow(s)
-description: "Well, I just finished work on another CSS based site for a client. Pink Cow sell educational software for schools. They approached us here at Mirashade..."
-date: 2004-04-13
-source: http://nathanpitman.com/51/pink-cows
-archive: https://web.archive.org/web/20100106003752/http://nathanpitman.com:80/51/pink-cows
+description: >-
+  Well, I just finished work on another CSS based site for a client. Pink Cow
+  sell educational software for schools. They approached us here at Mirashade...
+date: '2004-04-13'
+source: 'http://nathanpitman.com/51/pink-cows'
+archive: >-
+  https://web.archive.org/web/20100106003752/http://nathanpitman.com:80/51/pink-cows
 tags:
-  - "Code"
+  - Code
+relatedPosts:
+  - slug: css3-in-firefox
+    source: generated
+  - slug: mark-of-the-web-or-why-ie6-sucks
+    source: generated
+  - slug: if-you-just-smile
+    source: generated
+  - slug: interactive-3d-css-box-model
+    source: generated
+  - slug: joined-up-website-design
+    source: generated
 ---
 
 Well, I just finished work on another CSS based site for a client. [Pink Cow](http://www.pinkcowltd.com/) sell educational software for schools. They approached us here at [Mirashade](http://www.mirashade.com/) looking for a simple but flexible site which would provide them with the ability to administer key content (News, Features & Offers) through a Web based Content Management System.

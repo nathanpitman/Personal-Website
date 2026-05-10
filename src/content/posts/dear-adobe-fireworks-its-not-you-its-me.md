@@ -1,12 +1,26 @@
 ---
-title: "Dear Adobe Fireworks, it’s not you, it’s me."
-description: "When we first met it was love at first sight, your combination of vector and bitmap tools, your web layer and slices… I just couldn’t resist."
-date: 2009-02-03
-source: "http://nathanpitman.com/566/dear-adobe-fireworks-its-not-you-its-me"
-archive: "https://web.archive.org/web/20090518024120/http://nathanpitman.com:80/566/dear-adobe-fireworks-its-not-you-its-me"
+title: 'Dear Adobe Fireworks, it’s not you, it’s me.'
+description: >-
+  When we first met it was love at first sight, your combination of vector and
+  bitmap tools, your web layer and slices… I just couldn’t resist.
+date: '2009-02-03'
+source: 'http://nathanpitman.com/566/dear-adobe-fireworks-its-not-you-its-me'
+archive: >-
+  https://web.archive.org/web/20090518024120/http://nathanpitman.com:80/566/dear-adobe-fireworks-its-not-you-its-me
 tags:
-  - "Adobe"
-  - "Fireworks"
+  - Adobe
+  - Fireworks
+relatedPosts:
+  - slug: an-open-letter-to-software-developers-re-adobe-fireworks
+    source: generated
+  - slug: goodbye-dear-friend
+    source: generated
+  - slug: still-no-real-competition-for-fireworks
+    source: generated
+  - slug: macromedia-fireworks-beta
+    source: generated
+  - slug: team-macromedia-fireworks
+    source: generated
 ---
 
 When we first met it was love at first sight, your combination of vector and bitmap tools, your web layer and slices… I just couldn’t resist.
