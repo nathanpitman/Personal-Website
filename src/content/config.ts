@@ -26,13 +26,13 @@ const pages = defineCollection({
 });
 
 const projects = defineCollection({
-  type: "content",
-  schema: z.object({
+  type: "data",
+  schema: z.array(z.object({
     title: z.string(),
-    url: z.string(),
-    description: z.string().optional(),
+    url: z.string().url(),
+    description: z.string(),
     hidden: z.boolean().default(false),
-  }),
+  })),
 });
 
 const recommended = defineCollection({
