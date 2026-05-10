@@ -1,7 +1,12 @@
 # Add recommended blogs and sites here.
 # Each entry: title, url, description. Set hidden: true to temporarily suppress an entry.
 
-- title: "Example Blog"
-  url: "https://example.com"
-  description: "Replace with a real recommendation."
-  hidden: true
+- title: "Revert To Saved"
+  url: "https://reverttosaved.com"
+  description: "Craig Grannell on technology, Apple, gaming and design."
+  hidden: false
+
+- title: "Simon Willison’s Weblog"
+  url: "https://simonwillison.net"
+  description: "Simon Willison’s thoughts on technology, web development, and more."
+  hidden: false
