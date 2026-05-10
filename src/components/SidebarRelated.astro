@@ -1,0 +1,26 @@
+---
+import { getCollection } from 'astro:content';
+
+interface Props {
+  relatedPosts: { slug: string; source: string }[];
+}
+
+const { relatedPosts } = Astro.props;
+
+const allPosts = await getCollection('posts');
+const postMap = Object.fromEntries(allPosts.map(p => [p.slug, p]));
+const resolved = relatedPosts.map(r => postMap[r.slug]).filter(Boolean);
+---
+
+{resolved.length > 0 && (
+  <div class="sidebar-block">
+    <div class="sidebar-block-header">
+      <span class="sidebar-block-title">Related</span>
+    </div>
+    <ul class="sidebar-list">
+      {resolved.map(post => (
+        <li><a href={`/posts/${post.slug}`}>{post.data.title}</a></li>
+      ))}
+    </ul>
+  </div>
+)}

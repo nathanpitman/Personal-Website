@@ -1,0 +1,21 @@
+---
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('posts');
+const recentPosts = allPosts
+  .filter(post => !post.data.hidden)
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
+  .slice(0, 10);
+---
+
+<div class="sidebar-block">
+  <div class="sidebar-block-header">
+    <span class="sidebar-block-title">Previously</span>
+  </div>
+  <p class="who-text" style="margin-bottom: 10px;">The 10 most recent entries from the journal.</p>
+  <ul class="sidebar-list">
+    {recentPosts.map(post => (
+      <li><a href={`/posts/${post.slug}`}>{post.data.title}</a></li>
+    ))}
+  </ul>
+</div>

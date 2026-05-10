@@ -1,0 +1,22 @@
+---
+import { getCollection } from 'astro:content';
+
+const sideProjects = await getCollection('projects');
+const visibleProjects = sideProjects.filter(project => !project.data.hidden);
+---
+
+{visibleProjects.length > 0 && (
+  <div class="sidebar-block">
+    <div class="sidebar-block-header">
+      <span class="sidebar-block-title">Side projects</span>
+    </div>
+    <ul class="side-projects-list">
+      {visibleProjects.map(project => (
+        <li>
+          <a class="side-project-name" href={project.data.url}>{project.data.title}</a>
+          <p class="side-project-desc">{project.body}</p>
+        </li>
+      ))}
+    </ul>
+  </div>
+)}

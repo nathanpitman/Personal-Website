@@ -35,4 +35,14 @@ const projects = defineCollection({
   }),
 });
 
-export const collections = { posts, pages, projects };
+const recommended = defineCollection({
+  type: "content",
+  schema: z.object({
+    title: z.string(),
+    url: z.string().url(),
+    description: z.string(),
+    hidden: z.boolean().default(false),
+  }),
+});
+
+export const collections = { posts, pages, projects, recommended };
