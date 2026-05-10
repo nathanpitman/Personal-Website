@@ -3,15 +3,19 @@ import { getCollection } from 'astro:content';
 
 interface Props {
   page?: string;
+  relatedPosts?: { slug: string; source: string }[];
 }
 
-const { page = '' } = Astro.props;
+const { page = '', relatedPosts } = Astro.props;
 
 const allPosts = await getCollection('posts');
 const recentPosts = allPosts
   .filter(post => !post.data.hidden)
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
   .slice(0, 10);
+
+const postMap = Object.fromEntries(allPosts.map(p => [p.slug, p]));
+const relatedResolved = (relatedPosts ?? []).map(r => postMap[r.slug]).filter(Boolean);
 
 const sideProjects = await getCollection('projects');
 const visibleProjects = sideProjects.filter(project => !project.data.hidden);
@@ -35,7 +39,7 @@ const visibleProjects = sideProjects.filter(project => !project.data.hidden);
     </a>
   </div>
 
-  {page !== 'about' && (
+  {page !== 'about' && page !== 'post' && (
     <div class="sidebar-block">
       <div class="sidebar-block-header">
         <span class="sidebar-block-title">Who, what &amp; why?</span>
@@ -44,6 +48,19 @@ const visibleProjects = sideProjects.filter(project => !project.data.hidden);
             <p>Managing Director of the eLearning Division at The Citation Group, previously Creative &amp; Technical Director at iHasco and MD at Nine Four for over a decade before that.</p>
             <p>Lately spending spare time exploring what's possible at the intersection of modern AI and product design — and writing about it (and many other things) here. <a href="/about">More…</a></p>
       </div>
+    </div>
+  )}
+
+  {relatedResolved.length > 0 && (
+    <div class="sidebar-block">
+      <div class="sidebar-block-header">
+        <span class="sidebar-block-title">Related</span>
+      </div>
+      <ul class="sidebar-list">
+        {relatedResolved.map(post => (
+          <li><a href={`/posts/${post.slug}`}>{post.data.title}</a></li>
+        ))}
+      </ul>
     </div>
   )}
 

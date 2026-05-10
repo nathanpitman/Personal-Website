@@ -1,7 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Sidebar from '../../components/Sidebar.astro';
-import RelatedPosts from '../../components/RelatedPosts.astro';
 import { getCollection } from 'astro:content';
 import { slugify, displayTag } from '../../utils/slugify';
 
@@ -92,12 +91,11 @@ const dd = String(d.getDate()).padStart(2, '0');
             ))}
           </p>
         )}
-        <RelatedPosts relatedPosts={post.data.relatedPosts} />
         <span class="date-search-tokens">{yyyy}-{mm}-{dd} {yyyy}-{mm} {yyyy} {mm} {dd}</span>
       </article>
     </main>
 
-    <Sidebar />
+    <Sidebar page="post" relatedPosts={post.data.relatedPosts} />
 
   </div>
 </BaseLayout>
