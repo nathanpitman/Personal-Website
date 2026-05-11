@@ -10,3 +10,14 @@
   url: "https://simonwillison.net"
   description: "Simon Willison’s thoughts on technology, web development, and more."
   hidden: false
+
+- title: "Daring Fireball"
+  url: "https://daringfireball.net"
+  description: "John Gruber’s weblog."
+  hidden: false
+
+- title: "The Verge"
+  url: "https://www.theverge.com"
+  description: "The Verge covers the intersection of technology, science, art, and culture."
+  hidden: false
+
