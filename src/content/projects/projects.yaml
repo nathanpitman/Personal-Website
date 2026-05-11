@@ -17,6 +17,15 @@
     that links energy production to town growth.
   hidden: false
 
+- title: iHasco SCORM to PDF Transformer
+  url: https://github.com/nathanpitman/iHasco-SCORM-to-PDF-Transformer
+  description: >-
+    A browser-based tool that extracts text from SCORM eLearning packages and
+    converts them into readable PDFs. Built with Claude, with optional
+    AI-powered prose rewriting via the Claude API. No install or backend
+    required — runs entirely client-side.
+  hidden: false
+
 - title: Fuelwise
   url: https://fuelwise.replit.app
   description: >-
