@@ -650,7 +650,8 @@ a:hover         { color: #0000ee; }
   border-bottom: none;
 }
 
-.elsewhere-about-list a {
+.elsewhere-about-list a,
+.elsewhere-about-role {
   display: block;
   font-weight: 600;
   margin-bottom: 1px;
