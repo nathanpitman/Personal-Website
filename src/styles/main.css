@@ -592,7 +592,7 @@ a:hover         { color: #0000ee; }
 }
 
 .sidebar-list li {
-  padding: 4px 0;
+  padding: 10px 0;
   border-bottom: 1px dotted var(--border);
   line-height: 1.4;
 }
