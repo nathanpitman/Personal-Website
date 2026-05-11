@@ -9,7 +9,7 @@ source: 'http://nathanpitman.com/595/part-time-php-mysql-developer-required'
 archive: >-
   https://web.archive.org/web/20100127195111/http://nathanpitman.com:80/595/part-time-php-mysql-developer-required
 tags:
-  - Jobs
+  - "Employment"
 relatedPosts:
   - slug: web-developer-required-berkshire-uk
     source: generated

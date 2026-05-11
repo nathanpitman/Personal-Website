@@ -9,7 +9,7 @@ source: 'http://nathanpitman.com/528/jobs-erskine-design'
 archive: >-
   https://web.archive.org/web/20100110081915/http://nathanpitman.com:80/528/jobs-erskine-design
 tags:
-  - Jobs
+  - "Employment"
 relatedPosts:
   - slug: jobs-going-at-voyage-reading-berks-uk
     source: generated

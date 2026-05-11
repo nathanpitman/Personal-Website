@@ -9,7 +9,7 @@ source: 'http://nathanpitman.com/524/coldfusion-developer-windsor-uk'
 archive: >-
   https://web.archive.org/web/20091214165024/http://nathanpitman.com:80/524/coldfusion-developer-windsor-uk
 tags:
-  - Jobs
+  - "Employment"
 relatedPosts:
   - slug: web-developer-reqd-windsor-berks-uk
     source: generated

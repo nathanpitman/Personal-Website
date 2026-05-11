@@ -8,8 +8,8 @@ source: 'http://nathanpitman.com/420/looking-for-asp-developers'
 archive: >-
   https://web.archive.org/web/20100107003051/http://nathanpitman.com:80/420/looking-for-asp-developers
 tags:
-  - Jobs
-  - Web development
+  - "Employment"
+  - "Web development"
 relatedPosts:
   - slug: web-developer-required-berkshire-uk
     source: generated

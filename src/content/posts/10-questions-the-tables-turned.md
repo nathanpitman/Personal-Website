@@ -7,6 +7,7 @@ archive: >-
   https://web.archive.org/web/20091231065802/http://nathanpitman.com:80/444/10-questions-the-tables-turned
 tags:
   - Employment
+  - Interview
 relatedPosts:
   - slug: 10-questions-for-paul-farnell-going-it-alone
     source: generated

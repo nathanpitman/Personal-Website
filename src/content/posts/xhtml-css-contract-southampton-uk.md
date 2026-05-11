@@ -8,7 +8,7 @@ source: 'http://nathanpitman.com/510/xhtml-css-contract-southampton-uk'
 archive: >-
   https://web.archive.org/web/20090823041938/http://nathanpitman.com:80/510/xhtml-css-contract-southampton-uk
 tags:
-  - Jobs
+  - "Employment"
 relatedPosts:
   - slug: web-developer-reqd-windsor-berks-uk
     source: generated

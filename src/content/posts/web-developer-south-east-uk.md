@@ -8,7 +8,7 @@ source: 'http://nathanpitman.com/586/web-developer-south-east-uk'
 archive: >-
   https://web.archive.org/web/20090601223346/http://nathanpitman.com:80/586/web-developer-south-east-uk
 tags:
-  - Jobs
+  - "Employment"
 relatedPosts:
   - slug: web-developer-berkshire-uk
     source: generated

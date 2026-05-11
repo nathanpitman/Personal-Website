@@ -8,7 +8,7 @@ source: 'http://nathanpitman.com/502/web-developer-reqd-windsor-berks-uk'
 archive: >-
   https://web.archive.org/web/20101225135554/http://nathanpitman.com:80/502/web-developer-reqd-windsor-berks-uk
 tags:
-  - Jobs
+  - "Employment"
 relatedPosts:
   - slug: flash-web-designer-reqd-wokingham-berks-uk
     source: generated

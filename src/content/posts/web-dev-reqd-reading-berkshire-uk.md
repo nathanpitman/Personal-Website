@@ -6,7 +6,7 @@ source: 'http://nathanpitman.com/485/web-dev-reqd-reading-berkshire-uk'
 archive: >-
   https://web.archive.org/web/20091226075110/http://nathanpitman.com:80/485/web-dev-reqd-reading-berkshire-uk
 tags:
-  - Jobs
+  - "Employment"
 relatedPosts:
   - slug: 2-x-web-developers-berkshire-uk
     source: generated

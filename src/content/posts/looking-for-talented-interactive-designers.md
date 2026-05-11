@@ -9,7 +9,7 @@ source: 'http://nathanpitman.com/354/looking-for-talented-interactive-designers'
 archive: >-
   https://web.archive.org/web/20101204083758/http://nathanpitman.com:80/354/looking-for-talented-interactive-designers
 tags:
-  - Jobs
+  - "Employment"
 relatedPosts:
   - slug: my-employers-are-looking-for-a-new-media-developer
     source: generated

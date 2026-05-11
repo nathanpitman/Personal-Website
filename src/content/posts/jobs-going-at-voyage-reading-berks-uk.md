@@ -6,7 +6,7 @@ source: 'http://nathanpitman.com/513/jobs-going-at-voyage-reading-berks-uk'
 archive: >-
   https://web.archive.org/web/20091011074801/http://nathanpitman.com:80/513/jobs-going-at-voyage-reading-berks-uk
 tags:
-  - Jobs
+  - "Employment"
 relatedPosts:
   - slug: creative-director-reqd-reading-berks-uk
     source: generated

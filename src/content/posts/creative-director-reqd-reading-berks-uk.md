@@ -6,7 +6,7 @@ source: 'http://nathanpitman.com/509/creative-director-reqd-reading-berks-uk'
 archive: >-
   https://web.archive.org/web/20091220123449/http://nathanpitman.com:80/509/creative-director-reqd-reading-berks-uk
 tags:
-  - Jobs
+  - "Employment"
 relatedPosts:
   - slug: jobs-going-at-voyage-reading-berks-uk
     source: generated

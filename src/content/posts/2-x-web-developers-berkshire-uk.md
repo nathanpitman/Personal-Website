@@ -9,7 +9,7 @@ source: 'http://nathanpitman.com/527/2-x-web-developers-berkshire-uk'
 archive: >-
   https://web.archive.org/web/20100424235628/http://nathanpitman.com:80/527/2-x-web-developers-berkshire-uk
 tags:
-  - Jobs
+  - "Employment"
 relatedPosts:
   - slug: web-dev-reqd-reading-berkshire-uk
     source: generated

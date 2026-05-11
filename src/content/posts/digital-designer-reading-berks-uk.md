@@ -8,7 +8,7 @@ source: 'http://nathanpitman.com/518/digital-designer-reading-berks-uk'
 archive: >-
   https://web.archive.org/web/20091209173416/http://nathanpitman.com:80/518/digital-designer-reading-berks-uk
 tags:
-  - Jobs
+  - "Employment"
 relatedPosts:
   - slug: flash-web-designer-reqd-wokingham-berks-uk
     source: generated

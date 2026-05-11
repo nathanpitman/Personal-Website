@@ -8,7 +8,7 @@ source: 'http://nathanpitman.com/543/web-developer-london-uk'
 archive: >-
   https://web.archive.org/web/20090616071957/http://nathanpitman.com:80/543/web-developer-london-uk
 tags:
-  - Jobs
+  - "Employment"
 relatedPosts:
   - slug: junior-creative-developer-london-uk
     source: generated

@@ -8,8 +8,8 @@ source: 'http://nathanpitman.com/462/calling-all-freelance-flash-developers'
 archive: >-
   https://web.archive.org/web/20091209040906/http://nathanpitman.com:80/462/calling-all-freelance-flash-developers
 tags:
-  - Flash
-  - Jobs
+  - "Flash"
+  - "Employment"
 relatedPosts:
   - slug: looking-for-asp-developers
     source: generated

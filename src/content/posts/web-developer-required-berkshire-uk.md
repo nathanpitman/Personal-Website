@@ -6,8 +6,8 @@ source: 'http://nathanpitman.com/329/web-developer-required-berkshire-uk'
 archive: >-
   https://web.archive.org/web/20100113134527/http://nathanpitman.com:80/329/web-developer-required-berkshire-uk
 tags:
-  - Jobs
-  - Web development
+  - "Employment"
+  - "Web development"
 relatedPosts:
   - slug: looking-for-asp-developers
     source: generated

@@ -9,8 +9,8 @@ source: 'http://nathanpitman.com/91/my-employers-are-looking-for-a-new-media-dev
 archive: >-
   https://web.archive.org/web/20111009173255/http://nathanpitman.com/91/my-employers-are-looking-for-a-new-media-developer
 tags:
-  - Design
-  - Jobs
+  - "Design"
+  - "Employment"
 relatedPosts:
   - slug: senior-graphic-designer-required-berkshire-uk
     source: generated

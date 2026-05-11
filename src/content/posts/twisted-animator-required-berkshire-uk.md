@@ -6,8 +6,8 @@ source: 'http://nathanpitman.com/240/twisted-animator-required-berkshire-uk'
 archive: >-
   https://web.archive.org/web/20100113164458/http://nathanpitman.com:80/240/twisted-animator-required-berkshire-uk
 tags:
-  - Animation
-  - Jobs
+  - "Animation"
+  - "Employment"
 relatedPosts:
   - slug: web-developer-required-berkshire-uk
     source: generated

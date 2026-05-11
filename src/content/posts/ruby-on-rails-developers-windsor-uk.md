@@ -6,7 +6,7 @@ source: 'http://nathanpitman.com/576/ruby-on-rails-developers-windsor-uk'
 archive: >-
   https://web.archive.org/web/20090518024053/http://nathanpitman.com:80/576/ruby-on-rails-developers-windsor-uk
 tags:
-  - Jobs
+  - "Employment"
 relatedPosts:
   - slug: coldfusion-developer-windsor-uk
     source: generated

@@ -9,7 +9,6 @@ tags:
   - Branding
   - Design
   - ExpressionEngine
-  - Furniture
 relatedPosts:
   - slug: expressionengine-mug
     source: generated

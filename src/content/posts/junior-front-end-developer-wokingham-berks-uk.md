@@ -9,7 +9,7 @@ source: 'http://nathanpitman.com/516/junior-front-end-developer-wokingham-berks-
 archive: >-
   https://web.archive.org/web/20090602145429/http://nathanpitman.com:80/516/junior-front-end-developer-wokingham-berks-uk
 tags:
-  - Jobs
+  - "Employment"
 relatedPosts:
   - slug: flash-web-designer-reqd-wokingham-berks-uk
     source: generated

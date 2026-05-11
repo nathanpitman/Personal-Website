@@ -6,7 +6,7 @@ source: 'http://nathanpitman.com/526/web-developer-berkshire-uk'
 archive: >-
   https://web.archive.org/web/20100106013658/http://nathanpitman.com:80/526/web-developer-berkshire-uk
 tags:
-  - Jobs
+  - "Employment"
 relatedPosts:
   - slug: web-developer-required-berkshire-uk
     source: generated

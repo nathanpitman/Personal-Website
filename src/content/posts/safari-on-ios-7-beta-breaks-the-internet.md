@@ -8,10 +8,10 @@ source: 'http://nathanpitman.com/626/safari-on-ios-7-breaks-the-internet'
 archive: >-
   https://web.archive.org/web/20130909054628/http://nathanpitman.com:80/626/safari-on-ios-7-breaks-the-internet
 tags:
-  - Design
-  - Apple
-  - Rant
-  - Web development
+  - "Design"
+  - "Apple"
+  - "Web development"
+  - "Chatter"
 relatedPosts:
   - slug: god-is-in-the-details
     source: generated

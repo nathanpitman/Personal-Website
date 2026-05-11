@@ -8,7 +8,7 @@ source: 'http://nathanpitman.com/476/creative-artworker-rqd-reading-berkshire-uk
 archive: >-
   https://web.archive.org/web/20100106034802/http://nathanpitman.com/476/creative-artworker-rqd-reading-berkshire-uk
 tags:
-  - Jobs
+  - "Employment"
 relatedPosts:
   - slug: web-dev-reqd-reading-berkshire-uk
     source: generated

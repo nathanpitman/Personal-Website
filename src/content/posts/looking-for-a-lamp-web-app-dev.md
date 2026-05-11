@@ -8,7 +8,7 @@ source: 'http://nathanpitman.com/500/looking-for-a-lamp-web-app-dev'
 archive: >-
   https://web.archive.org/web/20100106205055/http://nathanpitman.com:80/500/looking-for-a-lamp-web-app-dev
 tags:
-  - Jobs
+  - "Employment"
 relatedPosts:
   - slug: web-dev-rqd-dorking-surrey-uk
     source: generated

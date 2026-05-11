@@ -8,7 +8,7 @@ source: 'http://nathanpitman.com/158/project-manager-needed'
 archive: >-
   https://web.archive.org/web/20091209035447/http://nathanpitman.com:80/158/project-manager-needed
 tags:
-  - Jobs
+  - "Employment"
 relatedPosts:
   - slug: web-developer-required-berkshire-uk
     source: generated

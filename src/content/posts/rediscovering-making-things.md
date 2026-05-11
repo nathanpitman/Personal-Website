@@ -2,9 +2,8 @@
 title: Rediscovering making things
 date: '2026-03-22'
 tags:
-  - ai
-  - software
-  - product
+  - "AI"
+  - "Making things"
 relatedPosts:
   - slug: >-
       back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark

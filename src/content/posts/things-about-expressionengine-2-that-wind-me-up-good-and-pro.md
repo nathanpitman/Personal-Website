@@ -9,8 +9,8 @@ source: >-
 archive: >-
   https://web.archive.org/web/20111030042045/http://nathanpitman.com:80/612/things-about-expressionengine-2-that-wind-me-up-good-and-proper
 tags:
-  - ExpressionEngine
-  - Rant
+  - "ExpressionEngine"
+  - "Chatter"
 relatedPosts:
   - slug: i-ay-expression-engine
     source: generated

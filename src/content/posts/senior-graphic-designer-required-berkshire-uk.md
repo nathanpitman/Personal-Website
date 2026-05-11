@@ -6,8 +6,8 @@ source: 'http://nathanpitman.com/285/senior-graphic-designer-required-berkshire-
 archive: >-
   https://web.archive.org/web/20100106035042/http://nathanpitman.com/285/senior-graphic-designer-required-berkshire-uk
 tags:
-  - Design
-  - Jobs
+  - "Design"
+  - "Employment"
 relatedPosts:
   - slug: my-employers-are-looking-for-a-new-media-developer
     source: generated
