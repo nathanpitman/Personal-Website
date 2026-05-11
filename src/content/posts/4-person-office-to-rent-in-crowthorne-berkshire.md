@@ -1,11 +1,26 @@
 ---
-title: "4 person office to rent in Crowthorne, Berkshire."
-description: "I’m posting this here on behalf of the guys at Bancroft Developments. For the past two years we’ve (Nine Four) rented an office from them but alas we’ve..."
-date: 2012-10-19
-source: "http://nathanpitman.com/621/4-person-office-to-rent-in-crowthorne-bracknell-berkshire"
-archive: "https://web.archive.org/web/20121027044223/http://nathanpitman.com:80/621/4-person-office-to-rent-in-crowthorne-bracknell-berkshire"
+title: '4 person office to rent in Crowthorne, Berkshire.'
+description: >-
+  I’m posting this here on behalf of the guys at Bancroft Developments. For the
+  past two years we’ve (Nine Four) rented an office from them but alas we’ve...
+date: '2012-10-19'
+source: >-
+  http://nathanpitman.com/621/4-person-office-to-rent-in-crowthorne-bracknell-berkshire
+archive: >-
+  https://web.archive.org/web/20121027044223/http://nathanpitman.com:80/621/4-person-office-to-rent-in-crowthorne-bracknell-berkshire
 tags:
-  - "Personal"
+  - Personal
+relatedPosts:
+  - slug: inevitable
+    source: generated
+  - slug: its-snowing
+    source: generated
+  - slug: halfway-between-the-gutter-and-the-stars
+    source: generated
+  - slug: edge
+    source: generated
+  - slug: kia-reliability
+    source: generated
 ---
 
 I’m posting this here on behalf of the guys at [Bancroft Developments](http://www.bancroftdevelopments.com/). For the past two years we’ve ([Nine Four](http://ninefour.co.uk/)) rented an office from them but alas we’ve moved on and so they’re looking for a new tenant.

@@ -1,11 +1,25 @@
 ---
 title: How to cut your monthly NTL bill
-description: "I read a post on ntl:hell recently about a disatisfied NTL customer who called to cancel his account and got offered all sorts of discounts to stay."
-date: 2005-08-05
-source: http://nathanpitman.com/384/how-to-cut-your-monthly-ntl-bill
-archive: https://web.archive.org/web/20111010050410/http://nathanpitman.com/384/how-to-cut-your-monthly-ntl-bill
+description: >-
+  I read a post on ntl:hell recently about a disatisfied NTL customer who called
+  to cancel his account and got offered all sorts of discounts to stay.
+date: '2005-08-05'
+source: 'http://nathanpitman.com/384/how-to-cut-your-monthly-ntl-bill'
+archive: >-
+  https://web.archive.org/web/20111010050410/http://nathanpitman.com/384/how-to-cut-your-monthly-ntl-bill
 tags:
-  - "Chatter"
+  - Chatter
+relatedPosts:
+  - slug: ntl-to-penalise-early-broadband-adopters
+    source: generated
+  - slug: customer-service-the-right-way
+    source: generated
+  - slug: the-great-staples-ordercare-scam
+    source: generated
+  - slug: customer-service-bandits
+    source: generated
+  - slug: free-xbox360
+    source: generated
 ---
 
 I read a [post on ntl:hell](http://forums.ntlhell.co.uk/index.php?showtopic=10594) recently about a disatisfied [NTL](http://www.ntl.co.uk/) customer who called to cancel his account and got offered all sorts of discounts to stay.

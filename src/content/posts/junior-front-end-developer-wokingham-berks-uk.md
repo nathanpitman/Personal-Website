@@ -1,11 +1,26 @@
 ---
-title: "Junior Front-end developer - Wokingham, Berks, UK"
-description: "Our digital media team works on a variety of projects including DVD interactive presentations, 3D and animation to large-scale websites and bespoke software..."
-date: 2007-08-08
-source: "http://nathanpitman.com/516/junior-front-end-developer-wokingham-berks-uk"
-archive: "https://web.archive.org/web/20090602145429/http://nathanpitman.com:80/516/junior-front-end-developer-wokingham-berks-uk"
+title: 'Junior Front-end developer - Wokingham, Berks, UK'
+description: >-
+  Our digital media team works on a variety of projects including DVD
+  interactive presentations, 3D and animation to large-scale websites and
+  bespoke software...
+date: '2007-08-08'
+source: 'http://nathanpitman.com/516/junior-front-end-developer-wokingham-berks-uk'
+archive: >-
+  https://web.archive.org/web/20090602145429/http://nathanpitman.com:80/516/junior-front-end-developer-wokingham-berks-uk
 tags:
-  - "Jobs"
+  - Jobs
+relatedPosts:
+  - slug: flash-web-designer-reqd-wokingham-berks-uk
+    source: generated
+  - slug: junior-creative-developer-london-uk
+    source: generated
+  - slug: web-developer-reqd-windsor-berks-uk
+    source: generated
+  - slug: my-employers-are-looking-for-a-new-media-developer
+    source: generated
+  - slug: web-developer-south-east-uk
+    source: generated
 ---
 
 ### Volume is a marketing technology specialist providing creative and sophisticated solutions for well-known corporate clients.

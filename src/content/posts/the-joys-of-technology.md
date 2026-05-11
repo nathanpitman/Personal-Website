@@ -1,11 +1,26 @@
 ---
 title: The joys of technology
-description: "I’ve spent perhaps 7 or 8 hours trying to configure a Belkin Wireless Access point which I bought from PC World a few months back. I was advised that the..."
-date: 2006-01-06
-source: http://nathanpitman.com/436/the-joys-of-technology
-archive: https://web.archive.org/web/20111010030344/http://nathanpitman.com/436/the-joys-of-technology
+description: >-
+  I’ve spent perhaps 7 or 8 hours trying to configure a Belkin Wireless Access
+  point which I bought from PC World a few months back. I was advised that
+  the...
+date: '2006-01-06'
+source: 'http://nathanpitman.com/436/the-joys-of-technology'
+archive: >-
+  https://web.archive.org/web/20111010030344/http://nathanpitman.com/436/the-joys-of-technology
 tags:
-  - "Technology"
+  - Technology
+relatedPosts:
+  - slug: squeezebox
+    source: generated
+  - slug: for-sale-20gb-creative-nomad-jukebox-zen
+    source: generated
+  - slug: the-best-ps200-i-ever-spent
+    source: generated
+  - slug: pc-world-full-of-sales-guys-who-know-nothing
+    source: generated
+  - slug: when-upgrades-turn-bad
+    source: generated
 ---
 
 I’ve spent perhaps 7 or 8 hours trying to configure a Belkin Wireless Access point which I bought from [PC World](http://www.pcworld.co.uk/) a few months back. I was advised that the ‘Bridging Mode’ which this access point had meant that I would be able to attach wired ethernet devices to my Wireless LAN with little fuss. Hmm… not so.

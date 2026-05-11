@@ -1,11 +1,23 @@
 ---
-title: "Junior Creative Developer - London, UK"
-description: "A job posting for a junior creative developer position based in London."
-date: 2007-09-13
-source: "http://nathanpitman.com/519/junior-creative-developer-london-uk"
-archive: "https://web.archive.org/web/20091010114936/http://nathanpitman.com:80/519/junior-creative-developer-london-uk"
+title: 'Junior Creative Developer - London, UK'
+description: A job posting for a junior creative developer position based in London.
+date: '2007-09-13'
+source: 'http://nathanpitman.com/519/junior-creative-developer-london-uk'
+archive: >-
+  https://web.archive.org/web/20091010114936/http://nathanpitman.com:80/519/junior-creative-developer-london-uk
 tags:
-  - "Jobs"
+  - Jobs
+relatedPosts:
+  - slug: web-developer-london-uk
+    source: generated
+  - slug: junior-front-end-developer-wokingham-berks-uk
+    source: generated
+  - slug: my-employers-are-looking-for-a-new-media-developer
+    source: generated
+  - slug: web-developer-south-east-uk
+    source: generated
+  - slug: web-developer-berkshire-uk
+    source: generated
 ---
 
 JPCreative, a successful and busy London based design & communications agency with a 9 year track record in delivering award winning creative solutions are seeking to add to our team with the introduction of a Junior Creative Developer.

@@ -1,12 +1,27 @@
 ---
-title: "Still no real competition for Fireworks"
-description: "With the recent announcement that Adobe will not be providing support for Creative Suite 3 (CS3) in Snow Leopard and my waning belief in Adobe’s ability to..."
-date: 2009-08-26
-source: "http://nathanpitman.com/589/still-no-real-competition-for-fireworks"
-archive: "https://web.archive.org/web/20090829111749/http://nathanpitman.com:80/589/still-no-real-competition-for-fireworks"
+title: Still no real competition for Fireworks
+description: >-
+  With the recent announcement that Adobe will not be providing support for
+  Creative Suite 3 (CS3) in Snow Leopard and my waning belief in Adobe’s ability
+  to...
+date: '2009-08-26'
+source: 'http://nathanpitman.com/589/still-no-real-competition-for-fireworks'
+archive: >-
+  https://web.archive.org/web/20090829111749/http://nathanpitman.com:80/589/still-no-real-competition-for-fireworks
 tags:
-  - "Adobe"
-  - "Fireworks"
+  - Adobe
+  - Fireworks
+relatedPosts:
+  - slug: an-open-letter-to-software-developers-re-adobe-fireworks
+    source: generated
+  - slug: dear-adobe-fireworks-its-not-you-its-me
+    source: generated
+  - slug: team-macromedia-fireworks
+    source: generated
+  - slug: macromedia-fireworks-beta
+    source: generated
+  - slug: goodbye-dear-friend
+    source: generated
 ---
 
 With the recent announcement that Adobe will not be providing support for Creative Suite 3 (CS3) in Snow Leopard and my waning belief in Adobe’s ability to resurrect [Fireworks](http://www.adobe.com/products/fireworks/) my interest in alternatives has again be piqued. Back when I wrote [my open letter](http://nathanpitman.com/567/an-open-letter-to-software-developers-re-adobe-fireworks) to developers asking for someone to step forward and provide us web designers with a current and solid alternative to Fireworks I looked at [Pixelmator](http://www.pixelmator.com/), [Acorn](http://www.flyingmeat.com/acorn/) and [Gimp](http://www.gimp.org/) ([DrawIt](http://www.bohemiancoding.com/drawit/) is also worth checking out).

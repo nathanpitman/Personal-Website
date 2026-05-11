@@ -1,15 +1,31 @@
 ---
-title: "Alternatives to Flash (for animation) are starting to float to the surface"
-description: "As a one time evangelist of Flash it’s interesting to see new tools floating to the surface over the course of the past few months. As browsers become more..."
-date: 2011-06-20
-source: "http://nathanpitman.com/608/alternatives-to-flash-for-animation-are-starting-to-float-to-the-surface"
-archive: "https://web.archive.org/web/20111003003633/http://nathanpitman.com:80/608/alternatives-to-flash-for-animation-are-starting-to-float-to-the-surface"
+title: Alternatives to Flash (for animation) are starting to float to the surface
+description: >-
+  As a one time evangelist of Flash it’s interesting to see new tools floating
+  to the surface over the course of the past few months. As browsers become
+  more...
+date: '2011-06-20'
+source: >-
+  http://nathanpitman.com/608/alternatives-to-flash-for-animation-are-starting-to-float-to-the-surface
+archive: >-
+  https://web.archive.org/web/20111003003633/http://nathanpitman.com:80/608/alternatives-to-flash-for-animation-are-starting-to-float-to-the-surface
 tags:
-  - "Adobe"
-  - "Animation"
-  - "Design"
-  - "Flash"
-  - "Web development"
+  - Adobe
+  - Animation
+  - Design
+  - Flash
+  - Web development
+relatedPosts:
+  - slug: flash-video-kit-announced
+    source: generated
+  - slug: goodbye-dear-friend
+    source: generated
+  - slug: existing-creative-apps-for-designers-are-not-suited-to-today
+    source: generated
+  - slug: god-is-in-the-details
+    source: generated
+  - slug: all-the-rage-animated-favicons
+    source: generated
 ---
 
 As a one time evangelist of Flash it’s interesting to see new tools floating to the surface over the course of the past few months. As browsers become more capable of delivering animation and effects without the need for plug-ins like the Adobe Flash Player I think this market will become increasingly competitive.

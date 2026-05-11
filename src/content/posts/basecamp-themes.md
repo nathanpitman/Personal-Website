@@ -1,12 +1,24 @@
 ---
 title: Basecamp Themes
-description: "Just a couple of Basecamp themes I’ve put together."
-date: 2005-11-17
-source: http://nathanpitman.com/423/basecamp-themes
-archive: https://web.archive.org/web/20090615140727/http://nathanpitman.com:80/423/basecamp-themes
+description: Just a couple of Basecamp themes I’ve put together.
+date: '2005-11-17'
+source: 'http://nathanpitman.com/423/basecamp-themes'
+archive: >-
+  https://web.archive.org/web/20090615140727/http://nathanpitman.com:80/423/basecamp-themes
 tags:
-  - "Design"
-  - "Web applications"
+  - Design
+  - Web applications
+relatedPosts:
+  - slug: hsbc-internet-banking-fail
+    source: generated
+  - slug: footer-fetish
+    source: generated
+  - slug: does-the-kottke-org-re-design-kinda-suck
+    source: generated
+  - slug: existing-creative-apps-for-designers-are-not-suited-to-today
+    source: generated
+  - slug: re-design-step-2-look-feel-concepts
+    source: generated
 ---
 
 Just a couple of [Basecamp](http://basecamphq.com/?referrer=ninefour) themes I’ve put together.

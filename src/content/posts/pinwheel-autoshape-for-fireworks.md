@@ -1,12 +1,24 @@
 ---
 title: ‘Pinwheel’ AutoShape for Fireworks
-description: "Trevor McCauley has released another(again!) new Fireworks AutoShape called..."
-date: 2005-01-04
-source: http://nathanpitman.com/310/pinwheel-autoshape-for-fireworks
-archive: https://web.archive.org/web/20090524010831/http://nathanpitman.com:80/310/pinwheel-autoshape-for-fireworks
+description: Trevor McCauley has released another(again!) new Fireworks AutoShape called...
+date: '2005-01-04'
+source: 'http://nathanpitman.com/310/pinwheel-autoshape-for-fireworks'
+archive: >-
+  https://web.archive.org/web/20090524010831/http://nathanpitman.com:80/310/pinwheel-autoshape-for-fireworks
 tags:
-  - "Extensions"
-  - "Fireworks"
+  - Extensions
+  - Fireworks
+relatedPosts:
+  - slug: inspire-autoshape-for-fireworks
+    source: generated
+  - slug: file-info-autoshape-for-fireworks
+    source: generated
+  - slug: 3d-box-autoshape-for-fireworks
+    source: generated
+  - slug: fireworks-ruler-autoshape
+    source: generated
+  - slug: fireworks-heart-autoshape
+    source: generated
 ---
 
 [Trevor McCauley](http://www.senocular.com/) has released another(again!) new Fireworks AutoShape called ‘“Pinwheel”:http://www.senocular.com/downloads/index.php?subaction=showfull&id=1103905435&archive=&start\_from=&ucat=8&kind=8’.

@@ -1,11 +1,27 @@
 ---
-title: "ExpressionEngine Field Frame Field Type: UK Counties Select"
-description: "Having had a play with the wonderful ExpressionEngine Field Frame extension which Brandon Kelly has authored I felt inclined to port my UK Counties Select..."
-date: 2009-03-23
-source: "http://nathanpitman.com/577/expressionengine-field-frame-field-type-uk-counties-select"
-archive: "https://web.archive.org/web/20090518024059/http://nathanpitman.com:80/577/expressionengine-field-frame-field-type-uk-counties-select"
+title: 'ExpressionEngine Field Frame Field Type: UK Counties Select'
+description: >-
+  Having had a play with the wonderful ExpressionEngine Field Frame extension
+  which Brandon Kelly has authored I felt inclined to port my UK Counties
+  Select...
+date: '2009-03-23'
+source: >-
+  http://nathanpitman.com/577/expressionengine-field-frame-field-type-uk-counties-select
+archive: >-
+  https://web.archive.org/web/20090518024059/http://nathanpitman.com:80/577/expressionengine-field-frame-field-type-uk-counties-select
 tags:
-  - "ExpressionEngine"
+  - ExpressionEngine
+relatedPosts:
+  - slug: expressionengine-plug-in-uk-counties-select
+    source: generated
+  - slug: expressionengine-plug-in-us-states-select
+    source: generated
+  - slug: expressionengine-extension-noscript-messages
+    source: generated
+  - slug: expressionengine-plug-in-add-vat
+    source: generated
+  - slug: expressionengine-plug-in-member-online
+    source: generated
 ---
 
 Having had a play with the wonderful [ExpressionEngine](http://www.expressionengine.com/index.php?affiliate=nathanpitman) [Field Frame](http://wiki.github.com/brandonkelly/bk.fieldframe.ee_addon) extension which Brandon Kelly has authored I felt inclined to port my [UK Counties Select Plug-in](/web/20090518024059/http://nathanpitman.com/journal/561/expressionengine-plug-in-uk-counties-select). Once I can get my head round the reasons for GitHub not working as expected I’ll post it there, in the mean time:

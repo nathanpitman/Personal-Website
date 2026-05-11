@@ -1,11 +1,25 @@
 ---
-title: Setting up a LAMP server, Part 1.
-description: "Step-by-step guide to setting up a Debian LAMP server, covering remote SSH administration and making the box visible on a Windows home network."
-date: 2005-06-22
-source: http://nathanpitman.com/368/setting-up-a-lamp-server-part-1
-archive: https://web.archive.org/web/20090527121350/http://nathanpitman.com:80/368/Setting-up-a-LAMP-server-Part-1
+title: 'Setting up a LAMP server, Part 1.'
+description: >-
+  Step-by-step guide to setting up a Debian LAMP server, covering remote SSH
+  administration and making the box visible on a Windows home network.
+date: '2005-06-22'
+source: 'http://nathanpitman.com/368/setting-up-a-lamp-server-part-1'
+archive: >-
+  https://web.archive.org/web/20090527121350/http://nathanpitman.com:80/368/Setting-up-a-LAMP-server-Part-1
 tags:
-  - "Web development"
+  - Web development
+relatedPosts:
+  - slug: linux-virgin-no-more
+    source: generated
+  - slug: ubuntu-ubuntu-they-drink-it-in-the-congo
+    source: generated
+  - slug: linux-virgin
+    source: generated
+  - slug: mark-of-the-web-or-why-ie6-sucks
+    source: generated
+  - slug: drafty
+    source: generated
 ---
 
 Here and there I’ve been finding time to continue with my [Debian](http://www.debian.org/) install. I have the most basic of installs finished and so over the past few days I’ve been adding some ingredients of my own to make this install even more scrummy.

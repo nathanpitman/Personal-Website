@@ -1,13 +1,26 @@
 ---
 slug: scratching-the-itch-to-build-a-game
 title: Scratching the itch to build a game
-date: 2026-04-11
-description: From BBC Micro to browser - how nostalgia for text adventures, a
-  dog-eared Ken Williams memoir, and some late-night Replit sessions led to a
-  mobile-friendly port of Colossal Cave Adventure, built entirely on iOS.
+date: '2026-04-11'
+description: >-
+  From BBC Micro to browser - how nostalgia for text adventures, a dog-eared Ken
+  Williams memoir, and some late-night Replit sessions led to a mobile-friendly
+  port of Colossal Cave Adventure, built entirely on iOS.
 tags:
   - Games
   - AI
+relatedPosts:
+  - slug: energy-economy-in-open-transport-tycoon-deluxe
+    source: generated
+  - slug: >-
+      back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark
+    source: generated
+  - slug: rediscovering-making-things
+    source: generated
+  - slug: must-have-add-ons-for-any-new-eecms-project
+    source: generated
+  - slug: my-thoughts-on-apple-tv-apps
+    source: generated
 ---
 
 Like many of you reading this, I grew up on computers. My earliest memories are of a BBC Micro which we had plugged into our CRT TV in the lounge, loading Elite from a tape drive, and hoping it didn't fail ten minutes in. Typing game code out from magazines line by line... only to discover I'd made a typo.

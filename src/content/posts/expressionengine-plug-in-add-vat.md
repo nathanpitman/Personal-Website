@@ -1,11 +1,26 @@
 ---
-title: "ExpressionEngine Plug-in: Add VAT"
-description: "I’ve just written a new ExpressionEngine plug-in called ‘Add VAT‘. This plug-in takes any numeric value and returns the value plus VAT. You also have to..."
-date: 2009-01-08
-source: "http://nathanpitman.com/564/expressionengine-plug-in-add-vat"
-archive: "https://web.archive.org/web/20090518024300/http://nathanpitman.com:80/564/expressionengine-plug-in-add-vat"
+title: 'ExpressionEngine Plug-in: Add VAT'
+description: >-
+  I’ve just written a new ExpressionEngine plug-in called ‘Add VAT‘. This
+  plug-in takes any numeric value and returns the value plus VAT. You also have
+  to...
+date: '2009-01-08'
+source: 'http://nathanpitman.com/564/expressionengine-plug-in-add-vat'
+archive: >-
+  https://web.archive.org/web/20090518024300/http://nathanpitman.com:80/564/expressionengine-plug-in-add-vat
 tags:
-  - "ExpressionEngine"
+  - ExpressionEngine
+relatedPosts:
+  - slug: expressionengine-plug-in-member-online
+    source: generated
+  - slug: expressionengine-plug-in-encode-decode
+    source: generated
+  - slug: expressionengine-plug-in-us-states-select
+    source: generated
+  - slug: expressionengine-plug-in-link-target
+    source: generated
+  - slug: expressionengine-plug-in-uk-counties-select
+    source: generated
 ---
 
 I’ve just written a new [ExpressionEngine](http://www.expressionengine.com/index.php?affiliate=nathanpitman) plug-in called ‘**Add VAT**‘. This plug-in takes any numeric value and returns the value plus VAT. You also have to specify the VAT rate obviously.

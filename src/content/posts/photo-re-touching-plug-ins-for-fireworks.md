@@ -1,12 +1,26 @@
 ---
 title: Photo re-touching plug-ins for Fireworks
-description: "Jan Esmann is an artist who has written a collection of photo editing and restoration plug-ins for Fireworks. Plug-ins include:"
-date: 2004-10-02
-source: http://nathanpitman.com/210/photo-re-touching-plug-ins-for-fireworks
-archive: https://web.archive.org/web/20100106231704/http://nathanpitman.com:80/210/photo-re-touching-plug-ins-for-fireworks
+description: >-
+  Jan Esmann is an artist who has written a collection of photo editing and
+  restoration plug-ins for Fireworks. Plug-ins include:
+date: '2004-10-02'
+source: 'http://nathanpitman.com/210/photo-re-touching-plug-ins-for-fireworks'
+archive: >-
+  https://web.archive.org/web/20100106231704/http://nathanpitman.com:80/210/photo-re-touching-plug-ins-for-fireworks
 tags:
-  - "Extensions"
-  - "Fireworks"
+  - Extensions
+  - Fireworks
+relatedPosts:
+  - slug: resources-for-extending-fireworks
+    source: generated
+  - slug: new-fireworks-color-palette-panel
+    source: generated
+  - slug: orb-autoshape-for-fireworks
+    source: generated
+  - slug: extending-fireworks
+    source: generated
+  - slug: fireworks-remote-procedure-calls
+    source: generated
 ---
 
 Jan Esmann is an artist who has written [a collection of photo editing and restoration plug-ins for Fireworks](http://www.powerretouche.com/Fireworks_plugins.htm). Plug-ins include:

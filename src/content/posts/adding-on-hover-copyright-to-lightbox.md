@@ -1,11 +1,26 @@
 ---
 title: Adding on hover copyright to Lightbox
-description: "I’ve been using Lightbox by Lokesh Dakar on a current project and needed to add a simple copyright message on hover just to remind those nice users that..."
-date: 2006-02-13
-source: http://nathanpitman.com/447/adding-on-hover-copyright-to-lightbox
-archive: https://web.archive.org/web/20090522044029/http://nathanpitman.com:80/447/adding-on-hover-copyright-to-lightbox
+description: >-
+  I’ve been using Lightbox by Lokesh Dakar on a current project and needed to
+  add a simple copyright message on hover just to remind those nice users
+  that...
+date: '2006-02-13'
+source: 'http://nathanpitman.com/447/adding-on-hover-copyright-to-lightbox'
+archive: >-
+  https://web.archive.org/web/20090522044029/http://nathanpitman.com:80/447/adding-on-hover-copyright-to-lightbox
 tags:
-  - "Code"
+  - Code
+relatedPosts:
+  - slug: adding-geographical-tags-to-your-website
+    source: generated
+  - slug: 3d-css-box-model
+    source: generated
+  - slug: if-you-just-smile
+    source: generated
+  - slug: styling-horizontal-rules-with-css
+    source: generated
+  - slug: browsing-xml-with-flash
+    source: generated
 ---
 
 I’ve been using [Lightbox](http://www.huddletogether.com/projects/lightbox/) by [Lokesh Dakar](http://www.huddletogether.com/) on a current project and needed to add a simple copyright message on hover just to remind those nice users that they really shouldn’t simply rip my client off by printing little snap shots directly from his website.

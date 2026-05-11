@@ -1,11 +1,25 @@
 ---
-title: "Looking for a LAMP web app dev"
-description: "Hey there. Over at Nine Four we’re looking for a freelance developer to work with us in deploying and developing our simple intranet software;..."
-date: 2007-03-09
-source: "http://nathanpitman.com/500/looking-for-a-lamp-web-app-dev"
-archive: "https://web.archive.org/web/20100106205055/http://nathanpitman.com:80/500/looking-for-a-lamp-web-app-dev"
+title: Looking for a LAMP web app dev
+description: >-
+  Hey there. Over at Nine Four we’re looking for a freelance developer to work
+  with us in deploying and developing our simple intranet software;...
+date: '2007-03-09'
+source: 'http://nathanpitman.com/500/looking-for-a-lamp-web-app-dev'
+archive: >-
+  https://web.archive.org/web/20100106205055/http://nathanpitman.com:80/500/looking-for-a-lamp-web-app-dev
 tags:
-  - "Jobs"
+  - Jobs
+relatedPosts:
+  - slug: web-dev-rqd-dorking-surrey-uk
+    source: generated
+  - slug: web-dev-reqd-reading-berkshire-uk
+    source: generated
+  - slug: web-developer-berkshire-uk
+    source: generated
+  - slug: looking-for-asp-developers
+    source: generated
+  - slug: 2-freelance-web-devs-rqd
+    source: generated
 ---
 
 Hey there. Over at [Nine Four](http://www.ninefour.co.uk/) we’re looking for a freelance developer to work with us in deploying and developing our simple intranet software; ‘“coACT”:http://coact.ninefour.co.uk’.

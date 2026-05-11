@@ -1,11 +1,23 @@
 ---
-title: 10 questions, the tables turned
-description: "Paul Farnell writes:"
-date: 2006-01-18
-source: http://nathanpitman.com/444/10-questions-the-tables-turned
-archive: https://web.archive.org/web/20091231065802/http://nathanpitman.com:80/444/10-questions-the-tables-turned
+title: '10 questions, the tables turned'
+description: 'Paul Farnell writes:'
+date: '2006-01-18'
+source: 'http://nathanpitman.com/444/10-questions-the-tables-turned'
+archive: >-
+  https://web.archive.org/web/20091231065802/http://nathanpitman.com:80/444/10-questions-the-tables-turned
 tags:
-  - "Employment"
+  - Employment
+relatedPosts:
+  - slug: 10-questions-for-paul-farnell-going-it-alone
+    source: generated
+  - slug: 10-questions-for-jon-hicks-going-it-alone
+    source: generated
+  - slug: 10-questions-for-david-longworth-going-it-alone
+    source: generated
+  - slug: 10-questions-for-john-oxton-going-it-alone
+    source: generated
+  - slug: 10-questions-for-darren-miller-going-it-alone
+    source: generated
 ---
 
 **Paul Farnell writes:**

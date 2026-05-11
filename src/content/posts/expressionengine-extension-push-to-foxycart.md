@@ -1,11 +1,25 @@
 ---
-title: "ExpressionEngine Extension: Push to FoxyCart"
-description: "Announcing a custom ExpressionEngine extension for integrating with FoxyCart e-commerce."
-date: 2010-03-04
-source: "http://nathanpitman.com/596/expressionengine-extension-push-to-foxycart"
-archive: "https://web.archive.org/web/20100307023931/http://nathanpitman.com:80/596/expressionengine-extension-push-to-foxycart"
+title: 'ExpressionEngine Extension: Push to FoxyCart'
+description: >-
+  Announcing a custom ExpressionEngine extension for integrating with FoxyCart
+  e-commerce.
+date: '2010-03-04'
+source: 'http://nathanpitman.com/596/expressionengine-extension-push-to-foxycart'
+archive: >-
+  https://web.archive.org/web/20100307023931/http://nathanpitman.com:80/596/expressionengine-extension-push-to-foxycart
 tags:
-  - "ExpressionEngine"
+  - ExpressionEngine
+relatedPosts:
+  - slug: expressionengine-extension-noscript-messages
+    source: generated
+  - slug: expressionengine-plug-in-member-online
+    source: generated
+  - slug: hiding-the-solspace-tag-tab-for-certain-weblogs-in-expressio
+    source: generated
+  - slug: why-choose-expressionengine
+    source: generated
+  - slug: expressionengine-mug
+    source: generated
 ---
 
 While working on a project recently with the [FoxEE](http://www.hccdevelopment.com/Web-Based-Software/Product/FoxEE/) E-commerce module for ExpressionEngine we discovered that it doesn’t integrate at all well with the [Solspace User Module](http://www.solspace.com/software/detail/user/). This is understandable because the Solspace User Module circumvents the standard process for user registration and profile updates in ExpressionEngine. The upshot of this is that you simply ‘cannot’ make single sign on with FoxyCart work with FoxEE if your users are registering or updating their profile using the Solspace User Module. Now this is a bit of a problem since pretty much any E-commerce site built on ExpressionEngine will be using the Solspace User Module to allow users to easily manage their account details etc.

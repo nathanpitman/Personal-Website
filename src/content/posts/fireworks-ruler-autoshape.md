@@ -1,12 +1,27 @@
 ---
 title: Fireworks ‘Ruler’ AutoShape
-description: "Senocular has written another clever little AutoShape for Fireworks, but this time it behaves more like a utility. The Ruler AutoShape allows you to measure..."
-date: 2004-09-20
-source: http://nathanpitman.com/247/fireworks-ruler-autoshape
-archive: https://web.archive.org/web/20100117023629/http://nathanpitman.com:80/247/fireworks-ruler-autoshape
+description: >-
+  Senocular has written another clever little AutoShape for Fireworks, but this
+  time it behaves more like a utility. The Ruler AutoShape allows you to
+  measure...
+date: '2004-09-20'
+source: 'http://nathanpitman.com/247/fireworks-ruler-autoshape'
+archive: >-
+  https://web.archive.org/web/20100117023629/http://nathanpitman.com:80/247/fireworks-ruler-autoshape
 tags:
-  - "Extensions"
-  - "Fireworks"
+  - Extensions
+  - Fireworks
+relatedPosts:
+  - slug: inspire-autoshape-for-fireworks
+    source: generated
+  - slug: 3d-box-autoshape-for-fireworks
+    source: generated
+  - slug: file-info-autoshape-for-fireworks
+    source: generated
+  - slug: fireworks-heart-autoshape
+    source: generated
+  - slug: pinwheel-autoshape-for-fireworks
+    source: generated
 ---
 
 Senocular has written another clever little AutoShape for Fireworks, but this time it behaves more like a utility. The [Ruler AutoShape](http://www.senocular.com/downloads/index.php?subaction=showfull&id=1095597446&archive=&start_from=&ucat=8&kind=8) allows you to measure lengths and angles across your document. Very neat.

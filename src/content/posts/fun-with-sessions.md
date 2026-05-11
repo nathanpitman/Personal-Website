@@ -1,11 +1,26 @@
 ---
 title: Fun with Sessions!
-description: "Drew and I have been having some fun with session variables on PHP for Windows. Intermitent success would be a good description of the situation. Check out..."
-date: 2003-12-04
-source: http://nathanpitman.com/8/fun-with-sessions
-archive: https://web.archive.org/web/20111009201243/http://nathanpitman.com/8/fun-with-sessions
+description: >-
+  Drew and I have been having some fun with session variables on PHP for
+  Windows. Intermitent success would be a good description of the situation.
+  Check out...
+date: '2003-12-04'
+source: 'http://nathanpitman.com/8/fun-with-sessions'
+archive: >-
+  https://web.archive.org/web/20111009201243/http://nathanpitman.com/8/fun-with-sessions
 tags:
-  - "Code"
+  - Code
+relatedPosts:
+  - slug: textpattern-plugins
+    source: generated
+  - slug: let-devs-prefix-your-expressionengine-variables-with-a-custo
+    source: generated
+  - slug: something-weird-with-php-includes
+    source: generated
+  - slug: new-tricks-with-textile
+    source: generated
+  - slug: drop-shadows-are-in
+    source: generated
 ---
 
 [Drew](http://www.allinthehead.com/) and I have been having some fun with session variables on PHP for Windows. Intermitent success would be a good description of the situation. [Check out Drews post on the subject…](http://www.allinthehead.com/retro/143/)

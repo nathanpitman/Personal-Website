@@ -1,0 +1,22 @@
+---
+import { getEntry } from 'astro:content';
+
+const entry = await getEntry('recommended', 'links');
+const items = (entry?.data ?? []).filter(item => !item.hidden);
+---
+
+{items.length > 0 && (
+  <div class="sidebar-block">
+    <div class="sidebar-block-header">
+      <span class="sidebar-block-title">Recommended Reading</span>
+    </div>
+    <ul class="sidebar-list">
+      {items.map(item => (
+        <li>
+          <a href={item.url} target="_blank" rel="noopener noreferrer">{item.title}</a>
+          <p class="who-text" style="margin: 2px 0 0;">{item.description}</p>
+        </li>
+      ))}
+    </ul>
+  </div>
+)}

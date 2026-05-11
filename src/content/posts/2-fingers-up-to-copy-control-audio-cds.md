@@ -1,11 +1,26 @@
 ---
 title: 2 fingers up to Copy Control Audio CDs
-description: "I recently bought an audio CD only to discover that because of the ‘copy control’ features on the disc, the CD refused to play on my ‘standard’ car CD..."
-date: 2004-03-29
-source: http://nathanpitman.com/34/2-fingers-up-to-copy-control-audio-cds
-archive: https://web.archive.org/web/20100113090704/http://nathanpitman.com:80/34/2-fingers-up-to-copy-control-audio-cds
+description: >-
+  I recently bought an audio CD only to discover that because of the ‘copy
+  control’ features on the disc, the CD refused to play on my ‘standard’ car
+  CD...
+date: '2004-03-29'
+source: 'http://nathanpitman.com/34/2-fingers-up-to-copy-control-audio-cds'
+archive: >-
+  https://web.archive.org/web/20100113090704/http://nathanpitman.com:80/34/2-fingers-up-to-copy-control-audio-cds
 tags:
-  - "Personal"
+  - Personal
+relatedPosts:
+  - slug: 2-fingers-up-to-copy-control-audio-cds-again
+    source: generated
+  - slug: squeezebox
+    source: generated
+  - slug: whatever-you-do-dont-buy-a-kia-sedona
+    source: generated
+  - slug: the-best-ps200-i-ever-spent
+    source: generated
+  - slug: kia-reliability
+    source: generated
 ---
 
 I recently bought an audio CD only to discover that because of the ‘copy control’ features on the disc, the CD refused to play on my ‘standard’ car CD player. To begin with I thought there was something wrong with the player.

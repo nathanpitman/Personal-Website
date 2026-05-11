@@ -1,12 +1,26 @@
 ---
-title: "Demise of the Kia Sedona"
-description: "It’s some time since we waved goodbye to the awful unreliable lump that was our Kia Sedona and back in 2009 I set myself the target of denying Kia Â£1..."
-date: 2011-02-21
-source: "http://nathanpitman.com/605/demise-of-the-kia-sedona"
-archive: "https://web.archive.org/web/20110404105427/http://nathanpitman.com:80/605/demise-of-the-kia-sedona"
+title: Demise of the Kia Sedona
+description: >-
+  It’s some time since we waved goodbye to the awful unreliable lump that was
+  our Kia Sedona and back in 2009 I set myself the target of denying Kia Â£1...
+date: '2011-02-21'
+source: 'http://nathanpitman.com/605/demise-of-the-kia-sedona'
+archive: >-
+  https://web.archive.org/web/20110404105427/http://nathanpitman.com:80/605/demise-of-the-kia-sedona
 tags:
-  - "Personal"
-  - "Cars"
+  - Personal
+  - Cars
+relatedPosts:
+  - slug: whatever-you-do-dont-buy-a-kia-sedona
+    source: generated
+  - slug: kia-reliability
+    source: generated
+  - slug: dont-let-the-door-hit-you-on-the-way-out
+    source: generated
+  - slug: my-car-for-sale-toyota-mr2-roadster
+    source: generated
+  - slug: goodbye-youth-hello-responsibility
+    source: generated
 ---
 
 It’s some time since we waved goodbye to the awful unreliable lump that was our [Kia Sedona](http://www.kia.co.uk/sedonahome.asp) and back in 2009 I set myself the target of denying Kia Â£1 million in car sales to repay them for their glorious customer service ethos.

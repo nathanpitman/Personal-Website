@@ -1,12 +1,26 @@
 ---
-title: "Linerider Jumps the Shark"
-description: "Seems there’s been a lot of buzz about this little game on the web, I’ve been a little late to give it a try but now I have, I’m totally addicted. It’s a..."
-date: 2006-10-12
-source: "http://nathanpitman.com/490/linerider-jumps-the-shark"
-archive: "https://web.archive.org/web/20091231021554/http://nathanpitman.com:80/490/linerider-jumps-the-shark"
+title: Linerider Jumps the Shark
+description: >-
+  Seems there’s been a lot of buzz about this little game on the web, I’ve been
+  a little late to give it a try but now I have, I’m totally addicted. It’s a...
+date: '2006-10-12'
+source: 'http://nathanpitman.com/490/linerider-jumps-the-shark'
+archive: >-
+  https://web.archive.org/web/20091231021554/http://nathanpitman.com:80/490/linerider-jumps-the-shark
 tags:
-  - "Chatter"
-  - "Flash"
+  - Chatter
+  - Flash
+relatedPosts:
+  - slug: when-flash-is-good
+    source: generated
+  - slug: calling-all-freelance-flash-developers
+    source: generated
+  - slug: another-flash-patch-ellipsis
+    source: generated
+  - slug: flash-video-kit-announced
+    source: generated
+  - slug: the-great-staples-ordercare-scam
+    source: generated
 ---
 
 Seems there’s been a lot of buzz about [this little game](http://www.deviantart.com/deviation/40255643/) on the web, I’ve been a little late to give it a try but now I have, I’m totally addicted. It’s a ‘simple’(?) Flash based game where the objective is to ‘draw’ a course for the ‘Line Rider’ to ride (ahem).

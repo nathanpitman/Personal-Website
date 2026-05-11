@@ -1,12 +1,26 @@
 ---
 title: ‘3D Box’ AutoShape for Fireworks
-description: "Senocular (Trevor McCauley) has been busy again and this weekend posted another Fireworks MX 2004 AutoShape to his site."
-date: 2004-09-27
-source: http://nathanpitman.com/259/3d-box-autoshape-for-fireworks
-archive: https://web.archive.org/web/20090603224053/http://nathanpitman.com:80/259/3d-box-autoshape-for-fireworks
+description: >-
+  Senocular (Trevor McCauley) has been busy again and this weekend posted
+  another Fireworks MX 2004 AutoShape to his site.
+date: '2004-09-27'
+source: 'http://nathanpitman.com/259/3d-box-autoshape-for-fireworks'
+archive: >-
+  https://web.archive.org/web/20090603224053/http://nathanpitman.com:80/259/3d-box-autoshape-for-fireworks
 tags:
-  - "Extensions"
-  - "Fireworks"
+  - Extensions
+  - Fireworks
+relatedPosts:
+  - slug: inspire-autoshape-for-fireworks
+    source: generated
+  - slug: fireworks-ruler-autoshape
+    source: generated
+  - slug: fireworks-heart-autoshape
+    source: generated
+  - slug: pinwheel-autoshape-for-fireworks
+    source: generated
+  - slug: file-info-autoshape-for-fireworks
+    source: generated
 ---
 
 [Senocular](http://www.senocular.com/) (Trevor McCauley) has been busy again and this weekend posted another Fireworks MX 2004 AutoShape to his site.

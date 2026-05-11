@@ -1,11 +1,26 @@
 ---
-title: "Developing for tomorrows web"
-description: "More often than not I find myself building websites with the outlook of developing for ‘the here and now’, taking into account the browsers that we are..."
-date: 2008-06-25
-source: "http://nathanpitman.com/537/developing-for-tomorrows-web"
-archive: "https://web.archive.org/web/20100113051117/http://nathanpitman.com:80/537/developing-for-tomorrows-web"
+title: Developing for tomorrows web
+description: >-
+  More often than not I find myself building websites with the outlook of
+  developing for ‘the here and now’, taking into account the browsers that we
+  are...
+date: '2008-06-25'
+source: 'http://nathanpitman.com/537/developing-for-tomorrows-web'
+archive: >-
+  https://web.archive.org/web/20100113051117/http://nathanpitman.com:80/537/developing-for-tomorrows-web
 tags:
-  - "Web development"
+  - Web development
+relatedPosts:
+  - slug: mark-of-the-web-or-why-ie6-sucks
+    source: generated
+  - slug: web-developer-required-berkshire-uk
+    source: generated
+  - slug: web-standards-who-cares-anyway
+    source: generated
+  - slug: what-browsers-do-you-develop-for
+    source: generated
+  - slug: sitevista-review
+    source: generated
 ---
 
 More often than not I find myself building websites with the outlook of developing for ‘the here and now’, taking into account the browsers that we are using *today* and also those which we were using yesterday (Please stand up IE6)!

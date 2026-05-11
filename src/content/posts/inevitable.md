@@ -1,12 +1,28 @@
 ---
-title: "Inevitable?"
-description: "I guess it was inevitable that at some point my desire to keep blogging here would start to falter. The 7th of June will not only mark 4 years of married..."
-date: 2006-06-02
-source: "http://nathanpitman.com/474/inevitable"
-archive: "https://web.archive.org/web/20091220115724/http://nathanpitman.com:80/474/inevitable"
+title: Inevitable?
+description: >-
+  I guess it was inevitable that at some point my desire to keep blogging here
+  would start to falter. The 7th of June will not only mark 4 years of
+  married...
+date: '2006-06-02'
+source: 'http://nathanpitman.com/474/inevitable'
+archive: >-
+  https://web.archive.org/web/20091220115724/http://nathanpitman.com:80/474/inevitable
 tags:
-  - "Blogging"
-  - "Personal"
+  - Blogging
+  - Personal
+relatedPosts:
+  - slug: its-not-you-its-me
+    source: generated
+  - slug: should-i-blog-this
+    source: generated
+  - slug: >-
+      back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark
+    source: generated
+  - slug: halfway-between-the-gutter-and-the-stars
+    source: generated
+  - slug: all-change
+    source: generated
 ---
 
 I guess it was inevitable that at some point my desire to keep blogging here would start to falter. The 7th of June will not only mark 4 years of [married life](http://nathanpitman.com/journal/147/), but also 4 years of blogging at nathanpitman.com.

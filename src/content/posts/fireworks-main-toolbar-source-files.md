@@ -1,12 +1,26 @@
 ---
 title: Fireworks ‘Main Toolbar’ Source Files
-description: "I’ve made the source files for my Fireworks ‘Main Toolbar’ command panel available to download."
-date: 2004-09-15
-source: http://nathanpitman.com/244/fireworks-main-toolbar-source-files
-archive: https://web.archive.org/web/20100117030139/http://nathanpitman.com:80/244/fireworks-main-toolbar-source-files
+description: >-
+  I’ve made the source files for my Fireworks ‘Main Toolbar’ command panel
+  available to download.
+date: '2004-09-15'
+source: 'http://nathanpitman.com/244/fireworks-main-toolbar-source-files'
+archive: >-
+  https://web.archive.org/web/20100117030139/http://nathanpitman.com:80/244/fireworks-main-toolbar-source-files
 tags:
-  - "Extensions"
-  - "Fireworks"
+  - Extensions
+  - Fireworks
+relatedPosts:
+  - slug: fireworks-main-toolbar-command-panel
+    source: generated
+  - slug: fireworks-main-toolbar-command-panel-progress
+    source: generated
+  - slug: source-code-for-my-fireworks-extensions
+    source: generated
+  - slug: new-fireworks-command-panel-calculator
+    source: generated
+  - slug: creating-advanced-custom-fireworks-panels
+    source: generated
 ---
 
 I’ve made the [source files](http://www.nathanpitman.com/source/fireworks_extensions.php?id=217) for my Fireworks ‘Main Toolbar’ command panel available to download.

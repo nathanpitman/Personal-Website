@@ -1,11 +1,27 @@
 ---
 title: Re-writing history
-description: "Tackling this re-design has prompted me to consider dropping some of the older less valuable posts from the site, many of these originate from the days when..."
-date: 2005-05-17
-source: http://nathanpitman.com/351/re-writing-history
-archive: https://web.archive.org/web/20090924123211/http://nathanpitman.com:80/351/re-writing-history
+description: >-
+  Tackling this re-design has prompted me to consider dropping some of the older
+  less valuable posts from the site, many of these originate from the days
+  when...
+date: '2005-05-17'
+source: 'http://nathanpitman.com/351/re-writing-history'
+archive: >-
+  https://web.archive.org/web/20090924123211/http://nathanpitman.com:80/351/re-writing-history
 tags:
-  - "This website"
+  - This website
+relatedPosts:
+  - slug: >-
+      back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark
+    source: generated
+  - slug: drafty
+    source: generated
+  - slug: listen-to-me-talkr-kinda
+    source: generated
+  - slug: bah-its-ghastly
+    source: generated
+  - slug: why-is-it-taking-so-long
+    source: generated
 ---
 
 Tackling [this re-design](http://nathanpitman.com/journal/338/re-design-step-3-er-start-again) has prompted me to consider dropping some of the older less valuable posts from the site, many of these originate from the days when I used a totally different domain name and had a tatty little hand written CMS cooked up with ASP and Microsoft Access (urgh!).

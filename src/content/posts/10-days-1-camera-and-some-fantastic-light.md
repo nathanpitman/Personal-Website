@@ -1,12 +1,26 @@
 ---
-title: 10 days, 1 Camera and some fantastic light
-description: "10 days in the South of France, one Digital Camera and some fantastic light. View the blurry results for yourself."
-date: 2002-09-14
-source: http://nathanpitman.com/131/10-days-1-camera-and-some-fantastic-light
-archive: https://web.archive.org/web/20090527052718/http://nathanpitman.com:80/131/10-days-1-camera-and-some-fantastic-light
+title: '10 days, 1 Camera and some fantastic light'
+description: >-
+  10 days in the South of France, one Digital Camera and some fantastic light.
+  View the blurry results for yourself.
+date: '2002-09-14'
+source: 'http://nathanpitman.com/131/10-days-1-camera-and-some-fantastic-light'
+archive: >-
+  https://web.archive.org/web/20090527052718/http://nathanpitman.com:80/131/10-days-1-camera-and-some-fantastic-light
 tags:
-  - "Personal"
-  - "Photography"
+  - Personal
+  - Photography
+relatedPosts:
+  - slug: in-da-hood
+    source: generated
+  - slug: witness-my-grizzled-visage
+    source: generated
+  - slug: splash-video
+    source: generated
+  - slug: a9-debut
+    source: generated
+  - slug: best-no-spam-message
+    source: generated
 ---
 
 10 days in the South of France, one Digital Camera and some fantastic light. [View the blurry results for yourself](http://www.flickr.com/photos/99005412@N00/sets/235377/show/).

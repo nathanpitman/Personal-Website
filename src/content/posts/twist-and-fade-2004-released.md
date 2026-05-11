@@ -1,12 +1,26 @@
 ---
 title: Twist and Fade 2004 released
-description: "Steven Grosvenor has finished work on his new ‘Twist and Fade’ command for Fireworks MX 2004."
-date: 2004-10-19
-source: http://nathanpitman.com/268/twist-and-fade-2004-released
-archive: https://web.archive.org/web/20100104182339/http://nathanpitman.com:80/268/twist-and-fade-2004-released
+description: >-
+  Steven Grosvenor has finished work on his new ‘Twist and Fade’ command for
+  Fireworks MX 2004.
+date: '2004-10-19'
+source: 'http://nathanpitman.com/268/twist-and-fade-2004-released'
+archive: >-
+  https://web.archive.org/web/20100104182339/http://nathanpitman.com:80/268/twist-and-fade-2004-released
 tags:
-  - "Extensions"
-  - "Fireworks"
+  - Extensions
+  - Fireworks
+relatedPosts:
+  - slug: twist-and-fade-2004-sneak-peek
+    source: generated
+  - slug: kleanthis-has-released-a-set-of-4-new-fireworks-mx-extension
+    source: generated
+  - slug: new-phireworx-commands-on-the-way
+    source: generated
+  - slug: phireworx-release-shapeshifter-set-2-for-fireworks-mx
+    source: generated
+  - slug: phireworx-batch-resizer
+    source: generated
 ---
 
 [Steven Grosvenor](http://www.phireworx.com/) has finished work on his new ‘Twist and Fade’ command for Fireworks MX 2004.

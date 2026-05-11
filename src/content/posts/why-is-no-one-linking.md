@@ -1,11 +1,25 @@
 ---
-title: "Why is no one linking?"
-description: "Ok, this ones been bubbling for some time now but today it’s boiled over. I’ve had it with news sites which (missing the point of the internet entirely)..."
-date: 2007-05-10
-source: "http://nathanpitman.com/506/why-is-no-one-linking"
-archive: "https://web.archive.org/web/20100329135233/http://nathanpitman.com:80/506/why-is-no-one-linking"
+title: Why is no one linking?
+description: >-
+  Ok, this ones been bubbling for some time now but today it’s boiled over. I’ve
+  had it with news sites which (missing the point of the internet entirely)...
+date: '2007-05-10'
+source: 'http://nathanpitman.com/506/why-is-no-one-linking'
+archive: >-
+  https://web.archive.org/web/20100329135233/http://nathanpitman.com:80/506/why-is-no-one-linking
 tags:
-  - "Chatter"
+  - Chatter
+relatedPosts:
+  - slug: one-day-soon-os-x-will-be-free
+    source: generated
+  - slug: customer-service-the-right-way
+    source: generated
+  - slug: ntl-to-penalise-early-broadband-adopters
+    source: generated
+  - slug: free-xbox360
+    source: generated
+  - slug: the-great-staples-ordercare-scam
+    source: generated
 ---
 
 Ok, this ones been bubbling for some time now but today it’s boiled over. **I’ve had it** with news sites which (missing the point of the internet entirely) fail to provide inline links to relevant websites.

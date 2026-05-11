@@ -1,11 +1,25 @@
 ---
-title: "XHTML/CSS Contract - Southampton, UK"
-description: "Premier .it have an urgent requirement for an XHTML/CSS Guru to work for a fantastic company based in Southampton, UK."
-date: 2007-06-12
-source: "http://nathanpitman.com/510/xhtml-css-contract-southampton-uk"
-archive: "https://web.archive.org/web/20090823041938/http://nathanpitman.com:80/510/xhtml-css-contract-southampton-uk"
+title: 'XHTML/CSS Contract - Southampton, UK'
+description: >-
+  Premier .it have an urgent requirement for an XHTML/CSS Guru to work for a
+  fantastic company based in Southampton, UK.
+date: '2007-06-12'
+source: 'http://nathanpitman.com/510/xhtml-css-contract-southampton-uk'
+archive: >-
+  https://web.archive.org/web/20090823041938/http://nathanpitman.com:80/510/xhtml-css-contract-southampton-uk
 tags:
-  - "Jobs"
+  - Jobs
+relatedPosts:
+  - slug: web-developer-reqd-windsor-berks-uk
+    source: generated
+  - slug: 2-freelance-web-devs-rqd
+    source: generated
+  - slug: 2-x-web-developers-berkshire-uk
+    source: generated
+  - slug: web-developer-london-uk
+    source: generated
+  - slug: web-dev-reqd-reading-berkshire-uk
+    source: generated
 ---
 
 [Premier .it](http://www.premiergroupuk.com/) have an urgent requirement for an XHTML/CSS Guru to work for a fantastic company based in Southampton, UK.

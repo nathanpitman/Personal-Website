@@ -1,11 +1,26 @@
 ---
-title: "ExpressionEngine Plug-in: Link Target"
-description: "Not sure how useful this ExpressionEngine Plug-in will be to others out there but we’re using it here at Nine Four on the Wired In website to link from an..."
-date: 2008-07-09
-source: "http://nathanpitman.com/542/expressionengine-plug-in-link-target"
-archive: "https://web.archive.org/web/20090614184927/http://nathanpitman.com:80/542/expressionengine-plug-in-link-target"
+title: 'ExpressionEngine Plug-in: Link Target'
+description: >-
+  Not sure how useful this ExpressionEngine Plug-in will be to others out there
+  but we’re using it here at Nine Four on the Wired In website to link from
+  an...
+date: '2008-07-09'
+source: 'http://nathanpitman.com/542/expressionengine-plug-in-link-target'
+archive: >-
+  https://web.archive.org/web/20090614184927/http://nathanpitman.com:80/542/expressionengine-plug-in-link-target
 tags:
-  - "ExpressionEngine"
+  - ExpressionEngine
+relatedPosts:
+  - slug: expressionengine-plug-in-member-online
+    source: generated
+  - slug: expressionengine-plug-in-encode-decode
+    source: generated
+  - slug: expressionengine-plug-in-us-states-select
+    source: generated
+  - slug: expressionengine-plug-in-uk-counties-select
+    source: generated
+  - slug: expressionengine-plug-in-add-vat
+    source: generated
 ---
 
 Not sure how useful this [ExpressionEngine](http://www.expressionengine.com/index.php?affiliate=nathanpitman) Plug-in will be to others out there but we’re using it here at [Nine Four](http://www.ninefour.co.uk/) on the [Wired In](http://www.wiredin.org.uk/) website to link from an IFrame back to the parent window. This is something you would usually achieve with:

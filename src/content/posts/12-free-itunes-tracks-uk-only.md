@@ -1,12 +1,26 @@
 ---
 title: 12 Free iTunes tracks (UK only)
-description: "Via ‘The List’ I heard of a promotion which a UK website is running whereby they will credit you with 12 free iTunes tracks for signing up for a free..."
-date: 2006-02-28
-source: http://nathanpitman.com/453/12-free-itunes-tracks-uk-only
-archive: https://web.archive.org/web/20090524025205/http://nathanpitman.com:80/453/12-free-itunes-tracks-uk-only
+description: >-
+  Via ‘The List’ I heard of a promotion which a UK website is running whereby
+  they will credit you with 12 free iTunes tracks for signing up for a free...
+date: '2006-02-28'
+source: 'http://nathanpitman.com/453/12-free-itunes-tracks-uk-only'
+archive: >-
+  https://web.archive.org/web/20090524025205/http://nathanpitman.com:80/453/12-free-itunes-tracks-uk-only
 tags:
-  - "Chatter"
-  - "Marketing/Advertising"
+  - Chatter
+  - Marketing/Advertising
+relatedPosts:
+  - slug: free-xbox360
+    source: generated
+  - slug: free-thinking-breakfast-reading-uk-tmrw
+    source: generated
+  - slug: one-day-soon-os-x-will-be-free
+    source: generated
+  - slug: hsbc-internet-banking-fail
+    source: generated
+  - slug: how-to-cut-your-monthly-ntl-bill
+    source: generated
 ---
 
 Via ‘The List’ I heard of a promotion which a UK website is running whereby they will credit you with 12 free iTunes tracks for signing up for a free account with them. Basically this is a huge freebie, so here’s how to bag your credits…

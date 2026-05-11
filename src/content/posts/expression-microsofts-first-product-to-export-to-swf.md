@@ -1,12 +1,25 @@
 ---
 title: Expression (Microsoft’s first product to export to SWF)
-description: "All via flex-mx.com"
-date: 2004-06-08
-source: http://nathanpitman.com/170/expression-microsofts-first-product-to-export-to-swf
-archive: https://web.archive.org/web/20091227133158/http://nathanpitman.com:80/170/expression-microsofts-first-product-to-export-to-swf
+description: All via flex-mx.com
+date: '2004-06-08'
+source: >-
+  http://nathanpitman.com/170/expression-microsofts-first-product-to-export-to-swf
+archive: >-
+  https://web.archive.org/web/20091227133158/http://nathanpitman.com:80/170/expression-microsofts-first-product-to-export-to-swf
 tags:
-  - "Flash"
-  - "Technology"
+  - Flash
+  - Technology
+relatedPosts:
+  - slug: flash-satay-the-new-old-way-to-embed-flash-movies-in-xhtml
+    source: generated
+  - slug: out-of-the-loop
+    source: generated
+  - slug: rubberduck-launch-sreenweaver-mx
+    source: generated
+  - slug: first-impressions-of-the-3rd-gen-apple-tv
+    source: generated
+  - slug: adobe-to-acquire-macromedia
+    source: generated
 ---
 
 All via [flex-mx.com](http://www.flex-mx.com/archives/000823.html)

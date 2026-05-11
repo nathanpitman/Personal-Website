@@ -1,11 +1,25 @@
 ---
 title: New Beastie Boys Album is Evil (Apparently)
-description: "I stumbled across this post just now at SecurityFocus, I’m dissapointed and hope the Beastie Boys themselves take issue with this and give their record..."
-date: 2004-06-23
-source: http://nathanpitman.com/204/new-beastie-boys-album-is-evil-apparently
-archive: https://web.archive.org/web/20100903195055/http://nathanpitman.com:80/204/new-beastie-boys-album-is-evil-apparently
+description: >-
+  I stumbled across this post just now at SecurityFocus, I’m dissapointed and
+  hope the Beastie Boys themselves take issue with this and give their record...
+date: '2004-06-23'
+source: 'http://nathanpitman.com/204/new-beastie-boys-album-is-evil-apparently'
+archive: >-
+  https://web.archive.org/web/20100903195055/http://nathanpitman.com:80/204/new-beastie-boys-album-is-evil-apparently
 tags:
-  - "Technology"
+  - Technology
+relatedPosts:
+  - slug: firefox-0-9-due-on-the-12th-with-new-default-theme
+    source: generated
+  - slug: i-think-its-time-for-a-new-web-browser
+    source: generated
+  - slug: new-mini-ipod-ipod-mini
+    source: generated
+  - slug: flash-satay-the-new-old-way-to-embed-flash-movies-in-xhtml
+    source: generated
+  - slug: 2-fingers-up-to-copy-control-audio-cds-again
+    source: generated
 ---
 
 I stumbled across [this post just now at SecurityFocus](http://www.securityfocus.com/archive/1/366191/2004-06-13/2004-06-19/0), I’m dissapointed and hope the Beastie Boys themselves take issue with this and give their record company some stick.

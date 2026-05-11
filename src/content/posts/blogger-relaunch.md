@@ -1,11 +1,26 @@
 ---
 title: Blogger Relaunch…
-description: "Following the acquisition of Blogger in 2003 by Google, Blogger has relaunched with a rich new feature set and a very chic new CSS driven look."
-date: 2004-05-10
-source: http://nathanpitman.com/85/blogger-relaunch
-archive: https://web.archive.org/web/20100107204601/http://nathanpitman.com:80/85/blogger-relaunch
+description: >-
+  Following the acquisition of Blogger in 2003 by Google, Blogger has relaunched
+  with a rich new feature set and a very chic new CSS driven look.
+date: '2004-05-10'
+source: 'http://nathanpitman.com/85/blogger-relaunch'
+archive: >-
+  https://web.archive.org/web/20100107204601/http://nathanpitman.com:80/85/blogger-relaunch
 tags:
-  - "Technology"
+  - Technology
+relatedPosts:
+  - slug: firefox-start-page
+    source: generated
+  - slug: google-analytics
+    source: generated
+  - slug: rubberduck-launch-sreenweaver-mx
+    source: generated
+  - slug: the-joys-of-technology
+    source: generated
+  - slug: >-
+      back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark
+    source: generated
 ---
 
 Following the acquisition of [Blogger](http://www.blogger.com/) in 2003 by [Google](http://www.google.com/), Blogger has relaunched with a [rich new feature set](http://www.blogger.com/knowledge/2004/05/great-blogger-relaunch.pyra) and a very chic new CSS driven look.

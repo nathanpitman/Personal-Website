@@ -1,12 +1,27 @@
 ---
 title: What browsers do you develop for?
-description: "Every good web project specification document includes a list of target browsers and platforms. It’s something that I’ve been reviewing here at Mirashade,..."
-date: 2004-06-03
-source: http://nathanpitman.com/166/what-browsers-do-you-develop-for
-archive: https://web.archive.org/web/20111009203526/http://nathanpitman.com/166/what-browsers-do-you-develop-for
+description: >-
+  Every good web project specification document includes a list of target
+  browsers and platforms. It’s something that I’ve been reviewing here at
+  Mirashade,...
+date: '2004-06-03'
+source: 'http://nathanpitman.com/166/what-browsers-do-you-develop-for'
+archive: >-
+  https://web.archive.org/web/20111009203526/http://nathanpitman.com/166/what-browsers-do-you-develop-for
 tags:
-  - "Technology"
-  - "Web development"
+  - Technology
+  - Web development
+relatedPosts:
+  - slug: the-tools-of-my-trade
+    source: generated
+  - slug: mozilla-launches-firefox-1-0
+    source: generated
+  - slug: firefox-0-9-released
+    source: generated
+  - slug: i-think-its-time-for-a-new-web-browser
+    source: generated
+  - slug: developing-for-tomorrows-web
+    source: generated
 ---
 
 Every good web project specification document includes a list of target browsers and platforms. It’s something that I’ve been reviewing here at [Mirashade](http://www.mirashade.com/), and I’m interested to know what browsers and platforms like minded developers are ‘developing’ for.

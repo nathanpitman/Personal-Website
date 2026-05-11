@@ -1,10 +1,22 @@
 ---
 title: Rediscovering making things
-date: 2026-03-22
+date: '2026-03-22'
 tags:
   - ai
   - software
   - product
+relatedPosts:
+  - slug: >-
+      back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark
+    source: generated
+  - slug: scratching-an-itch-to-build-a-game
+    source: generated
+  - slug: energy-economy-in-open-transport-tycoon-deluxe
+    source: generated
+  - slug: things-about-expressionengine-2-that-wind-me-up-good-and-pro
+    source: generated
+  - slug: four-things
+    source: generated
 ---
 
 It’s been a while! This blog has gone without human input for almost 12 years and aside from my [previous post](/posts/2026-03-15-back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark) (written with a helping hand from Claude) this is my first of a new era. 

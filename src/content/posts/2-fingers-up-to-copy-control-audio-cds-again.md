@@ -1,12 +1,27 @@
 ---
 title: 2 fingers up to Copy Control Audio CDs (Again)
-description: "Following on from my post earlier in the year regarding the unacceptable situation which is large record companies producing Audio CDs ‘with’ intentional..."
-date: 2004-06-27
-source: http://nathanpitman.com/206/2-fingers-up-to-copy-control-audio-cds-again
-archive: https://web.archive.org/web/20100111190559/http://nathanpitman.com:80/206/2-fingers-up-to-copy-control-audio-cds-again
+description: >-
+  Following on from my post earlier in the year regarding the unacceptable
+  situation which is large record companies producing Audio CDs ‘with’
+  intentional...
+date: '2004-06-27'
+source: 'http://nathanpitman.com/206/2-fingers-up-to-copy-control-audio-cds-again'
+archive: >-
+  https://web.archive.org/web/20100111190559/http://nathanpitman.com:80/206/2-fingers-up-to-copy-control-audio-cds-again
 tags:
-  - "Personal"
-  - "Technology"
+  - Personal
+  - Technology
+relatedPosts:
+  - slug: junk-software
+    source: generated
+  - slug: going-pete-tong
+    source: generated
+  - slug: squeezebox
+    source: generated
+  - slug: bookmark-culling
+    source: generated
+  - slug: for-sale-20gb-creative-nomad-jukebox-zen
+    source: generated
 ---
 
 Following on from my post earlier in the year regarding the unacceptable situation which is [large record companies producing Audio CDs ‘with’ intentional errors to prevent ripping](http://www.nathanpitman.com/blog/index.php?id=34), I stumbled across a number of related posts at the Register.

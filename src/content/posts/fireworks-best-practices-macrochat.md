@@ -1,11 +1,26 @@
 ---
 title: Fireworks Best Practices Macrochat
-description: "On Friday just gone, Alan Musselman (Macromedia Senior Product Support Engineer) hosted a live Breeze Presentation on Fireworks MX 2004 Best Practices. The..."
-date: 2005-01-26
-source: http://nathanpitman.com/317/fireworks-best-practices-macrochat
-archive: https://web.archive.org/web/20111009200449/http://nathanpitman.com/317/fireworks-best-practices-macrochat
+description: >-
+  On Friday just gone, Alan Musselman (Macromedia Senior Product Support
+  Engineer) hosted a live Breeze Presentation on Fireworks MX 2004 Best
+  Practices. The...
+date: '2005-01-26'
+source: 'http://nathanpitman.com/317/fireworks-best-practices-macrochat'
+archive: >-
+  https://web.archive.org/web/20111009200449/http://nathanpitman.com/317/fireworks-best-practices-macrochat
 tags:
-  - "Fireworks"
+  - Fireworks
+relatedPosts:
+  - slug: fireworks-symbol-wish
+    source: generated
+  - slug: fireworks-tips-tricks-revealed
+    source: generated
+  - slug: team-macromedia-fireworks
+    source: generated
+  - slug: dear-adobe-fireworks-its-not-you-its-me
+    source: generated
+  - slug: fireworks-not-dead-yet
+    source: generated
 ---
 
 On Friday just gone, Alan Musselman (Macromedia Senior Product Support Engineer) hosted a live Breeze Presentation on [Fireworks MX 2004](http://www.macromedia.com/software/fireworks/) Best Practices. The presentation covered:

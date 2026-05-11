@@ -1,11 +1,25 @@
 ---
-title: "Web Developer - South East, UK"
-description: "A job posting for a web developer to join Nine Four in the south east of England."
-date: 2009-05-27
-source: "http://nathanpitman.com/586/web-developer-south-east-uk"
-archive: "https://web.archive.org/web/20090601223346/http://nathanpitman.com:80/586/web-developer-south-east-uk"
+title: 'Web Developer - South East, UK'
+description: >-
+  A job posting for a web developer to join Nine Four in the south east of
+  England.
+date: '2009-05-27'
+source: 'http://nathanpitman.com/586/web-developer-south-east-uk'
+archive: >-
+  https://web.archive.org/web/20090601223346/http://nathanpitman.com:80/586/web-developer-south-east-uk
 tags:
-  - "Jobs"
+  - Jobs
+relatedPosts:
+  - slug: web-developer-berkshire-uk
+    source: generated
+  - slug: web-developer-london-uk
+    source: generated
+  - slug: web-developer-required-berkshire-uk
+    source: generated
+  - slug: web-developer-reqd-windsor-berks-uk
+    source: generated
+  - slug: part-time-php-mysql-developer-required
+    source: generated
 ---
 
 Things at [Nine Four](http://ninefour.co.uk/) have been going well, so much so in fact that myself, Paul and Jo have decided that we need of an additional pair of hands to join our remote team on a permanent basis. If you don’t already know we’re a small but busy digital media design and development agency made up of 3 permanent staff members and a network of trusted and respected freelancers. We’ve been profitable since our inception back in 2005 and work hard for our clients to provide business led creative and technical solutions to every day business needs.

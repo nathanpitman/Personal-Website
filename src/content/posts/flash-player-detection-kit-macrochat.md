@@ -1,11 +1,25 @@
 ---
 title: Flash Player Detection Kit Macrochat
-description: "This Friday Jason Wylie (Senior Technical Support Engineer at Macromedia) will be presenting “Introducing the Flash Player Detection Kit”."
-date: 2005-01-27
-source: http://nathanpitman.com/318/flash-player-detection-kit-macrochat
-archive: https://web.archive.org/web/20100106033858/http://nathanpitman.com/318/flash-player-detection-kit-macrochat
+description: >-
+  This Friday Jason Wylie (Senior Technical Support Engineer at Macromedia) will
+  be presenting “Introducing the Flash Player Detection Kit”.
+date: '2005-01-27'
+source: 'http://nathanpitman.com/318/flash-player-detection-kit-macrochat'
+archive: >-
+  https://web.archive.org/web/20100106033858/http://nathanpitman.com/318/flash-player-detection-kit-macrochat
 tags:
-  - "Flash"
+  - Flash
+relatedPosts:
+  - slug: flash-video-kit-announced
+    source: generated
+  - slug: flash-player-8-demoed-in-tokyo
+    source: generated
+  - slug: flash-satay-the-new-old-way-to-embed-flash-movies-in-xhtml
+    source: generated
+  - slug: browsing-xml-with-flash
+    source: generated
+  - slug: another-flash-patch-ellipsis
+    source: generated
 ---
 
 This Friday Jason Wylie (Senior Technical Support Engineer at Macromedia) will be presenting “Introducing the Flash Player Detection Kit”.

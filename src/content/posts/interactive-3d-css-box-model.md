@@ -1,12 +1,27 @@
 ---
 title: Interactive 3D CSS Box Model
-description: "Inspired by Jon Hicks 3D CSS Box Model graphic which I posted a link to last week, Redmelon.net have posted an Interactive 3D CSS Box Model on their site...."
-date: 2004-05-27
-source: http://nathanpitman.com/160/interactive-3d-css-box-model
-archive: https://web.archive.org/web/20090709182848/http://nathanpitman.com:80/160/interactive-3d-css-box-model
+description: >-
+  Inspired by Jon Hicks 3D CSS Box Model graphic which I posted a link to last
+  week, Redmelon.net have posted an Interactive 3D CSS Box Model on their
+  site....
+date: '2004-05-27'
+source: 'http://nathanpitman.com/160/interactive-3d-css-box-model'
+archive: >-
+  https://web.archive.org/web/20090709182848/http://nathanpitman.com:80/160/interactive-3d-css-box-model
 tags:
-  - "Code"
-  - "Flash"
+  - Code
+  - Flash
+relatedPosts:
+  - slug: populating-a-flash-application-with-data-from-mysql-via-php
+    source: generated
+  - slug: yugop-com-v4
+    source: generated
+  - slug: browsing-xml-with-flash
+    source: generated
+  - slug: 3d-css-box-model
+    source: generated
+  - slug: css3-in-firefox
+    source: generated
 ---
 
 Inspired by Jon Hicks [3D CSS Box Model graphic](http://www.nathanpitman.com/bio/index.php?id=137) which I posted a link to last week, Redmelon.net have posted an [Interactive 3D CSS Box Model](http://www.redmelon.net/tstme/box_model/) on their site. Nicely executed with a smattering of Flash.

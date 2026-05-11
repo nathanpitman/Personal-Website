@@ -1,11 +1,26 @@
 ---
 title: iPod AV - Real or Fake?
-description: "Well, we’ve certainly had a fair share of hoax images of recent in the run up to Apple’s 30th Birthday on the 1st of April, but for me this has to be either..."
-date: 2006-03-06
-source: http://nathanpitman.com/461/ipod-av-real-or-fake
-archive: https://web.archive.org/web/20090618014327/http://nathanpitman.com:80/461/ipod-av-real-or-fake
+description: >-
+  Well, we’ve certainly had a fair share of hoax images of recent in the run up
+  to Apple’s 30th Birthday on the 1st of April, but for me this has to be
+  either...
+date: '2006-03-06'
+source: 'http://nathanpitman.com/461/ipod-av-real-or-fake'
+archive: >-
+  https://web.archive.org/web/20090618014327/http://nathanpitman.com:80/461/ipod-av-real-or-fake
 tags:
-  - "Technology"
+  - Technology
+relatedPosts:
+  - slug: new-mini-ipod-ipod-mini
+    source: generated
+  - slug: the-ipod-remixed-again
+    source: generated
+  - slug: mac-mini-ipod-shuffle-most-affordable-ever
+    source: generated
+  - slug: mac-intel-ad
+    source: generated
+  - slug: first-impressions-of-the-3rd-gen-apple-tv
+    source: generated
 ---
 
 Well, we’ve certainly had a fair share of hoax images of recent in the run up to Apple’s 30th Birthday on the 1st of April, but for me [this](http://mirror.root.vc/macshrine.com/ipodav.htm) has to be either the most impressive hoax so far, or the real thing.

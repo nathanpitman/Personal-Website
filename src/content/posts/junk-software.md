@@ -1,12 +1,26 @@
 ---
 title: Junk software
-description: "Tuesday last week I took delivery of a new PC. A Dell Dimension 4600… blah blah blah."
-date: 2004-05-17
-source: http://nathanpitman.com/88/junk-software
-archive: https://web.archive.org/web/20100106035602/http://nathanpitman.com/88/junk-software
+description: >-
+  Tuesday last week I took delivery of a new PC. A Dell Dimension 4600… blah
+  blah blah.
+date: '2004-05-17'
+source: 'http://nathanpitman.com/88/junk-software'
+archive: >-
+  https://web.archive.org/web/20100106035602/http://nathanpitman.com/88/junk-software
 tags:
-  - "Personal"
-  - "Technology"
+  - Personal
+  - Technology
+relatedPosts:
+  - slug: 2-fingers-up-to-copy-control-audio-cds-again
+    source: generated
+  - slug: going-pete-tong
+    source: generated
+  - slug: the-best-ps200-i-ever-spent
+    source: generated
+  - slug: bookmark-culling
+    source: generated
+  - slug: squeezebox
+    source: generated
 ---
 
 Tuesday last week I took delivery of a new PC. A [Dell](http://www.dell.co.uk/) Dimension 4600… blah blah blah.

@@ -1,11 +1,26 @@
 ---
 title: 'Re-design Step 1: Specify Requirements'
-description: "So, I’m doing a live re-design. But… before I ditch my CSS and start fiddling with the page markup I want to take stock of what’s here and decide what will..."
-date: 2005-01-14
-source: http://nathanpitman.com/312/re-design-step-1-specify-requirements
-archive: https://web.archive.org/web/20090526031119/http://nathanpitman.com:80/312/re-design-step-1-specify-requirements
+description: >-
+  So, I’m doing a live re-design. But… before I ditch my CSS and start fiddling
+  with the page markup I want to take stock of what’s here and decide what
+  will...
+date: '2005-01-14'
+source: 'http://nathanpitman.com/312/re-design-step-1-specify-requirements'
+archive: >-
+  https://web.archive.org/web/20090526031119/http://nathanpitman.com:80/312/re-design-step-1-specify-requirements
 tags:
-  - "Design"
+  - Design
+relatedPosts:
+  - slug: re-design-step-2-look-feel-concepts
+    source: generated
+  - slug: does-the-kottke-org-re-design-kinda-suck
+    source: generated
+  - slug: contract-furniture-solutions
+    source: generated
+  - slug: joined-up-website-design
+    source: generated
+  - slug: design-is
+    source: generated
 ---
 
 So, I’m doing a live re-design. But… before I ditch my CSS and start fiddling with the page markup I want to take stock of what’s here and decide what will stay, and what will go. At present the site is split into three primary sections; ‘blog’, ‘source’ and ‘bio’, each of which contain sub sections:

@@ -1,11 +1,26 @@
 ---
 title: Four things
-description: "Hey ho, it’s time for another meme, John (that bloke that got nominated for 2 bloggies) Oxton has passed this one along… so here goes. Apologies in advance..."
-date: 2006-01-23
-source: http://nathanpitman.com/445/four-things
-archive: https://web.archive.org/web/20110928150203/http://nathanpitman.com/445/four-things
+description: >-
+  Hey ho, it’s time for another meme, John (that bloke that got nominated for 2
+  bloggies) Oxton has passed this one along… so here goes. Apologies in
+  advance...
+date: '2006-01-23'
+source: 'http://nathanpitman.com/445/four-things'
+archive: >-
+  https://web.archive.org/web/20110928150203/http://nathanpitman.com/445/four-things
 tags:
-  - "Chatter"
+  - Chatter
+relatedPosts:
+  - slug: flickrlicious
+    source: generated
+  - slug: why-is-no-one-linking
+    source: generated
+  - slug: free-xbox360
+    source: generated
+  - slug: the-great-staples-ordercare-scam
+    source: generated
+  - slug: whatever-you-do-dont-buy-a-kia-sedona
+    source: generated
 ---
 
 Hey ho, it’s time for another meme, [John (that bloke that got nominated for 2 bloggies) Oxton](http://joshuaink.com/blog/613/four-things) has passed this one along… so here goes. Apologies in advance if my answers are somewhat uninteresting.

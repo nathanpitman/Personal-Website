@@ -1,13 +1,26 @@
 ---
 title: 10 questions for David Longworth (Going it alone)
-date: 2005-08-26
-source: http://nathanpitman.com/392/10-questions-for-david-longworth-going-it-alone
-archive: https://web.archive.org/web/20110502034547/http://nathanpitman.com:80/392/10-questions-for-david-longworth-going-it-alone
-description: Fourth in the series — David Longworth on self-employment as a web
+date: '2005-08-26'
+source: 'http://nathanpitman.com/392/10-questions-for-david-longworth-going-it-alone'
+archive: >-
+  https://web.archive.org/web/20110502034547/http://nathanpitman.com:80/392/10-questions-for-david-longworth-going-it-alone
+description: >-
+  Fourth in the series — David Longworth on self-employment as a web
   professional.
 tags:
   - Employment
   - Interview
+relatedPosts:
+  - slug: 10-questions-for-paul-farnell-going-it-alone
+    source: generated
+  - slug: 10-questions-for-jon-hicks-going-it-alone
+    source: generated
+  - slug: 10-questions-for-john-oxton-going-it-alone
+    source: generated
+  - slug: 10-questions-for-darren-miller-going-it-alone
+    source: generated
+  - slug: 10-questions-for-craig-grannell-going-it-alone
+    source: generated
 ---
 
 In the fourth of five interviews with web designers and developers who are self employed I chat with [David Longworth](http://www.ukthoughts.co.uk/). Much like Jon Hicks, I’ve never actually met David… I just kinda dropped him an email and he’s been kind enough to give some of his time for my 10 questions. David is a web designer & design consultant based in the Uk and has a business called [Orange Tape Studios](http://www.orangetape.com/).

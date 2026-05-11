@@ -1,12 +1,28 @@
 ---
 title: Duplicate Offset & Rotate Fireworks Extension is now free
-description: "My Duplicate, Offset & Rotate Fireworks Extension is now free to download. Sales of this as a commercial package have pretty much dried up, so why not let..."
-date: 2004-06-16
-source: http://nathanpitman.com/197/duplicate-offset-rotate-fireworks-extension-is-now-free
-archive: https://web.archive.org/web/20090830173258/http://nathanpitman.com:80/197/duplicate-offset-rotate-fireworks-extension-is-now-free
+description: >-
+  My Duplicate, Offset & Rotate Fireworks Extension is now free to download.
+  Sales of this as a commercial package have pretty much dried up, so why not
+  let...
+date: '2004-06-16'
+source: >-
+  http://nathanpitman.com/197/duplicate-offset-rotate-fireworks-extension-is-now-free
+archive: >-
+  https://web.archive.org/web/20090830173258/http://nathanpitman.com:80/197/duplicate-offset-rotate-fireworks-extension-is-now-free
 tags:
-  - "Extensions"
-  - "Fireworks"
+  - Extensions
+  - Fireworks
+relatedPosts:
+  - slug: duplicate-offset-rotate-now-available-to-purchase-online
+    source: generated
+  - slug: fireworks-extension-authors
+    source: generated
+  - slug: project-fireworks-release-first-commercial-fireworks-mx-exte
+    source: generated
+  - slug: simple-linked-selection-extension-for-fireworks
+    source: generated
+  - slug: extrude-path-extension-for-fireworks
+    source: generated
 ---
 
 My [Duplicate, Offset & Rotate Fireworks Extension](http://www.nathanpitman.com/source/extensions.php?id=38) is now free to download. Sales of this as a commercial package have pretty much dried up, so why not let everyone enjoy it… users who purchased the extension will be eligible for a reduced price upgrade to my next commercial offering, so don’t feel to narked if you splashed out ï¿½1.00. :)

@@ -1,13 +1,26 @@
 ---
 title: 10 questions for Craig Grannell (Going it alone)
-date: 2005-08-15
-source: http://nathanpitman.com/390/10-questions-for-craig-grannell-going-it-alone
-archive: https://web.archive.org/web/20091217084216/http://nathanpitman.com:80/390/10-questions-for-craig-grannell-going-it-alone
-description: First in a series of interviews with self-employed web designers
-  and developers. Craig Grannell shares his experience going freelance.
+date: '2005-08-15'
+source: 'http://nathanpitman.com/390/10-questions-for-craig-grannell-going-it-alone'
+archive: >-
+  https://web.archive.org/web/20091217084216/http://nathanpitman.com:80/390/10-questions-for-craig-grannell-going-it-alone
+description: >-
+  First in a series of interviews with self-employed web designers and
+  developers. Craig Grannell shares his experience going freelance.
 tags:
   - Employment
   - Interview
+relatedPosts:
+  - slug: 10-questions-for-jon-hicks-going-it-alone
+    source: generated
+  - slug: 10-questions-for-paul-farnell-going-it-alone
+    source: generated
+  - slug: 10-questions-for-darren-miller-going-it-alone
+    source: generated
+  - slug: 10-questions-for-john-oxton-going-it-alone
+    source: generated
+  - slug: 10-questions-for-david-longworth-going-it-alone
+    source: generated
 ---
 
 In the first of 5 interviews with web designers and developers who are self employed I chat with [Craig Grannell](http://www.snubcommunications.com/). I first met Craig whilst working at [Designation](http://www.designation.com/) way back in 1999. Craig’s business (Snub Communications) provides web design and copywriting services.

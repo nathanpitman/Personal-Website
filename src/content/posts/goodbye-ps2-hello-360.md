@@ -1,12 +1,26 @@
 ---
-title: "Goodbye PS2, Hello 360."
-description: "Today it’s my Birthday, I just turned 29. 1 year closer to the big ’3 – 0’ and yet somehow I still feel like I’m young and have the whole of my life ahead..."
-date: 2006-05-12
-source: "http://nathanpitman.com/472/goodbye-ps2-hello-360"
-archive: "https://web.archive.org/web/20090722094848/http://nathanpitman.com:80/472/goodbye-ps2-hello-360"
+title: 'Goodbye PS2, Hello 360.'
+description: >-
+  Today it’s my Birthday, I just turned 29. 1 year closer to the big ’3 – 0’ and
+  yet somehow I still feel like I’m young and have the whole of my life ahead...
+date: '2006-05-12'
+source: 'http://nathanpitman.com/472/goodbye-ps2-hello-360'
+archive: >-
+  https://web.archive.org/web/20090722094848/http://nathanpitman.com:80/472/goodbye-ps2-hello-360
 tags:
-  - "Consoles"
-  - "Personal"
+  - Consoles
+  - Personal
+relatedPosts:
+  - slug: red-ring-of-death
+    source: generated
+  - slug: goodbye-youth-hello-responsibility
+    source: generated
+  - slug: hello-youth
+    source: generated
+  - slug: hello-mr-cripps
+    source: generated
+  - slug: sony-redesigns-playstation-2
+    source: generated
 ---
 
 **Today it’s my Birthday**, I just turned 29. 1 year closer to the big ’3 – 0’ and yet somehow I still feel like I’m young and have the whole of my life ahead of me, which I guess in actuality, is true!

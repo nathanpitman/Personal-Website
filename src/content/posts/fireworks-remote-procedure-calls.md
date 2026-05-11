@@ -1,12 +1,26 @@
 ---
 title: Fireworks Remote Procedure Calls
-description: "Macromedia has made documentation available online for the Fireworks Remote Procedure Calls or RPCs."
-date: 2004-04-07
-source: http://nathanpitman.com/41/fireworks-remote-procedure-calls
-archive: https://web.archive.org/web/20100112235804/http://nathanpitman.com:80/41/fireworks-remote-procedure-calls
+description: >-
+  Macromedia has made documentation available online for the Fireworks Remote
+  Procedure Calls or RPCs.
+date: '2004-04-07'
+source: 'http://nathanpitman.com/41/fireworks-remote-procedure-calls'
+archive: >-
+  https://web.archive.org/web/20100112235804/http://nathanpitman.com:80/41/fireworks-remote-procedure-calls
 tags:
-  - "Extensions"
-  - "Fireworks"
+  - Extensions
+  - Fireworks
+relatedPosts:
+  - slug: extending-fireworks
+    source: generated
+  - slug: creating-advanced-custom-fireworks-panels
+    source: generated
+  - slug: great-new-fireworks-extensions
+    source: generated
+  - slug: fireworks-mx-2004-autoshapes-tutorial
+    source: generated
+  - slug: fireworks-commands-wrapper
+    source: generated
 ---
 
 Macromedia has made documentation available online for the [Fireworks Remote Procedure Calls](http://www.macromedia.com/devnet/mx/fireworks/articles/rpc.html) or RPCs.

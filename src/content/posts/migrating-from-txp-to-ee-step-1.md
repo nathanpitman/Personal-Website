@@ -1,12 +1,26 @@
 ---
-title: "Migrating from TXP to EE - Step 1"
-description: "Step 1 of a series documenting migration from Textpattern to ExpressionEngine — setting up EE."
-date: 2008-09-22
-source: "http://nathanpitman.com/553/migrating-from-txp-to-ee-step-1"
-archive: "https://web.archive.org/web/20090524014744/http://nathanpitman.com:80/553/migrating-from-txp-to-ee-step-1"
+title: Migrating from TXP to EE - Step 1
+description: >-
+  Step 1 of a series documenting migration from Textpattern to ExpressionEngine
+  — setting up EE.
+date: '2008-09-22'
+source: 'http://nathanpitman.com/553/migrating-from-txp-to-ee-step-1'
+archive: >-
+  https://web.archive.org/web/20090524014744/http://nathanpitman.com:80/553/migrating-from-txp-to-ee-step-1
 tags:
-  - "ExpressionEngine"
-  - "Textpattern"
+  - ExpressionEngine
+  - Textpattern
+relatedPosts:
+  - slug: migrating-from-txp-to-ee-step-3
+    source: generated
+  - slug: migrating-from-txp-to-ee-step-4
+    source: generated
+  - slug: migrating-from-txp-to-ee-step-2
+    source: generated
+  - slug: migrating-from-txp-to-ee-step-5
+    source: generated
+  - slug: migrating-from-txp-to-ee-conclusion
+    source: generated
 ---
 
 Ok so a lot of this will be obvious but hey, here we go… I’ve decided to tackle the migration by setting up an [ExpressionEngine](http://www.expressionengine.com/index.php?affiliate=nathanpitman) Core Install on a sub domain ~~([http://ee.nathanpitman.com](http://ee.nathanpitman.com/))~~ where I will be able to get everything up and running before I switch from the old Textpattern install for good.

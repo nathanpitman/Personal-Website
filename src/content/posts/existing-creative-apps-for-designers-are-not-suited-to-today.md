@@ -1,13 +1,28 @@
 ---
-title: "Existing creative apps for designers are not suited to today’s web"
-description: "We all know it… it’s been a common accepted fact for far too long. We’ve been talking about the lack of interest from app developers at a regular local..."
-date: 2011-08-10
-source: "http://nathanpitman.com/611/existing-creative-apps-for-designers-are-not-suited-to-todays-web"
-archive: "https://web.archive.org/web/20110817004950/http://nathanpitman.com:80/611/existing-creative-apps-for-designers-are-not-suited-to-todays-web"
+title: Existing creative apps for designers are not suited to today’s web
+description: >-
+  We all know it… it’s been a common accepted fact for far too long. We’ve been
+  talking about the lack of interest from app developers at a regular local...
+date: '2011-08-10'
+source: >-
+  http://nathanpitman.com/611/existing-creative-apps-for-designers-are-not-suited-to-todays-web
+archive: >-
+  https://web.archive.org/web/20110817004950/http://nathanpitman.com:80/611/existing-creative-apps-for-designers-are-not-suited-to-todays-web
 tags:
-  - "Adobe"
-  - "Design"
-  - "Fireworks"
+  - Adobe
+  - Design
+  - Fireworks
+relatedPosts:
+  - slug: goodbye-dear-friend
+    source: generated
+  - slug: still-no-real-competition-for-fireworks
+    source: generated
+  - slug: alternatives-to-flash-for-animation-are-starting-to-float-to
+    source: generated
+  - slug: dear-adobe-fireworks-its-not-you-its-me
+    source: generated
+  - slug: an-open-letter-to-software-developers-re-adobe-fireworks
+    source: generated
 ---
 
 **We all know it… it’s been a common accepted fact for far too long**. We’ve been talking about the lack of interest from app developers at a regular [local meet-up](http://creativeassembly.net/) and decided it was about time we did something positive about it.

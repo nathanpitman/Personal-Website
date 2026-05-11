@@ -1,11 +1,23 @@
 ---
 title: Firefox 0.9 Released
-description: "Mozilla have gone live with the penultimate preview release of Firefox."
-date: 2004-06-16
-source: http://nathanpitman.com/196/firefox-09-released
-archive: https://web.archive.org/web/20090901081656/http://nathanpitman.com:80/196/firefox-09-released
+description: Mozilla have gone live with the penultimate preview release of Firefox.
+date: '2004-06-16'
+source: 'http://nathanpitman.com/196/firefox-09-released'
+archive: >-
+  https://web.archive.org/web/20090901081656/http://nathanpitman.com:80/196/firefox-09-released
 tags:
-  - "Technology"
+  - Technology
+relatedPosts:
+  - slug: mozilla-launches-firefox-1-0
+    source: generated
+  - slug: firefox-0-9-due-on-the-12th-with-new-default-theme
+    source: generated
+  - slug: firefox-start-page
+    source: generated
+  - slug: where-is-firefox-1-0
+    source: generated
+  - slug: what-browsers-do-you-develop-for
+    source: generated
 ---
 
 [Mozilla](http://www.mozilla.org/) have gone live with the penultimate preview release of [Firefox](http://www.mozilla.org/products/firefox/).

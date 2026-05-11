@@ -1,12 +1,27 @@
 ---
 title: Making my Dreamweaver Extensions MX 2004 compliant
-description: "I finally got round to making the modifications to all of my Dreamweaver Extensions in order that they will install correctly for Dreamweaver MX 2004 users."
-date: 2004-03-07
-source: http://nathanpitman.com/30/making-my-dreamweaver-extensions-mx-2004-compliant
-archive: https://web.archive.org/web/20100107141856/http://nathanpitman.com:80/30/making-my-dreamweaver-extensions-mx-2004-compliant
+description: >-
+  I finally got round to making the modifications to all of my Dreamweaver
+  Extensions in order that they will install correctly for Dreamweaver MX 2004
+  users.
+date: '2004-03-07'
+source: 'http://nathanpitman.com/30/making-my-dreamweaver-extensions-mx-2004-compliant'
+archive: >-
+  https://web.archive.org/web/20100107141856/http://nathanpitman.com:80/30/making-my-dreamweaver-extensions-mx-2004-compliant
 tags:
-  - "Adobe"
-  - "Extensions"
+  - Adobe
+  - Extensions
+relatedPosts:
+  - slug: dreamweaver-extensions-going-pete-tong
+    source: generated
+  - slug: writing-extensions-for-fireworks-mx-is-fun
+    source: generated
+  - slug: possible-issues-with-fireworks-mx-extensions-in-mx-2004
+    source: generated
+  - slug: my-fireworks-extensions-featured-in-practical-web-projects
+    source: generated
+  - slug: style-guidelines-for-publishing-fireworks-extensions
+    source: generated
 ---
 
 I finally got round to making the modifications to all of my Dreamweaver Extensions in order that they will install correctly for Dreamweaver MX 2004 users.

@@ -1,11 +1,26 @@
 ---
 title: Macromedia Contribute Auction
-description: "I have a copy of Macromedia Contribute up for auction on e-bay if anyone is interested. As new. I just never got round to using it, so I thought someone..."
-date: 2004-06-22
-source: http://nathanpitman.com/202/macromedia-contribute-auction
-archive: https://web.archive.org/web/20090616203411/http://nathanpitman.com:80/202/macromedia-contribute-auction
+description: >-
+  I have a copy of Macromedia Contribute up for auction on e-bay if anyone is
+  interested. As new. I just never got round to using it, so I thought
+  someone...
+date: '2004-06-22'
+source: 'http://nathanpitman.com/202/macromedia-contribute-auction'
+archive: >-
+  https://web.archive.org/web/20090616203411/http://nathanpitman.com:80/202/macromedia-contribute-auction
 tags:
-  - "Adobe"
+  - Adobe
+relatedPosts:
+  - slug: macromedia-contribute-auction-again
+    source: generated
+  - slug: macromedia-devnet-travel-mug-up-for-grabs
+    source: generated
+  - slug: team-macromedia-fireworks
+    source: generated
+  - slug: goodbye-macromedia-com
+    source: generated
+  - slug: macromedia-devnet-resource-kit-volume-9-released
+    source: generated
 ---
 
 I have a copy of [Macromedia Contribute up for auction](http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&item=3687091171&sspagename=STRK%3AMESE%3AIT&rd=1) on [e-bay](http://www.ebay.co.uk/) if anyone is interested. As new. I just never got round to using it, so I thought someone else may benefit from it.

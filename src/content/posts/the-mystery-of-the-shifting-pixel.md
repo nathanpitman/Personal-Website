@@ -1,11 +1,26 @@
 ---
 title: The mystery of the shifting pixel
-description: "If you work regularly with Flash you will be well aware of the annoying ‘shifting’ pixel issue. This generally occurs when you group or resize an object...."
-date: 2004-06-01
-source: http://nathanpitman.com/164/the-mystery-of-the-shifting-pixel
-archive: https://web.archive.org/web/20100113141100/http://nathanpitman.com:80/164/the-mystery-of-the-shifting-pixel
+description: >-
+  If you work regularly with Flash you will be well aware of the annoying
+  ‘shifting’ pixel issue. This generally occurs when you group or resize an
+  object....
+date: '2004-06-01'
+source: 'http://nathanpitman.com/164/the-mystery-of-the-shifting-pixel'
+archive: >-
+  https://web.archive.org/web/20100113141100/http://nathanpitman.com:80/164/the-mystery-of-the-shifting-pixel
 tags:
-  - "Flash"
+  - Flash
+relatedPosts:
+  - slug: when-flash-is-good
+    source: generated
+  - slug: browsing-xml-with-flash
+    source: generated
+  - slug: populating-a-flash-application-with-data-from-mysql-via-php
+    source: generated
+  - slug: flash-video-kit-announced
+    source: generated
+  - slug: ellipsis-flash-7-2-updater-out
+    source: generated
 ---
 
 If you work regularly with Flash you will be well aware of the annoying ‘shifting’ pixel issue. This generally occurs when you group or resize an object. More often than not the x value of the object will shift from ‘200’ for example to ’200.1’.

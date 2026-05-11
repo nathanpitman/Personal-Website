@@ -1,12 +1,26 @@
 ---
 title: Looking for ASP developers
-description: "So, things are getting pretty busy over at Nine Four and I’m on the lookout for freelance ASP (urgh!) developers for a possible upcoming project."
-date: 2005-11-14
-source: http://nathanpitman.com/420/looking-for-asp-developers
-archive: https://web.archive.org/web/20100107003051/http://nathanpitman.com:80/420/looking-for-asp-developers
+description: >-
+  So, things are getting pretty busy over at Nine Four and I’m on the lookout
+  for freelance ASP (urgh!) developers for a possible upcoming project.
+date: '2005-11-14'
+source: 'http://nathanpitman.com/420/looking-for-asp-developers'
+archive: >-
+  https://web.archive.org/web/20100107003051/http://nathanpitman.com:80/420/looking-for-asp-developers
 tags:
-  - "Jobs"
-  - "Web development"
+  - Jobs
+  - Web development
+relatedPosts:
+  - slug: web-developer-required-berkshire-uk
+    source: generated
+  - slug: calling-all-freelance-flash-developers
+    source: generated
+  - slug: looking-for-a-lamp-web-app-dev
+    source: generated
+  - slug: ruby-on-rails-developers-windsor-uk
+    source: generated
+  - slug: looking-for-talented-interactive-designers
+    source: generated
 ---
 
 So, things are getting pretty busy over at [Nine Four](http://www.ninefour.co.uk/) and I’m on the lookout for freelance ASP (urgh!) developers for a possible upcoming project.

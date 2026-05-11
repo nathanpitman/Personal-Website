@@ -1,12 +1,27 @@
 ---
-title: "Blogging the migration from Textpattern to ExpressionEngine"
-description: "I have made a cast iron decision. I am migrating (this) my personal blog from Textpattern to ExpressionEngine. I thought others might find it useful if I..."
-date: 2008-09-22
-source: "http://nathanpitman.com/552/blogging-the-migration-from-textpattern-to-expressionengine"
-archive: "https://web.archive.org/web/20090523190407/http://nathanpitman.com:80/552/blogging-the-migration-from-textpattern-to-expressionengine"
+title: Blogging the migration from Textpattern to ExpressionEngine
+description: >-
+  I have made a cast iron decision. I am migrating (this) my personal blog from
+  Textpattern to ExpressionEngine. I thought others might find it useful if I...
+date: '2008-09-22'
+source: >-
+  http://nathanpitman.com/552/blogging-the-migration-from-textpattern-to-expressionengine
+archive: >-
+  https://web.archive.org/web/20090523190407/http://nathanpitman.com:80/552/blogging-the-migration-from-textpattern-to-expressionengine
 tags:
-  - "ExpressionEngine"
-  - "Textpattern"
+  - ExpressionEngine
+  - Textpattern
+relatedPosts:
+  - slug: migrating-from-txp-to-ee-step-2
+    source: generated
+  - slug: migrating-from-txp-to-ee-step-1
+    source: generated
+  - slug: migrating-from-txp-to-ee-step-3
+    source: generated
+  - slug: migrating-from-txp-to-ee-step-4
+    source: generated
+  - slug: migrating-from-txp-to-ee-conclusion
+    source: generated
 ---
 
 I have made a cast iron decision. I am migrating (this) my personal blog from Textpattern to [ExpressionEngine](http://www.expressionengine.com/index.php?affiliate=nathanpitman). I thought others might find it useful if I blogged my progress along the way.

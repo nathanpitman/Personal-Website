@@ -1,13 +1,28 @@
 ---
-title: "My thoughts on Apple TV Apps"
-description: "> Something occurred to me last night. The Apple TV is the perfect candidate for web based apps with home screen shortcuts… > > — Nathan Pitman..."
-date: 2013-05-05
-source: "http://nathanpitman.com/624/my-thoughts-on-apple-tv-apps"
-archive: "https://web.archive.org/web/20130510164106/http://nathanpitman.com:80/624/my-thoughts-on-apple-tv-apps"
+title: My thoughts on Apple TV Apps
+description: >-
+  > Something occurred to me last night. The Apple TV is the perfect candidate
+  for web based apps with home screen shortcuts… > > — Nathan Pitman...
+date: '2013-05-05'
+source: 'http://nathanpitman.com/624/my-thoughts-on-apple-tv-apps'
+archive: >-
+  https://web.archive.org/web/20130510164106/http://nathanpitman.com:80/624/my-thoughts-on-apple-tv-apps
 tags:
-  - "Chatter"
-  - "Apple"
-  - "Technology"
+  - Chatter
+  - Apple
+  - Technology
+relatedPosts:
+  - slug: first-impressions-of-the-3rd-gen-apple-tv
+    source: generated
+  - slug: one-day-soon-os-x-will-be-free
+    source: generated
+  - slug: mac-newbie-seeks-mac-guru-for-short-term-relationship
+    source: generated
+  - slug: thoughts-on-flash-communication-server-mx
+    source: generated
+  - slug: >-
+      back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark
+    source: generated
 ---
 
 > Something occurred to me last night. The Apple TV is the perfect candidate for web based apps with home screen shortcuts…

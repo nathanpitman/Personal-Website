@@ -1,11 +1,26 @@
 ---
-title: "ExpressionEngine Plug-in: UK Counties Select"
-description: "Another day, another little ExpressionEngine Plug-in. I needed to return a list of UK counties in a standalone entry form. I could have simply flicked on..."
-date: 2008-10-24
-source: "http://nathanpitman.com/561/expressionengine-plug-in-uk-counties-select"
-archive: "https://web.archive.org/web/20090518024248/http://nathanpitman.com:80/561/expressionengine-plug-in-uk-counties-select"
+title: 'ExpressionEngine Plug-in: UK Counties Select'
+description: >-
+  Another day, another little ExpressionEngine Plug-in. I needed to return a
+  list of UK counties in a standalone entry form. I could have simply flicked
+  on...
+date: '2008-10-24'
+source: 'http://nathanpitman.com/561/expressionengine-plug-in-uk-counties-select'
+archive: >-
+  https://web.archive.org/web/20090518024248/http://nathanpitman.com:80/561/expressionengine-plug-in-uk-counties-select
 tags:
-  - "ExpressionEngine"
+  - ExpressionEngine
+relatedPosts:
+  - slug: expressionengine-field-frame-field-type-uk-counties-select
+    source: generated
+  - slug: expressionengine-plug-in-us-states-select
+    source: generated
+  - slug: expressionengine-plug-in-encode-decode
+    source: generated
+  - slug: expressionengine-plug-in-member-online
+    source: generated
+  - slug: expressionengine-plug-in-link-target
+    source: generated
 ---
 
 Another day, another little [ExpressionEngine](http://www.expressionengine.com/index.php?affiliate=nathanpitman) Plug-in. I needed to return a list of UK counties in a standalone entry form. I could have simply flicked on PHP for the template and spewed forth a foreach from an array but I thought I’d wrap it all up in a plug-in instead, so here it is.

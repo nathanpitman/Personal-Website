@@ -1,11 +1,26 @@
 ---
 title: How not to apply for a job
-description: "Kinda reminded by John Oxton’s rant on lack of email manner, I’ve been noticing a steady increase in the number of people who apply for Jobs at Mirashade..."
-date: 2005-05-26
-source: http://nathanpitman.com/362/how-not-to-apply-for-a-job
-archive: https://web.archive.org/web/20100306161348/http://nathanpitman.com:80/362/how-not-to-apply-for-a-job
+description: >-
+  Kinda reminded by John Oxton’s rant on lack of email manner, I’ve been
+  noticing a steady increase in the number of people who apply for Jobs at
+  Mirashade...
+date: '2005-05-26'
+source: 'http://nathanpitman.com/362/how-not-to-apply-for-a-job'
+archive: >-
+  https://web.archive.org/web/20100306161348/http://nathanpitman.com:80/362/how-not-to-apply-for-a-job
 tags:
-  - "Employment"
+  - Employment
+relatedPosts:
+  - slug: yesterday-i-started-my-new-job
+    source: generated
+  - slug: hey-ive-only-gone-and-got-myself-a-new-job
+    source: generated
+  - slug: 10-questions-for-john-oxton-going-it-alone
+    source: generated
+  - slug: 10-questions-for-david-longworth-going-it-alone
+    source: generated
+  - slug: 10-questions-for-jon-hicks-going-it-alone
+    source: generated
 ---
 
 Kinda reminded by John Oxton’s [rant on lack of email manner](http://joshuaink.com/blog/299/in-the-words-of-lionel-richie), I’ve been noticing a steady increase in the number of people who apply for Jobs at [Mirashade](http://www.mirashade.com/) without care or consideration for a greeting of any kind.

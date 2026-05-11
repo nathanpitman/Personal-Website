@@ -1,12 +1,27 @@
 ---
 title: Flash Video Kit Announced
-description: "The Macromedia Flash Video Kit is a set of extensions and resources to add Flash Video quickly and easily to your website. The Flash Video Kit contains the..."
-date: 2004-08-17
-source: http://nathanpitman.com/228/flash-video-kit-announced
-archive: https://web.archive.org/web/20100106215531/http://nathanpitman.com:80/228/flash-video-kit-announced
+description: >-
+  The Macromedia Flash Video Kit is a set of extensions and resources to add
+  Flash Video quickly and easily to your website. The Flash Video Kit contains
+  the...
+date: '2004-08-17'
+source: 'http://nathanpitman.com/228/flash-video-kit-announced'
+archive: >-
+  https://web.archive.org/web/20100106215531/http://nathanpitman.com:80/228/flash-video-kit-announced
 tags:
-  - "Adobe"
-  - "Flash"
+  - Adobe
+  - Flash
+relatedPosts:
+  - slug: alternatives-to-flash-for-animation-are-starting-to-float-to
+    source: generated
+  - slug: flash-player-detection-kit-macrochat
+    source: generated
+  - slug: flash-player-8-demoed-in-tokyo
+    source: generated
+  - slug: splash-video
+    source: generated
+  - slug: populating-a-flash-application-with-data-from-mysql-via-php
+    source: generated
 ---
 
 The [Macromedia Flash Video Kit](http://www.macromedia.com/software/studio/flashvideokit/) is a set of extensions and resources to add Flash Video quickly and easily to your website. The Flash Video Kit contains the following items:

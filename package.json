@@ -9,6 +9,7 @@
     "build": "astro build",
     "preview": "astro preview --host 0.0.0.0",
     "generate-descriptions": "tsx scripts/generate-descriptions.ts",
+    "generate-related-posts": "node scripts/generate-related-posts.mjs",
     "test": "vitest run",
     "test:watch": "vitest"
   },
@@ -20,6 +21,7 @@
   },
   "devDependencies": {
     "astro-pagefind": "^1.8.5",
+    "gray-matter": "^4.0.3",
     "pagefind": "^1.4.0",
     "sharp": "^0.34.5",
     "tsx": "^4.21.0",

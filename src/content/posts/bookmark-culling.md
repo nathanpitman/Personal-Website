@@ -1,12 +1,26 @@
 ---
 title: Bookmark culling
-description: "After 7 years I’ve decided it’s time to delete all my bookmarks and start again."
-date: 2004-07-12
-source: http://nathanpitman.com/215/bookmark-culling
-archive: https://web.archive.org/web/20100104105312/http://nathanpitman.com:80/215/bookmark-culling
+description: >-
+  After 7 years I’ve decided it’s time to delete all my bookmarks and start
+  again.
+date: '2004-07-12'
+source: 'http://nathanpitman.com/215/bookmark-culling'
+archive: >-
+  https://web.archive.org/web/20100104105312/http://nathanpitman.com:80/215/bookmark-culling
 tags:
-  - "Personal"
-  - "Technology"
+  - Personal
+  - Technology
+relatedPosts:
+  - slug: going-pete-tong
+    source: generated
+  - slug: junk-software
+    source: generated
+  - slug: 2-fingers-up-to-copy-control-audio-cds-again
+    source: generated
+  - slug: for-sale-20gb-creative-nomad-jukebox-zen
+    source: generated
+  - slug: squeezebox
+    source: generated
 ---
 
 ![Bye bye bookmarks...](/images/38.gif "Bye bye bookmarks...")

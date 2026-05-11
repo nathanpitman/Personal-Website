@@ -1,13 +1,26 @@
 ---
 title: 10 questions for Darren Miller (Going it alone)
-date: 2005-08-22
-source: http://nathanpitman.com/394/10-questions-for-darren-miller-going-it-alone
-archive: https://web.archive.org/web/20100113151405/http://nathanpitman.com:80/394/10-questions-for-darren-miller-going-it-alone
-description: Third in a series — Darren Miller discusses going freelance as a
-  web designer and developer.
+date: '2005-08-22'
+source: 'http://nathanpitman.com/394/10-questions-for-darren-miller-going-it-alone'
+archive: >-
+  https://web.archive.org/web/20100113151405/http://nathanpitman.com:80/394/10-questions-for-darren-miller-going-it-alone
+description: >-
+  Third in a series — Darren Miller discusses going freelance as a web designer
+  and developer.
 tags:
   - Employment
   - Interview
+relatedPosts:
+  - slug: 10-questions-for-paul-farnell-going-it-alone
+    source: generated
+  - slug: 10-questions-for-jon-hicks-going-it-alone
+    source: generated
+  - slug: 10-questions-for-craig-grannell-going-it-alone
+    source: generated
+  - slug: 10-questions-for-john-oxton-going-it-alone
+    source: generated
+  - slug: 10-questions-for-david-longworth-going-it-alone
+    source: generated
 ---
 
 In the third of five interviews with web designers and developers who are self employed I chat with [Darren Miller](http://www.darrenm.net/). I got to know Darren whilst working at [TMB](http://www.tmbmarcom.com/) on an event based video game for [HP](http://www.hp.co.uk/). Darren is a new media designer and developer.

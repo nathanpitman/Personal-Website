@@ -1,12 +1,30 @@
 ---
-title: "Hacking Expression Engine to add radio buttons and checkboxes to custom member profile fields"
-description: "Don’t get me wrong, I love Expression Engine but sometimes you just come up against a brick wall and the only solution is to either pay someone to write a..."
-date: 2007-09-20
-source: "http://nathanpitman.com/520/hacking-expression-engine-to-add-radio-buttons-and-checkboxes-to-custom-mem"
-archive: "https://web.archive.org/web/20090701120857/http://nathanpitman.com:80/520/hacking-expression-engine-to-add-radio-buttons-and-checkboxes-to-custom-mem"
+title: >-
+  Hacking Expression Engine to add radio buttons and checkboxes to custom member
+  profile fields
+description: >-
+  Don’t get me wrong, I love Expression Engine but sometimes you just come up
+  against a brick wall and the only solution is to either pay someone to write
+  a...
+date: '2007-09-20'
+source: >-
+  http://nathanpitman.com/520/hacking-expression-engine-to-add-radio-buttons-and-checkboxes-to-custom-mem
+archive: >-
+  https://web.archive.org/web/20090701120857/http://nathanpitman.com:80/520/hacking-expression-engine-to-add-radio-buttons-and-checkboxes-to-custom-mem
 tags:
-  - "Code"
-  - "ExpressionEngine"
+  - Code
+  - ExpressionEngine
+relatedPosts:
+  - slug: let-devs-prefix-your-expressionengine-variables-with-a-custo
+    source: generated
+  - slug: i-ay-expression-engine
+    source: generated
+  - slug: expressionengine-plug-in-member-online
+    source: generated
+  - slug: expressionengine-plug-in-add-vat
+    source: generated
+  - slug: must-have-add-ons-for-any-new-eecms-project
+    source: generated
 ---
 
 Don’t get me wrong, I love [Expression Engine](http://www.expressionengine.com/index.php?affiliate=nathanpitman) but sometimes you just come up against a brick wall and the only solution is to either pay someone to write a very clever extension or hack the system files about yourself (not for the faint hearted!).

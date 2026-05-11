@@ -1,11 +1,25 @@
 ---
 title: Make Hotel Reservations
-description: "For some very obscure reason, somone has purchased my old domain ‘dovelop.com‘, and now they’re redirecting traffic to ‘Priceline‘."
-date: 2004-02-16
-source: http://nathanpitman.com/22/make-hotel-reservations
-archive: https://web.archive.org/web/20100117023146/http://nathanpitman.com:80/22/make-hotel-reservations
+description: >-
+  For some very obscure reason, somone has purchased my old domain
+  ‘dovelop.com‘, and now they’re redirecting traffic to ‘Priceline‘.
+date: '2004-02-16'
+source: 'http://nathanpitman.com/22/make-hotel-reservations'
+archive: >-
+  https://web.archive.org/web/20100117023146/http://nathanpitman.com:80/22/make-hotel-reservations
 tags:
-  - "Personal"
+  - Personal
+relatedPosts:
+  - slug: all-change
+    source: generated
+  - slug: a9-debut
+    source: generated
+  - slug: my-2005-wish-list
+    source: generated
+  - slug: the-snip
+    source: generated
+  - slug: 2-fingers-up-to-copy-control-audio-cds
+    source: generated
 ---
 
 For some very obscure reason, somone has purchased my old domain ‘[dovelop.com](http://www.dovelop.com/)‘, and now they’re redirecting traffic to ‘[Priceline](http://www.priceline.com/)‘.

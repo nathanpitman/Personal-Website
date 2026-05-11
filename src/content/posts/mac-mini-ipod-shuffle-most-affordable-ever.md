@@ -1,12 +1,26 @@
 ---
-title: Mac mini & iPod shuffle, most affordable ever
-description: "Apple announced two ‘amazing’ new products at Macworld today! They never cease to amaze, although I still reserve judgement on the nasty iMac."
-date: 2005-01-12
-source: http://nathanpitman.com/311/mac-mini-ipod-shuffle-most-affordable-ever
-archive: https://web.archive.org/web/20091209052931/http://nathanpitman.com:80/311/mac-mini-ipod-shuffle-most-affordable-ever
+title: 'Mac mini & iPod shuffle, most affordable ever'
+description: >-
+  Apple announced two ‘amazing’ new products at Macworld today! They never cease
+  to amaze, although I still reserve judgement on the nasty iMac.
+date: '2005-01-12'
+source: 'http://nathanpitman.com/311/mac-mini-ipod-shuffle-most-affordable-ever'
+archive: >-
+  https://web.archive.org/web/20091209052931/http://nathanpitman.com:80/311/mac-mini-ipod-shuffle-most-affordable-ever
 tags:
-  - "Design"
-  - "Technology"
+  - Design
+  - Technology
+relatedPosts:
+  - slug: third-gen-squeezebox
+    source: generated
+  - slug: new-mini-ipod-ipod-mini
+    source: generated
+  - slug: the-ipod-remixed-again
+    source: generated
+  - slug: mac-intel-ad
+    source: generated
+  - slug: mac-newbie-seeks-mac-guru-for-short-term-relationship
+    source: generated
 ---
 
 Apple announced two ‘amazing’ new products at Macworld today! They never cease to amaze, although I still reserve judgement on the [nasty iMac](http://www.nathanpitman.com/blog/index.php?id=234).

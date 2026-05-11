@@ -1,12 +1,28 @@
 ---
-title: "It’s not you, it’s me…"
-description: "I’m just not in love with ‘regular’ blogging like I was before. The spark has gone and it’s not coming back. Add to that the fact that I simply don’t have..."
-date: 2008-04-20
-source: "http://nathanpitman.com/531/its-not-you-its-me"
-archive: "https://web.archive.org/web/20100106035446/http://nathanpitman.com/531/its-not-you-its-me"
+title: 'It’s not you, it’s me…'
+description: >-
+  I’m just not in love with ‘regular’ blogging like I was before. The spark has
+  gone and it’s not coming back. Add to that the fact that I simply don’t
+  have...
+date: '2008-04-20'
+source: 'http://nathanpitman.com/531/its-not-you-its-me'
+archive: >-
+  https://web.archive.org/web/20100106035446/http://nathanpitman.com/531/its-not-you-its-me
 tags:
-  - "Blogging"
-  - "Personal"
+  - Blogging
+  - Personal
+relatedPosts:
+  - slug: inevitable
+    source: generated
+  - slug: should-i-blog-this
+    source: generated
+  - slug: >-
+      back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark
+    source: generated
+  - slug: witness-my-grizzled-visage
+    source: generated
+  - slug: all-change
+    source: generated
 ---
 
 I’m just not in love with ‘regular’ blogging like I was before. The spark has gone and it’s not coming back. Add to that the fact that I simply don’t have the time or the inclination to blog like I used to… it’s not you, it’s me.

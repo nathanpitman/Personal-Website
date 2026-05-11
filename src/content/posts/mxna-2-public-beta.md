@@ -1,12 +1,26 @@
 ---
 title: MXNA (2) Public Beta
-description: "Christian Cantrell and Mike Chambers are inviting all willing participants to put the new Macromedia XML News Aggregator through its paces."
-date: 2005-04-11
-source: http://nathanpitman.com/339/mxna-2-public-beta
-archive: https://web.archive.org/web/20091226144024/http://nathanpitman.com:80/339/mxna-2-public-beta
+description: >-
+  Christian Cantrell and Mike Chambers are inviting all willing participants to
+  put the new Macromedia XML News Aggregator through its paces.
+date: '2005-04-11'
+source: 'http://nathanpitman.com/339/mxna-2-public-beta'
+archive: >-
+  https://web.archive.org/web/20091226144024/http://nathanpitman.com:80/339/mxna-2-public-beta
 tags:
-  - "Code"
-  - "Web development"
+  - Code
+  - Web development
+relatedPosts:
+  - slug: rss-feeds-by-category
+    source: generated
+  - slug: cssvista-launched
+    source: generated
+  - slug: mark-of-the-web-or-why-ie6-sucks
+    source: generated
+  - slug: the-tools-of-my-trade
+    source: generated
+  - slug: web-standards-who-cares-anyway
+    source: generated
 ---
 
 [Christian Cantrell](http://www.markme.com/cantrell/archives/007405.cfm) and [Mike Chambers](http://www.markme.com/mesh/archives/007408.cfm) are inviting all willing participants to put the [new Macromedia XML News Aggregator](http://weblogs.macromedia.com/mxna/) through its paces.

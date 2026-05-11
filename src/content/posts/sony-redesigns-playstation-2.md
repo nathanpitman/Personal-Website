@@ -1,12 +1,24 @@
 ---
 title: Sony redesigns PlayStation 2
-description: "Sony have announced a new, redesigned version of its Playstation 2 console."
-date: 2004-09-22
-source: http://nathanpitman.com/249/sony-redesigns-playstation-2
-archive: https://web.archive.org/web/20100104105300/http://nathanpitman.com:80/249/sony-redesigns-playstation-2
+description: 'Sony have announced a new, redesigned version of its Playstation 2 console.'
+date: '2004-09-22'
+source: 'http://nathanpitman.com/249/sony-redesigns-playstation-2'
+archive: >-
+  https://web.archive.org/web/20100104105300/http://nathanpitman.com:80/249/sony-redesigns-playstation-2
 tags:
-  - "Consoles"
-  - "Technology"
+  - Consoles
+  - Technology
+relatedPosts:
+  - slug: ps3-downscales-blu-ray-to-480p-on-720p-hdtvs
+    source: generated
+  - slug: sony-playstation-3-unveiled
+    source: generated
+  - slug: ps3-launch-dates-confirmed
+    source: generated
+  - slug: goodbye-ps2-hello-360
+    source: generated
+  - slug: on-demand-movies-tv-coming-to-xbox-360
+    source: generated
 ---
 
 Sony have announced a [new, redesigned version of its Playstation 2](http://uk.playstation.com/news/newsStory.jhtml;jsessionid=ZPLUPIE1GXZAACQSBLUSMFQ?storyId=106058_en_GB_NEWS&linktype=PC115) console.

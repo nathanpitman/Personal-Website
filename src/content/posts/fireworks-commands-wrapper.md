@@ -1,12 +1,26 @@
 ---
 title: Fireworks Commands Wrapper
-description: "Kleanthis Economou has posted an updated Fireworks Commands Wrapper for Flash on the Macromedia Exchange. This allows you to author Fireworks Commands or..."
-date: 2004-04-21
-source: http://nathanpitman.com/73/fireworks-commands-wrapper
-archive: https://web.archive.org/web/20100106033728/http://nathanpitman.com/73/fireworks-commands-wrapper
+description: >-
+  Kleanthis Economou has posted an updated Fireworks Commands Wrapper for Flash
+  on the Macromedia Exchange. This allows you to author Fireworks Commands or...
+date: '2004-04-21'
+source: 'http://nathanpitman.com/73/fireworks-commands-wrapper'
+archive: >-
+  https://web.archive.org/web/20100106033728/http://nathanpitman.com/73/fireworks-commands-wrapper
 tags:
-  - "Extensions"
-  - "Fireworks"
+  - Extensions
+  - Fireworks
+relatedPosts:
+  - slug: extending-fireworks
+    source: generated
+  - slug: style-guidelines-for-publishing-fireworks-extensions
+    source: generated
+  - slug: creating-advanced-custom-fireworks-panels
+    source: generated
+  - slug: project-fireworks-release-first-commercial-fireworks-mx-exte
+    source: generated
+  - slug: fireworks-remote-procedure-calls
+    source: generated
 ---
 
 [Kleanthis Economou](http://www.projectfireworks.com/) has posted an updated [Fireworks Commands Wrapper](http://www.macromedia.com/cfusion/exchange/index.cfm#loc=en_us&view=sn111&viewName=Flash%20Extension&authorid=8645700&page=0&scrollPos=0&subcatid=0&snid=sn111&itemnumber=13&extid=1013904&catid=0) for Flash on the Macromedia Exchange. This allows you to author Fireworks Commands or Command Panels in Flash by addressing the Fireworks API using Acionscript.

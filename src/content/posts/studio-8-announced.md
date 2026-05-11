@@ -1,12 +1,27 @@
 ---
 title: Studio 8 Announced
-description: "Macromedia have gone public on ‘“Studio 8”:http://www.macromedia.com/software/studio/’. The final installment perhaps before we see a combined effort from..."
-date: 2005-08-08
-source: http://nathanpitman.com/386/studio-8-announced
-archive: https://web.archive.org/web/20100113103632/http://nathanpitman.com:80/386/studio-8-announced
+description: >-
+  Macromedia have gone public on ‘“Studio
+  8”:http://www.macromedia.com/software/studio/’. The final installment perhaps
+  before we see a combined effort from...
+date: '2005-08-08'
+source: 'http://nathanpitman.com/386/studio-8-announced'
+archive: >-
+  https://web.archive.org/web/20100113103632/http://nathanpitman.com:80/386/studio-8-announced
 tags:
-  - "Adobe"
-  - "Branding"
+  - Adobe
+  - Branding
+relatedPosts:
+  - slug: goodbye-macromedia-com
+    source: generated
+  - slug: flash-video-kit-announced
+    source: generated
+  - slug: when-upgrades-turn-bad
+    source: generated
+  - slug: goodbye-dear-friend
+    source: generated
+  - slug: team-macromedia-fireworks
+    source: generated
 ---
 
 Macromedia have gone public on ‘“Studio 8”:http://www.macromedia.com/software/studio/’. The final installment perhaps before we see a combined effort from the [Macromedia and Adobe](http://nathanpitman.com/journal/344/adobe-to-acquire-macromedia) software development teams.

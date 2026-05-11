@@ -1,12 +1,26 @@
 ---
 title: Easy comments in Flash
-description: "My good friend Steven Grosvenor has written a new Command Panel for Flash which provides an interface to add comments to Flash files."
-date: 2004-08-31
-source: http://nathanpitman.com/232/easy-comments-in-flash
-archive: https://web.archive.org/web/20100107203335/http://nathanpitman.com:80/232/easy-comments-in-flash
+description: >-
+  My good friend Steven Grosvenor has written a new Command Panel for Flash
+  which provides an interface to add comments to Flash files.
+date: '2004-08-31'
+source: 'http://nathanpitman.com/232/easy-comments-in-flash'
+archive: >-
+  https://web.archive.org/web/20100107203335/http://nathanpitman.com:80/232/easy-comments-in-flash
 tags:
-  - "Extensions"
-  - "Flash"
+  - Extensions
+  - Flash
+relatedPosts:
+  - slug: the-flash-anthology-cool-effects-practical-actionscript
+    source: generated
+  - slug: flash-video-kit-announced
+    source: generated
+  - slug: populating-a-flash-application-with-data-from-mysql-via-php
+    source: generated
+  - slug: calling-all-freelance-flash-developers
+    source: generated
+  - slug: when-flash-is-good
+    source: generated
 ---
 
 My good friend Steven Grosvenor has written a new Command Panel for Flash which provides an interface to add comments to Flash files.

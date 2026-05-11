@@ -1,11 +1,26 @@
 ---
 title: Windows Vista
-description: "So I hear via foo that the next version of Windows is to be branded ‘“Vista”:http://www.microsoft.com/windowsvista/’ which according to the Visual Thesaurus..."
-date: 2005-07-23
-source: http://nathanpitman.com/379/windows-vista
-archive: https://web.archive.org/web/20090528235208/http://nathanpitman.com:80/379/windows-vista
+description: >-
+  So I hear via foo that the next version of Windows is to be branded
+  ‘“Vista”:http://www.microsoft.com/windowsvista/’ which according to the Visual
+  Thesaurus...
+date: '2005-07-23'
+source: 'http://nathanpitman.com/379/windows-vista'
+archive: >-
+  https://web.archive.org/web/20090528235208/http://nathanpitman.com:80/379/windows-vista
 tags:
-  - "Branding"
+  - Branding
+relatedPosts:
+  - slug: studio-8-announced
+    source: generated
+  - slug: catching-an-expiring-domain-name
+    source: generated
+  - slug: branded-bird-madness
+    source: generated
+  - slug: print-designer-i-aint-update
+    source: generated
+  - slug: doesnt-do-what-it-says-on-the-tin-anymore
+    source: generated
 ---
 
 So I hear via [foo](http://www.forgetfoo.com/) that the next version of Windows is to be branded ‘“Vista”:http://www.microsoft.com/windowsvista/’ which according to the [Visual Thesaurus](http://www.visualthesaurus.com/) means ‘the percept of a region’.

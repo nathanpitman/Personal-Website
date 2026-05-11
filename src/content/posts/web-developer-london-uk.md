@@ -1,11 +1,25 @@
 ---
-title: "Web Developer - London, UK"
-description: "JPCreative – a successful and busy London based design & communications agency with a 10 year track record in delivering award winning creative solutions..."
-date: 2008-07-12
-source: "http://nathanpitman.com/543/web-developer-london-uk"
-archive: "https://web.archive.org/web/20090616071957/http://nathanpitman.com:80/543/web-developer-london-uk"
+title: 'Web Developer - London, UK'
+description: >-
+  JPCreative – a successful and busy London based design & communications agency
+  with a 10 year track record in delivering award winning creative solutions...
+date: '2008-07-12'
+source: 'http://nathanpitman.com/543/web-developer-london-uk'
+archive: >-
+  https://web.archive.org/web/20090616071957/http://nathanpitman.com:80/543/web-developer-london-uk
 tags:
-  - "Jobs"
+  - Jobs
+relatedPosts:
+  - slug: junior-creative-developer-london-uk
+    source: generated
+  - slug: web-developer-south-east-uk
+    source: generated
+  - slug: web-developer-berkshire-uk
+    source: generated
+  - slug: web-developer-reqd-windsor-berks-uk
+    source: generated
+  - slug: web-developer-required-berkshire-uk
+    source: generated
 ---
 
 JPCreative – a successful and busy London based design & communications agency with a 10 year track record in delivering award winning creative solutions are seeking to add to our team with the introduction of a Middleweight Web Developer with great communication skills.

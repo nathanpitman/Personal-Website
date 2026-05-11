@@ -1,12 +1,26 @@
 ---
 title: Phireworx SmartTabs
-description: "Phireworx have just released ‘SmartTabs’ which is an AutoShape for Fireworks MX 2004."
-date: 2004-03-23
-source: http://nathanpitman.com/33/phireworx-smarttabs
-archive: https://web.archive.org/web/20091225122229/http://nathanpitman.com:80/33/phireworx-smarttabs
+description: >-
+  Phireworx have just released ‘SmartTabs’ which is an AutoShape for Fireworks
+  MX 2004.
+date: '2004-03-23'
+source: 'http://nathanpitman.com/33/phireworx-smarttabs'
+archive: >-
+  https://web.archive.org/web/20091225122229/http://nathanpitman.com:80/33/phireworx-smarttabs
 tags:
-  - "Extensions"
-  - "Fireworks"
+  - Extensions
+  - Fireworks
+relatedPosts:
+  - slug: phireworx-release-shapeshifter-set-2-for-fireworks-mx
+    source: generated
+  - slug: phireworx-release-super-guides-for-fireworks-mx
+    source: generated
+  - slug: phireworx-image-edger-pro
+    source: generated
+  - slug: new-phireworx-commands-on-the-way
+    source: generated
+  - slug: phireworx-batch-resizer
+    source: generated
 ---
 
 [Phireworx](http://www.phireworx.com/) have just released ‘SmartTabs’ which is an AutoShape for Fireworks MX 2004.

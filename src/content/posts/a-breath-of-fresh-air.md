@@ -1,12 +1,26 @@
 ---
 title: A breath of fresh air…
-description: "After months of ‘trying’ to find the time we eventually ‘made’ the time here at Mirashade to re-vamp our site."
-date: 2004-08-03
-source: http://nathanpitman.com/227/a-breath-of-fresh-air
-archive: https://web.archive.org/web/20100113090659/http://nathanpitman.com:80/227/a-breath-of-fresh-air
+description: >-
+  After months of ‘trying’ to find the time we eventually ‘made’ the time here
+  at Mirashade to re-vamp our site.
+date: '2004-08-03'
+source: 'http://nathanpitman.com/227/a-breath-of-fresh-air'
+archive: >-
+  https://web.archive.org/web/20100113090659/http://nathanpitman.com:80/227/a-breath-of-fresh-air
 tags:
-  - "Design"
-  - "Textpattern"
+  - Design
+  - Textpattern
+relatedPosts:
+  - slug: a-fresh-lick-of-paint-for-pro-bel
+    source: generated
+  - slug: senior-graphic-designer-required-berkshire-uk
+    source: generated
+  - slug: a-grown-up-kind-of-green
+    source: generated
+  - slug: footer-fetish
+    source: generated
+  - slug: textpattern-1-0
+    source: generated
 ---
 
 After months of ‘trying’ to find the time we eventually ‘made’ the time here at Mirashade to re-vamp [our site](http://www.mirashade.com/).

@@ -1,11 +1,26 @@
 ---
 title: Small budgets are great
-description: "I just put the finishing touches to a little budget site we’ve done here at Mirashade for a partner of ours. This particular job reminds me how enjoyable it..."
-date: 2004-04-08
-source: http://nathanpitman.com/42/small-budgets-are-great
-archive: https://web.archive.org/web/20100113165328/http://nathanpitman.com:80/42/small-budgets-are-great
+description: >-
+  I just put the finishing touches to a little budget site we’ve done here at
+  Mirashade for a partner of ours. This particular job reminds me how enjoyable
+  it...
+date: '2004-04-08'
+source: 'http://nathanpitman.com/42/small-budgets-are-great'
+archive: >-
+  https://web.archive.org/web/20100113165328/http://nathanpitman.com:80/42/small-budgets-are-great
 tags:
-  - "Code"
+  - Code
+relatedPosts:
+  - slug: pink-cow-s
+    source: generated
+  - slug: sidebar-explorer-bar-queries
+    source: generated
+  - slug: fun-with-sessions
+    source: generated
+  - slug: mxna-2-public-beta
+    source: generated
+  - slug: something-weird-with-php-includes
+    source: generated
 ---
 
 I just put the finishing touches to a little budget site we’ve done here at [Mirashade](http://www.mirashade.com/) for a [partner of ours](http://www.effectiveps.co.uk/). This particular job reminds me how enjoyable it is to work on smaller projects where you see the job through from start to finish in a matter of days.

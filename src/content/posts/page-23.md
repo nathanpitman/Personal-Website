@@ -1,11 +1,22 @@
 ---
 title: Page 23
-description: "Drew told me to:"
-date: 2004-04-16
-source: http://nathanpitman.com/68/page-23
-archive: https://web.archive.org/web/20111009203601/http://nathanpitman.com/68/page-23
+description: 'Drew told me to:'
+date: '2004-04-16'
+source: 'http://nathanpitman.com/68/page-23'
+archive: 'https://web.archive.org/web/20111009203601/http://nathanpitman.com/68/page-23'
 tags:
-  - "Personal"
+  - Personal
+relatedPosts:
+  - slug: 2005-wish-list-update-1
+    source: generated
+  - slug: the-longest-non-classical-song
+    source: generated
+  - slug: my-2005-wish-list
+    source: generated
+  - slug: all-change
+    source: generated
+  - slug: a9-debut
+    source: generated
 ---
 
 [Drew](http://www.allinthehead.com/) told me to:  

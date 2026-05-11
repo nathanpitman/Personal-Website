@@ -1,11 +1,23 @@
 ---
-title: "Ruby on Rails Developers - Windsor, UK"
-description: "A job listing for Ruby on Rails developers at Global Personals in Windsor, UK."
-date: 2009-03-18
-source: "http://nathanpitman.com/576/ruby-on-rails-developers-windsor-uk"
-archive: "https://web.archive.org/web/20090518024053/http://nathanpitman.com:80/576/ruby-on-rails-developers-windsor-uk"
+title: 'Ruby on Rails Developers - Windsor, UK'
+description: 'A job listing for Ruby on Rails developers at Global Personals in Windsor, UK.'
+date: '2009-03-18'
+source: 'http://nathanpitman.com/576/ruby-on-rails-developers-windsor-uk'
+archive: >-
+  https://web.archive.org/web/20090518024053/http://nathanpitman.com:80/576/ruby-on-rails-developers-windsor-uk
 tags:
-  - "Jobs"
+  - Jobs
+relatedPosts:
+  - slug: coldfusion-developer-windsor-uk
+    source: generated
+  - slug: 2-x-web-developers-berkshire-uk
+    source: generated
+  - slug: looking-for-asp-developers
+    source: generated
+  - slug: web-developer-reqd-windsor-berks-uk
+    source: generated
+  - slug: calling-all-freelance-flash-developers
+    source: generated
 ---
 
 Global Personals Limited / WhiteLabelDating.com are looking for Ruby on Rails Developers to work from their Windsor office here in the UK. If you think you might fit the bill drop Ross Williams a line () and be sure to mention that I sent you. Job details follow:

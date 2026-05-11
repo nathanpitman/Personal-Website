@@ -1,12 +1,24 @@
 ---
-title: Senior Graphic Designer Required… (Berkshire, UK)
-description: "Via Mirashade..."
-date: 2004-11-12
-source: http://nathanpitman.com/285/senior-graphic-designer-required-berkshire-uk
-archive: https://web.archive.org/web/20100106035042/http://nathanpitman.com/285/senior-graphic-designer-required-berkshire-uk
+title: 'Senior Graphic Designer Required… (Berkshire, UK)'
+description: Via Mirashade...
+date: '2004-11-12'
+source: 'http://nathanpitman.com/285/senior-graphic-designer-required-berkshire-uk'
+archive: >-
+  https://web.archive.org/web/20100106035042/http://nathanpitman.com/285/senior-graphic-designer-required-berkshire-uk
 tags:
-  - "Design"
-  - "Jobs"
+  - Design
+  - Jobs
+relatedPosts:
+  - slug: my-employers-are-looking-for-a-new-media-developer
+    source: generated
+  - slug: web-developer-required-berkshire-uk
+    source: generated
+  - slug: twisted-animator-required-berkshire-uk
+    source: generated
+  - slug: flash-web-designer-reqd-wokingham-berks-uk
+    source: generated
+  - slug: web-dev-reqd-reading-berkshire-uk
+    source: generated
 ---
 
 Via [Mirashade](http://www.mirashade.com/)...

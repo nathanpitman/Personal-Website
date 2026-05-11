@@ -1,12 +1,26 @@
 ---
-title: "Migrating from TXP to EE - Step 2"
-description: "Step 2: exporting data from Textpattern in preparation for import into ExpressionEngine."
-date: 2008-09-26
-source: "http://nathanpitman.com/554/migrating-from-txp-to-ee-step-2"
-archive: "https://web.archive.org/web/20090518092414/http://nathanpitman.com:80/554/migrating-from-txp-to-ee-step-2"
+title: Migrating from TXP to EE - Step 2
+description: >-
+  Step 2: exporting data from Textpattern in preparation for import into
+  ExpressionEngine.
+date: '2008-09-26'
+source: 'http://nathanpitman.com/554/migrating-from-txp-to-ee-step-2'
+archive: >-
+  https://web.archive.org/web/20090518092414/http://nathanpitman.com:80/554/migrating-from-txp-to-ee-step-2
 tags:
-  - "ExpressionEngine"
-  - "Textpattern"
+  - ExpressionEngine
+  - Textpattern
+relatedPosts:
+  - slug: migrating-from-txp-to-ee-step-1
+    source: generated
+  - slug: migrating-from-txp-to-ee-step-3
+    source: generated
+  - slug: migrating-from-txp-to-ee-step-4
+    source: generated
+  - slug: migrating-from-txp-to-ee-step-5
+    source: generated
+  - slug: migrating-from-txp-to-ee-conclusion
+    source: generated
 ---
 
 So now we have our [ExpressionEngine](http://www.expressionengine.com/index.php?affiliate=nathanpitman) install pretty much ready we need to export our data from Textpattern. At this point it may be wise to upgrade your Textpattern install to the [latest release](http://www.textpattern.com/download).

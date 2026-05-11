@@ -1,11 +1,26 @@
 ---
 title: Styling Horizontal Rules with CSS
-description: "Tip of the day… don’t waste hours trying to style Horizontal Rules consistently in different browsers. Instead wrap your HR in a div, set the HR to"
-date: 2004-10-26
-source: http://nathanpitman.com/275/styling-horizontal-rules-with-css
-archive: https://web.archive.org/web/20090609213710/http://nathanpitman.com:80/275/styling-horizontal-rules-with-css
+description: >-
+  Tip of the day… don’t waste hours trying to style Horizontal Rules
+  consistently in different browsers. Instead wrap your HR in a div, set the HR
+  to
+date: '2004-10-26'
+source: 'http://nathanpitman.com/275/styling-horizontal-rules-with-css'
+archive: >-
+  https://web.archive.org/web/20090609213710/http://nathanpitman.com:80/275/styling-horizontal-rules-with-css
 tags:
-  - "Code"
+  - Code
+relatedPosts:
+  - slug: 3d-css-box-model
+    source: generated
+  - slug: css3-in-firefox
+    source: generated
+  - slug: interactive-3d-css-box-model
+    source: generated
+  - slug: a-simple-javascript-to-toggle-page-elements
+    source: generated
+  - slug: adding-on-hover-copyright-to-lightbox
+    source: generated
 ---
 
 Tip of the day… don’t waste hours trying to style Horizontal Rules consistently in different browsers. Instead wrap your HR in a div, set the HR to

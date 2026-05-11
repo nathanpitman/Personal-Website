@@ -1,12 +1,26 @@
 ---
-title: "Ubuntu, Ubuntu they drink it in the congo"
-description: "First impressions of Ubuntu Linux — installation notes and early thoughts on switching from Windows."
-date: 2006-03-24
-source: "http://nathanpitman.com/467/ubuntu-ubuntu-they-drink-it-in-the-congo"
-archive: "https://web.archive.org/web/20091209173054/http://nathanpitman.com:80/467/ubuntu-ubuntu-they-drink-it-in-the-congo"
+title: 'Ubuntu, Ubuntu they drink it in the congo'
+description: >-
+  First impressions of Ubuntu Linux — installation notes and early thoughts on
+  switching from Windows.
+date: '2006-03-24'
+source: 'http://nathanpitman.com/467/ubuntu-ubuntu-they-drink-it-in-the-congo'
+archive: >-
+  https://web.archive.org/web/20091209173054/http://nathanpitman.com:80/467/ubuntu-ubuntu-they-drink-it-in-the-congo
 tags:
-  - "Linux"
-  - "Web development"
+  - Linux
+  - Web development
+relatedPosts:
+  - slug: setting-up-a-lamp-server-part-1
+    source: generated
+  - slug: linux-virgin
+    source: generated
+  - slug: installing-instiki-on-debian
+    source: generated
+  - slug: linux-virgin-no-more
+    source: generated
+  - slug: mark-of-the-web-or-why-ie6-sucks
+    source: generated
 ---
 
 I’ve been wanting to perform a bit of an update on my local dev server for a while, I’m currently running [Debian](http://www.debian.org/) with the usual LAMP suspects (Apache, PHP and MySQL) but had never been able to get little extras like the GD image libraries up and running for my lack of Linux knowledge and total lack of desire to spend hours working out exactly what I needed to do.

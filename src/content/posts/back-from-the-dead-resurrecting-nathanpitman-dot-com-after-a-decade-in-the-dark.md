@@ -1,16 +1,30 @@
 ---
-title: "Back From the Dead: Resurrecting nathanpitman.com After a Decade in the Dark"
-description: "The story of how nathanpitman.com — a personal blog that went dark when its host shut down — was recovered from the Wayback Machine and rebuilt with Astro."
-date: 2026-03-19
+title: 'Back From the Dead: Resurrecting nathanpitman.com After a Decade in the Dark'
+description: >-
+  The story of how nathanpitman.com — a personal blog that went dark when its
+  host shut down — was recovered from the Wayback Machine and rebuilt with
+  Astro.
+date: '2026-03-19'
 tags:
-  - "AI"
-  - "Blogging"
-  - "Technology"
-  - "This website"
-  - "ExpressionEngine"
-  - "Textpattern"
-  - "Astro"
+  - AI
+  - Blogging
+  - Technology
+  - This website
+  - ExpressionEngine
+  - Textpattern
+  - Astro
 hidden: false
+relatedPosts:
+  - slug: migrating-from-txp-to-ee-step-1
+    source: generated
+  - slug: migrating-from-txp-to-ee-step-4
+    source: generated
+  - slug: migrating-from-txp-to-ee-step-3
+    source: generated
+  - slug: migrating-from-txp-to-ee-conclusion
+    source: generated
+  - slug: bah-its-ghastly
+    source: generated
 ---
 
 *This blog post has been written by [Claude](https://claude.ai), with technical input from [Replit](https://replit.com/refer/nathanpitman) and prompting by Nathan Pitman.*

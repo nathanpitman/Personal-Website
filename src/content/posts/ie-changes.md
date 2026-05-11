@@ -1,12 +1,26 @@
 ---
 title: IE changes
-description: "What this means for developers is that any site which you have built using ‘plug-in’ technology such as Flash, Windows Media Player, QuickTime or Real..."
-date: 2003-10-07
-source: http://nathanpitman.com/92/ie-changes
-archive: https://web.archive.org/web/20100106033351/http://nathanpitman.com/92/ie-changes
+description: >-
+  What this means for developers is that any site which you have built using
+  ‘plug-in’ technology such as Flash, Windows Media Player, QuickTime or Real...
+date: '2003-10-07'
+source: 'http://nathanpitman.com/92/ie-changes'
+archive: >-
+  https://web.archive.org/web/20100106033351/http://nathanpitman.com/92/ie-changes
 tags:
-  - "Adobe"
-  - "Technology"
+  - Adobe
+  - Technology
+relatedPosts:
+  - slug: when-upgrades-turn-bad
+    source: generated
+  - slug: macromedia-devnet-travel-mug-up-for-grabs
+    source: generated
+  - slug: team-macromedia-fireworks
+    source: generated
+  - slug: macromedia-devnet-resource-kit-vol-8-released
+    source: generated
+  - slug: macromedia-announce-flash-paper-2-and-contribute-3
+    source: generated
 ---
 
 What this means for developers is that any site which you have built using ‘plug-in’ technology such as Flash, Windows Media Player, QuickTime or Real Player will act differently.

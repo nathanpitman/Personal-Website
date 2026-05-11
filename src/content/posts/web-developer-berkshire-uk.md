@@ -1,11 +1,23 @@
 ---
-title: "Web Developer - Berkshire, UK."
-description: "Update: This position has now been filled."
-date: 2007-11-15
-source: "http://nathanpitman.com/526/web-developer-berkshire-uk"
-archive: "https://web.archive.org/web/20100106013658/http://nathanpitman.com:80/526/web-developer-berkshire-uk"
+title: 'Web Developer - Berkshire, UK.'
+description: 'Update: This position has now been filled.'
+date: '2007-11-15'
+source: 'http://nathanpitman.com/526/web-developer-berkshire-uk'
+archive: >-
+  https://web.archive.org/web/20100106013658/http://nathanpitman.com:80/526/web-developer-berkshire-uk
 tags:
-  - "Jobs"
+  - Jobs
+relatedPosts:
+  - slug: web-developer-required-berkshire-uk
+    source: generated
+  - slug: web-developer-south-east-uk
+    source: generated
+  - slug: web-developer-london-uk
+    source: generated
+  - slug: 2-x-web-developers-berkshire-uk
+    source: generated
+  - slug: web-dev-reqd-reading-berkshire-uk
+    source: generated
 ---
 
 **Update:** This position has now been filled.

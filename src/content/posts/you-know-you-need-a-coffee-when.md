@@ -1,11 +1,23 @@
 ---
 title: You know you need a coffee when…
-description: "You know you need a coffee when…"
-date: 2006-01-09
-source: http://nathanpitman.com/437/you-know-you-need-a-coffee-when
-archive: https://web.archive.org/web/20091209021210/http://nathanpitman.com:80/437/you-know-you-need-a-coffee-when
+description: You know you need a coffee when…
+date: '2006-01-09'
+source: 'http://nathanpitman.com/437/you-know-you-need-a-coffee-when'
+archive: >-
+  https://web.archive.org/web/20091209021210/http://nathanpitman.com:80/437/you-know-you-need-a-coffee-when
 tags:
-  - "Web development"
+  - Web development
+relatedPosts:
+  - slug: search-stop-words
+    source: generated
+  - slug: time-for-a-new-text-editor
+    source: generated
+  - slug: automating-an-availability-statement-in-php
+    source: generated
+  - slug: customer-service-the-right-way
+    source: generated
+  - slug: expression-engine-goes-free
+    source: generated
 ---
 
 You know you need a coffee when…

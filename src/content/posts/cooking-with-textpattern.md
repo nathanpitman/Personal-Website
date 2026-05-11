@@ -1,12 +1,27 @@
 ---
 title: Cooking with Textpattern
-description: "I’ve done a bit of an upgrade, I’ve finally gotton round to implimenting ‘Textpattern‘ in place of my old home baked blog authoring tool, which really..."
-date: 2004-04-05
-source: http://nathanpitman.com/36/cooking-with-textpattern
-archive: https://web.archive.org/web/20100107095230/http://nathanpitman.com:80/36/cooking-with-textpattern
+description: >-
+  I’ve done a bit of an upgrade, I’ve finally gotton round to implimenting
+  ‘Textpattern‘ in place of my old home baked blog authoring tool, which
+  really...
+date: '2004-04-05'
+source: 'http://nathanpitman.com/36/cooking-with-textpattern'
+archive: >-
+  https://web.archive.org/web/20100107095230/http://nathanpitman.com:80/36/cooking-with-textpattern
 tags:
-  - "Personal"
-  - "Textpattern"
+  - Personal
+  - Textpattern
+relatedPosts:
+  - slug: textpattern-1-0
+    source: generated
+  - slug: textpattern-cake-nearly-ready
+    source: generated
+  - slug: another-blog-switch-to-textpattern
+    source: generated
+  - slug: textpattern-plugins
+    source: generated
+  - slug: textpattern-resources
+    source: generated
 ---
 
 I’ve done a bit of an upgrade, I’ve finally gotton round to implimenting ‘[Textpattern](http://www.textpattern.com/)‘ in place of my old home baked blog authoring tool, which really didn’t rise to the challenge.

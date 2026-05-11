@@ -1,11 +1,25 @@
 ---
 title: I’m a dad!
-description: "After 9 months to the day our daughter ‘Neve Michelle Pitman’ arrived today. She is absolutely the most amazing thing I have ever seen."
-date: 2004-03-14
-source: http://nathanpitman.com/32/im-a-dad
-archive: https://web.archive.org/web/20100102212307/http://nathanpitman.com:80/32/im-a-dad
+description: >-
+  After 9 months to the day our daughter ‘Neve Michelle Pitman’ arrived today.
+  She is absolutely the most amazing thing I have ever seen.
+date: '2004-03-14'
+source: 'http://nathanpitman.com/32/im-a-dad'
+archive: >-
+  https://web.archive.org/web/20100102212307/http://nathanpitman.com:80/32/im-a-dad
 tags:
-  - "Personal"
+  - Personal
+relatedPosts:
+  - slug: im-going-to-be-a-dad
+    source: generated
+  - slug: two-months-old
+    source: generated
+  - slug: one-month-old
+    source: generated
+  - slug: seasons-greetings
+    source: generated
+  - slug: in-da-hood
+    source: generated
 ---
 
 After 9 months to the day our daughter ‘Neve Michelle Pitman’ arrived today. She is absolutely the most amazing thing I have ever seen.

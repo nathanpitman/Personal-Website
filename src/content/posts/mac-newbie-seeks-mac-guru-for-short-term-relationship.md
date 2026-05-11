@@ -1,12 +1,27 @@
 ---
 title: Mac newbie seeks Mac guru for short term relationship
-description: "On Friday I finished up at Mirashade and today was my first day at my new place, Bite CP."
-date: 2005-07-04
-source: http://nathanpitman.com/372/mac-newbie-seeks-mac-guru-for-short-term-relationship
-archive: https://web.archive.org/web/20090609020553/http://nathanpitman.com:80/372/mac-newbie-seeks-mac-guru-for-short-term-relationship
+description: >-
+  On Friday I finished up at Mirashade and today was my first day at my new
+  place, Bite CP.
+date: '2005-07-04'
+source: >-
+  http://nathanpitman.com/372/mac-newbie-seeks-mac-guru-for-short-term-relationship
+archive: >-
+  https://web.archive.org/web/20090609020553/http://nathanpitman.com:80/372/mac-newbie-seeks-mac-guru-for-short-term-relationship
 tags:
-  - "Apple"
-  - "Technology"
+  - Apple
+  - Technology
+relatedPosts:
+  - slug: first-impressions-of-the-3rd-gen-apple-tv
+    source: generated
+  - slug: my-thoughts-on-apple-tv-apps
+    source: generated
+  - slug: pah-out-with-the-mac
+    source: generated
+  - slug: just-to-clarify-my-position-in-the-mac-vs-pc-debate
+    source: generated
+  - slug: mac-mini-ipod-shuffle-most-affordable-ever
+    source: generated
 ---
 
 On Friday I finished up at Mirashade and today was my first day at my new place, [Bite CP](http://www.bitecp.com/).

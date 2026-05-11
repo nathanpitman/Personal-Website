@@ -1,11 +1,25 @@
 ---
 title: Linux virgin
-description: "Today I’m going to pick up a couple of old Dell PC’s from my dads workplace. What would I want with a couple of old PCs you may ask."
-date: 2005-06-02
-source: http://nathanpitman.com/366/linux-virgin
-archive: https://web.archive.org/web/20111009173109/http://nathanpitman.com/366/linux-virgin
+description: >-
+  Today I’m going to pick up a couple of old Dell PC’s from my dads workplace.
+  What would I want with a couple of old PCs you may ask.
+date: '2005-06-02'
+source: 'http://nathanpitman.com/366/linux-virgin'
+archive: >-
+  https://web.archive.org/web/20111009173109/http://nathanpitman.com/366/linux-virgin
 tags:
-  - "Web development"
+  - Web development
+relatedPosts:
+  - slug: linux-virgin-no-more
+    source: generated
+  - slug: setting-up-a-lamp-server-part-1
+    source: generated
+  - slug: a-fresh-lick-of-paint-for-pro-bel
+    source: generated
+  - slug: ubuntu-ubuntu-they-drink-it-in-the-congo
+    source: generated
+  - slug: mark-of-the-web-or-why-ie6-sucks
+    source: generated
 ---
 
 Today I’m going to pick up a couple of old Dell PC’s from [my dads workplace](http://www.pro-bel.com/). What would I want with a couple of old PCs you may ask.

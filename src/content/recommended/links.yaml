@@ -1,0 +1,28 @@
+# Add recommended blogs and sites here.
+# Each entry: title, url, description. Set hidden: true to temporarily suppress an entry.
+
+- title: "Revert To Saved"
+  url: "https://reverttosaved.com"
+  description: "Craig Grannell on technology, Apple, gaming and design."
+  hidden: false
+
+- title: "Simon Willison’s Weblog"
+  url: "https://simonwillison.net"
+  description: "Simon Willison’s thoughts on technology, web development, and more."
+  hidden: false
+
+- title: "Daring Fireball"
+  url: "https://daringfireball.net"
+  description: "John Gruber’s weblog."
+  hidden: false
+
+- title: "Stuff & Nonsense"
+  url: "https://stuffandnonsense.co.uk/blog"
+  description: ""
+  hidden: true
+
+- title: "The Verge"
+  url: "https://www.theverge.com"
+  description: "The Verge covers the intersection of technology, science, art, and culture."
+  hidden: false
+

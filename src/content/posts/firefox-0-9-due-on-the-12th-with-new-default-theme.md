@@ -1,11 +1,25 @@
 ---
 title: Firefox 0.9 due on the 12th with new default theme
-description: "The mozillaZine Forums are citing a 12th or 14th of June release for Firefox 0.9…"
-date: 2004-06-07
-source: http://nathanpitman.com/169/firefox-09-due-on-the-12th-with-new-default-theme
-archive: https://web.archive.org/web/20100113090652/http://nathanpitman.com:80/169/firefox-09-due-on-the-12th-with-new-default-theme
+description: >-
+  The mozillaZine Forums are citing a 12th or 14th of June release for Firefox
+  0.9…
+date: '2004-06-07'
+source: 'http://nathanpitman.com/169/firefox-09-due-on-the-12th-with-new-default-theme'
+archive: >-
+  https://web.archive.org/web/20100113090652/http://nathanpitman.com:80/169/firefox-09-due-on-the-12th-with-new-default-theme
 tags:
-  - "Technology"
+  - Technology
+relatedPosts:
+  - slug: firefox-0-9-released
+    source: generated
+  - slug: where-is-firefox-1-0
+    source: generated
+  - slug: mozilla-launches-firefox-1-0
+    source: generated
+  - slug: firefox-start-page
+    source: generated
+  - slug: new-beastie-boys-album-is-evil-apparently
+    source: generated
 ---
 
 The mozillaZine Forums are citing a [12th or 14th of June release](http://forums.mozillazine.org/viewtopic.php?t=81943) for Firefox 0.9…

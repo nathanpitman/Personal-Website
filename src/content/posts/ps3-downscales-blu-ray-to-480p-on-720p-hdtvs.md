@@ -1,12 +1,26 @@
 ---
-title: "PS3 downscales Blu-ray to 480p on 720p HDTVs"
-description: "Having just read through a really rather good interview over at Ars Technica I was astounded by following statement made by Ben Kuchera:"
-date: 2007-01-04
-source: "http://nathanpitman.com/495/ps3-downscales-blu-ray-to-480p-on-720p-hdtvs"
-archive: "https://web.archive.org/web/20090524013453/http://nathanpitman.com:80/495/ps3-downscales-blu-ray-to-480p-on-720p-hdtvs"
+title: PS3 downscales Blu-ray to 480p on 720p HDTVs
+description: >-
+  Having just read through a really rather good interview over at Ars Technica I
+  was astounded by following statement made by Ben Kuchera:
+date: '2007-01-04'
+source: 'http://nathanpitman.com/495/ps3-downscales-blu-ray-to-480p-on-720p-hdtvs'
+archive: >-
+  https://web.archive.org/web/20090524013453/http://nathanpitman.com:80/495/ps3-downscales-blu-ray-to-480p-on-720p-hdtvs
 tags:
-  - "Consoles"
-  - "Technology"
+  - Consoles
+  - Technology
+relatedPosts:
+  - slug: sony-redesigns-playstation-2
+    source: generated
+  - slug: blu-ray-is-dead
+    source: generated
+  - slug: on-demand-movies-tv-coming-to-xbox-360
+    source: generated
+  - slug: goodbye-ps2-hello-360
+    source: generated
+  - slug: sony-playstation-3-unveiled
+    source: generated
 ---
 
 Having just read through a [really rather good interview](http://arstechnica.com/articles/headstart.ars/1) over at Ars Technica I was astounded by following statement made by Ben Kuchera:

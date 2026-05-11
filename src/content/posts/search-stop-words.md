@@ -1,11 +1,25 @@
 ---
-title: "Search stop words"
-description: "While writing a simple search plug-in for ExpressionEngine I went looking for a nicely formatted array or CSV file of ‘stop words’ which I could diff my..."
-date: 2010-08-10
-source: "http://nathanpitman.com/600/search-stop-words"
-archive: "https://web.archive.org/web/20100823010421/http://nathanpitman.com:80/600/search-stop-words"
+title: Search stop words
+description: >-
+  While writing a simple search plug-in for ExpressionEngine I went looking for
+  a nicely formatted array or CSV file of ‘stop words’ which I could diff my...
+date: '2010-08-10'
+source: 'http://nathanpitman.com/600/search-stop-words'
+archive: >-
+  https://web.archive.org/web/20100823010421/http://nathanpitman.com:80/600/search-stop-words
 tags:
-  - "Web development"
+  - Web development
+relatedPosts:
+  - slug: you-know-you-need-a-coffee-when
+    source: generated
+  - slug: let-devs-prefix-your-expressionengine-variables-with-a-custo
+    source: generated
+  - slug: why-choose-expressionengine
+    source: generated
+  - slug: expression-engine-goes-free
+    source: generated
+  - slug: customer-service-the-right-way
+    source: generated
 ---
 
 While writing a simple search plug-in for [ExpressionEngine](http://www.expressionengine.com/index.php?affiliate=nathanpitman) I went looking for a nicely formatted array or CSV file of ‘stop words’ which I could diff my search string against. Didn’t find anything which was an easy copy/paste so I thought I’d post the content that I [adapted from the MySQL docs](http://dev.mysql.com/doc/refman/5.0/en/fulltext-stopwords.html) here for others to use. :)

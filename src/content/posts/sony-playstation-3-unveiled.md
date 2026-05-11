@@ -1,12 +1,27 @@
 ---
 title: Sony PlayStation 3 unveiled
-description: "Sony have officially unveiled the PlayStation 3. Where the Xbox 360 is ‘apparently’ based on the concept of ‘inhaling’ (WTF?) the PS3 looks more like it..."
-date: 2005-05-17
-source: http://nathanpitman.com/357/sony-playstation-3-unveiled
-archive: https://web.archive.org/web/20090924123241/http://nathanpitman.com:80/357/sony-playstation-3-unveiled
+description: >-
+  Sony have officially unveiled the PlayStation 3. Where the Xbox 360 is
+  ‘apparently’ based on the concept of ‘inhaling’ (WTF?) the PS3 looks more like
+  it...
+date: '2005-05-17'
+source: 'http://nathanpitman.com/357/sony-playstation-3-unveiled'
+archive: >-
+  https://web.archive.org/web/20090924123241/http://nathanpitman.com:80/357/sony-playstation-3-unveiled
 tags:
-  - "Consoles"
-  - "Design"
+  - Consoles
+  - Design
+relatedPosts:
+  - slug: sony-redesigns-playstation-2
+    source: generated
+  - slug: xbox-360-unveiled-rumours-of-early-ps3-launch
+    source: generated
+  - slug: nintendo-revolution-unveiled
+    source: generated
+  - slug: goodbye-ps2-hello-360
+    source: generated
+  - slug: ps3-launch-dates-confirmed
+    source: generated
 ---
 
 [Sony](http://www.sony.co.uk/) have officially unveiled the PlayStation 3. Where the Xbox 360 is ‘apparently’ based on the concept of ‘inhaling’ (WTF?) the PS3 looks more like it exhaled.

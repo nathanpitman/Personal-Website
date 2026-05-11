@@ -1,11 +1,26 @@
 ---
 title: Carson Summit Podcasts
-description: "If, like me you missed the Carson Workshops Future of Web Apps Summit you’ll be glad to know that the podcasts from the event are now live, and even better…..."
-date: 2006-02-22
-source: http://nathanpitman.com/451/carson-summit-podcasts
-archive: https://web.archive.org/web/20100105222927/http://nathanpitman.com:80/451/carson-summit-podcasts
+description: >-
+  If, like me you missed the Carson Workshops Future of Web Apps Summit you’ll
+  be glad to know that the podcasts from the event are now live, and even
+  better…...
+date: '2006-02-22'
+source: 'http://nathanpitman.com/451/carson-summit-podcasts'
+archive: >-
+  https://web.archive.org/web/20100105222927/http://nathanpitman.com:80/451/carson-summit-podcasts
 tags:
-  - "Web applications"
+  - Web applications
+relatedPosts:
+  - slug: will-you-be-at-the-carson-summit
+    source: generated
+  - slug: the-future-of-web-apps-summit
+    source: generated
+  - slug: google-mail-labels-maxlength-40
+    source: generated
+  - slug: hsbc-internet-banking-fail
+    source: generated
+  - slug: sitevista-launches-email-testing-service
+    source: generated
 ---
 
 If, like me you missed the Carson Workshops [Future of Web Apps Summit](http://www.carsonworkshops.com/summit/) you’ll be glad to know that the podcasts from the event are now live, and even better… free to download.

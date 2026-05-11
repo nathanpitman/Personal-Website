@@ -1,11 +1,26 @@
 ---
 title: Pah! Out with the Mac!
-description: "Hoorah, after having to suffer a month as a ‘new media’ type working on a Apple Mac here at Bite CP I took delivery on Friday of a shiny new Dell PC. Now...."
-date: 2005-08-02
-source: http://nathanpitman.com/378/pah-out-with-the-mac
-archive: https://web.archive.org/web/20111009173156/http://nathanpitman.com/378/pah-out-with-the-mac
+description: >-
+  Hoorah, after having to suffer a month as a ‘new media’ type working on a
+  Apple Mac here at Bite CP I took delivery on Friday of a shiny new Dell PC.
+  Now....
+date: '2005-08-02'
+source: 'http://nathanpitman.com/378/pah-out-with-the-mac'
+archive: >-
+  https://web.archive.org/web/20111009173156/http://nathanpitman.com/378/pah-out-with-the-mac
 tags:
-  - "Apple"
+  - Apple
+relatedPosts:
+  - slug: just-to-clarify-my-position-in-the-mac-vs-pc-debate
+    source: generated
+  - slug: mac-newbie-seeks-mac-guru-for-short-term-relationship
+    source: generated
+  - slug: first-impressions-of-the-3rd-gen-apple-tv
+    source: generated
+  - slug: one-day-soon-os-x-will-be-free
+    source: generated
+  - slug: os-x-pet-peeves
+    source: generated
 ---
 
 Hoorah, after having to suffer a month as a ‘new media’ type working on a [Apple Mac](http://www.apple.com/) here at [Bite CP](http://www.bitecp.com/) I took delivery on Friday of a shiny new [Dell](http://www.dell.co.uk/) PC. Now. I’ll be the first to admit that I kinda fancied the idea of working on a Mac. After all OSX is sooooo sexy, it simply blows XP away.

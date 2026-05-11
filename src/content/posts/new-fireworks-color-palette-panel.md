@@ -1,12 +1,26 @@
 ---
 title: New Fireworks ‘Color Palette’ Panel
-description: "Viktor Goltvyanitsa has released a new version of his Fireworks Color Palette Command Panel. Version 1.2 includes the following new features:"
-date: 2004-09-06
-source: http://nathanpitman.com/237/new-fireworks-color-palette-panel
-archive: https://web.archive.org/web/20091209164535/http://nathanpitman.com:80/237/new-fireworks-color-palette-panel
+description: >-
+  Viktor Goltvyanitsa has released a new version of his Fireworks Color Palette
+  Command Panel. Version 1.2 includes the following new features:
+date: '2004-09-06'
+source: 'http://nathanpitman.com/237/new-fireworks-color-palette-panel'
+archive: >-
+  https://web.archive.org/web/20091209164535/http://nathanpitman.com:80/237/new-fireworks-color-palette-panel
 tags:
-  - "Extensions"
-  - "Fireworks"
+  - Extensions
+  - Fireworks
+relatedPosts:
+  - slug: new-fireworks-command-panel-calculator
+    source: generated
+  - slug: new-fireworks-command-panel-auto-save
+    source: generated
+  - slug: fireworks-main-toolbar-command-panel
+    source: generated
+  - slug: fireworks-main-toolbar-command-panel-progress
+    source: generated
+  - slug: great-new-fireworks-extensions
+    source: generated
 ---
 
 Viktor Goltvyanitsa has released a new version of his Fireworks [Color Palette Command Panel](http://zaporozhye.org/dreamworld/#color_palette). Version 1.2 includes the following new features:

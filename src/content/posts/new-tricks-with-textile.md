@@ -1,12 +1,27 @@
 ---
 title: New tricks with Textile
-description: "I’m using textile on a project I’m currently working on and having come up against a bit of an issue I discovered a nifty little feature of textile which..."
-date: 2005-10-19
-source: http://nathanpitman.com/409/new-tricks-with-textile
-archive: https://web.archive.org/web/20090718143332/http://nathanpitman.com:80/409/new-tricks-with-textile
+description: >-
+  I’m using textile on a project I’m currently working on and having come up
+  against a bit of an issue I discovered a nifty little feature of textile
+  which...
+date: '2005-10-19'
+source: 'http://nathanpitman.com/409/new-tricks-with-textile'
+archive: >-
+  https://web.archive.org/web/20090718143332/http://nathanpitman.com:80/409/new-tricks-with-textile
 tags:
-  - "Code"
-  - "Textpattern"
+  - Code
+  - Textpattern
+relatedPosts:
+  - slug: textpattern-plugins
+    source: generated
+  - slug: new-rss-feeds-at-macromedia
+    source: generated
+  - slug: migrating-from-txp-to-ee-step-1
+    source: generated
+  - slug: migrating-from-txp-to-ee-step-2
+    source: generated
+  - slug: migrating-from-txp-to-ee-step-4
+    source: generated
 ---
 
 I’m using [textile](http://www.textism.com/tools/textile/) on a project I’m currently [working](http://www.ninefour.co.uk/) on and having come up against a bit of an issue I discovered a nifty little feature of textile which I’d never used before.

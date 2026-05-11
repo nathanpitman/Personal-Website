@@ -1,11 +1,25 @@
 ---
 title: Hello youth!
-description: "Almost 6 months to the day since I said goodbye to my youth, I seem somehow to have got it back."
-date: 2004-07-25
-source: http://nathanpitman.com/223/hello-youth
-archive: https://web.archive.org/web/20090608025218/http://nathanpitman.com:80/223/hello-youth
+description: >-
+  Almost 6 months to the day since I said goodbye to my youth, I seem somehow to
+  have got it back.
+date: '2004-07-25'
+source: 'http://nathanpitman.com/223/hello-youth'
+archive: >-
+  https://web.archive.org/web/20090608025218/http://nathanpitman.com:80/223/hello-youth
 tags:
-  - "Personal"
+  - Personal
+relatedPosts:
+  - slug: goodbye-youth-hello-responsibility
+    source: generated
+  - slug: goodbye-ps2-hello-360
+    source: generated
+  - slug: hello-mr-cripps
+    source: generated
+  - slug: my-car-for-sale-toyota-mr2-roadster
+    source: generated
+  - slug: its-been-a-hard-week-for-my-car
+    source: generated
 ---
 
 Almost 6 months to the day since I said [goodbye to my youth](http://www.nathanpitman.com/blog/index.php?id=25), I seem somehow to have got it back.

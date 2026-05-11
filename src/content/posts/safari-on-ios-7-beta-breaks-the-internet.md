@@ -1,14 +1,28 @@
 ---
-title: "Safari on iOS 7 beta breaks the internet"
-description: "This little gem is going to become real annoying real quick. In Safari on iOS 7 clicking anywhere in the bottom 40px of the screen does not register as a..."
-date: 2013-08-27
-source: "http://nathanpitman.com/626/safari-on-ios-7-breaks-the-internet"
-archive: "https://web.archive.org/web/20130909054628/http://nathanpitman.com:80/626/safari-on-ios-7-breaks-the-internet"
+title: Safari on iOS 7 beta breaks the internet
+description: >-
+  This little gem is going to become real annoying real quick. In Safari on iOS
+  7 clicking anywhere in the bottom 40px of the screen does not register as a...
+date: '2013-08-27'
+source: 'http://nathanpitman.com/626/safari-on-ios-7-breaks-the-internet'
+archive: >-
+  https://web.archive.org/web/20130909054628/http://nathanpitman.com:80/626/safari-on-ios-7-breaks-the-internet
 tags:
-  - "Design"
-  - "Apple"
-  - "Rant"
-  - "Web development"
+  - Design
+  - Apple
+  - Rant
+  - Web development
+relatedPosts:
+  - slug: god-is-in-the-details
+    source: generated
+  - slug: alternatives-to-flash-for-animation-are-starting-to-float-to
+    source: generated
+  - slug: a-fresh-lick-of-paint-for-pro-bel
+    source: generated
+  - slug: a-grown-up-kind-of-green
+    source: generated
+  - slug: hsbc-internet-banking-fail
+    source: generated
 ---
 
 <img src="/images/Safari_ios_7.jpg" alt="Safari iOS 7 and Position Fixed Bottom, clicking on any of the links in the position fixed bar does not do what you expect." width="460" height="345" />

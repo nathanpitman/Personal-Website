@@ -10,6 +10,10 @@ const posts = defineCollection({
     description: z.string().optional(),
     tags: z.array(z.string()).default([]),
     hidden: z.boolean().default(false),
+    relatedPosts: z.array(z.object({
+      slug: z.string(),
+      source: z.enum(['manual', 'generated']).default('generated'),
+    })).optional(),
   }),
 });
 
@@ -22,13 +26,23 @@ const pages = defineCollection({
 });
 
 const projects = defineCollection({
-  type: "content",
-  schema: z.object({
+  type: "data",
+  schema: z.array(z.object({
     title: z.string(),
-    url: z.string(),
-    description: z.string().optional(),
+    url: z.string().url(),
+    description: z.string(),
     hidden: z.boolean().default(false),
-  }),
+  })),
 });
 
-export const collections = { posts, pages, projects };
+const recommended = defineCollection({
+  type: "data",
+  schema: z.array(z.object({
+    title: z.string(),
+    url: z.string().url(),
+    description: z.string(),
+    hidden: z.boolean().default(false),
+  })),
+});
+
+export const collections = { posts, pages, projects, recommended };

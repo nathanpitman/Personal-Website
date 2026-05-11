@@ -1,11 +1,25 @@
 ---
 title: SiteVista Review
-description: "A hands-on review of SiteVista, a cross-browser testing service — impressions after getting an account."
-date: 2005-11-01
-source: http://nathanpitman.com/415/sitevista-review
-archive: https://web.archive.org/web/20110426030905/http://nathanpitman.com:80/415/sitevista-review
+description: >-
+  A hands-on review of SiteVista, a cross-browser testing service — impressions
+  after getting an account.
+date: '2005-11-01'
+source: 'http://nathanpitman.com/415/sitevista-review'
+archive: >-
+  https://web.archive.org/web/20110426030905/http://nathanpitman.com:80/415/sitevista-review
 tags:
-  - "Web development"
+  - Web development
+relatedPosts:
+  - slug: sitevista-to-become-litmus
+    source: generated
+  - slug: cssvista-launched
+    source: generated
+  - slug: mark-of-the-web-or-why-ie6-sucks
+    source: generated
+  - slug: what-browsers-do-you-develop-for
+    source: generated
+  - slug: developing-for-tomorrows-web
+    source: generated
 ---
 
 Well I bagged myself a [SiteVista](http://www.sitevista.com/) account today, many thanks to Paul at [Salted](http://www.salted.com/). For some time I’ve been considering purchasing an [iBook](http://www.apple.com/ibook/) purely to test on Safari, but now, well there really is no need!

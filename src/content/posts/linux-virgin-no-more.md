@@ -1,11 +1,25 @@
 ---
 title: Linux virgin no more
-description: "So I’ve taken my first step. I downloaded the latest stable release of Debian (3.0r5) via BitTorrent, burnt it to CD and then completed a basic..."
-date: 2005-06-04
-source: http://nathanpitman.com/367/linux-virgin-no-more
-archive: https://web.archive.org/web/20091231014943/http://nathanpitman.com:80/367/linux-virgin-no-more
+description: >-
+  So I’ve taken my first step. I downloaded the latest stable release of Debian
+  (3.0r5) via BitTorrent, burnt it to CD and then completed a basic...
+date: '2005-06-04'
+source: 'http://nathanpitman.com/367/linux-virgin-no-more'
+archive: >-
+  https://web.archive.org/web/20091231014943/http://nathanpitman.com:80/367/linux-virgin-no-more
 tags:
-  - "Web development"
+  - Web development
+relatedPosts:
+  - slug: linux-virgin
+    source: generated
+  - slug: setting-up-a-lamp-server-part-1
+    source: generated
+  - slug: ubuntu-ubuntu-they-drink-it-in-the-congo
+    source: generated
+  - slug: decisions-decisions
+    source: generated
+  - slug: drafty
+    source: generated
 ---
 
 So I’ve taken my first step. I downloaded the latest stable release of [Debian](http://www.debian.org/) (3.0r5) via [BitTorrent](http://www.bittorrent.com/), burnt it to CD and then completed a basic installation. I have been using a [fantastic walkthrough](http://www.osnews.com/story.php?news_id=2016&page=1) that I found on OSnews.com and it’s helped to make sense of the less than jargon free choices you have to make during setup.

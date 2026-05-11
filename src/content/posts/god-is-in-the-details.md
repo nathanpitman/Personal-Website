@@ -1,12 +1,26 @@
 ---
-title: "God is in the details"
-description: "Reflections on the importance of attention to detail in web design and development work."
-date: 2007-05-16
-source: "http://nathanpitman.com/508/god-is-in-the-details"
-archive: "https://web.archive.org/web/20100102213534/http://nathanpitman.com:80/508/god-is-in-the-details"
+title: God is in the details
+description: >-
+  Reflections on the importance of attention to detail in web design and
+  development work.
+date: '2007-05-16'
+source: 'http://nathanpitman.com/508/god-is-in-the-details'
+archive: >-
+  https://web.archive.org/web/20100102213534/http://nathanpitman.com:80/508/god-is-in-the-details
 tags:
-  - "Design"
-  - "Web development"
+  - Design
+  - Web development
+relatedPosts:
+  - slug: a-fresh-lick-of-paint-for-pro-bel
+    source: generated
+  - slug: safari-on-ios-7-beta-breaks-the-internet
+    source: generated
+  - slug: alternatives-to-flash-for-animation-are-starting-to-float-to
+    source: generated
+  - slug: a-grown-up-kind-of-green
+    source: generated
+  - slug: the-art-of-giving
+    source: generated
 ---
 
 Over the past few months Iâve been working with the team at [Voyage](http://www.bebrave.biz/) to develop and deliver their shiny new website. On the high of having the website complete they foolishly invited me to christen it with itâs inaugural [headline](http://www.bebrave.biz/headlines) and tell you a little bit about the journey weâve taken from concept to reality.

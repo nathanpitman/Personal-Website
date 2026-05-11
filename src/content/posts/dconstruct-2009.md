@@ -1,11 +1,25 @@
 ---
-title: "dConstruct 2009"
-description: "dConstruct is a 1 day conference run by Clearleft in Brighton. I’ve never had the chance to go before and hadn’t intended to this year. I’ve never really..."
-date: 2009-09-05
-source: "http://nathanpitman.com/590/dconstruct-2009"
-archive: "https://web.archive.org/web/20090916000626/http://nathanpitman.com:80/590/dconstruct-2009"
+title: dConstruct 2009
+description: >-
+  dConstruct is a 1 day conference run by Clearleft in Brighton. I’ve never had
+  the chance to go before and hadn’t intended to this year. I’ve never really...
+date: '2009-09-05'
+source: 'http://nathanpitman.com/590/dconstruct-2009'
+archive: >-
+  https://web.archive.org/web/20090916000626/http://nathanpitman.com:80/590/dconstruct-2009
 tags:
-  - "Web development"
+  - Web development
+relatedPosts:
+  - slug: drafty
+    source: generated
+  - slug: linux-virgin
+    source: generated
+  - slug: the-art-of-giving
+    source: generated
+  - slug: mark-of-the-web-or-why-ie6-sucks
+    source: generated
+  - slug: a-grown-up-kind-of-green
+    source: generated
 ---
 
 [dConstruct](http://dconstruct.org/) is a 1 day conference run by [Clearleft](http://clearleft.com/) in Brighton. I’ve never had the chance to go before and hadn’t intended to this year. I’ve never really been convinced of the value of attending the numerous industry conferences and events but when my good friend [Drew](http://allinthehead.com/) offered me a free ticket it seemed like a bit of a no brainer.

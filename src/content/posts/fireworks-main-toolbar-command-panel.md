@@ -1,12 +1,26 @@
 ---
 title: Fireworks ‘Main Toolbar’ Command Panel
-description: "I’ve finished the Fireworks ‘Main Toolbar’ Command Panel and it’s now available to download for free."
-date: 2004-07-17
-source: http://nathanpitman.com/218/fireworks-main-toolbar-command-panel
-archive: https://web.archive.org/web/20100103234131/http://nathanpitman.com:80/218/fireworks-main-toolbar-command-panel
+description: >-
+  I’ve finished the Fireworks ‘Main Toolbar’ Command Panel and it’s now
+  available to download for free.
+date: '2004-07-17'
+source: 'http://nathanpitman.com/218/fireworks-main-toolbar-command-panel'
+archive: >-
+  https://web.archive.org/web/20100103234131/http://nathanpitman.com:80/218/fireworks-main-toolbar-command-panel
 tags:
-  - "Extensions"
-  - "Fireworks"
+  - Extensions
+  - Fireworks
+relatedPosts:
+  - slug: fireworks-main-toolbar-command-panel-progress
+    source: generated
+  - slug: fireworks-main-toolbar-source-files
+    source: generated
+  - slug: new-fireworks-command-panel-calculator
+    source: generated
+  - slug: new-fireworks-command-panel-auto-save
+    source: generated
+  - slug: define-working-directory-command-panel
+    source: generated
 ---
 
 I’ve finished the Fireworks ‘Main Toolbar’ Command Panel and it’s now available to [download for free](http://www.nathanpitman.com/source/fireworks_extensions.php?id=217).

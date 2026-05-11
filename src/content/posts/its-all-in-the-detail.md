@@ -1,11 +1,26 @@
 ---
 title: It’s all in the detail
-description: "Reading my daily blogs I stumbled accross a fantastic entry by Cameron Moll (Authentic Boredom) regarding the 8 things he wish he’d known when he started..."
-date: 2004-07-29
-source: http://nathanpitman.com/225/its-all-in-the-detail
-archive: https://web.archive.org/web/20100106040504/http://nathanpitman.com/225/its-all-in-the-detail
+description: >-
+  Reading my daily blogs I stumbled accross a fantastic entry by Cameron Moll
+  (Authentic Boredom) regarding the 8 things he wish he’d known when he
+  started...
+date: '2004-07-29'
+source: 'http://nathanpitman.com/225/its-all-in-the-detail'
+archive: >-
+  https://web.archive.org/web/20100106040504/http://nathanpitman.com/225/its-all-in-the-detail
 tags:
-  - "Design"
+  - Design
+relatedPosts:
+  - slug: fireworks-gives-samuel-warm-fuzzies
+    source: generated
+  - slug: god-is-in-the-details
+    source: generated
+  - slug: thunderbird-re-branded
+    source: generated
+  - slug: my-employers-are-looking-for-a-new-media-developer
+    source: generated
+  - slug: all-the-best-blogs-have-favicons
+    source: generated
 ---
 
 Reading my daily blogs I stumbled accross a fantastic entry by [Cameron Moll](http://www.cameronmoll.com/archives/000036.html) (Authentic Boredom) regarding the 8 things he wish he’d known when he started out as a designer/developer. #1 on the list made me smile simply because it’s exactly what I do on a daily basis.

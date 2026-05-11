@@ -1,11 +1,23 @@
 ---
-title: "Creative Director Reqd - Reading, Berks, UK"
-description: "A job listing for a Creative Director role based in Reading, Berkshire."
-date: 2007-05-31
-source: "http://nathanpitman.com/509/creative-director-reqd-reading-berks-uk"
-archive: "https://web.archive.org/web/20091220123449/http://nathanpitman.com:80/509/creative-director-reqd-reading-berks-uk"
+title: 'Creative Director Reqd - Reading, Berks, UK'
+description: 'A job listing for a Creative Director role based in Reading, Berkshire.'
+date: '2007-05-31'
+source: 'http://nathanpitman.com/509/creative-director-reqd-reading-berks-uk'
+archive: >-
+  https://web.archive.org/web/20091220123449/http://nathanpitman.com:80/509/creative-director-reqd-reading-berks-uk
 tags:
-  - "Jobs"
+  - Jobs
+relatedPosts:
+  - slug: jobs-going-at-voyage-reading-berks-uk
+    source: generated
+  - slug: web-dev-reqd-reading-berkshire-uk
+    source: generated
+  - slug: flash-web-designer-reqd-wokingham-berks-uk
+    source: generated
+  - slug: digital-designer-reading-berks-uk
+    source: generated
+  - slug: web-developer-reqd-windsor-berks-uk
+    source: generated
 ---
 
 ![](/images/166.gif)

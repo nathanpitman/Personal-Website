@@ -95,7 +95,7 @@ const dd = String(d.getDate()).padStart(2, '0');
       </article>
     </main>
 
-    <Sidebar />
+    <Sidebar page="post" relatedPosts={post.data.relatedPosts} />
 
   </div>
 </BaseLayout>

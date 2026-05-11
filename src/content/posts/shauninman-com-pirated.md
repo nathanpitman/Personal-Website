@@ -1,11 +1,25 @@
 ---
 title: ShaunInman.com Pirated?
-description: "Last night while searching for plots of land in berkshire I stumbled across the UK Land Directory and thought… hmm… I’ve seen this somewhere before… :?"
-date: 2004-09-01
-source: http://nathanpitman.com/235/shauninmancom-pirated
-archive: https://web.archive.org/web/20091209025501/http://nathanpitman.com:80/235/shauninmancom-pirated
+description: >-
+  Last night while searching for plots of land in berkshire I stumbled across
+  the UK Land Directory and thought… hmm… I’ve seen this somewhere before… :?
+date: '2004-09-01'
+source: 'http://nathanpitman.com/235/shauninmancom-pirated'
+archive: >-
+  https://web.archive.org/web/20091209025501/http://nathanpitman.com:80/235/shauninmancom-pirated
 tags:
-  - "Design"
+  - Design
+relatedPosts:
+  - slug: thunderbird-re-branded
+    source: generated
+  - slug: xbox-360-unveiled-rumours-of-early-ps3-launch
+    source: generated
+  - slug: does-the-kottke-org-re-design-kinda-suck
+    source: generated
+  - slug: all-the-best-blogs-have-favicons
+    source: generated
+  - slug: dare-i-add-drop-shadows
+    source: generated
 ---
 
 Last night while searching for plots of land in berkshire I stumbled across the [UK Land Directory](http://www.uklanddirectory.org.uk/) and thought… hmm… I’ve seen this somewhere before… :?

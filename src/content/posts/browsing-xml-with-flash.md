@@ -1,12 +1,27 @@
 ---
 title: Browsing XML with Flash
-description: "So, I finally got round to having a look at the Data components in Macromedia Flash MX 2004. I decided that a good place to start would be to create a small..."
-date: 2004-04-30
-source: http://nathanpitman.com/82/browsing-xml-with-flash
-archive: https://web.archive.org/web/20090521230346/http://nathanpitman.com:80/82/browsing-xml-with-flash
+description: >-
+  So, I finally got round to having a look at the Data components in Macromedia
+  Flash MX 2004. I decided that a good place to start would be to create a
+  small...
+date: '2004-04-30'
+source: 'http://nathanpitman.com/82/browsing-xml-with-flash'
+archive: >-
+  https://web.archive.org/web/20090521230346/http://nathanpitman.com:80/82/browsing-xml-with-flash
 tags:
-  - "Code"
-  - "Flash"
+  - Code
+  - Flash
+relatedPosts:
+  - slug: populating-a-flash-application-with-data-from-mysql-via-php
+    source: generated
+  - slug: interactive-3d-css-box-model
+    source: generated
+  - slug: yugop-com-v4
+    source: generated
+  - slug: another-flash-patch-ellipsis
+    source: generated
+  - slug: flash-video-kit-announced
+    source: generated
 ---
 
 So, I finally got round to having a look at the Data components in [Macromedia Flash MX 2004](http://www.macromedia.com/software/flash/). I decided that a good place to start would be to create a small application for browsing the RSS feed of this very site.

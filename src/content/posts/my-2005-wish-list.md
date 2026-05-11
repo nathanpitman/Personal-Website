@@ -1,11 +1,26 @@
 ---
 title: My 2005 Wish List
-description: "Well, most of the popular blogs seem to be sprouting ‘“retrospectives”:http://www.hicksdesign.co.uk/journal/589/lists-of-2004’ and..."
-date: 2004-12-22
-source: http://nathanpitman.com/306/my-2005-wish-list
-archive: https://web.archive.org/web/20090813102047/http://nathanpitman.com:80/306/my-2005-wish-list
+description: >-
+  Well, most of the popular blogs seem to be sprouting
+  ‘“retrospectives”:http://www.hicksdesign.co.uk/journal/589/lists-of-2004’
+  and...
+date: '2004-12-22'
+source: 'http://nathanpitman.com/306/my-2005-wish-list'
+archive: >-
+  https://web.archive.org/web/20090813102047/http://nathanpitman.com:80/306/my-2005-wish-list
 tags:
-  - "Personal"
+  - Personal
+relatedPosts:
+  - slug: 2005-wish-list-update-1
+    source: generated
+  - slug: page-23
+    source: generated
+  - slug: the-longest-non-classical-song
+    source: generated
+  - slug: whatever-you-do-dont-buy-a-kia-sedona
+    source: generated
+  - slug: kia-reliability
+    source: generated
 ---
 
 Well, most of the popular blogs seem to be sprouting ‘“retrospectives”:http://www.hicksdesign.co.uk/journal/589/lists-of-2004’ and ‘“predictions”:http://joshuaink.com/’ this week, so I thought I may as well jump on the bandwagon and grab myself a small slice of chrimbo geek traffic.

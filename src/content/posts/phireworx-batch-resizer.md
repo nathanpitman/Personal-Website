@@ -1,12 +1,26 @@
 ---
 title: Phireworx ‘Batch Resizer’
-description: "Steven Grosvenor has released a new Fireworks MX / MX 2004 Command panel called ‘“Batch Resizer Percent”:http://www.phireworx.com’ (?)."
-date: 2004-07-13
-source: http://nathanpitman.com/216/phireworx-batch-resizer
-archive: https://web.archive.org/web/20111010045842/http://nathanpitman.com/216/phireworx-batch-resizer
+description: >-
+  Steven Grosvenor has released a new Fireworks MX / MX 2004 Command panel
+  called ‘“Batch Resizer Percent”:http://www.phireworx.com’ (?).
+date: '2004-07-13'
+source: 'http://nathanpitman.com/216/phireworx-batch-resizer'
+archive: >-
+  https://web.archive.org/web/20111010045842/http://nathanpitman.com/216/phireworx-batch-resizer
 tags:
-  - "Extensions"
-  - "Fireworks"
+  - Extensions
+  - Fireworks
+relatedPosts:
+  - slug: new-phireworx-commands-on-the-way
+    source: generated
+  - slug: phireworx-image-edger-pro
+    source: generated
+  - slug: phireworx-smarttabs
+    source: generated
+  - slug: phireworx-release-shapeshifter-set-2-for-fireworks-mx
+    source: generated
+  - slug: phireworx-release-super-guides-for-fireworks-mx
+    source: generated
 ---
 
 Steven Grosvenor has released a new Fireworks MX / MX 2004 Command panel called ‘“Batch Resizer Percent”:http://www.phireworx.com’ (?).

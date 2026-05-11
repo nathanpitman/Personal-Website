@@ -1,11 +1,23 @@
 ---
-title: "Web Dev Rqd - Dorking, Surrey, UK."
-description: "A job posting for a web developer position based in Dorking, Surrey."
-date: 2006-06-12
-source: "http://nathanpitman.com/475/web-dev-rqd-dorking-surrey-uk"
-archive: "https://web.archive.org/web/20091231042035/http://nathanpitman.com:80/475/web-dev-rqd-dorking-surrey-uk"
+title: 'Web Dev Rqd - Dorking, Surrey, UK.'
+description: 'A job posting for a web developer position based in Dorking, Surrey.'
+date: '2006-06-12'
+source: 'http://nathanpitman.com/475/web-dev-rqd-dorking-surrey-uk'
+archive: >-
+  https://web.archive.org/web/20091231042035/http://nathanpitman.com:80/475/web-dev-rqd-dorking-surrey-uk
 tags:
-  - "Jobs"
+  - Jobs
+relatedPosts:
+  - slug: 2-freelance-web-devs-rqd
+    source: generated
+  - slug: web-dev-reqd-reading-berkshire-uk
+    source: generated
+  - slug: looking-for-a-lamp-web-app-dev
+    source: generated
+  - slug: web-developer-london-uk
+    source: generated
+  - slug: web-developer-south-east-uk
+    source: generated
 ---
 
 Just pimping a vacancy for a friend…

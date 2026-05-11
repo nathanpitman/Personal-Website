@@ -1,12 +1,27 @@
 ---
 title: Wedding Photography
-description: "I just finished working on a site for a cohort of mine. Mr Simon Kemp is perhaps the best wedding & portrait photographer ever but his old website just..."
-date: 2005-03-17
-source: http://nathanpitman.com/334/wedding-photography
-archive: https://web.archive.org/web/20100107214533/http://nathanpitman.com:80/334/wedding-photography
+description: >-
+  I just finished working on a site for a cohort of mine. Mr Simon Kemp is
+  perhaps the best wedding & portrait photographer ever but his old website
+  just...
+date: '2005-03-17'
+source: 'http://nathanpitman.com/334/wedding-photography'
+archive: >-
+  https://web.archive.org/web/20100107214533/http://nathanpitman.com:80/334/wedding-photography
 tags:
-  - "Code"
-  - "Design"
+  - Code
+  - Design
+relatedPosts:
+  - slug: joined-up-website-design
+    source: generated
+  - slug: if-you-just-smile
+    source: generated
+  - slug: just-finished-working-on-this
+    source: generated
+  - slug: drop-shadows-are-in
+    source: generated
+  - slug: god-is-in-the-details
+    source: generated
 ---
 
 I just finished working on a site for a cohort of mine. Mr Simon Kemp is perhaps the best wedding & portrait photographer ever but his old website just didn’t cut the mustard. We did a bit of a deal and [this is the result](http://www.hyde-end.com/).

@@ -1,11 +1,26 @@
 ---
 title: Something weird with PHP includes…
-description: "There is something weird going on with PHP includes on a site which I’m working on. I’ve been trying to include a file which will change depending on where..."
-date: 2003-12-05
-source: http://nathanpitman.com/7/something-weird-with-php-includes
-archive: https://web.archive.org/web/20091207063659/http://nathanpitman.com:80/7/something-weird-with-php-includes
+description: >-
+  There is something weird going on with PHP includes on a site which I’m
+  working on. I’ve been trying to include a file which will change depending on
+  where...
+date: '2003-12-05'
+source: 'http://nathanpitman.com/7/something-weird-with-php-includes'
+archive: >-
+  https://web.archive.org/web/20091207063659/http://nathanpitman.com:80/7/something-weird-with-php-includes
 tags:
-  - "Code"
+  - Code
+relatedPosts:
+  - slug: populating-a-flash-application-with-data-from-mysql-via-php
+    source: generated
+  - slug: let-devs-prefix-your-expressionengine-variables-with-a-custo
+    source: generated
+  - slug: i-ay-expression-engine
+    source: generated
+  - slug: fun-with-sessions
+    source: generated
+  - slug: pink-cow-s
+    source: generated
 ---
 
 There is something weird going on with PHP includes on a site which I’m working on. I’ve been trying to include a file which will change depending on where you are in the site, therefore the URL of the include is created by combining a number of variables and an existing string.

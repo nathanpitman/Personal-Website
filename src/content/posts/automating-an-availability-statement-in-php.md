@@ -1,11 +1,25 @@
 ---
-title: "Automating an availability statement in PHP"
-description: "We have a small statement on the Nine Four website which advises new clients as to our current availability."
-date: 2008-07-16
-source: "http://nathanpitman.com/545/automating-an-availability-statement-in-php"
-archive: "https://web.archive.org/web/20091004020912/http://nathanpitman.com:80/545/automating-an-availability-statement-in-php"
+title: Automating an availability statement in PHP
+description: >-
+  We have a small statement on the Nine Four website which advises new clients
+  as to our current availability.
+date: '2008-07-16'
+source: 'http://nathanpitman.com/545/automating-an-availability-statement-in-php'
+archive: >-
+  https://web.archive.org/web/20091004020912/http://nathanpitman.com:80/545/automating-an-availability-statement-in-php
 tags:
-  - "Web development"
+  - Web development
+relatedPosts:
+  - slug: time-for-a-new-text-editor
+    source: generated
+  - slug: decisions-decisions
+    source: generated
+  - slug: looking-for-asp-developers
+    source: generated
+  - slug: you-know-you-need-a-coffee-when
+    source: generated
+  - slug: expression-engine-goes-free
+    source: generated
 ---
 
 We have a small statement on the [Nine Four](http://www.ninefour.co.uk/) website which advises new clients as to our current availability.
