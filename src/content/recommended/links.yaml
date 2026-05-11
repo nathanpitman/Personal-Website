@@ -1,28 +1,56 @@
 # Add recommended blogs and sites here.
-# Each entry: title, url, description. Set hidden: true to temporarily suppress an entry.
+# Each entry: title, url, description, type (blog|podcast). Set hidden: true to temporarily suppress an entry.
+
+- title: "Daring Fireball"
+  url: "https://daringfireball.net"
+  description: "John Gruber's weblog."
+  hidden: false
+  type: blog
+
+- title: "Orbit"
+  url: "https://podcasts.apple.com/us/podcast/orbit-an-hg-software-leadership-podcast/id1576517543"
+  description: "Hg's podcast on software leadership — conversations with operators building great B2B software businesses."
+  hidden: false
+  type: podcast
 
 - title: "Revert To Saved"
   url: "https://reverttosaved.com"
   description: "Craig Grannell on technology, Apple, gaming and design."
   hidden: false
+  type: blog
 
-- title: "Simon Willison’s Weblog"
+- title: "Simon Willison's Weblog"
   url: "https://simonwillison.net"
-  description: "Simon Willison’s thoughts on technology, web development, and more."
+  description: "Simon Willison's thoughts on technology, web development, and more."
   hidden: false
+  type: blog
 
-- title: "Daring Fireball"
-  url: "https://daringfireball.net"
-  description: "John Gruber’s weblog."
+- title: "Sliced Bread"
+  url: "https://podcasts.apple.com/gb/podcast/sliced-bread/id1451627704"
+  description: "BBC Radio 4's Greg Foot investigates whether the latest wonder products really are the best things since sliced bread."
   hidden: false
+  type: podcast
 
 - title: "Stuff & Nonsense"
   url: "https://stuffandnonsense.co.uk/blog"
   description: ""
   hidden: true
+  type: blog
 
 - title: "The Verge"
   url: "https://www.theverge.com"
   description: "The Verge covers the intersection of technology, science, art, and culture."
   hidden: false
+  type: blog
 
+- title: "Vergecast"
+  url: "https://www.theverge.com/the-vergecast"
+  description: "Nilay Patel and David Pierce on the week's biggest stories in tech, culture, and the future."
+  hidden: false
+  type: podcast
+
+- title: "Version History"
+  url: "https://podcasts.apple.com/us/podcast/version-history/id1840983742"
+  description: "The Verge's deep dive into the history of gadgets and the products that shaped the tech industry."
+  hidden: false
+  type: podcast

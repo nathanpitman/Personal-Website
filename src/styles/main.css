@@ -663,6 +663,18 @@ a:hover         { color: #0000ee; }
   line-height: 1.5;
 }
 
+/* Recommended block type icons */
+.rec-type-icon {
+  display: inline-block;
+  width: 11px;
+  height: 11px;
+  fill: currentColor;
+  opacity: 0.45;
+  vertical-align: middle;
+  margin-right: 4px;
+  flex-shrink: 0;
+}
+
 /* Side projects list */
 .side-projects-list {
   list-style: none;

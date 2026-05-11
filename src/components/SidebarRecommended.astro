@@ -8,13 +8,20 @@ const items = (entry?.data ?? []).filter(item => !item.hidden);
 {items.length > 0 && (
   <div class="sidebar-block">
     <div class="sidebar-block-header">
-      <span class="sidebar-block-title">Recommended Reading</span>
+      <span class="sidebar-block-title">Recommended</span>
     </div>
     <ul class="sidebar-list">
       {items.map(item => (
         <li>
-          <a href={item.url} target="_blank" rel="noopener noreferrer">{item.title}</a>
-          <p class="who-text" style="margin: 2px 0 0;">{item.description}</p>
+          <a href={item.url} target="_blank" rel="noopener noreferrer">
+            {item.type === 'podcast' ? (
+              <svg class="rec-type-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-label="Podcast" role="img"><path d="M12 1a4 4 0 0 1 4 4v6a4 4 0 0 1-8 0V5a4 4 0 0 1 4-4zm-6.5 9.5A6.5 6.5 0 0 0 18.5 10.5h-1a5.5 5.5 0 0 1-11 0h-1zM11 21.95V19h2v2.95A10.02 10.02 0 0 0 22 12h-2a8 8 0 0 1-16 0H2a10.02 10.02 0 0 0 9 9.95z"/></svg>
+            ) : (
+              <svg class="rec-type-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-label="Blog" role="img"><path d="M19 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2zm-7 14H7v-2h5v2zm5-4H7v-2h10v2zm0-4H7V7h10v2z"/></svg>
+            )}
+            {item.title}
+          </a>
+          {item.description && <p class="who-text" style="margin: 2px 0 0;">{item.description}</p>}
         </li>
       ))}
     </ul>
