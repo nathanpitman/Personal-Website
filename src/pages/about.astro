@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import Sidebar from '../components/Sidebar.astro';
+import SidebarAbout from '../components/SidebarAbout.astro';
 import { getEntry } from 'astro:content';
 
 const entry = await getEntry('pages', 'about');
@@ -20,7 +20,7 @@ const { Content } = await entry.render();
 
     </main>
 
-    <Sidebar page="about" />
+    <SidebarAbout />
 
   </div>
 </BaseLayout>

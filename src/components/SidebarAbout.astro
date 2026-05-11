@@ -1,0 +1,97 @@
+---
+import SidebarRecommended from './SidebarRecommended.astro';
+import SidebarElsewhere from './SidebarElsewhere.astro';
+---
+
+<aside class="sidebar" aria-label="Sidebar" data-pagefind-ignore>
+
+  <div class="site-identity">
+    <a href="/" class="site-identity-link" aria-label="Nathan Pitman – go to homepage">
+      <img
+        class="site-avatar"
+        src="/avatar.jpg"
+        alt="Nathan Pitman"
+        width="56"
+        height="56"
+      />
+      <div class="site-identity-text">
+        <span class="hello">hello, my name is</span>
+        <span class="name">nathan pitman.</span>
+      </div>
+    </a>
+  </div>
+
+  <div class="sidebar-block">
+    <div class="sidebar-block-header">
+      <span class="sidebar-block-title">Contact</span>
+    </div>
+    <p class="who-text">
+      <a
+        href="#"
+        class="contact-email"
+        data-user="hello"
+        data-domain="nathanpitman.com"
+      >hello [at] nathanpitman.com</a>
+    </p>
+    <script>
+      const el = document.querySelector('.contact-email');
+      if (el) {
+        el.href = 'mailto:' + el.dataset.user + '@' + el.dataset.domain;
+        el.textContent = el.dataset.user + '@' + el.dataset.domain;
+      }
+    </script>
+  </div>
+
+  <div class="sidebar-block">
+    <div class="sidebar-block-header">
+      <span class="sidebar-block-title">Career</span>
+    </div>
+    <ul class="elsewhere-about-list">
+      <li>
+        <a href="https://www.linkedin.com/in/nathanpitman/">Managing Director, eLearning Division</a>
+        <span class="elsewhere-about-desc">The Citation Group · 2026–present</span>
+      </li>
+      <li>
+        <a href="https://www.linkedin.com/in/nathanpitman/">Managing Director</a>
+        <span class="elsewhere-about-desc">iHASCO eLearning · 2020–2026</span>
+      </li>
+      <li>
+        <a href="https://www.linkedin.com/in/nathanpitman/">Creative &amp; Technical Director</a>
+        <span class="elsewhere-about-desc">iHASCO eLearning · 2015–2020</span>
+      </li>
+      <li>
+        <a href="https://www.linkedin.com/in/nathanpitman/">Managing Director</a>
+        <span class="elsewhere-about-desc">Nine Four Ltd · 2005–2015</span>
+      </li>
+      <li>
+        <a href="https://www.linkedin.com/in/nathanpitman/">Head of New Media</a>
+        <span class="elsewhere-about-desc">Bite CP · 2005</span>
+      </li>
+      <li>
+        <a href="https://www.linkedin.com/in/nathanpitman/">Studio Manager &amp; Senior New Media Developer</a>
+        <span class="elsewhere-about-desc">Mirashade · 2003–2005</span>
+      </li>
+      <li>
+        <a href="https://www.linkedin.com/in/nathanpitman/">Freelance Technical Editor</a>
+        <span class="elsewhere-about-desc">Pearson Nordic Higher Education · 2003</span>
+      </li>
+      <li>
+        <a href="https://www.linkedin.com/in/nathanpitman/">Creative Developer</a>
+        <span class="elsewhere-about-desc">TMB Marketing &amp; Communications · 2001–2003</span>
+      </li>
+      <li>
+        <a href="https://www.linkedin.com/in/nathanpitman/">Web Designer</a>
+        <span class="elsewhere-about-desc">ODB Design &amp; Communication / Designation · 1997–2001</span>
+      </li>
+      <li>
+        <a href="https://www.linkedin.com/in/nathanpitman/">Freelance 3D Artist</a>
+        <span class="elsewhere-about-desc">Enigma Creative Solutions · 1997</span>
+      </li>
+    </ul>
+  </div>
+
+  <SidebarRecommended />
+
+  <SidebarElsewhere />
+
+</aside>
