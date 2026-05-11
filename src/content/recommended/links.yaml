@@ -44,13 +44,13 @@
   type: blog
 
 - title: "Vergecast"
-  url: "https://www.theverge.com/the-vergecast"
+  url: "https://www.youtube.com/channel/UCVHdvAX5-R8y5l9xp6nroBQ"
   description: "Nilay Patel and David Pierce on the week's biggest stories in tech, culture, and the future."
   hidden: false
-  type: podcast
+  type: video
 
 - title: "Version History"
-  url: "https://podcasts.apple.com/us/podcast/version-history/id1840983742"
+  url: "https://www.youtube.com/channel/UCsB9OH4ROgV3d_rotwICcoA"
   description: "The Verge's deep dive into the history of gadgets and the products that shaped the tech industry."
   hidden: false
-  type: podcast
+  type: video

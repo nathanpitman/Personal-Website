@@ -42,7 +42,7 @@ const recommended = defineCollection({
     url: z.string().url(),
     description: z.string(),
     hidden: z.boolean().default(false),
-    type: z.enum(['blog', 'podcast']).default('blog'),
+    type: z.enum(['blog', 'podcast', 'video']).default('blog'),
   })),
 });
 
