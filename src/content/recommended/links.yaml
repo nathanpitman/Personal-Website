@@ -16,6 +16,11 @@
   description: "John Gruber’s weblog."
   hidden: false
 
+- title: "Stuff & Nonsense"
+  url: "https://stuffandnonsense.co.uk/blog"
+  description: ""
+  hidden: true
+
 - title: "The Verge"
   url: "https://www.theverge.com"
   description: "The Verge covers the intersection of technology, science, art, and culture."
