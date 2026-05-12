@@ -384,7 +384,8 @@ a:hover         { color: #0000ee; }
   color: var(--text-muted);
 }
 
-.date-search-tokens {
+.date-search-tokens,
+.visually-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
