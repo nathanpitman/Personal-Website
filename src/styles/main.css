@@ -743,6 +743,12 @@ a:hover         { color: #0000ee; }
 }
 
 
+/* Mobile-only site identity banner (injected in BaseLayout, hidden on desktop) */
+.site-identity-mobile {
+  display: none;
+}
+
+
 /* -----------------------------------------------------------------------------
    RESPONSIVE — mobile layout
    ----------------------------------------------------------------------------- */
@@ -767,8 +773,7 @@ a:hover         { color: #0000ee; }
   }
 
   .site-identity {
-    grid-column: 1 / -1;
-    border-bottom: 1px solid var(--border);
+    display: none;
   }
 
   .sidebar-block {
@@ -784,6 +789,14 @@ a:hover         { color: #0000ee; }
   .post-title,
   .post-date {
     font-size: 1.6rem;
+  }
+
+  .site-identity-mobile {
+    display: block;
+    max-width: 1020px;
+    margin: 0 auto;
+    padding: 16px 20px;
+    border-bottom: 1px solid var(--border-mid);
   }
 
   .post-body,
