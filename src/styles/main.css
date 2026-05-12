@@ -785,6 +785,16 @@ a:hover         { color: #0000ee; }
   .post-date {
     font-size: 1.6rem;
   }
+
+  .post-body,
+  .about-body {
+    padding-left: 0;
+  }
+
+  .post-body img {
+    margin-left: 0;
+    width: 100%;
+  }
 }
 
 @media (max-width: 420px) {
