@@ -365,6 +365,7 @@ a:hover         { color: #0000ee; }
 
 .post-body code {
   font-size: 0.88em;
+  overflow-wrap: break-word;
 }
 
 .post-body pre code {
