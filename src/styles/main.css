@@ -801,6 +801,11 @@ a:hover         { color: #0000ee; }
     border-bottom: 1px solid var(--border-mid);
   }
 
+  .site-identity-mobile .site-avatar {
+    width: 28px;
+    height: 28px;
+  }
+
   .post-body,
   .about-body {
     padding-left: 0;
