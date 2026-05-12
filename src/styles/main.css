@@ -544,7 +544,8 @@ a:hover         { color: #0000ee; }
   line-height: 1.2;
 }
 
-.site-identity .hello {
+.site-identity .hello,
+.site-identity-mobile .hello {
   font-family: var(--serif);
   font-style: italic;
   font-weight: 400;
@@ -553,7 +554,8 @@ a:hover         { color: #0000ee; }
   display: block;
 }
 
-.site-identity .name {
+.site-identity .name,
+.site-identity-mobile .name {
   font-family: var(--serif);
   font-style: italic;
   font-weight: 600;
