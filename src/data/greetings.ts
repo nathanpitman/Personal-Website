@@ -1,0 +1,18 @@
+export const greetings: string[] = [
+  "hello",
+  "hola",
+  "bonjour",
+  "ciao",
+  "hallo",
+  "olá",
+  "こんにちは",
+  "helo",
+  "hei",
+  "hoi",
+  "hey",
+  "hi there",
+  "howdy",
+  "greetings",
+  "salutations",
+  "yo",
+];

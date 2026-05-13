@@ -151,6 +151,14 @@ const year = new Date().getFullYear();
     });
   </script>
 
+  <script>
+    import { greetings } from '../data/greetings';
+    const el = document.getElementById('greeting');
+    if (el) {
+      el.textContent = greetings[Math.floor(Math.random() * greetings.length)];
+    }
+  </script>
+
   <footer class="site-footer" data-pagefind-ignore>
     <div class="site-footer-inner">
       &copy; 2003&ndash;{year} Nathan Pitman &mdash;
