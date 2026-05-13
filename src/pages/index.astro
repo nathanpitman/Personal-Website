@@ -18,12 +18,13 @@ function formatDate(date: Date): string {
 }
 ---
 
-<BaseLayout title="Recently — nathan pitman" activeNav="recently" description="Nathan Pitman's personal website and journal — writing about design, technology, AI, and whatever else takes his fancy since 2003.">
+<BaseLayout title="Journal / recently — nathanpitman.com" activeNav="recently" description="Nathan Pitman's personal website and journal — writing about design, technology, AI, and whatever else takes his fancy since 2003.">
   <div class="page">
 
     <main class="main">
 
       <h1 class="visually-hidden">Recently</h1>
+      <h2 class="about-heading">Journal / recently</h2>
 
       {posts.map(async (post) => {
         const { Content } = await post.render();

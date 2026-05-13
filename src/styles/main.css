@@ -81,14 +81,55 @@ a:hover         { color: #0000ee; }
   background: #ffffff;
 }
 
-.site-nav ul {
+.site-nav-inner {
   max-width: 1020px;
   margin: 0 auto;
   padding: 0 20px;
+  display: flex;
+  align-items: center;
+}
+
+.site-nav ul {
   list-style: none;
   display: flex;
   flex-wrap: wrap;
+  padding: 0;
+  margin: 0;
 }
+
+.nav-brand {
+  display: none;
+}
+
+.nav-actions {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+#nav-hamburger {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--text);
+  padding: 10px 9px;
+  line-height: 1;
+}
+
+#nav-hamburger:hover { color: var(--text-mid); }
+
+#nav-hamburger svg line {
+  transition: transform 0.25s ease, opacity 0.25s ease;
+  transform-box: fill-box;
+  transform-origin: center;
+}
+
+#nav-hamburger[aria-expanded="true"] svg line:nth-child(1) { transform: translateY(6px) rotate(45deg); }
+#nav-hamburger[aria-expanded="true"] svg line:nth-child(2) { opacity: 0; }
+#nav-hamburger[aria-expanded="true"] svg line:nth-child(3) { transform: translateY(-6px) rotate(-45deg); }
 
 .site-nav li a {
   display: block;
@@ -118,10 +159,6 @@ a:hover         { color: #0000ee; }
 /* -----------------------------------------------------------------------------
    NAV SEARCH TRIGGER
    ----------------------------------------------------------------------------- */
-
-.nav-search-trigger {
-  margin-left: auto;
-}
 
 #search-open-btn {
   display: flex;
@@ -405,7 +442,7 @@ a:hover         { color: #0000ee; }
 
 .archive-year-heading {
   font-family: var(--sans);
-  font-size: 2rem;
+  font-size: 1.5rem; /* 2rem */
   font-weight: 800;
   color: var(--text);
   letter-spacing: -0.02em;
@@ -544,7 +581,9 @@ a:hover         { color: #0000ee; }
   line-height: 1.2;
 }
 
-.site-identity .hello {
+.site-identity .hello,
+.site-identity-mobile .hello,
+.nav-brand .hello {
   font-family: var(--serif);
   font-style: italic;
   font-weight: 400;
@@ -553,7 +592,9 @@ a:hover         { color: #0000ee; }
   display: block;
 }
 
-.site-identity .name {
+.site-identity .name,
+.site-identity-mobile .name,
+.nav-brand .name {
   font-family: var(--serif);
   font-style: italic;
   font-weight: 600;
@@ -743,6 +784,11 @@ a:hover         { color: #0000ee; }
 }
 
 
+/* Nav brand — compact font sizes for the nav bar context */
+.nav-brand .hello { font-size: 0.72rem; }
+.nav-brand .name  { font-size: 0.82rem; }
+
+
 /* -----------------------------------------------------------------------------
    RESPONSIVE — mobile layout
    ----------------------------------------------------------------------------- */
@@ -767,8 +813,7 @@ a:hover         { color: #0000ee; }
   }
 
   .site-identity {
-    grid-column: 1 / -1;
-    border-bottom: 1px solid var(--border);
+    display: none;
   }
 
   .sidebar-block {
@@ -784,6 +829,61 @@ a:hover         { color: #0000ee; }
   .post-title,
   .post-date {
     font-size: 1.6rem;
+  }
+
+  .site-nav {
+    position: relative;
+  }
+
+  .nav-brand {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none;
+    color: inherit;
+    flex: 1;
+    padding: 10px 0;
+  }
+
+  .nav-brand .site-avatar {
+    width: 35px;
+    height: 35px;
+  }
+
+  #nav-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: #ffffff;
+    border-radius: 0 0 8px 8px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.2);
+    flex-direction: column;
+    z-index: 100;
+  }
+
+  #nav-menu li a {
+    padding: 12px 20px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  #nav-hamburger {
+    display: flex;
+  }
+
+  .nav-actions #search-open-btn {
+    padding: 10px 9px;
+  }
+
+  .post-body,
+  .about-body {
+    padding-left: 0;
+  }
+
+  .post-body img {
+    margin-left: 0;
+    width: 100%;
   }
 }
 
