@@ -24,6 +24,7 @@ function formatDate(date: Date): string {
     <main class="main">
 
       <h1 class="visually-hidden">Recently</h1>
+      <h2 class="about-heading">Journal / recently</h2>
 
       {posts.map(async (post) => {
         const { Content } = await post.render();
