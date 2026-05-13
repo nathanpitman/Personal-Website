@@ -121,6 +121,16 @@ a:hover         { color: #0000ee; }
 
 #nav-hamburger:hover { color: var(--text-mid); }
 
+#nav-hamburger svg line {
+  transition: transform 0.25s ease, opacity 0.25s ease;
+  transform-box: fill-box;
+  transform-origin: center;
+}
+
+#nav-hamburger[aria-expanded="true"] svg line:nth-child(1) { transform: translateY(6px) rotate(45deg); }
+#nav-hamburger[aria-expanded="true"] svg line:nth-child(2) { opacity: 0; }
+#nav-hamburger[aria-expanded="true"] svg line:nth-child(3) { transform: translateY(-6px) rotate(-45deg); }
+
 .site-nav li a {
   display: block;
   font-family: var(--sans);
@@ -847,13 +857,10 @@ a:hover         { color: #0000ee; }
     left: 0;
     right: 0;
     background: #ffffff;
-    border-bottom: 1px solid var(--border);
+    border-radius: 0 0 8px 8px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.2);
     flex-direction: column;
     z-index: 100;
-  }
-
-  #nav-menu.open {
-    display: flex;
   }
 
   #nav-menu li a {
