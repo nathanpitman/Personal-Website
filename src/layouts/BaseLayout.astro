@@ -45,7 +45,7 @@ const year = new Date().getFullYear();
       <a href="/" class="nav-brand" aria-label="Nathan Pitman – go to homepage">
         <img class="site-avatar" src="/avatar.jpg" alt="Nathan Pitman" width="28" height="28" />
         <div class="site-identity-text">
-          <span class="hello">hello, my name is</span>
+          <span class="hello"><span class="greeting">hello</span>, my name is</span>
           <span class="name">nathan pitman.</span>
         </div>
       </a>
@@ -207,10 +207,10 @@ const year = new Date().getFullYear();
 
   <script>
     import { greetings } from '../data/greetings';
-    const el = document.getElementById('greeting');
-    if (el) {
-      el.textContent = greetings[Math.floor(Math.random() * greetings.length)];
-    }
+    const word = greetings[Math.floor(Math.random() * greetings.length)];
+    document.querySelectorAll('.greeting').forEach(el => {
+      el.textContent = word;
+    });
   </script>
 
   <footer class="site-footer" data-pagefind-ignore>

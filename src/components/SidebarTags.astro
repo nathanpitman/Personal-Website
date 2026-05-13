@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import { slugify, displayTag } from '../utils/slugify';
+import SiteIdentity from './SiteIdentity.astro';
 
 interface Props {
   activeTag?: string;
@@ -30,21 +31,7 @@ const sortedTags = Array.from(tagCounts.values()).sort((a, b) =>
 
 <aside class="sidebar" aria-label="Sidebar" data-pagefind-ignore>
 
-  <div class="site-identity">
-    <a href="/" class="site-identity-link">
-      <img
-        class="site-avatar"
-        src="/avatar.jpg"
-        alt="Nathan Pitman"
-        width="56"
-        height="56"
-      />
-      <div class="site-identity-text">
-        <span class="hello">hello, my name is</span>
-        <span class="name">nathan pitman.</span>
-      </div>
-    </a>
-  </div>
+  <SiteIdentity />
 
   <div class="sidebar-block">
     <div class="sidebar-block-header">

@@ -1,4 +1,5 @@
 ---
+import SiteIdentity from './SiteIdentity.astro';
 import SidebarPreviously from './SidebarPreviously.astro';
 import SidebarRelated from './SidebarRelated.astro';
 import SidebarProjects from './SidebarProjects.astro';
@@ -16,21 +17,7 @@ const { page = '', relatedPosts } = Astro.props;
 
 <aside class="sidebar" aria-label="Sidebar" data-pagefind-ignore>
 
-  <div class="site-identity">
-    <a href="/" class="site-identity-link" aria-label="Nathan Pitman – go to homepage">
-      <img
-        class="site-avatar"
-        src="/avatar.jpg"
-        alt="Nathan Pitman"
-        width="56"
-        height="56"
-      />
-      <div class="site-identity-text">
-        <span class="hello">hello, my name is</span>
-        <span class="name">nathan pitman.</span>
-      </div>
-    </a>
-  </div>
+  <SiteIdentity />
 
   {page !== 'about' && page !== 'post' && (
     <div class="sidebar-block">
