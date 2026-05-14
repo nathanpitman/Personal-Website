@@ -23,7 +23,7 @@ relatedPosts:
     source: generated
 ---
 
-Over the past few months Iâve been working with the team at [Voyage](http://www.bebrave.biz/) to develop and deliver their shiny new website. On the high of having the website complete they foolishly invited me to christen it with itâs inaugural [headline](http://www.bebrave.biz/headlines) and tell you a little bit about the journey weâve taken from concept to reality.
+Over the past few months I've been working with the team at [Voyage](http://www.bebrave.biz/) to develop and deliver their shiny new website. On the high of having the website complete they foolishly invited me to christen it with it's inaugural [headline](http://www.bebrave.biz/headlines) and tell you a little bit about the journey we've taken from concept to reality.
 
 Unlike a large number of agencies out there Voyage know what they do best. They have a team with **supreme creativity** and they leverage those skills to provide clients with **creative solutions that deliver results** across a wide variety of mediums. This is what makes working with Voyage as a partner so exciting. You know that the creative solution they propose is more than likely going to challenge the norm and push you to deliver something that breaks the mould.
 
