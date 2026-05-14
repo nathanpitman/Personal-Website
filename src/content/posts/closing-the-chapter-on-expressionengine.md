@@ -23,7 +23,7 @@ relatedPosts:
     source: generated
 ---
 
-Last week, Ryan Masuga (the dude who built and ran devot:ee, the [ExpressionEngine](https://expressionengine.com) community add-on marketplace) [posted on LinkedIn](https://www.linkedin.com/posts/ryanmasuga_on-may-1-2009-i-launched-devotee-expressionengine-share-7456028506599194625-yUGR) to mark the 16th anniversary of its launch on 1 May 2009. I'd thoroughly recomemend reading the post but in short, it recognised the incredible journey of what started as a side project for Ryan, and the impact it went on to have on the ExpressionEngine add-on community.
+Last week, Ryan Masuga - the dude who built and ran [devot:ee](https://www.devot-ee.com), the [ExpressionEngine](https://expressionengine.com) community add-on marketplace - [posted on LinkedIn](https://www.linkedin.com/posts/ryanmasuga_on-may-1-2009-i-launched-devotee-expressionengine-share-7456028506599194625-yUGR) to mark the 16th anniversary of its launch on 1 May 2009. I'd thoroughly recomemend reading the post but in short, it recognised the incredible journey of what started as a side project for Ryan, and the impact it went on to have on the ExpressionEngine add-on community.
 
 That post sent me straight to my Github account, for a nostalgic trip down memory lane, reflecting on the [52 ExpressionEngine add-ons](https://github.com/search?q=owner%3Anathanpitman+.ee_addon&type=repositories) that I wrote during my [Nine Four](https://ninefour.co.uk) years, all with that ".ee_addon" suffix, an unspoken add-on author standard that developed over the years.
 
