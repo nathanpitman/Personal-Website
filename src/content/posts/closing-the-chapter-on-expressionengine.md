@@ -1,14 +1,27 @@
 ---
-title: 'Closing The Chapter on ExpressionEngine'
+title: Closing The Chapter on ExpressionEngine
 description: >-
-    A reflection on ExpressionEngine and the 52 add-ons I built over a decade of agency work, prompted by Ryan Masuga's LinkedIn post marking the 16th anniversary of devot:ee.
+  A reflection on ExpressionEngine and the 52 add-ons I built over a decade of
+  agency work, prompted by Ryan Masuga's LinkedIn post marking the 16th
+  anniversary of devot:ee.
 date: '2026-05-13'
 tags:
-    - expressionengine
-    - open-source
-    - web development
-    - nine four
-    - making things
+  - expressionengine
+  - open-source
+  - web development
+  - nine four
+  - making things
+relatedPosts:
+  - slug: why-choose-expressionengine
+    source: generated
+  - slug: let-devs-prefix-your-expressionengine-variables-with-a-custo
+    source: generated
+  - slug: building-websites-with-expressionengine-1-6
+    source: generated
+  - slug: expressionengine-extension-noscript-messages
+    source: generated
+  - slug: expressionengine-mug
+    source: generated
 ---
 
 Last week, Ryan Masuga (the dude who built and ran devot:ee, the [ExpressionEngine](https://expressionengine.com) community add-on marketplace) [posted on LinkedIn](https://www.linkedin.com/posts/ryanmasuga_on-may-1-2009-i-launched-devotee-expressionengine-share-7456028506599194625-yUGR) to mark the 16th anniversary of its launch on 1 May 2009. I'd thoroughly recomemend reading the post but in short, it recognised the incredible journey of what started as a side project for Ryan, and the impact it went on to have on the ExpressionEngine add-on community.
