@@ -1,5 +1,5 @@
 ---
-title: Closing The Chapter on ExpressionEngine
+title: Closing the chapter on ExpressionEngine
 description: >-
   A reflection on ExpressionEngine and the 52 add-ons I built over a decade of
   agency work, prompted by Ryan Masuga's LinkedIn post marking the 16th
