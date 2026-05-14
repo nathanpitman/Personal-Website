@@ -7,7 +7,7 @@ description: >-
 date: '2026-05-13'
 tags:
   - expressionengine
-  - open-source
+  - code
   - web development
   - making things
 relatedPosts:
