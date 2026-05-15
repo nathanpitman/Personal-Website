@@ -29,19 +29,23 @@ I’ve been using [Lightbox](http://www.huddletogether.com/projects/lightbox/) b
 
 Obviosuly this won’t deter the determined, it’s by no means bulletproof, but perhaps will serve as a gentle reminder to others.
 
-`#lightbox {  
+```css
+#lightbox {  
  background-image: url(/assets/copyright.gif);  
  background-position: center;  
  background-repeat: no-repeat;  
-}`
+}
+```
 
   
 
-`#lightbox a:hover img#lightboxImage {  
+```css
+#lightbox a:hover img#lightboxImage {  
  filter:alpha(opacity=50);     
  -moz-opacity: 0.50;     
  opacity: 0.50;  
-}`
+}
+```
 
 At first I was looking for an easy way to script the overlay of a PNG with a copyright text but in the end I just went with a nice little opacity effect on the photo in question, thus revealing a copyright message which had been set as the containing DIV background image. Keep it simple stupid.
 

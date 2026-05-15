@@ -35,7 +35,8 @@ Next is a plug-in called [glx\_thiscomment](http://textpattern.org/plugins/213/g
 
 Now create 2 new Textpattern forms, one called ‘export’ and one called ‘exportcomments’. Add the following code to your ‘export’ form:
 
-`TITLE: <txp:title />  
+```
+TITLE: <txp:title />  
 AUTHOR: <txp:author />  
 DATE: <txp:posted format="%m/%d/%G %I:%M:%S %p" />  
 PRIMARY CATEGORY: <txp:category1 />  
@@ -50,17 +51,20 @@ EXCERPT:<txp:msv_show_article_field name="Excerpt" /></txp:if_excerpt>
 <txp:if_comments>  
 <txp:comments form="exportcomments" break="" />  
 </txp:if_comments>  
-<txp:php>echo "--------"."\n";</txp:php>`
+<txp:php>echo "--------"."\n";</txp:php>
+```
 
 …and the following code to your ‘exportcomments’ form:
 
-`COMMENT:  
+```
+COMMENT:  
 AUTHOR: <txp:glx_thiscomment key="name" />  
 EMAIL: <txp:comment_email />  
 URL: <txp:comment_web />  
 DATE: <txp:posted format="%m/%d/%G %I:%M:%S %p" />  
 <txp:message />  
------`
+-----
+```
 
 Finally we need to call our ‘export’ form from a page template. Create a new page template called export and add the following code:
 

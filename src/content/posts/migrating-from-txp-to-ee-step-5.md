@@ -41,14 +41,16 @@ Delicious should have a bit of a think, depending on the size of your links coll
 
 We’re going to use the ExpressionEngine ‘Magpie’ plug-in to pull our Delicious links into our template and display them inline. The plug-in will also cache the data so if Delicious should go down our site won’t fall apart. The Magpie plug-in is a part of the default ExpressionEngine install so just open up a template file and drop in the following code:
 
-`{exp:magpie url="http://feeds.delicious.com/v2/rss/nathanpitman?count=10&tag=noteworthy" limit="10" refresh="60"}  
+```
+{exp:magpie url="http://feeds.delicious.com/v2/rss/nathanpitman?count=10&tag=noteworthy" limit="10" refresh="60"}  
 <ul>  
 {items}  
 <li><a href="{link}" title="{title}">{title}</a><br />  
 {description}</li>  
 {/items}  
 </ul>  
-{/exp:magpie}`
+{/exp:magpie}
+```
 
 Obviously you’ll have to replace ‘nathanpitman’ in the feed URL with your own Delicious username and if you want to pull back bookmarks with a particular tag then include the ‘&tag=’ parameter and variable in the querystring as I have above.
 
