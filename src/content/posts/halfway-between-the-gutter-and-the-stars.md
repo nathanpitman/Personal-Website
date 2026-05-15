@@ -28,7 +28,7 @@ Tommorow is my last day as an employee. I handed my notice in at [Bite CP](http:
 
 **Exciting?** Yes. **Scary?** Yes.
 
-As you probably know just 2 weeks back my wife gave birth to our second daughter ‘“Isla”:http://nathanpitman.com/journal/397/im-a-dad-again’, so the timing is hardly ideal, and hey I even ignored [John’s advice](http://joshuaink.com/blog/403/going-it-alone).
+As you probably know just 2 weeks back my wife gave birth to our second daughter ‘“Isla”:https://nathanpitman.com/posts/im-a-dad-again, so the timing is hardly ideal, and hey I even ignored [John’s advice](http://joshuaink.com/blog/403/going-it-alone).
 
 I guess it boils down to this: At some point in your career the desire to make a change, do something different and be brave just becomes so intense that you simply have to go with it. To fight against the motivation would be insane, and the way I see it… if I never try, I’ll look back in 10 years time I wish I had, but by then it might be too late.
 

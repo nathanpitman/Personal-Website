@@ -23,7 +23,7 @@ relatedPosts:
     source: generated
 ---
 
-After my [recent rant](http://nathanpitman.com/journal/456/bah-its-ghastly) about having to edit CMS templates via a browser text field I think I have perhaps stumbled across ExpressionEngines best feature yet. It is for sure going to save my sanity.
+After my [recent rant](https://nathanpitman.com/posts/bah-its-ghastly) about having to edit CMS templates via a browser text field I think I have perhaps stumbled across ExpressionEngines best feature yet. It is for sure going to save my sanity.
 
 ![Save Template as File in ExpressionEngine](/images/143.jpg "Save Template as File in ExpressionEngine")
 

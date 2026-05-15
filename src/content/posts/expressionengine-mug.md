@@ -24,7 +24,7 @@ relatedPosts:
     source: generated
 ---
 
-A white box arrived today containing an ‘“ExpressionEngine Mug”:http://www.flickr.com/photos/nathanpitman/2678386600/’ from the good folks at EllisLab as a thanks for my video short on ‘“Why I Choose ExpressionEngine”:http://nathanpitman.com/journal/539/why-choose-expressionengine’.
+A white box arrived today containing an ‘“ExpressionEngine Mug”:http://www.flickr.com/photos/nathanpitman/2678386600/’ from the good folks at EllisLab as a thanks for my video short on ‘“Why I Choose ExpressionEngine”:https://nathanpitman.com/posts/why-choose-expressionengine.
 
 ![](/images/172.jpg)
 
