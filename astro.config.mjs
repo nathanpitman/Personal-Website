@@ -5,6 +5,11 @@ import pagefind from 'astro-pagefind';
 export default defineConfig({
   site: 'https://nathanpitman.com',
   output: 'static',
+  markdown: {
+    shikiConfig: {
+      theme: 'github-light',
+    },
+  },
   integrations: [
     sitemap({
       filter: (page) => {
