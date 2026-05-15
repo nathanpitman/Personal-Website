@@ -24,7 +24,7 @@ relatedPosts:
     source: generated
 ---
 
-Some time having passed, I thought that I should ‘come clean’ and clarify my position in the Mac vs PC debate. Back in August 2005 I blogged about [the end of a short term relationship with a G5](http://nathanpitman.com/journal/378/pah-out-with-the-mac).
+Some time having passed, I thought that I should ‘come clean’ and clarify my position in the Mac vs PC debate. Back in August 2005 I blogged about [the end of a short term relationship with a G5](https://nathanpitman.com/posts/pah-out-with-the-mac).
 
 At that time I was well and truly convinced that I would never again be tempted by a Mac. However, back in October last year I took delivery of a shiny new [MacBook](http://www.apple.com/macbook/macbook.html).
 

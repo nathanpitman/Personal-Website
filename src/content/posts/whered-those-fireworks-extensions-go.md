@@ -23,7 +23,7 @@ relatedPosts:
     source: generated
 ---
 
-People ([Alan](http://weblogs.macromedia.com/amusselman/)) keep asking where all my Macromedia Fireworks Extensions vanished to. Well, they were victims of my [re-design](http://nathanpitman.com/journal/338/re-design-step-3-er-start-again). However plans are afoot to bring them back. In the meantime I’ve linked them all in here for your enjoyment.
+People ([Alan](http://weblogs.macromedia.com/amusselman/)) keep asking where all my Macromedia Fireworks Extensions vanished to. Well, they were victims of my [re-design](https://nathanpitman.com/posts/re-design-step-3-er-start-again). However plans are afoot to bring them back. In the meantime I’ve linked them all in here for your enjoyment.
 
 - Auto Save ([AutoSave.mxp](/web/20090607090752/http://nathanpitman.com/files/AutoSave.mxp))
 - Calculator ([Calculator.mxp](/web/20090607090752/http://nathanpitman.com/files/Calculator.mxp))
@@ -33,4 +33,4 @@ People ([Alan](http://weblogs.macromedia.com/amusselman/)) keep asking where all
 - Main Toolbar ([Main Toolbar.mxp](/web/20090607090752/http://nathanpitman.com/files/Main) Toolbar.mxp)
 - New from Template ([NewFromTemplate.mxp](/web/20090607090752/http://nathanpitman.com/files/NewFromTemplate.mxp))
 
-Right now I don’t have any plans to develop further Fireworks Extensions, most of my free time is consumed by a [mad toddler](http://nathanpitman.com/journal/363/boing-boing) right now. ;)
+Right now I don’t have any plans to develop further Fireworks Extensions, most of my free time is consumed by a [mad toddler](https://nathanpitman.com/posts/boing-boing) right now. ;)

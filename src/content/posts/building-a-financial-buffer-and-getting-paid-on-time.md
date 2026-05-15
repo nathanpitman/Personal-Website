@@ -29,4 +29,4 @@ So often I think I should write more here on the ups and downs of running your o
 - [The importance of building a financial buffer](http://stuffandnonsense.co.uk/blog/about/the-importance-of-building-a-financial-buffer)
 - [Getting paid by regular clients](http://stuffandnonsense.co.uk/blog/about/getting-paid-by-regular-clients)
 
-These are an absolute must read if you’re thinking of starting your own business, [going it alone](/web/20121130040336/http://nathanpitman.com/352/going-it-alone) or are already a number of years in (like myself). :)
+These are an absolute must read if you’re thinking of starting your own business, [going it alone](/web/20121130040336/https://nathanpitman.com/posts/going-it-alone) or are already a number of years in (like myself). :)

@@ -37,6 +37,6 @@ Well hopefully my readers made a small contribution to that reduction.
 
 **You might also want to read:**
 
-- [Whatever you do, don’t buy a Kia Sedona](/web/20110404105427/http://nathanpitman.com/563/whatever-you-do-dont-buy-a-kia-sedona "Jan 1st 2009")
-- [Kia Reliability](/web/20110404105427/http://nathanpitman.com/592/kia-reliability "Oct 23rd 2009")
-- [Don’t let the door hit you on the way out](/web/20110404105427/http://nathanpitman.com/593/dont-let-the-door-hit-you-on-the-way-out "Oct 30th 2009")
+- [Whatever you do, don’t buy a Kia Sedona](/web/20110404105427/https://nathanpitman.com/posts/whatever-you-do-dont-buy-a-kia-sedona "Jan 1st 2009")
+- [Kia Reliability](/web/20110404105427/https://nathanpitman.com/posts/kia-reliability "Oct 23rd 2009")
+- [Don’t let the door hit you on the way out](/web/20110404105427/https://nathanpitman.com/posts/dont-let-the-door-hit-you-on-the-way-out "Oct 30th 2009")

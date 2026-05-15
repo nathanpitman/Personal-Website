@@ -31,4 +31,4 @@ All you have to do is set up a free account then register as a ‘partner’ and
 
 The tricky part wasn’t getting it to work so much as temporarily defaulting [Textpatterns](http://www.textpattern.com/) RSS feed to 999 articles so that Talkr could provide audio for even my oldest posts (Sorry if you did an update with your RSS readers during the process!).
 
-So, let me know what you think, click on the [Listen to this post](http://www.talkr.com/app/fetch.app?feed_id=9340&perma_link=http://nathanpitman.com/journal/434/listen-to-me-talkr-kinda) link below any artcile title to give it a whirl.
+So, let me know what you think, click on the [Listen to this post](http://www.talkr.com/app/fetch.app?feed_id=9340&perma_link=https://nathanpitman.com/posts/listen-to-me-talkr-kinda) link below any artcile title to give it a whirl.

@@ -9,7 +9,7 @@ tags:
 hidden: true
 ---
 
-Yesterday my daughter had her very first Birthday party. It hardly seems like a year since [she was born](/web/20090817091851/http://nathanpitman.com/journal/32/im-a-dad) and the last 12 months have given me some of the happiest moments of my life, I can hardly imagine what the next 12 will bring.
+Yesterday my daughter had her very first Birthday party. It hardly seems like a year since [she was born](/web/20090817091851/https://nathanpitman.com/posts/im-a-dad) and the last 12 months have given me some of the happiest moments of my life, I can hardly imagine what the next 12 will bring.
 
 ![Neve at 12 months](/images/85.jpg "Neve at 12 months")
 

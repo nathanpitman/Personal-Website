@@ -23,7 +23,7 @@ relatedPosts:
     source: generated
 ---
 
-Ok, so I know I said that [Mr Oxton](http://nathanpitman.com/journal/393/going-it-alone-john-oxton) was my final interview, but I was chatting to [Paul Farnell](http://www.salted.com/) of [SiteVista](http://www.sitevista.com/) fame and just couldn’t resist but to ask if he would do the same (hey that rhymed). He was more than happy to oblige, and has some great advice for anyone looking to ‘go it alone’. I promise, this *really* is the last interview.
+Ok, so I know I said that [Mr Oxton](https://nathanpitman.com/posts/10-questions-for-john-oxton-going-it-alone) was my final interview, but I was chatting to [Paul Farnell](http://www.salted.com/) of [SiteVista](http://www.sitevista.com/) fame and just couldn’t resist but to ask if he would do the same (hey that rhymed). He was more than happy to oblige, and has some great advice for anyone looking to ‘go it alone’. I promise, this *really* is the last interview.
 
 ### Why
 
