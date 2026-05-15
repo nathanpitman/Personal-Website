@@ -36,11 +36,13 @@ Now we can generate the most commonly used geographical tags to place in the hea
 
 Your tags should look something like this:  
 
-`<meta name="ICBM" content="51.391924, -0.745941">  
+```html
+<meta name="ICBM" content="51.391924, -0.745941">  
 <meta name="DC.title" content="nathanpitman.com">  
 <meta name="geo.position" content="51.3919;-0.7458">  
 <meta name="geo.region" content="GB-BRC">  
-<meta name="geo.placename" content="Bracknell">`
+<meta name="geo.placename" content="Bracknell">
+```
 
 ### Step 3 – Use those tags!
 

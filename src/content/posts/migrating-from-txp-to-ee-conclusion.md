@@ -32,11 +32,13 @@ Open âcp.mt\_import.phpâ form within â/system/cp/â then at l
 
 then at about line 1028 add:
 
-`// IDs Hack  
+```php
+// IDs Hack  
 if (strpos($parts['0'],'ID') !== false)  
 {  
 $ids[$id] = trim(str_replace('ID:','',$first_section[$i]));  
-}`
+}
+```
 
 At about line number 1765 amend the entry id value to:
 

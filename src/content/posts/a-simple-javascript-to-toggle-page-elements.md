@@ -24,14 +24,16 @@ relatedPosts:
 
 No rocket science here but I thought I’d blog this for my own future reference. Just a handy little script to have about.
 
-`function toggle(elementID){  
+```javascript
+function toggle(elementID){  
 var target1 = document.getElementById(elementID)  
 if (target1.style.display == 'none') {  
 target1.style.display = 'block'  
 } else {  
 target1.style.display = 'none'  
 }  
-}`
+}
+```
 
 Just give the element you want to ‘toggle’ on and off an ID and then pass that to this script.
 

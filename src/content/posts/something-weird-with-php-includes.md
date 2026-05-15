@@ -25,9 +25,11 @@ relatedPosts:
 
 There is something weird going on with PHP includes on a site which I’m working on. I’ve been trying to include a file which will change depending on where you are in the site, therefore the URL of the include is created by combining a number of variables and an existing string.
 
-`$page_audience = "5-9s";  
+```php
+$page_audience = "5-9s";  
 $baseURL = "/mysite/";  
-include($baseURL."/Includes/inc_footer_".$page_audience.".php");`
+include($baseURL."/Includes/inc_footer_".$page_audience.".php");
+```
 
 However, this simply does not work, it throws PHP errors all over the place. In the end I resorted to changing the ‘baseURL’ variable to an absolute file address.
 
