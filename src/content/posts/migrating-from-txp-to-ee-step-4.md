@@ -33,6 +33,6 @@ Now we just need to amend the file paths in our entries so work through the list
 
 Now, you can either use the ‘copy and paste info’ that the ‘File Manager Module’ provides you with (a standard href link) or hand craft a Textile based equivalent. The choice is yours.
 
-Ok so I ran out of time a little today and didn’t have a chance to explain how we can migrate out Textpattern Links but I promise I’ll cover that in my next post! ![smile](http://nathanpitman.com/images/smileys/smile.gif)
+Ok so I ran out of time a little today and didn’t have a chance to explain how we can migrate out Textpattern Links but I promise I’ll cover that in my next post!
 
-[Next Step…](/web/20090519081155/http://nathanpitman.com/journal/558/migrating-from-txp-to-ee-step-5)
+[Next Step…](/posts/migrating-from-txp-to-ee-step-5)

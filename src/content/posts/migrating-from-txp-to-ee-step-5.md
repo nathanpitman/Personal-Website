@@ -52,8 +52,8 @@ We’re going to use the ExpressionEngine ‘Magpie’ plug-in to pull our Delic
 
 Obviously you’ll have to replace ‘nathanpitman’ in the feed URL with your own Delicious username and if you want to pull back bookmarks with a particular tag then include the ‘&tag=’ parameter and variable in the querystring as I have above.
 
-You should now have a nice unordered list displaying your 10 most recent Delicious bookmarks or my 10 most recent Delicious bookmarks if you forgot to change the username in the URL. ![smile](http://nathanpitman.com/images/smileys/smile.gif)
+You should now have a nice unordered list displaying your 10 most recent Delicious bookmarks or my 10 most recent Delicious bookmarks if you forgot to change the username in the URL.
 
 If you need to you can also tweak the number of minutes that the plug-in waits before it refreshes the feed display, I’d opt for 60 minutes. The Magpie plug-in defaults to 3 hours if you don’t specify a refresh value.
 
-[Conclusion…](/web/20090518092434/http://nathanpitman.com/journal/578/migrating-from-txp-to-ee-step-conclusion)
+[Conclusion…](/posts/migrating-from-txp-to-ee-conclusion)

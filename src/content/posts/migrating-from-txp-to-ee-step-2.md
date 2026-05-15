@@ -70,6 +70,6 @@ Obviously you will need to tweak the parameters in your page template to suit th
 
 With all of the above done we should now be able to visit the public URL for this page template in our web browser ([http://yourdomainname.com/export/](http://yourdomainname.com/export/)) and see the output. I had over 400 entries to export so the page took a while to load. Once fully loaded view source and save a copy to a plain text file on your local machine (txpexport.txt for example).
 
-I know I promised to cover how we import this data into ExpressionEngine but I’ve been rambling on for a while now so I’ll leave that until my next post. ![smile](http://nathanpitman.com/images/smileys/smile.gif)
+I know I promised to cover how we import this data into ExpressionEngine but I’ve been rambling on for a while now so I’ll leave that until my next post.
 
-[Next Step…](/web/20090518092414/http://nathanpitman.com/journal/migrating-from-txp-to-ee-step-3/)
+[Next Step…](/posts/migrating-from-txp-to-ee-step-3)

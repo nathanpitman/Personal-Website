@@ -39,4 +39,4 @@ Navigate to ‘Admin’ and then ‘Utilities’ and select ‘Find and Replace�
 
 All of your article entries should now include any inline images or media. Next we’ll be looking at how to deal with Textpattern ‘links’ and ‘file assets’.
 
-[Next Step…](/web/20090518094453/http://nathanpitman.com/journal/556/migrating-from-txp-to-ee-step-4)
+[Next Step…](/posts/migrating-from-txp-to-ee-step-4)
