@@ -49,4 +49,4 @@ Obviosuly this won’t deter the determined, it’s by no means bulletproof, but
 
 At first I was looking for an easy way to script the overlay of a PNG with a copyright text but in the end I just went with a nice little opacity effect on the photo in question, thus revealing a copyright message which had been set as the containing DIV background image. Keep it simple stupid.
 
-Of course, if you know of a better method, let me know. ![smile](http://nathanpitman.com/images/smileys/smile.gif)
+Of course, if you know of a better method, let me know. 🙂
