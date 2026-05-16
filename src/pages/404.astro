@@ -17,7 +17,7 @@ const idMapJson = JSON.stringify(idMap);
 const slugSetJson = JSON.stringify(posts.filter(p => !p.data.hidden).map(p => p.slug));
 ---
 
-<BaseLayout title="Page not found — journal">
+<BaseLayout title="Page not found — journal" description="The page you're looking for doesn't exist or may have moved. Browse the archives or return to the home page.">
   <div class="page">
     <main class="main">
       <article class="post">

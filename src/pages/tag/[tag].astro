@@ -42,7 +42,7 @@ function formatDate(date: Date): string {
 }
 ---
 
-<BaseLayout title={`Journal / tag: ${displayTag(tagName)} — nathanpitman.com`} activeNav="archives" bodyClass={`tag-${tagSlug}`}>
+<BaseLayout title={`Journal / tag: ${displayTag(tagName)} — nathanpitman.com`} activeNav="archives" bodyClass={`tag-${tagSlug}`} description={`Browse ${posts.length} posts tagged '${displayTag(tagName)}' in Nathan Pitman's personal journal.`}>
   <div class="page">
 
     <main class="main">
