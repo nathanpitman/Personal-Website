@@ -1,0 +1,22 @@
+# Nathan Pitman's Journal
+
+> Personal website and journal of Nathan Pitman — an interactive designer and developer with three decades of experience. Contains ~430 recovered blog posts written between 2002 and 2013 covering design, technology, software development, AI, and everyday life.
+
+Nathan Pitman has been involved in interactive design and development since the mid-nineties. He is Managing Director of Citation Group's eLearning Division and is based in Bracknell, Berkshire, UK. This site is a personal journal, not a company or commercial resource.
+
+The blog posts are historical: they were written between 2002 and 2013, recovered from archive sources, and reflect the technology landscape and personal circumstances of that era. Topics include web design, Macromedia/Adobe tools, CSS, JavaScript, blogging culture, photography, gaming, and family life.
+
+## Key Pages
+
+- [Home / Recently](https://nathanpitman.com/): The 15 most recent journal entries
+- [About](https://nathanpitman.com/about/): Background on Nathan Pitman and his career
+- [Archives](https://nathanpitman.com/archives/): Full chronological index of all posts (2002–2013)
+
+## Feeds
+
+- [RSS Feed](https://nathanpitman.com/feed.xml): Syndication feed (RSS 2.0)
+- [JSON Feed](https://nathanpitman.com/feed.json): Syndication feed (JSON Feed 1.1)
+
+## Sitemap
+
+- [Sitemap](https://nathanpitman.com/sitemap-index.xml): Full sitemap index
