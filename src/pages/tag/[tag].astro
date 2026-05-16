@@ -40,9 +40,17 @@ function formatDate(date: Date): string {
   const y = date.getFullYear().toString().slice(-2);
   return `${months[date.getMonth()]} ${d}. ${y}`;
 }
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": `Posts tagged '${displayTag(tagName)}'`,
+  "url": new URL(`/tag/${tagSlug}/`, Astro.site).href,
+  "description": `Browse ${posts.length} posts tagged '${displayTag(tagName)}' in Nathan Pitman's personal journal.`
+};
 ---
 
-<BaseLayout title={`Journal / tag: ${displayTag(tagName)} — nathanpitman.com`} activeNav="archives" bodyClass={`tag-${tagSlug}`} description={`Browse ${posts.length} posts tagged '${displayTag(tagName)}' in Nathan Pitman's personal journal.`}>
+<BaseLayout title={`Journal / tag: ${displayTag(tagName)} — nathanpitman.com`} activeNav="archives" bodyClass={`tag-${tagSlug}`} description={`Browse ${posts.length} posts tagged '${displayTag(tagName)}' in Nathan Pitman's personal journal.`} jsonLd={jsonLd}>
   <div class="page">
 
     <main class="main">
