@@ -5,9 +5,23 @@ import { getEntry } from 'astro:content';
 
 const entry = await getEntry('pages', 'about');
 const { Content } = await entry.render();
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://nathanpitman.com/#person",
+  "name": "Nathan Pitman",
+  "url": "https://nathanpitman.com/about/",
+  "jobTitle": "Managing Director",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Citation Group"
+  },
+  "description": "Nathan Pitman is an interactive designer and developer with three decades of experience — from early web pioneer to agency founder to senior leader."
+};
 ---
 
-<BaseLayout title="About — nathanpitman.com" activeNav="about" description="Nathan Pitman is an interactive designer and developer with three decades of experience — from early web pioneer to agency founder to senior leader.">
+<BaseLayout title="About — nathanpitman.com" activeNav="about" description="Nathan Pitman is an interactive designer and developer with three decades of experience — from early web pioneer to agency founder to senior leader." jsonLd={jsonLd}>
   <div class="page">
 
     <main class="main">

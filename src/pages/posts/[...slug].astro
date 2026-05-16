@@ -68,9 +68,24 @@ const d = post.data.date;
 const yyyy = d.getFullYear().toString();
 const mm = String(d.getMonth() + 1).padStart(2, '0');
 const dd = String(d.getDate()).padStart(2, '0');
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": post.data.title,
+  "datePublished": post.data.date.toISOString(),
+  "url": new URL(`/posts/${post.slug}/`, Astro.site).href,
+  "author": {
+    "@type": "Person",
+    "@id": "https://nathanpitman.com/#person",
+    "name": "Nathan Pitman"
+  },
+  ...(description && { "description": description }),
+  ...(tags.length > 0 && { "keywords": tags.join(', ') }),
+};
 ---
 
-<BaseLayout title={`${post.data.title} — Journal — nathanpitman.com`} description={description} activeNav="recently">
+<BaseLayout title={`${post.data.title} — Journal — nathanpitman.com`} description={description} activeNav="recently" jsonLd={jsonLd}>
   <div class="page">
 
     <main class="main">
