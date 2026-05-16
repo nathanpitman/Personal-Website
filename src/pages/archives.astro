@@ -42,9 +42,22 @@ for (const post of sorted) {
 
   currentMonth.posts.push({ title: post.data.title, url: `/posts/${slug}` });
 }
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "name": "Nathan Pitman's Journal",
+  "url": "https://nathanpitman.com/archives/",
+  "description": "Browse all posts from Nathan Pitman's personal journal, written between 2002 and 2013, covering design, development, technology, and everyday life.",
+  "author": {
+    "@type": "Person",
+    "@id": "https://nathanpitman.com/#person",
+    "name": "Nathan Pitman"
+  }
+};
 ---
 
-<BaseLayout title="Journal / archives — nathanpitman.com" activeNav="archives" description="Browse all posts from Nathan Pitman's personal journal, written between 2002 and 2013, covering design, development, technology, and everyday life.">
+<BaseLayout title="Journal / archives — nathanpitman.com" activeNav="archives" description="Browse all posts from Nathan Pitman's personal journal, written between 2002 and 2013, covering design, development, technology, and everyday life." jsonLd={jsonLd}>
   <div class="page">
 
     <main class="main">

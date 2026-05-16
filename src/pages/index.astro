@@ -16,9 +16,32 @@ function formatDate(date: Date): string {
   const y = date.getFullYear().toString().slice(-2);
   return `${months[date.getMonth()]} ${d}. ${y}`;
 }
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "name": "Nathan Pitman's Journal",
+      "url": "https://nathanpitman.com/",
+      "description": "Nathan Pitman's personal website and journal — writing about design, technology, AI, and whatever else takes his fancy since 2003."
+    },
+    {
+      "@type": "Person",
+      "@id": "https://nathanpitman.com/#person",
+      "name": "Nathan Pitman",
+      "url": "https://nathanpitman.com/",
+      "jobTitle": "Managing Director",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Citation Group"
+      }
+    }
+  ]
+};
 ---
 
-<BaseLayout title="Journal / recently — nathanpitman.com" activeNav="recently" description="Nathan Pitman's personal website and journal — writing about design, technology, AI, and whatever else takes his fancy since 2003.">
+<BaseLayout title="Journal / recently — nathanpitman.com" activeNav="recently" description="Nathan Pitman's personal website and journal — writing about design, technology, AI, and whatever else takes his fancy since 2003." jsonLd={jsonLd}>
   <div class="page">
 
     <main class="main">
