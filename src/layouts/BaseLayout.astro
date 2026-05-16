@@ -21,7 +21,10 @@ const year = new Date().getFullYear();
   <title>{title}</title>
   <link rel="canonical" href={Astro.url.href} />
   {description && <meta name="description" content={description} />}
+  <meta property="og:title" content={title} />
   {description && <meta property="og:description" content={description} />}
+  <meta property="og:url" content={Astro.url.href} />
+  <meta property="og:image" content={new URL('/avatar.jpg', Astro.site).href} />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link
