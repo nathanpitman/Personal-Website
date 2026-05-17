@@ -42,3 +42,5 @@ npm run dev
 ## AI context
 
 `CLAUDE.md` at the root of this repo contains project notes for Claude AI sessions — architecture details, design constraints, and implementation notes accumulated over the project's development.
+
+`/llms.txt` (served at the root URL) is a machine-readable site summary following the [llms.txt](https://llmstxt.org/) emerging standard, for AI systems that crawl or index the site.
