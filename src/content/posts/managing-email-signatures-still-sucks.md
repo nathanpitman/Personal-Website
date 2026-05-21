@@ -1,5 +1,5 @@
 ---
-title: “Managing Email Signatures Still Sucks…”
+title: Managing Email Signatures Still Sucks...
 date: '2026-05-21'
 description: >-
   Sixteen years ago I wrote three sentences about email signatures being a
