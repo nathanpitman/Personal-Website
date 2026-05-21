@@ -7,9 +7,7 @@ description: >-
 tags:
   - Games
   - Making things
-  - Side Project
   - AI
-  - Vibe Coding
 slug: new-energy-economy-in-open-transport-tycoon-deluxe
 relatedPosts:
   - slug: scratching-an-itch-to-build-a-game
