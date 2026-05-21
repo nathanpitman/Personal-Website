@@ -1,9 +1,12 @@
 ---
 title: “Managing Email Signatures Still Sucks…”
-date: ‘2026-05-21’
+date: '2026-05-21'
 description: >-
-  “Sixteen years ago I wrote three sentences about email signatures being a
-  mess. Turns out they still are — but for different reasons now.”
+  Sixteen years ago I wrote three sentences about email signatures being a
+  mess. Turns out they still are — but for different reasons now.
+tags:
+  - Marketing
+  - Technology
 relatedPosts:
   - slug: email-signatures
     source: generated
