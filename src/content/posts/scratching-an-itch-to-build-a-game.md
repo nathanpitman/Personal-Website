@@ -10,7 +10,6 @@ tags:
   - Games
   - AI
   - Making things
-  - Side Project
 relatedPosts:
   - slug: energy-economy-in-open-transport-tycoon-deluxe
     source: generated
