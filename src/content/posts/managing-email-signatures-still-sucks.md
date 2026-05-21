@@ -28,9 +28,9 @@ I was running Nine Four at the time, I’d probably just been through the ritual
 
 Now… some sixteen years later, I’m going through exactly the same exercise, however this time I’m the client, and I’ve got a proper reason to find a solution to that distribution problem, beyond an abstract blog-able frustration.
 
-We’ve been doing a fairly thorough review of our prospect journey and somewhere in the middle of that process it’s became pretty uncomfortable for me to see how inconsistent our email signatures are. Different fonts, some with social media icons, some without, broken layouts, old links, old branded promo banners - [it’s a hot mess](https://sighq.app/posts/why-your-team-emails-all-look-different/).
+We’ve been doing a fairly thorough review of our prospect journey and somewhere in the middle of that process it’s become pretty uncomfortable for me to see how inconsistent our email signatures are. Different fonts, some with social media icons, some without, broken layouts, old links, old branded promo banners - [it’s a hot mess](https://sighq.app/posts/why-your-team-emails-all-look-different/).
 
-The current process, if you can call it that, is that we periodically send round an email asking colleagues to cut and paste a signature in their email client. Some of us do it the same day, some of us forget (guilty!) and sometime we copy and paste it but mess up the formatting when trying to personalise it to our own needs.
+The current process, if you can call it that, is that we periodically send round an email asking colleagues to cut and paste a signature in their email client. Some of us do it the same day, some of us forget (guilty!) and sometimes we copy and paste it but mess up the formatting when trying to personalise it to our own needs.
 
 Of course over time… all of this just continues to drifts, until the next round of “can everyone update their signatures please” and the cycle repeats... :D
 
