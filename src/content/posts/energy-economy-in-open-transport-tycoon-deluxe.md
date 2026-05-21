@@ -7,7 +7,6 @@ description: >-
 tags:
   - Games
   - Making things
-  - OpenTTD
   - Side Project
   - AI
   - Vibe Coding
