@@ -745,8 +745,8 @@ a:hover         { color: #0000ee; }
 }
 
 .side-projects-list li {
-  padding: 8px 0;
-  border-bottom: 1px solid var(--border);
+  padding: 10px 0;
+  border-bottom: 1px dotted var(--border);
 }
 
 .side-projects-list li:last-child {
