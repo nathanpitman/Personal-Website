@@ -625,6 +625,7 @@ a:hover         { color: #0000ee; }
 }
 
 .sidebar-block-title {
+  font-family: var(--sans);
   font-size: 0.75rem;
   font-weight: 600;
   letter-spacing: 0.08em;
