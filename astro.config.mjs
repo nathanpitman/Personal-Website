@@ -5,6 +5,9 @@ import pagefind from 'astro-pagefind';
 export default defineConfig({
   site: 'https://nathanpitman.com',
   output: 'static',
+  legacy: {
+    collections: true,
+  },
   markdown: {
     shikiConfig: {
       theme: 'github-light',
