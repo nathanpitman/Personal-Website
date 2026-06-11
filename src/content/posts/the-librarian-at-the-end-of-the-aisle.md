@@ -1,4 +1,12 @@
-# The Librarian at the End of the Aisle
+---
+title: 'The Librarian at the End of the Aisle'
+description: >-
+  10 days in the South of France, one Digital Camera and some fantastic light.
+  View the blurry results for yourself.
+date: '2026-06-11'
+tags:
+  - AI
+---
 
 I grew up in a pre‑internet world, a world where if I needed to research a topic or answer a question for a school project, the only real option available was to ask my mum for a lift to the local village library.  
 
