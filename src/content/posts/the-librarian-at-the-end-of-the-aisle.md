@@ -38,7 +38,7 @@ But still — how will future us discover new things, most importantly the thing
 
 In Google's new AI‑driven answers world, the librarian walks you to the shelf, they pull a specific book off the shelf (sponsored of course), turn to an exact page, and then — crucially — they explain the surrounding context in a way that makes sense *for you*, because they've quietly learned how you think and what's important to you.
 
-Google frames this as a natural evolution of their [mission to "organise the world's information and make it accessible and useful."](https://about.google/)
+Google frames this as a natural evolution of their [mission to "organise the world's information and make it accessible and useful."](https://about.google/company-info/)
 
 It's a shift from **indexing** to **interpreting**.  
 
