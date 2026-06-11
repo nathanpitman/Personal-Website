@@ -1,10 +1,25 @@
 ---
-title: 'The Librarian at the End of the Aisle'
+title: The Librarian at the End of the Aisle
 description: >-
-  Childhood trips to the local library sparked unexpected discoveries. Now Google’s AI-driven search promises frictionless answers — but what do we lose when the librarian stops pointing at shelves and starts handing us pre-digested ones?
+  Childhood trips to the local library sparked unexpected discoveries. Now
+  Google’s AI-driven search promises frictionless answers — but what do we lose
+  when the librarian stops pointing at shelves and starts handing us
+  pre-digested ones?
 date: '2026-06-11'
 tags:
   - AI
+relatedPosts:
+  - slug: scratching-an-itch-to-build-a-game
+    source: generated
+  - slug: rediscovering-making-things
+    source: generated
+  - slug: >-
+      back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark
+    source: generated
+  - slug: energy-economy-in-open-transport-tycoon-deluxe
+    source: generated
+  - slug: junior-front-end-developer-wokingham-berks-uk
+    source: generated
 ---
 
 I grew up in a pre‑internet world, a world where if I needed to research a topic or answer a question for a school project, the only real option available was to ask my mum for a lift to the local village library.  
