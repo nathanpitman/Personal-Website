@@ -18,7 +18,7 @@ relatedPosts:
     source: generated
 ---
 
-I grew up in a pre‑internet world, a world where if I needed to research a topic or answer a question for a school project, the only real option available was to ask my mum for a lift to the local village library.  
+I grew up in a pre‑internet world, a world where if I needed to research a topic or answer a question for a school project, the only real option available was to ask my mum for a lift to [the local village library](https://share.google/aimode/KXhhgaoL42vaP93y0).
 
 Our library was pretty small, an old Victorian building with a pretty limited range of options. Finding the answer to a question required flicking through reference books one after another, scanning indexes, and just hoping that one of the limited books on offer would include what you needed. Sometimes you found the answer. Sometimes you didn't, and you'd have to visit a larger library, usually in the local town. Frustrating for sure, but this often led to the discovery of interesting topics unrelated as you ran your finger along the titles on the spines adorning the shelves. 
 
