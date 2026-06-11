@@ -16,10 +16,6 @@ relatedPosts:
   - slug: >-
       back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark
     source: generated
-  - slug: energy-economy-in-open-transport-tycoon-deluxe
-    source: generated
-  - slug: junior-front-end-developer-wokingham-berks-uk
-    source: generated
 ---
 
 I grew up in a pre‑internet world, a world where if I needed to research a topic or answer a question for a school project, the only real option available was to ask my mum for a lift to the local village library.  
@@ -38,7 +34,7 @@ But what does that mean for the unintentional discovery that introduced me to ne
 
 Google insists that AI Overviews ["prominently include links"](https://blog.google/products-and-platforms/products/search/ai-search-driving-more-queries-higher-quality-clicks/) and are designed to help people "explore relevant sites across the web." They also say that people using AI Overviews "visit web content" more and that the clicks they do send are ["higher quality"](https://blog.google/products-and-platforms/products/search/ai-search-driving-more-queries-higher-quality-clicks/) because the system has already filtered for relevance.
 
-But still — how will future us discover new things, most importantly the things without a marketing budget, without a brand, without the capacity to pay for visibility in [AEO](https://www.searchenginejournal.com/impact-of-ai-overviews-how-publishers-need-to-adapt/556843/)? What happens to the quiet corners of the web when the librarian stops pointing at shelves and starts handing us pre‑digested answers?
+But still — how will future us discover new things, most importantly the things without a marketing budget, without a brand, without the capacity to pay for visibility in AEO? What happens to the quiet corners of the web when the librarian stops pointing at shelves and starts handing us pre‑digested answers?
 
 In Google's new AI‑driven answers world, the librarian walks you to the shelf, they pull a specific book off the shelf (sponsored of course), turn to an exact page, and then — crucially — they explain the surrounding context in a way that makes sense *for you*, because they've quietly learned how you think and what's important to you.
 
