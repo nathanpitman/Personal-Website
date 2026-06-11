@@ -1,8 +1,7 @@
 ---
 title: 'The Librarian at the End of the Aisle'
 description: >-
-  10 days in the South of France, one Digital Camera and some fantastic light.
-  View the blurry results for yourself.
+  Childhood trips to the local library sparked unexpected discoveries. Now Google’s AI-driven search promises frictionless answers — but what do we lose when the librarian stops pointing at shelves and starts handing us pre-digested ones?
 date: '2026-06-11'
 tags:
   - AI
