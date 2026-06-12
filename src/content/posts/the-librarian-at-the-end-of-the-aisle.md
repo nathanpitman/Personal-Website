@@ -34,19 +34,17 @@ I can't help wondering if this was always the inevitable destination. Google the
 
 Maybe this experience *is* better for the user, it's definitely more frictionless.
 
-Thinking back to how I sourced answers to questions as a school child... Given the option of having a personal librarian walk me to the exact book, open it to the right page, and point out the paragraph that answered my question, there's a bit of me that thinks I would have taken that. Convenience typically wins.
+Thinking back to how I sourced answers as a school child, there's a part of me that wonders whether I'd have wanted it any other way. Given the option of a personal librarian walking me to the exact book, opening it to the right page, pointing at the paragraph — would I have taken that? Probably. Convenience typically wins.
 
-But what does that mean for the unintentional discovery that introduced me to new subjects and mediums? I discovered choose your own adventure books at our local library... never knew they existed, didn't seek them out, just stumbled across them. That led to a fascination with adventure games, a whole new set of experiences that piqued my interest in interaction design. Would I have developed an interest in programming without that, would I have had a long, enjoyable career in "making things" with software if not for those accidental discoveries on the way to finding the answer? Who knows?
+But I discovered choose your own adventure books at that library. Never knew they existed, didn't seek them out, just stumbled across them while looking for something else entirely. That led to a fascination with adventure games, which piqued my interest in interaction design, which shaped a long career in making things with software. None of that was searched for. All of it was accidental.
 
-Google insists that AI Overviews ["prominently include links"](https://blog.google/products-and-platforms/products/search/ai-search-driving-more-queries-higher-quality-clicks/) and are designed to help people "explore relevant sites across the web." They also say that people using AI Overviews "visit web content" more and that the clicks they do send are ["higher quality"](https://blog.google/products-and-platforms/products/search/ai-search-driving-more-queries-higher-quality-clicks/) because the system has already filtered for relevance.
+Google insists that AI Overviews "prominently include links" and that the clicks they send are "higher quality" because the system has already filtered for relevance. But filtering for relevance is precisely the problem. The librarian in this version walks you straight to the right shelf, pulls the (sponsored) book, opens it to the right page, and explains it to you in terms they already know will land — because they've been quietly learning how you think. Serendipity isn't a feature of that system. It's the first casualty of it.
 
-But how will future us discover new things that don't have a marketing budget, without a brand, without the capacity to pay for visibility in AEO? What happens to the quiet corners of the web when the librarian stops pointing at shelves and starts handing us pre‑digested answers?
-
-In Google's new AI‑driven answers world, the librarian walks you to the shelf, they pull a specific book off the shelf (sponsored of course), turn to an exact page, and then — crucially — they explain the surrounding context in a way that makes sense *for you*, because they've quietly learned how you think and what's important to you.
+So how will future us discover the things that don't have a marketing budget, a brand, or the capacity to pay for visibility in AEO? What happens to the quiet corners of the web when the answer arrives before the wandering can begin?
 
 It's a shift from **indexing** to **interpreting**.
 
-There is some undeniable magic in that, but also real risk.
+There is some undeniable magic in this, but also real risk.
 
 A librarian who interprets the reference sources for you is also a librarian who filters.
 
@@ -55,4 +53,4 @@ A librarian who guides is also one who decides what you don't see.
 A librarian who knows you well enough to shape the narrative is one that doesn't challenge or 
 extend your world view.
 
-Does this make search better?
+Is this the better outcome?
