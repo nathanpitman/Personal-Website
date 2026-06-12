@@ -1,5 +1,5 @@
 ---
-title: The Librarian at the End of the Aisle
+title: The Librarian
 description: >-
   Childhood trips to the local library sparked unexpected discoveries. Now
   Google’s AI-driven search promises frictionless answers — but what do we lose
