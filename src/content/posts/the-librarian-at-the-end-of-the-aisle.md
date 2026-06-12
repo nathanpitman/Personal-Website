@@ -40,7 +40,7 @@ But what does that mean for the unintentional discovery that introduced me to ne
 
 Google insists that AI Overviews ["prominently include links"](https://blog.google/products-and-platforms/products/search/ai-search-driving-more-queries-higher-quality-clicks/) and are designed to help people "explore relevant sites across the web." They also say that people using AI Overviews "visit web content" more and that the clicks they do send are ["higher quality"](https://blog.google/products-and-platforms/products/search/ai-search-driving-more-queries-higher-quality-clicks/) because the system has already filtered for relevance.
 
-But how will future us discover new that don't have a marketing budget, without a brand, without the capacity to pay for visibility in AEO? What happens to the quiet corners of the web when the librarian stops pointing at shelves and starts handing us pre‑digested answers?
+But how will future us discover new things that don't have a marketing budget, without a brand, without the capacity to pay for visibility in AEO? What happens to the quiet corners of the web when the librarian stops pointing at shelves and starts handing us pre‑digested answers?
 
 In Google's new AI‑driven answers world, the librarian walks you to the shelf, they pull a specific book off the shelf (sponsored of course), turn to an exact page, and then — crucially — they explain the surrounding context in a way that makes sense *for you*, because they've quietly learned how you think and what's important to you.
 
