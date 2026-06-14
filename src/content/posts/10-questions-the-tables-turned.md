@@ -25,4 +25,4 @@ relatedPosts:
 
 *A few months back, fellow UK designer Nathan Pitman [interviewed me](https://nathanpitman.com/posts/10-questions-for-paul-farnell-going-it-alone) (and others) about “going it alone” as a freelancer. He was asking because he himself was on the verge of leaving his job and starting out on his own. Now that he’s started [Nine Four](http://www.ninefour.co.uk/) I turned the tables and asked him the same 10 questions, to find out how it’s going so far.*
 
-[10 questions for Nathan Pitman](http://www.salted.com/unsalted/10-questions-for-nathan-pitman).
+[10 questions for Nathan Pitman](https://web.archive.org/web/20080905220516/http://www.salted.com/unsalted/10-questions-for-nathan-pitman).
