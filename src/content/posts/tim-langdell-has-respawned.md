@@ -24,7 +24,7 @@ relatedPosts:
 
 I still remember walking back to a summer work placement from a local supermarket in 1993 with the first issue of Edge magazine in hand. In fact, I still have that very magazine, and many, many issues that succeeded it! That makes the ongoing saga of [Tim Langdell](https://en.wikipedia.org/wiki/Edge_Games) feel particularly personal.
 
-Langdell has spent decades threatening legal action against anyone using the word "edge" near video games, most infamously having Mobigame's brilliant iOS platformer EDGE pulled from the App Store back in 2009. However, by 2013, his trademarks were cancelled after he tried to take on Electronic Arts (and for once, they were the gaming industry’s good guys).
+Langdell has spent decades threatening legal action against anyone using the word "edge" near video games, most infamously having Mobigame's [brilliant iOS platformer EDGE](https://apps.apple.com/gb/app/edge/id300896018) pulled from the App Store back in 2009. However, by 2013, his trademarks were cancelled after he tried to take on Electronic Arts (and for once, they were the gaming industry’s good guys).
 
 In what felt like a final stake through the heart of all this nonsense, Mobigame won another cancellation of Tim’s concocted trademarks in October 2025.
 
