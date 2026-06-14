@@ -3,6 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Sidebar from '../../components/Sidebar.astro';
 import { getCollection } from 'astro:content';
 import { slugify, displayTag } from '../../utils/slugify';
+import { getDescription } from '../../utils/description';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
@@ -32,30 +33,7 @@ if (redirectTo) return Astro.redirect(redirectTo, 301);
 const { Content } = await post.render();
 const tags = post.data.tags ?? [];
 
-function extractFirstParagraph(body: string): string {
-  const stripped = body.replace(/^---[\s\S]*?---\s*/, '');
-  const lines = stripped.split('\n');
-  let paragraph = '';
-  for (const line of lines) {
-    const trimmed = line.trim();
-    if (!trimmed) {
-      if (paragraph) break;
-      continue;
-    }
-    if (trimmed.startsWith('#') || trimmed.startsWith('![') || trimmed.startsWith('<')) continue;
-    paragraph += (paragraph ? ' ' : '') + trimmed;
-  }
-  const cleaned = paragraph
-    .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
-    .replace(/\\[*_`~[\]]/g, '')
-    .replace(/[*_`~]+/g, '')
-    .replace(/\s+/g, ' ')
-    .trim();
-  if (cleaned.length <= 160) return cleaned;
-  return cleaned.slice(0, 157).replace(/\s+\S*$/, '') + '...';
-}
-
-const description = post.data.description || extractFirstParagraph(post.body ?? '');
+const description = getDescription(post);
 
 function formatDate(date: Date): string {
   const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
