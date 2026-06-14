@@ -410,6 +410,13 @@ a:hover         { color: #0000ee; }
   font-size: inherit;
 }
 
+.post-body blockquote {
+  margin: 0.8em 0;
+  padding-left: 1.2em;
+  border-left: 3px solid var(--border-mid);
+  font-style: italic;
+}
+
 /* Tagged: label + comma-separated links */
 .post-tags {
   margin-top: 16px;
