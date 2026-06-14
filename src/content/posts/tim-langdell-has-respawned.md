@@ -1,8 +1,25 @@
 ---
-title: "Tim Langdell Has Respawned"
-description: "Tim Langdell — the trademark troll who spent decades threatening anyone using the word 'edge' near video games — has filed yet another federal complaint against Mobigame, despite his previous losses vs Future Publishing, Electronic Arts, and Mobigame themselves."
-date: 2026-06-14
-tags: ["games", "business"]
+title: Tim Langdell Has Respawned
+description: >-
+  Tim Langdell — the trademark troll who spent decades threatening anyone using
+  the word 'edge' near video games — has filed yet another federal complaint
+  against Mobigame, despite his previous losses vs Future Publishing, Electronic
+  Arts, and Mobigame themselves.
+date: '2026-06-14'
+tags:
+  - games
+  - business
+relatedPosts:
+  - slug: scratching-an-itch-to-build-a-game
+    source: generated
+  - slug: energy-economy-in-open-transport-tycoon-deluxe
+    source: generated
+  - slug: managing-email-signatures-still-sucks
+    source: generated
+  - slug: building-a-financial-buffer-and-getting-paid-on-time
+    source: generated
+  - slug: the-tools-of-my-trade
+    source: generated
 ---
 
 I still remember walking back to a summer work placement from a local supermarket in 1993 with the first issue of Edge magazine on hand. In fact, I still have that very magazine, and many, many issues that preceded it! That makes the ongoing saga of Tim Langdell feel particularly personal.
