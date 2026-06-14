@@ -1,0 +1,59 @@
+name: Syndicate Post
+
+on:
+  workflow_dispatch:
+    inputs:
+      post:
+        description: 'Post slug (the filename in src/content/posts without .md, e.g. my-post-title)'
+        required: true
+        type: string
+      bluesky:
+        description: 'Post to Bluesky'
+        type: boolean
+        default: true
+      mastodon:
+        description: 'Post to Mastodon'
+        type: boolean
+        default: true
+      threads:
+        description: 'Post to Threads'
+        type: boolean
+        default: true
+      dry_run:
+        description: 'Dry run (log the post text without publishing)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  syndicate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Syndicate post
+        env:
+          POST_SLUG: ${{ inputs.post }}
+          DRY_RUN: ${{ inputs.dry_run }}
+          PLATFORM_BLUESKY: ${{ inputs.bluesky }}
+          PLATFORM_MASTODON: ${{ inputs.mastodon }}
+          PLATFORM_THREADS: ${{ inputs.threads }}
+          BLUESKY_IDENTIFIER: ${{ secrets.BLUESKY_IDENTIFIER }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+          MASTODON_INSTANCE_URL: ${{ secrets.MASTODON_INSTANCE_URL }}
+          MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+        run: node scripts/syndicate-post.mjs
