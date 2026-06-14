@@ -2,7 +2,8 @@ import { getCollection } from 'astro:content';
 
 export async function GET(context: any) {
   const posts = await getCollection('posts');
-  const sorted = posts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+  const visible = posts.filter(post => !post.data.hidden);
+  const sorted = visible.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
   const siteUrl = context.site.toString().replace(/\/$/, '');
 
   const feed = {
