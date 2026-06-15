@@ -101,14 +101,15 @@ const jsonLd = {
         <div class="post-body">
           <Content />
         </div>
-        {tags.length > 0 && (
-          <p class="post-tags">
-            Tagged: {tags.map((tag: string, i: number) => (
-              <><a href={`/tag/${slugify(tag)}`}>{displayTag(tag)}</a>{i < tags.length - 1 ? ', ' : ''}</>
-            ))}
-          </p>
-        )}
-        <p class="post-edit">
+        <p class="post-tags">
+          {tags.length > 0 && (
+            <>
+              #{tags.map((tag: string, i: number) => (
+                <><a href={`/tag/${slugify(tag)}`}>{displayTag(tag)}</a>{i < tags.length - 1 ? ', ' : ''}</>
+              ))}
+              {' · '}
+            </>
+          )}
           <a href={githubEditUrl} rel="nofollow">Edit this post</a>
         </p>
         <span class="date-search-tokens">{yyyy}-{mm}-{dd} {yyyy}-{mm} {yyyy} {mm} {dd}</span>

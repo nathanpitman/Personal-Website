@@ -417,7 +417,7 @@ a:hover         { color: #0000ee; }
   font-style: italic;
 }
 
-/* Tagged: label + comma-separated links */
+/* Tags + edit-on-GitHub link */
 .post-tags {
   margin-top: 16px;
   font-family: var(--sans);
@@ -427,13 +427,6 @@ a:hover         { color: #0000ee; }
 
 .post-tags span {
   color: var(--text-muted);
-}
-
-/* Edit this post: link to the source file on GitHub */
-.post-edit {
-  margin-top: 8px;
-  font-family: var(--sans);
-  font-size: 0.8rem;
 }
 
 .date-search-tokens,
