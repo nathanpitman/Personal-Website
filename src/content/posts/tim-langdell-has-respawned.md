@@ -7,8 +7,8 @@ description: >-
   Arts, and Mobigame themselves.
 date: '2026-06-14'
 tags:
-  - games
-  - business
+  - Gaming
+  - Business
 relatedPosts:
   - slug: scratching-an-itch-to-build-a-game
     source: generated

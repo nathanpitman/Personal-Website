@@ -5,7 +5,7 @@ description: >-
   Sixteen years ago I wrote three sentences about email signatures being a
   mess. Turns out they still are — but for different reasons now.
 tags:
-  - Marketing/advertising
+  - Marketing/Advertising
   - Technology
   - Business
   - Branding

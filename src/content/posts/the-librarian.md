@@ -9,7 +9,7 @@ date: '2026-06-11'
 tags:
   - AI
   - Technology
-  - Marketing/advertising
+  - Marketing/Advertising
 relatedPosts:
   - slug: scratching-an-itch-to-build-a-game
     source: generated

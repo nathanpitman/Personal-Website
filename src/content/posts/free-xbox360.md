@@ -9,7 +9,7 @@ archive: >-
   https://web.archive.org/web/20090614072315/http://nathanpitman.com:80/466/free-xbox360
 tags:
   - Chatter
-  - Consoles
+  - Gaming
 relatedPosts:
   - slug: xbox-360-to-get-1080p
     source: generated

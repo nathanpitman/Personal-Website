@@ -9,7 +9,7 @@ source: 'http://nathanpitman.com/492/on-demand-movies-tv-coming-to-xbox-360'
 archive: >-
   https://web.archive.org/web/20100104131333/http://nathanpitman.com:80/492/on-demand-movies-tv-coming-to-xbox-360
 tags:
-  - Consoles
+  - Gaming
 relatedPosts:
   - slug: xbox-360-to-get-1080p
     source: generated

@@ -8,6 +8,12 @@ export default defineConfig({
   legacy: {
     collections: true,
   },
+  redirects: {
+    '/tag/consoles': '/tag/gaming',
+    '/tag/games': '/tag/gaming',
+    '/tag/linux': '/tag/technology',
+    '/tag/web-applications': '/tag/web-development',
+  },
   markdown: {
     shikiConfig: {
       theme: 'github-light',

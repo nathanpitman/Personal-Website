@@ -7,7 +7,7 @@ archive: >-
   https://web.archive.org/web/20090615140727/http://nathanpitman.com:80/423/basecamp-themes
 tags:
   - Design
-  - Web applications
+  - Web development
 relatedPosts:
   - slug: hsbc-internet-banking-fail
     source: generated

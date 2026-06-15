@@ -10,7 +10,7 @@ archive: >-
 tags:
   - Chatter
   - Design
-  - Web applications
+  - Web development
 relatedPosts:
   - slug: flickrlicious
     source: generated

@@ -435,6 +435,13 @@ a:hover         { color: #0000ee; }
   color: var(--text-muted);
 }
 
+/* Edit this post: link to the source file on GitHub */
+.post-edit {
+  margin-top: 8px;
+  font-family: var(--sans);
+  font-size: 0.8rem;
+}
+
 .date-search-tokens,
 .visually-hidden {
   position: absolute;

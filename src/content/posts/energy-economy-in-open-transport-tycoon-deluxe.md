@@ -5,7 +5,7 @@ description: >-
   A full energy economy mod for OpenTTD that introduces nuclear and renewable
   industries over time — built for my own amusement.
 tags:
-  - Games
+  - Gaming
   - Making things
   - AI
 slug: new-energy-economy-in-open-transport-tycoon-deluxe

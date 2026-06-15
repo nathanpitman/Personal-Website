@@ -7,7 +7,7 @@ description: >-
   Williams memoir, and some late-night Replit sessions led to a mobile-friendly
   port of Colossal Cave Adventure, built entirely on iOS.
 tags:
-  - Games
+  - Gaming
   - AI
   - Making things
 relatedPosts:

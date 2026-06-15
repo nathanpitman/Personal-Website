@@ -8,7 +8,7 @@ source: 'http://nathanpitman.com/491/xbox-360-autumn-dashboard-update'
 archive: >-
   https://web.archive.org/web/20100106033109/http://nathanpitman.com/491/xbox-360-autumn-dashboard-update
 tags:
-  - Consoles
+  - Gaming
 relatedPosts:
   - slug: xbox-360-to-get-1080p
     source: generated

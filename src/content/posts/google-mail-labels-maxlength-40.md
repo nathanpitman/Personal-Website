@@ -8,7 +8,7 @@ source: 'http://nathanpitman.com/540/google-mail-labels-maxlength40'
 archive: >-
   https://web.archive.org/web/20100106033925/http://nathanpitman.com/540/google-mail-labels-maxlength40
 tags:
-  - Web applications
+  - Web development
 relatedPosts:
   - slug: sitevista-launches-email-testing-service
     source: generated
