@@ -3,6 +3,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import Sidebar from '../components/Sidebar.astro';
 import { getCollection } from 'astro:content';
 import { slugify, displayTag } from '../utils/slugify';
+import { getDescription } from '../utils/description';
 
 const allPosts = await getCollection('posts');
 const posts = allPosts
@@ -49,9 +50,9 @@ const jsonLd = {
       <h1 class="visually-hidden">Recently</h1>
       <h2 class="about-heading">Journal / recently</h2>
 
-      {posts.map(async (post) => {
-        const { Content } = await post.render();
+      {posts.map((post) => {
         const slug = post.slug;
+        const description = getDescription(post);
         return (
           <article class="post">
             <header class="post-header">
@@ -61,7 +62,8 @@ const jsonLd = {
               </div>
             </header>
             <div class="post-body">
-              <Content />
+              <p>{description}</p>
+              <p><a class="read-more" href={`/posts/${slug}/`}>Read more&hellip;</a></p>
             </div>
             {(post.data.tags ?? []).length > 0 && (
               <p class="post-tags">

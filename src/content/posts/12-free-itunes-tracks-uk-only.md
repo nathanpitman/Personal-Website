@@ -8,7 +8,7 @@ source: 'http://nathanpitman.com/453/12-free-itunes-tracks-uk-only'
 archive: >-
   https://web.archive.org/web/20090524025205/http://nathanpitman.com:80/453/12-free-itunes-tracks-uk-only
 tags:
-  - Chatter
+  - Apple
   - Marketing/Advertising
 relatedPosts:
   - slug: free-xbox360

@@ -9,7 +9,9 @@ source: 'http://nathanpitman.com/594/email-signatures'
 archive: >-
   https://web.archive.org/web/20091213180539/http://nathanpitman.com:80/594/email-signatures
 tags:
-  - Chatter
+  - Business
+  - Making things
+  - Web development
 relatedPosts:
   - slug: ntl-to-penalise-early-broadband-adopters
     source: generated

@@ -1,5 +1,7 @@
 ---
 title: Rediscovering making things
+description: >-
+  After five years away from writing code, AI tools reignited a passion for building things — and changed what it means to be a solo maker forever.
 date: '2026-03-22'
 tags:
   - "AI"

@@ -311,8 +311,8 @@ a:hover         { color: #0000ee; }
    ----------------------------------------------------------------------------- */
 
 .post {
-  margin-bottom: 44px;
-  padding-bottom: 44px;
+  margin-bottom: 28px;
+  padding-bottom: 28px;
   border-bottom: 1px solid var(--border);
 }
 
@@ -415,6 +415,12 @@ a:hover         { color: #0000ee; }
   padding-left: 1.2em;
   border-left: 3px solid var(--border-mid);
   font-style: italic;
+}
+
+.read-more {
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  font-weight: 600;
 }
 
 /* Tags + edit-on-GitHub link */

@@ -8,7 +8,7 @@ source: 'http://nathanpitman.com/371/customer-service-bandits'
 archive: >-
   https://web.archive.org/web/20090527120635/http://nathanpitman.com:80/371/customer-service-bandits
 tags:
-  - Chatter
+  - Business
 relatedPosts:
   - slug: customer-service-the-right-way
     source: generated
