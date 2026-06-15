@@ -9,7 +9,7 @@ source: 'http://nathanpitman.com/448/the-future-of-web-apps-summit'
 archive: >-
   https://web.archive.org/web/20090814210148/http://nathanpitman.com:80/448/the-future-of-web-apps-summit
 tags:
-  - Web applications
+  - Web development
 relatedPosts:
   - slug: will-you-be-at-the-carson-summit
     source: generated

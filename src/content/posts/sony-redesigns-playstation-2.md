@@ -6,7 +6,7 @@ source: 'http://nathanpitman.com/249/sony-redesigns-playstation-2'
 archive: >-
   https://web.archive.org/web/20100104105300/http://nathanpitman.com:80/249/sony-redesigns-playstation-2
 tags:
-  - Consoles
+  - Gaming
   - Technology
 relatedPosts:
   - slug: ps3-downscales-blu-ray-to-480p-on-720p-hdtvs

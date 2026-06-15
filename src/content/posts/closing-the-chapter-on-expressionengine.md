@@ -6,10 +6,10 @@ description: >-
   anniversary of devot:ee.
 date: '2026-05-13'
 tags:
-  - expressionengine
-  - code
-  - web development
-  - making things
+  - ExpressionEngine
+  - Code
+  - Web development
+  - Making things
 relatedPosts:
   - slug: why-choose-expressionengine
     source: generated

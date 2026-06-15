@@ -6,7 +6,7 @@ source: 'http://nathanpitman.com/391/installing-instiki-on-debian'
 archive: >-
   https://web.archive.org/web/20100106033419/http://nathanpitman.com/391/installing-instiki-on-debian
 tags:
-  - Linux
+  - Technology
 relatedPosts:
   - slug: ubuntu-ubuntu-they-drink-it-in-the-congo
     source: generated
