@@ -17,7 +17,7 @@ In the rollercoaster that was the two decades that followed, I was fortunate eno
 
 I look back with great fondness on the 10 years where I was self-employed through Nine Four, and I'm incredibly proud to see my old colleague [Paul Cripps](https://paulcripps.com) continue to fly the flag for the brand name that reflected the two numbers on the door of the house I lived in when it all started.
 
-Having recently [resurrected my old blog](/posts/back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark/) from the Way Back Machine with a little help from our agentic friends, I've spent a lot of time trawling over old blog posts (it's something of a nostalgic fever dream!), and with more than 10 years of "employee" status now back under my belt - it's probably natural to start thinking again about what comes next.
+Having recently [resurrected my old blog](/posts/back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark/) from the Way Back Machine with a little help from our agentic friends, I've spent a lot of time trawling over old blog posts (it's something of a nostalgic fever dream!), and with more than 10 years of "employee" status now back under my belt - it's probably natural to find myself reflecting on that chapter of my life through a fresh lens.
 
 And what of the five that I spoke to back in 2005? What happened for them... some of it I know, but not all, and I'm intrigued to find out how they would reflect on the Q&A interview from 2005, and where work and life took them in the intervening period.
 
