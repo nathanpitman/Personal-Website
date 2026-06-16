@@ -9,7 +9,7 @@ const allPosts = await getCollection('posts');
 const posts = allPosts
   .filter(post => !post.data.hidden)
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
-  .slice(0, 15);
+  .slice(0, 10);
 
 function formatDate(date: Date): string {
   const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
