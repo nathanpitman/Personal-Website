@@ -418,16 +418,15 @@ a:hover         { color: #0000ee; }
 }
 
 .read-more {
-  font-family: var(--sans);
-  font-size: 0.85rem;
+  /*font-family: var(--sans);*/
   font-weight: 600;
 }
 
 /* Tags + edit-on-GitHub link */
 .post-tags {
   margin-top: 16px;
-  font-family: var(--sans);
-  font-size: 0.8rem;
+  /*font-family: var(--sans);*/
+  /*font-size: 0.8rem;*/
   color: var(--text-muted);
 }
 

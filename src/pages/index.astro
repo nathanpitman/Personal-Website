@@ -67,7 +67,7 @@ const jsonLd = {
             </div>
             {(post.data.tags ?? []).length > 0 && (
               <p class="post-tags">
-                Tagged: {(post.data.tags ?? []).map((tag: string, i: number) => (
+                # {(post.data.tags ?? []).map((tag: string, i: number) => (
                   <><a href={`/tag/${slugify(tag)}`}>{displayTag(tag)}</a>{i < (post.data.tags ?? []).length - 1 ? ', ' : ''}</>
                 ))}
               </p>

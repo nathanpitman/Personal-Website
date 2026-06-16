@@ -78,11 +78,12 @@ const jsonLd = {
         </header>
         <div class="post-body">
           <Content />
+          <p class="tombstone">* * *</p>
         </div>
         <p class="post-tags">
           {tags.length > 0 && (
             <>
-              #{tags.map((tag: string, i: number) => (
+              # {tags.map((tag: string, i: number) => (
                 <><a href={`/tag/${slugify(tag)}`}>{displayTag(tag)}</a>{i < tags.length - 1 ? ', ' : ''}</>
               ))}
               {' · '}
