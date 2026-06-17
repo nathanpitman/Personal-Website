@@ -434,6 +434,144 @@ a:hover         { color: #0000ee; }
   color: var(--text-muted);
 }
 
+/* Likes facepile + merged Bluesky/Mastodon replies */
+.likes-bar {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.likes-summary {
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  color: var(--text-mid);
+}
+
+.likes-avatars {
+  display: flex;
+}
+
+.like-avatar-link {
+  display: block;
+  margin-left: -8px;
+}
+
+.like-avatar-link:first-child {
+  margin-left: 0;
+}
+
+.like-avatar {
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  border: 2px solid var(--white);
+  display: block;
+}
+
+.like-avatar-more {
+  width: 26px;
+  height: 26px;
+  margin-left: -8px;
+  border-radius: 50%;
+  border: 2px solid var(--white);
+  background: var(--border);
+  color: var(--text-mid);
+  font-family: var(--sans);
+  font-size: 0.65rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.comments {
+  margin-top: 20px;
+  border-top: 1px solid var(--border);
+  padding-top: 16px;
+}
+
+.comments-loading,
+.comments-error,
+.comments-empty {
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.comment {
+  display: flex;
+  gap: 10px;
+  padding: 12px 0;
+  border-bottom: 1px dotted var(--border);
+}
+
+.comment-children .comment {
+  border-bottom: none;
+}
+
+.comment-avatar {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.comment-body {
+  min-width: 0;
+  flex: 1;
+}
+
+.comment-meta {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--sans);
+  font-size: 0.8rem;
+}
+
+.comment-network-badge {
+  width: 12px;
+  height: 12px;
+  flex-shrink: 0;
+  opacity: 0.45;
+  color: var(--text);
+}
+
+.comment-author {
+  font-weight: 600;
+  color: var(--text);
+}
+
+.comment-handle,
+.comment-time {
+  color: var(--text-muted);
+}
+
+.comment-text {
+  margin: 4px 0 0;
+  font-size: 0.88rem;
+  color: var(--text-mid);
+  line-height: 1.6;
+}
+
+.comment-actions {
+  display: flex;
+  gap: 14px;
+  margin-top: 6px;
+  font-family: var(--sans);
+  font-size: 0.78rem;
+  color: var(--text-muted);
+}
+
+.comment-reply-link {
+  color: var(--text-muted);
+}
+
+.comment-children {
+  margin-left: 20px;
+  margin-top: 8px;
+}
+
 .date-search-tokens,
 .visually-hidden {
   position: absolute;

@@ -14,6 +14,8 @@ const posts = defineCollection({
       slug: z.string(),
       source: z.enum(['manual', 'generated']).default('generated'),
     })).optional(),
+    bluesky: z.string().url().optional(),
+    mastodon: z.string().url().optional(),
   }),
 });
 

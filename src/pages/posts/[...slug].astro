@@ -1,9 +1,12 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Sidebar from '../../components/Sidebar.astro';
+import Comments from '../../components/Comments.astro';
 import { getCollection } from 'astro:content';
 import { slugify, displayTag } from '../../utils/slugify';
 import { getDescription } from '../../utils/description';
+import { buildAtUri } from '../../utils/bluesky';
+import { parseMastodonUrl } from '../../utils/mastodon';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
@@ -92,6 +95,14 @@ const jsonLd = {
           <a href={githubEditUrl} rel="nofollow">Edit this post</a>
         </p>
         <span class="date-search-tokens">{yyyy}-{mm}-{dd} {yyyy}-{mm} {yyyy} {mm} {dd}</span>
+        {(post.data.bluesky || post.data.mastodon) && (
+          <Comments
+            blueskyUrl={post.data.bluesky}
+            blueskyAtUri={post.data.bluesky ? buildAtUri(post.data.bluesky) : null}
+            mastodonUrl={post.data.mastodon}
+            mastodonRef={post.data.mastodon ? parseMastodonUrl(post.data.mastodon) : null}
+          />
+        )}
       </article>
     </main>
 
