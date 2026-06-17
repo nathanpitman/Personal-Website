@@ -37,6 +37,7 @@ tags:
 
 - **Image resize**: `scripts/resize-images.mjs` runs automatically as the `predev`/`prebuild` npm hook. Resizes images >800px wide in `public/images/` in-place. Skips GIFs. Never manually resize images — the hook handles it.
 - **Description generation**: `scripts/generate-descriptions.ts` — run with `npm run generate-descriptions`. Requires `ANTHROPIC_API_KEY`. Safe to re-run (skips posts that already have a description).
+- **IndexNow submission**: `scripts/submit-indexnow.mjs` runs automatically in the `notify-indexnow` job in `.github/workflows/deploy.yml`, after every push-triggered deploy. Diffs `src/content/posts` between `github.event.before` and `github.sha` to find new/changed (non-hidden) posts and pings the IndexNow API (`api.indexnow.org`, fans out to Bing/Yandex/etc.) with their URLs. The verification key lives in `public/<key>.txt` — the key is not a secret (it's served publicly), so it's hardcoded in the script rather than stored as a GitHub secret. Run manually with `npm run submit-indexnow -- <base-ref> <head-ref>` to backfill or test.
 
 ## Tag System
 
@@ -141,5 +142,6 @@ The close animation uses `fill: 'forwards'` + a `setTimeout` (animation duration
 | `astro.config.mjs` | Pagefind build integration, PORT env var support |
 | `scripts/resize-images.mjs` | Auto image resizer (runs as npm predev/prebuild hook) |
 | `scripts/generate-descriptions.ts` | Claude API description generator |
-| `.github/workflows/deploy.yml` | GitHub Actions deploy to GitHub Pages |
+| `scripts/submit-indexnow.mjs` | Submits new/changed post URLs to IndexNow after deploy |
+| `.github/workflows/deploy.yml` | GitHub Actions deploy to GitHub Pages + IndexNow notification |
 | `public/llms.txt` | AI system discovery file (llms.txt standard) |
