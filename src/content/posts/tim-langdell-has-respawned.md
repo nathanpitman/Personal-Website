@@ -20,6 +20,8 @@ relatedPosts:
     source: generated
   - slug: the-tools-of-my-trade
     source: generated
+bluesky: 'https://bsky.app/profile/nathanpitman.com/post/3moad5kduak23'
+mastodon: 'https://mastodon.social/@nathanpitman/116748565660853153'
 ---
 
 I still remember walking back to a summer work placement from a local supermarket in 1993 with the first issue of [Edge magazine](/posts/edge/) in hand. In fact, I still have that very magazine, and many, many issues that succeeded it! That makes the ongoing saga of [Tim Langdell](https://en.wikipedia.org/wiki/Edge_Games) feel particularly personal.

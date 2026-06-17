@@ -21,6 +21,7 @@ relatedPosts:
     source: generated
   - slug: taking-a-bite-of-something-new
     source: generated
+bluesky: 'https://bsky.app/profile/nathanpitman.com/post/3mlh5sqaots2b'
 ---
 
 [OpenTTD](https://www.openttd.org) is a game I've come back to over and over again (for decades!). There's something deeply satisfying about its pace, the logic, building things, watching the towns grow, optimising travel routes for efficiency - I love it!

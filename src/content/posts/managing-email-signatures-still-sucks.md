@@ -20,6 +20,7 @@ relatedPosts:
     source: generated
   - slug: sitevista-to-become-litmus
     source: generated
+bluesky: 'https://bsky.app/profile/nathanpitman.com/post/3mmgdjtnqms2u'
 ---
 
 Back in December 2009, [I wrote three sentences about email signatures](https://nathanpitman.com/posts/email-signatures/). The gist was: every email client handles signatures differently, rolling them out across a business was a pain, and surely someone could fix this with a URL schema and a bit of server-side logic?
