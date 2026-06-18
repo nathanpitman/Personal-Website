@@ -364,7 +364,7 @@ a:hover         { color: #0000ee; }
 
 .comment-bubble {
   margin-left: 6px;
-  vertical-align: middle;
+  vertical-align: text-bottom;
   text-decoration: none;
 }
 
