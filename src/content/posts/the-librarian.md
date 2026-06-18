@@ -19,7 +19,6 @@ relatedPosts:
       back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark
     source: generated
 bluesky: 'https://bsky.app/profile/nathanpitman.com/post/3mo4kahkzuk24'
-mastodon: 'https://mastodon.social/@nathanpitman/116748563978658335'
 ---
 
 I grew up in a pre‑internet world, a world where if I needed to research a topic or answer a question for a school project, the only real option available was to ask my mum for a lift to [the local village library](https://share.google/aimode/KXhhgaoL42vaP93y0).
