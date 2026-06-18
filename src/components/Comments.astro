@@ -19,6 +19,7 @@ const hasAny = Boolean(blueskyAtUri || mastodonRef);
     data-bluesky-url={blueskyUrl ?? ''}
     data-mastodon-instance={mastodonRef?.instance ?? ''}
     data-mastodon-status-id={mastodonRef?.statusId ?? ''}
+    data-mastodon-url={mastodonUrl ?? ''}
   >
     <div class="likes-bar" id="likes-bar" hidden>
       <span class="likes-summary">👍 <span id="likes-count">0</span> likes</span>
@@ -213,23 +214,33 @@ const hasAny = Boolean(blueskyAtUri || mastodonRef);
     `;
   }
 
-  function renderComments(replies) {
+  function renderHowToComment(blueskyUrl, mastodonUrl) {
+    const links = [];
+    if (blueskyUrl) links.push(`<a href="${escapeHtml(blueskyUrl)}" target="_blank" rel="noopener noreferrer">Bluesky</a>`);
+    if (mastodonUrl) links.push(`<a href="${escapeHtml(mastodonUrl)}" target="_blank" rel="noopener noreferrer">Mastodon</a>`);
+    if (links.length === 0) return '';
+    return `<p class="comments-howto">There's no comment box here — to join the conversation, reply to this post on ${links.join(' or ')}. Your reply will show up here automatically.</p>`;
+  }
+
+  function renderComments(replies, blueskyUrl, mastodonUrl) {
     const section = document.getElementById('comments-section');
     if (!section) return;
     if (replies.length === 0) {
-      section.innerHTML = '<p class="comments-empty">No replies yet.</p>';
+      section.innerHTML = '<p class="comments-empty">No replies yet.</p>' + renderHowToComment(blueskyUrl, mastodonUrl);
       return;
     }
     const sorted = [...replies].sort(
       (a, b) => new Date(a.createdAt).getTime() - new Date(b.createdAt).getTime()
     );
-    section.innerHTML = sorted.map(renderReply).join('');
+    section.innerHTML = sorted.map(renderReply).join('') + renderHowToComment(blueskyUrl, mastodonUrl);
   }
 
   async function loadActivity(root) {
     const blueskyUri = root.dataset.blueskyUri;
+    const blueskyUrl = root.dataset.blueskyUrl;
     const mastodonInstance = root.dataset.mastodonInstance;
     const mastodonStatusId = root.dataset.mastodonStatusId;
+    const mastodonUrl = root.dataset.mastodonUrl;
 
     const [blueskyResult, mastodonResult] = await Promise.allSettled([
       blueskyUri ? fetchBluesky(blueskyUri) : Promise.resolve(null),
@@ -243,7 +254,11 @@ const hasAny = Boolean(blueskyAtUri || mastodonRef);
 
     if (!bluesky && !mastodon) {
       const section = document.getElementById('comments-section');
-      if (section) section.innerHTML = '<p class="comments-error">Couldn’t load replies right now.</p>';
+      if (section) {
+        section.innerHTML =
+          '<p class="comments-error">Couldn’t load replies right now.</p>' +
+          renderHowToComment(blueskyUrl, mastodonUrl);
+      }
       return;
     }
 
@@ -252,7 +267,7 @@ const hasAny = Boolean(blueskyAtUri || mastodonRef);
     renderLikes(likers, totalLikes);
 
     const replies = [...(bluesky?.replies ?? []), ...(mastodon?.replies ?? [])];
-    renderComments(replies);
+    renderComments(replies, blueskyUrl, mastodonUrl);
   }
 
   const root = document.querySelector('.social-activity');

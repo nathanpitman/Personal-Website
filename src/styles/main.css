@@ -492,7 +492,8 @@ a:hover         { color: #0000ee; }
 
 .comments-loading,
 .comments-error,
-.comments-empty {
+.comments-empty,
+.comments-howto {
   font-family: var(--sans);
   font-size: 0.85rem;
   color: var(--text-muted);
@@ -570,6 +571,16 @@ a:hover         { color: #0000ee; }
 .comment-children {
   margin-left: 20px;
   margin-top: 8px;
+}
+
+.comments-howto {
+  margin-top: 16px;
+  padding-top: 12px;
+  border-top: 1px dotted var(--border);
+}
+
+.comments-howto a {
+  color: var(--text-mid);
 }
 
 .date-search-tokens,
