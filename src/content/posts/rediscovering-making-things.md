@@ -19,6 +19,7 @@ relatedPosts:
   - slug: four-things
     source: generated
 bluesky: 'https://bsky.app/profile/nathanpitman.com/post/3mhns2ioujk26'
+mastodon: 'https://mastodon.social/@nathanpitman/116767582629808657'
 ---
 
 It’s been a while! This blog has gone without human input for almost 12 years and aside from my [previous post](/posts/2026-03-15-back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark) (written with a helping hand from Claude) this is my first of a new era. 
