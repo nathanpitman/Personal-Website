@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SidebarTags from '../../components/SidebarTags.astro';
+import PostTags from '../../components/PostTags.astro';
 import { getCollection } from 'astro:content';
 import { slugify, displayTag } from '../../utils/slugify';
 import { getDescription } from '../../utils/description';
@@ -81,13 +82,7 @@ const jsonLd = {
               <p>{description}</p>
               <p><a class="read-more" href={`/posts/${slug}/`}>Read more &rarr;</a></p>
             </div>
-            {getPostTags(post).length > 0 && (
-              <p class="post-tags">
-                Tagged: {getPostTags(post).map((tag: string, i: number) => (
-                  <><a href={`/tag/${slugify(tag)}`}>{displayTag(tag)}</a>{i < getPostTags(post).length - 1 ? ', ' : ''}</>
-                ))}
-              </p>
-            )}
+            <PostTags tags={getPostTags(post)} prefix="Tagged:" />
           </article>
         );
       })}

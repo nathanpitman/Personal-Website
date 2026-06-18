@@ -2,8 +2,8 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Sidebar from '../../components/Sidebar.astro';
 import Comments from '../../components/Comments.astro';
+import PostTags from '../../components/PostTags.astro';
 import { getCollection } from 'astro:content';
-import { slugify, displayTag } from '../../utils/slugify';
 import { getDescription } from '../../utils/description';
 import { buildAtUri } from '../../utils/bluesky';
 import { parseMastodonUrl } from '../../utils/mastodon';
@@ -91,17 +91,9 @@ const jsonLd = {
           <Content />
           <p class="tombstone">* * *</p>
         </div>
-        <p class="post-tags">
-          {tags.length > 0 && (
-            <>
-              # {tags.map((tag: string, i: number) => (
-                <><a href={`/tag/${slugify(tag)}`}>{displayTag(tag)}</a>{i < tags.length - 1 ? ', ' : ''}</>
-              ))}
-              {' · '}
-            </>
-          )}
+        <PostTags tags={tags}>
           <a href={githubEditUrl} target="_blank" rel="nofollow">Edit this post</a>
-        </p>
+        </PostTags>
         <span class="date-search-tokens">{yyyy}-{mm}-{dd} {yyyy}-{mm} {yyyy} {mm} {dd}</span>
         {(post.data.bluesky || post.data.mastodon) && (
           <Comments

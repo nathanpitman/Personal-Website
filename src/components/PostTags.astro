@@ -1,0 +1,26 @@
+---
+import { slugify, displayTag } from '../utils/slugify';
+
+interface Props {
+  tags: string[];
+  prefix?: string;
+}
+
+const { tags, prefix = '#' } = Astro.props;
+const hasTags = tags.length > 0;
+const hasExtra = Astro.slots.has('default');
+---
+
+{(hasTags || hasExtra) && (
+  <p class="post-tags">
+    {hasTags && (
+      <>
+        {prefix}{' '}{tags.map((tag: string, i: number) => (
+          <><a href={`/tag/${slugify(tag)}`}>{displayTag(tag)}</a>{i < tags.length - 1 ? ', ' : ''}</>
+        ))}
+        {hasExtra && ' · '}
+      </>
+    )}
+    <slot />
+  </p>
+)}
