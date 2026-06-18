@@ -18,21 +18,12 @@ const hasAny = Boolean(atUri || mastodonRef);
   <a
     class="comment-bubble"
     href={href}
+    hidden
     data-bluesky-uri={atUri ?? ''}
     data-mastodon-instance={mastodonRef?.instance ?? ''}
     data-mastodon-status-id={mastodonRef?.statusId ?? ''}
   >
-    <svg class="comment-bubble-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-      <path
-        d="M4 5.5C4 4.67 4.67 4 5.5 4h13c.83 0 1.5.67 1.5 1.5v10c0 .83-.67 1.5-1.5 1.5H9.41l-3.7 3.7c-.32.32-.86.1-.86-.36V17H5.5C4.67 17 4 16.33 4 15.5v-10z"
-        fill="none"
-        stroke="currentColor"
-        stroke-width="1.6"
-        stroke-linejoin="round"
-        stroke-linecap="round"
-      />
-    </svg>
-    <span class="comment-bubble-count" hidden>0</span>
+    <span class="comment-bubble-icon" aria-hidden="true">💬</span>
     <span class="visually-hidden">comments</span>
   </a>
 )}
@@ -54,7 +45,7 @@ const hasAny = Boolean(atUri || mastodonRef);
     return status.replies_count ?? 0;
   }
 
-  async function loadCount(bubble) {
+  async function revealIfHasComments(bubble) {
     const atUri = bubble.dataset.blueskyUri;
     const instance = bubble.dataset.mastodonInstance;
     const statusId = bubble.dataset.mastodonStatusId;
@@ -67,28 +58,26 @@ const hasAny = Boolean(atUri || mastodonRef);
       (blueskyResult.status === 'fulfilled' ? blueskyResult.value : 0) +
       (mastodonResult.status === 'fulfilled' ? mastodonResult.value : 0);
 
-    if (total > 0) {
-      const countEl = bubble.querySelector('.comment-bubble-count');
-      if (countEl) {
-        countEl.textContent = String(total);
-        countEl.hidden = false;
-      }
-    }
+    if (total > 0) bubble.hidden = false;
   }
 
   const bubbles = document.querySelectorAll('.comment-bubble');
   if (bubbles.length) {
+    // A [hidden] bubble has no layout box, so it can never self-report as
+    // intersecting — observe its always-in-flow parent instead, then look
+    // up the bubble to reveal once we know it has comments.
     const observer = new IntersectionObserver(
       (entries, obs) => {
         for (const entry of entries) {
           if (entry.isIntersecting) {
             obs.unobserve(entry.target);
-            loadCount(entry.target);
+            const bubble = entry.target.querySelector('.comment-bubble');
+            if (bubble) revealIfHasComments(bubble);
           }
         }
       },
       { rootMargin: '200px' }
     );
-    bubbles.forEach((bubble) => observer.observe(bubble));
+    bubbles.forEach((bubble) => observer.observe(bubble.parentElement));
   }
 </script>
