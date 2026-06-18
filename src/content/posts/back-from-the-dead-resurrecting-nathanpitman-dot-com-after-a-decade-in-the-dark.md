@@ -26,6 +26,7 @@ relatedPosts:
   - slug: bah-its-ghastly
     source: generated
 bluesky: 'https://bsky.app/profile/nathanpitman.com/post/3mhfphc4dys2x'
+mastodon: 'https://mastodon.social/@nathanpitman/116767577148689313'
 ---
 
 *This blog post has been written by [Claude](https://claude.ai), with technical input from [Replit](https://replit.com/refer/nathanpitman) and prompting by Nathan Pitman.*
