@@ -23,6 +23,7 @@ relatedPosts:
   - slug: my-thoughts-on-apple-tv-apps
     source: generated
 bluesky: 'https://bsky.app/profile/nathanpitman.com/post/3mjd53vphlc2m'
+mastodon: 'https://mastodon.social/@nathanpitman/116767587104697544'
 ---
 
 Like many of you reading this, I grew up on computers. My earliest memories are of a BBC Micro which we had plugged into our CRT TV in the lounge, loading Elite from a tape drive, and hoping it didn't fail ten minutes in. Typing game code out from magazines line by line... only to discover I'd made a typo.
