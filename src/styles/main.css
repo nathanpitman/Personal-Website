@@ -357,6 +357,47 @@ a:hover         { color: #0000ee; }
   margin-left: 0;
 }
 
+.post-date-wrap {
+  display: inline;
+  white-space: nowrap;
+}
+
+.comment-bubble {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.85rem;
+  height: 1.85rem;
+  margin-left: 6px;
+  vertical-align: middle;
+  color: var(--text-muted);
+  text-decoration: none;
+}
+
+.comment-bubble:hover,
+.comment-bubble:focus-visible {
+  color: var(--text);
+}
+
+.comment-bubble-icon {
+  width: 100%;
+  height: 100%;
+}
+
+.comment-bubble-count {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 1px;
+  font-family: var(--sans);
+  font-size: 0.7rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
 /* Post body — indented to match original layout */
 .post-body {
   padding-left: 5%;
@@ -992,6 +1033,11 @@ a:hover         { color: #0000ee; }
   .post-title,
   .post-date {
     font-size: 1.6rem;
+  }
+
+  .comment-bubble {
+    width: 1.5rem;
+    height: 1.5rem;
   }
 
   .site-nav {

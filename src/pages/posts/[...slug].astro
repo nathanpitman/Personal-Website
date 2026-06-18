@@ -7,6 +7,7 @@ import { slugify, displayTag } from '../../utils/slugify';
 import { getDescription } from '../../utils/description';
 import { buildAtUri } from '../../utils/bluesky';
 import { parseMastodonUrl } from '../../utils/mastodon';
+import CommentBubble from '../../components/CommentBubble.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
@@ -76,7 +77,14 @@ const jsonLd = {
         <header class="post-header">
           <div class="post-title-line">
             <h1 class="post-title">{post.data.title}</h1>
-            <span class="post-date">{formatDate(post.data.date)}</span>
+            <span class="post-date-wrap">
+              <span class="post-date">{formatDate(post.data.date)}</span>
+              <CommentBubble
+                href="#comments"
+                blueskyUrl={post.data.bluesky}
+                mastodonUrl={post.data.mastodon}
+              />
+            </span>
           </div>
         </header>
         <div class="post-body">
