@@ -22,6 +22,7 @@ relatedPosts:
   - slug: expressionengine-mug
     source: generated
 bluesky: 'https://bsky.app/profile/nathanpitman.com/post/3mluqx7lkos2s'
+mastodon: 'https://mastodon.social/@nathanpitman/116772937512184676'
 ---
 
 Last week, Ryan Masuga - the dude who built and ran [devot:ee](https://www.devot-ee.com), the [ExpressionEngine](https://expressionengine.com) community add-on marketplace - [posted on LinkedIn](https://www.linkedin.com/posts/ryanmasuga_on-may-1-2009-i-launched-devotee-expressionengine-share-7456028506599194625-yUGR) to mark the 16th anniversary of its launch on 1 May 2009. I'd thoroughly recomemend reading the post but in short, it recognised the incredible journey of what started as a side project for Ryan, and the impact it went on to have on the ExpressionEngine add-on community.
