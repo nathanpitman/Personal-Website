@@ -37,6 +37,7 @@ tags:
 
 - **Image resize**: `scripts/resize-images.mjs` runs automatically as the `predev`/`prebuild` npm hook. Resizes images >800px wide in `public/images/` in-place. Skips GIFs. Never manually resize images — the hook handles it.
 - **Description generation**: `scripts/generate-descriptions.ts` — run with `npm run generate-descriptions`. Requires `ANTHROPIC_API_KEY`. Safe to re-run (skips posts that already have a description).
+- **IndexNow submission**: `scripts/submit-indexnow.mjs` runs automatically in the `notify-indexnow` job in `.github/workflows/deploy.yml`, after every push-triggered deploy. Diffs `src/content/posts` between `github.event.before` and `github.sha` to find new/changed (non-hidden) posts and pings the IndexNow API (`api.indexnow.org`, fans out to Bing/Yandex/etc.) with their URLs. The verification key lives in `public/<key>.txt` — the key is not a secret (it's served publicly), so it's hardcoded in the script rather than stored as a GitHub secret. Run manually with `npm run submit-indexnow -- <base-ref> <head-ref>` to backfill or test.
 
 ## Tag System
 
@@ -60,6 +61,52 @@ These are deliberate nods to the original site's aesthetic:
 - Search UI lives in `src/layouts/BaseLayout.astro` as a `<dialog>` element with a spotlight-style open/close animation
 - Results are capped at 8; `r.data()` is only called on the top slice because it fetches full page data and is expensive
 - **Index scoping**: `data-pagefind-body` on `<article>` in `[...slug].astro` limits post-page indexing to article content only. All `<aside>` sidebar components carry `data-pagefind-ignore` to prevent sidebar content (nav links, "Elsewhere" profiles, etc.) from polluting search results.
+
+## AEO (Answer Engine Optimization)
+
+Six commits in May 2026 added a full AEO layer. Every piece is load-bearing — do not remove or conditionalize it, and follow the same pattern when adding new pages.
+
+### Canonical URL
+
+`<link rel="canonical" href={Astro.url.href} />` is in `BaseLayout.astro` and applies to every page. `Astro.url.href` resolves to the full absolute URL at build time.
+
+### Meta & Open Graph tags
+
+`BaseLayout.astro` exposes a `description` prop:
+
+- `<meta name="description">` and `<meta property="og:description">` are **conditional** — neither renders if `description` is not passed
+- `og:title`, `og:url`, `og:image` are **unconditional** — always present
+- `og:image` uses `/avatar.jpg` resolved against `Astro.site`
+
+**Every new page template must pass a `description` prop to BaseLayout.**
+
+### JSON-LD structured data
+
+`BaseLayout.astro` accepts a `jsonLd` prop (any object) and renders `<script type="application/ld+json">` when present. Schema used per page type:
+
+| Page | Schema type |
+|------|-------------|
+| Homepage | `@graph` — `WebSite` + `Person` |
+| About | `Person` (jobTitle, worksFor, description) |
+| Archives | `Blog` (name, url, description, author) |
+| Tag pages | `CollectionPage` (dynamic: tag name, url, post count) |
+| Post pages | `BlogPosting` (headline, datePublished, author, description, keywords) |
+
+The `Person` node uses `"@id": "https://nathanpitman.com/#person"` as a shared identifier across all schemas — keep this consistent.
+
+**Every new page template must pass an appropriate `jsonLd` object to BaseLayout.**
+
+### llms.txt
+
+`public/llms.txt` is served as `/llms.txt` and follows the emerging [llms.txt](https://llmstxt.org/) standard for AI system discovery. It is linked from every page's `<head>`:
+
+```html
+<link rel="alternate" type="text/plain" href="/llms.txt" title="LLMs.txt" />
+```
+
+Do not remove the file or the link tag. If significant new sections are added to the site, update `public/llms.txt` to list them.
+
+---
 
 ## Date Tokens in Post Pages — Do Not Remove
 
@@ -95,4 +142,6 @@ The close animation uses `fill: 'forwards'` + a `setTimeout` (animation duration
 | `astro.config.mjs` | Pagefind build integration, PORT env var support |
 | `scripts/resize-images.mjs` | Auto image resizer (runs as npm predev/prebuild hook) |
 | `scripts/generate-descriptions.ts` | Claude API description generator |
-| `.github/workflows/deploy.yml` | GitHub Actions deploy to GitHub Pages |
+| `scripts/submit-indexnow.mjs` | Submits new/changed post URLs to IndexNow after deploy |
+| `.github/workflows/deploy.yml` | GitHub Actions deploy to GitHub Pages + IndexNow notification |
+| `public/llms.txt` | AI system discovery file (llms.txt standard) |

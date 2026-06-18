@@ -8,9 +8,9 @@ source: 'http://nathanpitman.com/602/hsbc-internet-banking-fail'
 archive: >-
   https://web.archive.org/web/20110209054101/http://nathanpitman.com:80/602/hsbc-internet-banking-fail
 tags:
-  - Chatter
+  - Business
   - Design
-  - Web applications
+  - Web development
 relatedPosts:
   - slug: flickrlicious
     source: generated

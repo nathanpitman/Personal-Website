@@ -6,7 +6,7 @@ source: 'http://nathanpitman.com/488/xbox-360-to-get-1080p'
 archive: >-
   https://web.archive.org/web/20100106205051/http://nathanpitman.com:80/488/xbox-360-to-get-1080p
 tags:
-  - Consoles
+  - Gaming
 relatedPosts:
   - slug: on-demand-movies-tv-coming-to-xbox-360
     source: generated

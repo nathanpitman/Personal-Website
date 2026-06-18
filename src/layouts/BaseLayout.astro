@@ -43,6 +43,8 @@ const year = new Date().getFullYear();
   <Fragment set:html={`<style>${rawCSS}</style>`} />
   <link rel="alternate" type="application/rss+xml" title="Nathan Pitman" href="/feed.xml" />
   <link rel="alternate" type="application/json" title="Nathan Pitman" href="/feed.json" />
+  <link rel="alternate" type="text/plain" href="/llms.txt" title="LLMs.txt" />
+  <link rel="me" href="https://mastodon.social/@nathanpitman" />
 </head>
 <body class={bodyClass || undefined}>
 
@@ -57,8 +59,8 @@ const year = new Date().getFullYear();
       </a>
       <ul id="nav-menu">
         <li class={activeNav === 'recently'  ? 'active' : ''}><a href="/">recently</a></li>
-        <li class={activeNav === 'archives'  ? 'active' : ''}><a href="/archives">archives</a></li>
-        <li class={activeNav === 'about'     ? 'active' : ''}><a href="/about">about</a></li>
+        <li class={activeNav === 'archives'  ? 'active' : ''}><a href="/archives">archive+tags</a></li>
+        <li class={activeNav === 'about'     ? 'active' : ''}><a href="/about">about/contact</a></li>
       </ul>
       <div class="nav-actions">
         <button id="search-open-btn" aria-label="Open search" type="button">
@@ -163,6 +165,15 @@ const year = new Date().getFullYear();
       if (e.target === modal) closeModal();
     });
 
+    function selectResult(index) {
+      const links = results.querySelectorAll('a');
+      if (!links.length) return;
+      links.forEach(a => a.classList.remove('selected'));
+      const next = links[(index + links.length) % links.length];
+      next.classList.add('selected');
+      next.scrollIntoView({ block: 'nearest' });
+    }
+
     input.addEventListener('input', async () => {
       const query = input.value.trim();
       if (!query) { results.innerHTML = ''; return; }
@@ -172,6 +183,25 @@ const year = new Date().getFullYear();
       results.innerHTML = top.length
         ? top.map(r => `<a href="${r.url}">${r.meta.title}</a>`).join('')
         : '<p class="no-results">No results found.</p>';
+      if (top.length) selectResult(0);
+    });
+
+    input.addEventListener('keydown', e => {
+      const links = results.querySelectorAll('a');
+      if (!links.length) return;
+      const current = results.querySelector('a.selected');
+      const currentIndex = current ? [...links].indexOf(current) : -1;
+
+      if (e.key === 'ArrowDown') {
+        e.preventDefault();
+        selectResult(currentIndex + 1);
+      } else if (e.key === 'ArrowUp') {
+        e.preventDefault();
+        selectResult(currentIndex - 1);
+      } else if (e.key === 'Enter') {
+        e.preventDefault();
+        (current || links[0]).click();
+      }
     });
   </script>
 

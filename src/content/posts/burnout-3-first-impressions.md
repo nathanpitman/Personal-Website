@@ -8,7 +8,7 @@ source: 'http://nathanpitman.com/241/burnout-3-first-impressions'
 archive: >-
   https://web.archive.org/web/20091231042030/http://nathanpitman.com:80/241/burnout-3-first-impressions
 tags:
-  - Consoles
+  - Gaming
 relatedPosts:
   - slug: free-xbox360
     source: generated

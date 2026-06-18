@@ -9,8 +9,8 @@ source: 'http://nathanpitman.com/618/one-day-soon-os-x-will-be-free'
 archive: >-
   https://web.archive.org/web/20120706033144/http://nathanpitman.com:80/618/one-day-soon-os-x-will-be-free
 tags:
-  - Chatter
   - Apple
+  - Business
 relatedPosts:
   - slug: my-thoughts-on-apple-tv-apps
     source: generated

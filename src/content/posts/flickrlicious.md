@@ -8,8 +8,8 @@ source: 'http://nathanpitman.com/473/flickrlicious'
 archive: >-
   https://web.archive.org/web/20100113160420/http://nathanpitman.com:80/473/flickrlicious
 tags:
-  - Chatter
-  - Design
+  - Business
+  - Photography
 relatedPosts:
   - slug: hsbc-internet-banking-fail
     source: generated

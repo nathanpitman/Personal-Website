@@ -8,7 +8,7 @@ source: 'http://nathanpitman.com/472/goodbye-ps2-hello-360'
 archive: >-
   https://web.archive.org/web/20090722094848/http://nathanpitman.com:80/472/goodbye-ps2-hello-360
 tags:
-  - Consoles
+  - Gaming
   - Personal
 relatedPosts:
   - slug: red-ring-of-death

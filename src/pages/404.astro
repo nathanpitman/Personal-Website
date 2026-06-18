@@ -17,17 +17,17 @@ const idMapJson = JSON.stringify(idMap);
 const slugSetJson = JSON.stringify(posts.filter(p => !p.data.hidden).map(p => p.slug));
 ---
 
-<BaseLayout title="Page not found — journal" description="The page you're looking for doesn't exist or may have moved. Browse the archives or return to the home page.">
+<BaseLayout title="Page not found — nathanpitman.com" description="The page you're looking for doesn't exist or may have moved.">
   <div class="page">
     <main class="main">
       <article class="post">
         <header class="post-header">
           <div class="post-title-line">
-            <h2 class="post-title">Page not found</h2>
+            <h2 class="post-title">404 - Page Not Found</h2>
           </div>
         </header>
         <div class="post-body">
-          <p>This page doesn't exist, or may have moved. Try the <a href="/">home page</a> or <a href="/archives">archives</a>.</p>
+          <p>The page you've requested doesn't exist, or may have moved. Try the site search or <a href="/archives">browse the archives</a> to find what you're looking for.</p>
         </div>
       </article>
     </main>

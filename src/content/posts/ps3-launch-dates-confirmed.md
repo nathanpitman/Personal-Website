@@ -9,7 +9,7 @@ source: 'http://nathanpitman.com/465/ps3-launch-dates-confirmed'
 archive: >-
   https://web.archive.org/web/20091210065900/http://nathanpitman.com:80/465/ps3-launch-dates-confirmed
 tags:
-  - Consoles
+  - Gaming
 relatedPosts:
   - slug: sony-redesigns-playstation-2
     source: generated

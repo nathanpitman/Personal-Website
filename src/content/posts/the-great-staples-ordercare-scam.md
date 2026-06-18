@@ -8,7 +8,7 @@ source: 'http://nathanpitman.com/560/the-great-staples-ordercare-scam'
 archive: >-
   https://web.archive.org/web/20090518094518/http://nathanpitman.com:80/560/the-great-staples-ordercare-scam
 tags:
-  - Chatter
+  - Business
 relatedPosts:
   - slug: customer-service-bandits
     source: generated

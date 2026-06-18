@@ -11,7 +11,6 @@ tags:
   - "Design"
   - "Apple"
   - "Web development"
-  - "Chatter"
 relatedPosts:
   - slug: god-is-in-the-details
     source: generated
