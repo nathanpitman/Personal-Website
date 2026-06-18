@@ -9,7 +9,7 @@ source: 'http://nathanpitman.com/282/ntl-to-penalise-early-broadband-adopters'
 archive: >-
   https://web.archive.org/web/20091215020347/http://nathanpitman.com:80/282/ntl-to-penalise-early-broadband-adopters
 tags:
-  - Chatter
+  - Business
 relatedPosts:
   - slug: how-to-cut-your-monthly-ntl-bill
     source: generated

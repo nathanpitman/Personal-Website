@@ -27,6 +27,6 @@ I remember the very day I bought the first issue of Edge magazine, it was during
 
 ![Edges magazine, issues 1 to 107.](/images/11.jpg "Edges magazine, issues 1 to 107.")
 
-Early issues reported on upcoming consoles such as the ‘“3DO”:http://www.nerv.us/features.php?feature\_id=18’, ‘Sega Saturn’ and early rumours of a ‘“Sony”:http://www.playstation.co.uk’ games console. Edge magazine is still running today but I stopped collecting some time ago; I have issues 1 through to 107.
+Early issues reported on upcoming consoles such as the ‘[3DO](http://www.nerv.us/features.php?feature\_id=18)’, ‘Sega Saturn’ and early rumours of a ‘[Sony games console](http://www.playstation.co.uk)’. Edge magazine is still running today but I stopped collecting some time ago; I have issues 1 through to 107.
 
 The question is, what on earth should I do with them? Try to flog them on e-bay, or box em up and keep them for the memories?

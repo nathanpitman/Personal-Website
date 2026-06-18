@@ -5,6 +5,15 @@ import pagefind from 'astro-pagefind';
 export default defineConfig({
   site: 'https://nathanpitman.com',
   output: 'static',
+  legacy: {
+    collections: true,
+  },
+  redirects: {
+    '/tag/consoles': '/tag/gaming',
+    '/tag/games': '/tag/gaming',
+    '/tag/linux': '/tag/technology',
+    '/tag/web-applications': '/tag/web-development',
+  },
   markdown: {
     shikiConfig: {
       theme: 'github-light',

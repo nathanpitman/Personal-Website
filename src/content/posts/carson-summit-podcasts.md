@@ -9,7 +9,7 @@ source: 'http://nathanpitman.com/451/carson-summit-podcasts'
 archive: >-
   https://web.archive.org/web/20100105222927/http://nathanpitman.com:80/451/carson-summit-podcasts
 tags:
-  - Web applications
+  - Web development
 relatedPosts:
   - slug: will-you-be-at-the-carson-summit
     source: generated

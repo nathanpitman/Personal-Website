@@ -1,0 +1,94 @@
+---
+import { buildAtUri } from '../utils/bluesky';
+import { parseMastodonUrl } from '../utils/mastodon';
+
+interface Props {
+  href: string;
+  blueskyUrl?: string;
+  mastodonUrl?: string;
+}
+
+const { href, blueskyUrl, mastodonUrl } = Astro.props as Props;
+const atUri = blueskyUrl ? buildAtUri(blueskyUrl) : null;
+const mastodonRef = mastodonUrl ? parseMastodonUrl(mastodonUrl) : null;
+const hasAny = Boolean(atUri || mastodonRef);
+---
+
+{hasAny && (
+  <a
+    class="comment-bubble"
+    href={href}
+    data-bluesky-uri={atUri ?? ''}
+    data-mastodon-instance={mastodonRef?.instance ?? ''}
+    data-mastodon-status-id={mastodonRef?.statusId ?? ''}
+  >
+    <svg class="comment-bubble-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+      <path
+        d="M4 5.5C4 4.67 4.67 4 5.5 4h13c.83 0 1.5.67 1.5 1.5v10c0 .83-.67 1.5-1.5 1.5H9.41l-3.7 3.7c-.32.32-.86.1-.86-.36V17H5.5C4.67 17 4 16.33 4 15.5v-10z"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="1.6"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+      />
+    </svg>
+    <span class="comment-bubble-count" hidden>0</span>
+    <span class="visually-hidden">comments</span>
+  </a>
+)}
+
+<script type="module">
+  async function fetchBlueskyCount(atUri) {
+    const res = await fetch(
+      `https://public.api.bsky.app/xrpc/app.bsky.feed.getPostThread?uri=${encodeURIComponent(atUri)}&depth=0&parentHeight=0`
+    );
+    if (!res.ok) throw new Error('bluesky count fetch failed');
+    const { thread } = await res.json();
+    return thread?.post?.replyCount ?? 0;
+  }
+
+  async function fetchMastodonCount(ref) {
+    const res = await fetch(`https://${ref.instance}/api/v1/statuses/${ref.statusId}`);
+    if (!res.ok) throw new Error('mastodon count fetch failed');
+    const status = await res.json();
+    return status.replies_count ?? 0;
+  }
+
+  async function loadCount(bubble) {
+    const atUri = bubble.dataset.blueskyUri;
+    const instance = bubble.dataset.mastodonInstance;
+    const statusId = bubble.dataset.mastodonStatusId;
+
+    const [blueskyResult, mastodonResult] = await Promise.allSettled([
+      atUri ? fetchBlueskyCount(atUri) : Promise.resolve(0),
+      instance && statusId ? fetchMastodonCount({ instance, statusId }) : Promise.resolve(0),
+    ]);
+    const total =
+      (blueskyResult.status === 'fulfilled' ? blueskyResult.value : 0) +
+      (mastodonResult.status === 'fulfilled' ? mastodonResult.value : 0);
+
+    if (total > 0) {
+      const countEl = bubble.querySelector('.comment-bubble-count');
+      if (countEl) {
+        countEl.textContent = String(total);
+        countEl.hidden = false;
+      }
+    }
+  }
+
+  const bubbles = document.querySelectorAll('.comment-bubble');
+  if (bubbles.length) {
+    const observer = new IntersectionObserver(
+      (entries, obs) => {
+        for (const entry of entries) {
+          if (entry.isIntersecting) {
+            obs.unobserve(entry.target);
+            loadCount(entry.target);
+          }
+        }
+      },
+      { rootMargin: '200px' }
+    );
+    bubbles.forEach((bubble) => observer.observe(bubble));
+  }
+</script>

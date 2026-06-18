@@ -1,0 +1,289 @@
+---
+interface Props {
+  blueskyUrl?: string;
+  blueskyAtUri?: string | null;
+  mastodonUrl?: string;
+  mastodonRef?: { instance: string; statusId: string } | null;
+}
+
+const { blueskyUrl, blueskyAtUri = null, mastodonUrl, mastodonRef = null } = Astro.props as Props;
+const hasAny = Boolean(blueskyAtUri || mastodonRef);
+---
+
+{hasAny && (
+  <section
+    id="comments"
+    class="social-activity"
+    data-pagefind-ignore
+    aria-label="Likes and replies"
+    data-bluesky-uri={blueskyAtUri ?? ''}
+    data-bluesky-url={blueskyUrl ?? ''}
+    data-mastodon-instance={mastodonRef?.instance ?? ''}
+    data-mastodon-status-id={mastodonRef?.statusId ?? ''}
+    data-mastodon-url={mastodonUrl ?? ''}
+  >
+    <div class="likes-bar" id="likes-bar" hidden>
+      <span class="likes-summary">👍 <span id="likes-count">0</span> likes</span>
+      <div class="likes-avatars" id="likes-avatars"></div>
+    </div>
+
+    <div class="comments" id="comments-section">
+      <p class="comments-loading">Loading replies…</p>
+    </div>
+  </section>
+)}
+
+<script type="module">
+  const NETWORK_ICONS = {
+    bluesky: '<svg class="comment-network-badge" viewBox="0 0 24 24" aria-hidden="true" fill="currentColor"><path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.785 2.627 3.587 3.498 6.169 3.248-4.597.676-8.643 3.04-4.851 8.622C5.94 27.04 11.094 22.108 12 17.625c.906 4.483 5.787 9.257 10.058 4.492 3.792-5.582-.254-7.946-4.851-8.622 2.582.25 5.384-.621 6.169-3.248C23.622 9.418 24 4.458 24 3.768c0-.69-.139-1.861-.902-2.203-.659-.3-1.664-.62-4.3 1.24C16.046 4.748 13.087 8.687 12 10.8z"/></svg>',
+    mastodon: '<svg class="comment-network-badge" viewBox="0 0 24 24" aria-hidden="true" fill="currentColor"><path d="M23.193 7.879c0-5.207-3.412-6.733-3.412-6.733-1.73-.794-4.7-1.127-7.78-1.153h-.024c-3.08.026-6.048.36-7.78 1.153 0 0-3.41 1.526-3.41 6.733 0 1.193-.023 2.62.015 4.137.124 5.092.934 10.11 5.622 11.355 2.16.572 4.012.692 5.508.61 2.71-.148 4.232-.948 4.232-.948l-.089-1.957s-1.937.611-4.115.537c-2.157-.073-4.434-.23-4.78-2.84a5.34 5.34 0 01-.048-.745s2.124.518 4.815.642c1.642.077 3.18-.098 4.745-.29 3.005-.366 5.625-2.255 5.954-3.978.518-2.706.476-6.6.476-6.6zM19.078 14.4h-2.42v-5.853c0-1.234-.519-1.86-1.558-1.86-1.146 0-1.72.742-1.72 2.207v3.197h-2.405v-3.197c0-1.465-.574-2.207-1.72-2.207-1.039 0-1.558.626-1.558 1.86V14.4H5.28V8.354c0-1.234.314-2.214.943-2.94.65-.726 1.5-1.097 2.56-1.097 1.227 0 2.156.471 2.764 1.414L12 6.957l.453-1.227c.61-.943 1.539-1.414 2.766-1.414 1.06 0 1.91.371 2.56 1.097.628.726.942 1.706.942 2.94z"/></svg>',
+  };
+
+  const BLUESKY_REPLY_DEPTH = 3;
+
+  function escapeHtml(str) {
+    const div = document.createElement('div');
+    div.textContent = str ?? '';
+    return div.innerHTML;
+  }
+
+  // DOMParser documents have no browsing context, so they never fetch images/scripts —
+  // unlike setting .innerHTML on a live element, which can still trigger onerror/onload handlers.
+  function stripHtml(html) {
+    const doc = new DOMParser().parseFromString(html ?? '', 'text/html');
+    return doc.body.textContent || '';
+  }
+
+  function formatTimestamp(iso) {
+    const d = new Date(iso);
+    if (Number.isNaN(d.getTime())) return '';
+    return d.toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: 'numeric' });
+  }
+
+  async function fetchBluesky(atUri) {
+    const threadRes = await fetch(
+      `https://public.api.bsky.app/xrpc/app.bsky.feed.getPostThread?uri=${encodeURIComponent(atUri)}&depth=${BLUESKY_REPLY_DEPTH}`
+    );
+    if (!threadRes.ok) throw new Error('bluesky thread fetch failed');
+    const { thread } = await threadRes.json();
+    if (!thread || !thread.post) throw new Error('bluesky thread unavailable');
+
+    let likers = [];
+    try {
+      const likesRes = await fetch(
+        `https://public.api.bsky.app/xrpc/app.bsky.feed.getLikes?uri=${encodeURIComponent(atUri)}&limit=20`
+      );
+      if (likesRes.ok) {
+        const { likes } = await likesRes.json();
+        likers = (likes ?? []).map((l) => ({
+          network: 'bluesky',
+          name: l.actor.displayName || l.actor.handle,
+          avatarUrl: l.actor.avatar || '/avatar.jpg',
+          profileUrl: `https://bsky.app/profile/${l.actor.handle}`,
+        }));
+      }
+    } catch {
+      // liker list is a nice-to-have for the facepile; counts still come from the thread call
+    }
+
+    function toReply(node, depth) {
+      if (!node || !node.post) return null;
+      const post = node.post;
+      const author = post.author;
+      const text = post.record && post.record.text;
+      if (text === undefined || text === null) return null;
+      const rkey = (post.uri || '').split('/').pop();
+      const childNodes = depth < BLUESKY_REPLY_DEPTH && Array.isArray(node.replies) ? node.replies : [];
+      const replies = childNodes.map((r) => toReply(r, depth + 1)).filter(Boolean);
+      return {
+        network: 'bluesky',
+        author: {
+          name: author.displayName || author.handle,
+          handle: `@${author.handle}`,
+          avatarUrl: author.avatar || '/avatar.jpg',
+          profileUrl: `https://bsky.app/profile/${author.handle}`,
+        },
+        text,
+        createdAt: post.indexedAt,
+        likeCount: post.likeCount ?? 0,
+        permalink: `https://bsky.app/profile/${author.handle}/post/${rkey}`,
+        replies,
+      };
+    }
+
+    const replies = Array.isArray(thread.replies)
+      ? thread.replies.map((r) => toReply(r, 0)).filter(Boolean)
+      : [];
+
+    return { likeCount: thread.post.likeCount ?? 0, likers, replies };
+  }
+
+  async function fetchMastodon(ref) {
+    const base = `https://${ref.instance}/api/v1/statuses/${ref.statusId}`;
+    const statusRes = await fetch(base);
+    if (!statusRes.ok) throw new Error('mastodon status fetch failed');
+    const status = await statusRes.json();
+
+    let likers = [];
+    try {
+      const favRes = await fetch(`${base}/favourited_by`);
+      if (favRes.ok) {
+        const accounts = await favRes.json();
+        likers = (accounts ?? []).map((a) => ({
+          network: 'mastodon',
+          name: a.display_name || a.username,
+          avatarUrl: a.avatar || '/avatar.jpg',
+          profileUrl: a.url,
+        }));
+      }
+    } catch {
+      // some instances restrict this list for privacy — counts still come from the status call
+    }
+
+    let replies = [];
+    try {
+      const contextRes = await fetch(`${base}/context`);
+      if (contextRes.ok) {
+        const context = await contextRes.json();
+        replies = (context.descendants ?? []).map((s) => ({
+          network: 'mastodon',
+          author: {
+            name: s.account.display_name || s.account.username,
+            handle: `@${s.account.username}`,
+            avatarUrl: s.account.avatar || '/avatar.jpg',
+            profileUrl: s.account.url,
+          },
+          text: stripHtml(s.content),
+          createdAt: s.created_at,
+          likeCount: s.favourites_count ?? 0,
+          permalink: s.url,
+          replies: [],
+        }));
+      }
+    } catch {
+      // descendants unavailable — show counts only
+    }
+
+    return { likeCount: status.favourites_count ?? 0, likers, replies };
+  }
+
+  function renderLikes(likers, totalCount) {
+    const bar = document.getElementById('likes-bar');
+    const countEl = document.getElementById('likes-count');
+    const avatarsEl = document.getElementById('likes-avatars');
+    if (!bar || !countEl || !avatarsEl || totalCount <= 0) return;
+
+    countEl.textContent = String(totalCount);
+
+    const MAX_AVATARS = 8;
+    const shown = likers.slice(0, MAX_AVATARS);
+    const overflow = likers.length - shown.length;
+
+    avatarsEl.innerHTML =
+      shown
+        .map(
+          (liker) => `
+        <a class="like-avatar-link" href="${escapeHtml(liker.profileUrl)}" target="_blank" rel="noopener noreferrer" title="${escapeHtml(liker.name)}">
+          <img class="like-avatar" src="${escapeHtml(liker.avatarUrl)}" alt="${escapeHtml(liker.name)}" width="26" height="26" loading="lazy" />
+        </a>`
+        )
+        .join('') + (overflow > 0 ? `<span class="like-avatar-more">+${overflow}</span>` : '');
+
+    bar.hidden = false;
+  }
+
+  function renderReply(reply) {
+    const childrenHtml = (reply.replies || []).map(renderReply).join('');
+    return `
+      <div class="comment">
+        <img class="comment-avatar" src="${escapeHtml(reply.author.avatarUrl)}" alt="" width="32" height="32" loading="lazy" />
+        <div class="comment-body">
+          <div class="comment-meta">
+            ${NETWORK_ICONS[reply.network] || ''}
+            <span class="comment-author">${escapeHtml(reply.author.name)}</span>
+            <span class="comment-handle">${escapeHtml(reply.author.handle)}</span>
+            <span class="comment-time">${escapeHtml(formatTimestamp(reply.createdAt))}</span>
+          </div>
+          <p class="comment-text">${escapeHtml(reply.text)}</p>
+          <div class="comment-actions">
+            <span class="comment-like">${reply.likeCount} like${reply.likeCount === 1 ? '' : 's'}</span>
+            <a class="comment-reply-link" href="${escapeHtml(reply.permalink)}" target="_blank" rel="noopener noreferrer">View</a>
+          </div>
+          ${childrenHtml ? `<div class="comment-children">${childrenHtml}</div>` : ''}
+        </div>
+      </div>
+    `;
+  }
+
+  function renderHowToComment(blueskyUrl, mastodonUrl) {
+    const links = [];
+    if (blueskyUrl) links.push(`<a href="${escapeHtml(blueskyUrl)}" target="_blank" rel="noopener noreferrer">Bluesky</a>`);
+    if (mastodonUrl) links.push(`<a href="${escapeHtml(mastodonUrl)}" target="_blank" rel="noopener noreferrer">Mastodon</a>`);
+    if (links.length === 0) return '';
+    return `<p class="comments-howto">There's no comment box here — to join the conversation, reply to this post on ${links.join(' or ')}. Your reply will show up here automatically.</p>`;
+  }
+
+  function renderComments(replies, blueskyUrl, mastodonUrl) {
+    const section = document.getElementById('comments-section');
+    if (!section) return;
+    if (replies.length === 0) {
+      section.innerHTML = '<p class="comments-empty">No replies yet.</p>' + renderHowToComment(blueskyUrl, mastodonUrl);
+      return;
+    }
+    const sorted = [...replies].sort(
+      (a, b) => new Date(a.createdAt).getTime() - new Date(b.createdAt).getTime()
+    );
+    section.innerHTML = sorted.map(renderReply).join('') + renderHowToComment(blueskyUrl, mastodonUrl);
+  }
+
+  async function loadActivity(root) {
+    const blueskyUri = root.dataset.blueskyUri;
+    const blueskyUrl = root.dataset.blueskyUrl;
+    const mastodonInstance = root.dataset.mastodonInstance;
+    const mastodonStatusId = root.dataset.mastodonStatusId;
+    const mastodonUrl = root.dataset.mastodonUrl;
+
+    const [blueskyResult, mastodonResult] = await Promise.allSettled([
+      blueskyUri ? fetchBluesky(blueskyUri) : Promise.resolve(null),
+      mastodonInstance && mastodonStatusId
+        ? fetchMastodon({ instance: mastodonInstance, statusId: mastodonStatusId })
+        : Promise.resolve(null),
+    ]);
+
+    const bluesky = blueskyResult.status === 'fulfilled' ? blueskyResult.value : null;
+    const mastodon = mastodonResult.status === 'fulfilled' ? mastodonResult.value : null;
+
+    if (!bluesky && !mastodon) {
+      const section = document.getElementById('comments-section');
+      if (section) {
+        section.innerHTML =
+          '<p class="comments-error">Couldn’t load replies right now.</p>' +
+          renderHowToComment(blueskyUrl, mastodonUrl);
+      }
+      return;
+    }
+
+    const totalLikes = (bluesky?.likeCount ?? 0) + (mastodon?.likeCount ?? 0);
+    const likers = [...(bluesky?.likers ?? []), ...(mastodon?.likers ?? [])];
+    renderLikes(likers, totalLikes);
+
+    const replies = [...(bluesky?.replies ?? []), ...(mastodon?.replies ?? [])];
+    renderComments(replies, blueskyUrl, mastodonUrl);
+  }
+
+  const root = document.querySelector('.social-activity');
+  if (root) {
+    const observer = new IntersectionObserver(
+      (entries, obs) => {
+        for (const entry of entries) {
+          if (entry.isIntersecting) {
+            obs.disconnect();
+            loadActivity(entry.target);
+          }
+        }
+      },
+      { rootMargin: '200px' }
+    );
+    observer.observe(root);
+  }
+</script>

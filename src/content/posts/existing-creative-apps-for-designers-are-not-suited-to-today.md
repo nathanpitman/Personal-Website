@@ -27,6 +27,6 @@ relatedPosts:
 
 **We all know it… it’s been a common accepted fact for far too long**. We’ve been talking about the lack of interest from app developers at a regular [local meet-up](http://creativeassembly.net/) and decided it was about time we did something positive about it.
 
-<a href="http://projectmeteor.org/"><img src="/images/project_meteor.png" alt="Project Meteor — a campaign for the web design app we all need" width="460" height="264" /></a>
+<a href="https://projectmeteor.github.io/"><img src="/images/project_meteor.png" alt="Project Meteor — a campaign for the web design app we all need" width="460" height="264" /></a>
 
-[Project Meteor](http://projectmeteor.org/) is a campaign for the web design app we all need, if you agree that current tools don’t cut it – visit the site and add your voice to the campaign by tweeting for the cause.
+[Project Meteor](https://projectmeteor.github.io/) is a campaign for the web design app we all need, if you agree that current tools don’t cut it – visit the site and add your voice to the campaign by tweeting for the cause.

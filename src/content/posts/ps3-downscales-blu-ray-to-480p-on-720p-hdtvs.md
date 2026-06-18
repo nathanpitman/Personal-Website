@@ -8,7 +8,7 @@ source: 'http://nathanpitman.com/495/ps3-downscales-blu-ray-to-480p-on-720p-hdtv
 archive: >-
   https://web.archive.org/web/20090524013453/http://nathanpitman.com:80/495/ps3-downscales-blu-ray-to-480p-on-720p-hdtvs
 tags:
-  - Consoles
+  - Gaming
   - Technology
 relatedPosts:
   - slug: sony-redesigns-playstation-2

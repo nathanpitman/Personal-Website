@@ -8,9 +8,9 @@ source: 'http://nathanpitman.com/624/my-thoughts-on-apple-tv-apps'
 archive: >-
   https://web.archive.org/web/20130510164106/http://nathanpitman.com:80/624/my-thoughts-on-apple-tv-apps
 tags:
-  - Chatter
   - Apple
   - Technology
+  - Business
 relatedPosts:
   - slug: first-impressions-of-the-3rd-gen-apple-tv
     source: generated

@@ -1,8 +1,13 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Sidebar from '../../components/Sidebar.astro';
+import Comments from '../../components/Comments.astro';
 import { getCollection } from 'astro:content';
 import { slugify, displayTag } from '../../utils/slugify';
+import { getDescription } from '../../utils/description';
+import { buildAtUri } from '../../utils/bluesky';
+import { parseMastodonUrl } from '../../utils/mastodon';
+import CommentBubble from '../../components/CommentBubble.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
@@ -32,30 +37,7 @@ if (redirectTo) return Astro.redirect(redirectTo, 301);
 const { Content } = await post.render();
 const tags = post.data.tags ?? [];
 
-function extractFirstParagraph(body: string): string {
-  const stripped = body.replace(/^---[\s\S]*?---\s*/, '');
-  const lines = stripped.split('\n');
-  let paragraph = '';
-  for (const line of lines) {
-    const trimmed = line.trim();
-    if (!trimmed) {
-      if (paragraph) break;
-      continue;
-    }
-    if (trimmed.startsWith('#') || trimmed.startsWith('![') || trimmed.startsWith('<')) continue;
-    paragraph += (paragraph ? ' ' : '') + trimmed;
-  }
-  const cleaned = paragraph
-    .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
-    .replace(/\\[*_`~[\]]/g, '')
-    .replace(/[*_`~]+/g, '')
-    .replace(/\s+/g, ' ')
-    .trim();
-  if (cleaned.length <= 160) return cleaned;
-  return cleaned.slice(0, 157).replace(/\s+\S*$/, '') + '...';
-}
-
-const description = post.data.description || extractFirstParagraph(post.body ?? '');
+const description = getDescription(post);
 
 function formatDate(date: Date): string {
   const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
@@ -63,6 +45,8 @@ function formatDate(date: Date): string {
   const y = date.getFullYear().toString().slice(-2);
   return `${months[date.getMonth()]} ${d}. ${y}`;
 }
+
+const githubEditUrl = `https://github.com/nathanpitman/Personal-Website/edit/main/src/content/posts/${post.id}`;
 
 const d = post.data.date;
 const yyyy = d.getFullYear().toString();
@@ -85,7 +69,7 @@ const jsonLd = {
 };
 ---
 
-<BaseLayout title={`${post.data.title} — Journal — nathanpitman.com`} description={description} activeNav="recently" jsonLd={jsonLd}>
+<BaseLayout title={`${post.data.title} — Journal — nathanpitman.com`} description={description} jsonLd={jsonLd}>
   <div class="page">
 
     <main class="main">
@@ -93,20 +77,40 @@ const jsonLd = {
         <header class="post-header">
           <div class="post-title-line">
             <h1 class="post-title">{post.data.title}</h1>
-            <span class="post-date">{formatDate(post.data.date)}</span>
+            <span class="post-date-wrap">
+              <span class="post-date">{formatDate(post.data.date)}</span>
+              <CommentBubble
+                href="#comments"
+                blueskyUrl={post.data.bluesky}
+                mastodonUrl={post.data.mastodon}
+              />
+            </span>
           </div>
         </header>
         <div class="post-body">
           <Content />
+          <p class="tombstone">* * *</p>
         </div>
-        {tags.length > 0 && (
-          <p class="post-tags">
-            Tagged: {tags.map((tag: string, i: number) => (
-              <><a href={`/tag/${slugify(tag)}`}>{displayTag(tag)}</a>{i < tags.length - 1 ? ', ' : ''}</>
-            ))}
-          </p>
-        )}
+        <p class="post-tags">
+          {tags.length > 0 && (
+            <>
+              # {tags.map((tag: string, i: number) => (
+                <><a href={`/tag/${slugify(tag)}`}>{displayTag(tag)}</a>{i < tags.length - 1 ? ', ' : ''}</>
+              ))}
+              {' · '}
+            </>
+          )}
+          <a href={githubEditUrl} target="_blank" rel="nofollow">Edit this post</a>
+        </p>
         <span class="date-search-tokens">{yyyy}-{mm}-{dd} {yyyy}-{mm} {yyyy} {mm} {dd}</span>
+        {(post.data.bluesky || post.data.mastodon) && (
+          <Comments
+            blueskyUrl={post.data.bluesky}
+            blueskyAtUri={post.data.bluesky ? buildAtUri(post.data.bluesky) : null}
+            mastodonUrl={post.data.mastodon}
+            mastodonRef={post.data.mastodon ? parseMastodonUrl(post.data.mastodon) : null}
+          />
+        )}
       </article>
     </main>
 

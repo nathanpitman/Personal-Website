@@ -9,7 +9,7 @@ source: 'http://nathanpitman.com/357/sony-playstation-3-unveiled'
 archive: >-
   https://web.archive.org/web/20090924123241/http://nathanpitman.com:80/357/sony-playstation-3-unveiled
 tags:
-  - Consoles
+  - Gaming
   - Design
 relatedPosts:
   - slug: sony-redesigns-playstation-2
