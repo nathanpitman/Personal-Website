@@ -82,7 +82,7 @@ const jsonLd = {
               <p>{description}</p>
               <p><a class="read-more" href={`/posts/${slug}/`}>Read more &rarr;</a></p>
             </div>
-            <PostTags tags={getPostTags(post)} prefix="Tagged:" />
+            <PostTags tags={getPostTags(post)} />
           </article>
         );
       })}
