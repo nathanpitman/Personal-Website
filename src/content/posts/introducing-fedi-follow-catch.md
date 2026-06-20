@@ -5,7 +5,7 @@ description: >-
 date: '2026-06-20'
 ---
 
-I've got two separate social graphs right now — one on Bluesky, one on Mastodon — and no real sense of how much they overlap. I follow people on one who I probably also want to follow on the other, but I had no way of seeing the gap. So I asked <a href="">Claude</a> to help me figure out a way to actually see it: compare both follow lists and surface who I was missing on each side.
+I've got two separate social graphs right now — one on <a href="https://bsky.app">Bluesky</a>, one on <a href="https://mastodon.social">Mastodon</a> — and no real sense of how much they overlap. I follow people on one who I probably also want to follow on the other, but I had no way of seeing the gap. So I asked <a href="https://claude.ai/referral/SXnxTTUikA">Claude Code</a> to help me figure out a way to actually see it: compare both follow lists and surface who I was missing on each side.
 
 That's what **Fedi Follow Catch** is for. :D
 
