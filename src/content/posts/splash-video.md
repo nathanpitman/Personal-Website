@@ -10,17 +10,7 @@ archive: >-
 tags:
   - Flash
   - Personal
-relatedPosts:
-  - slug: flash-video-kit-announced
-    source: generated
-  - slug: two-months-old
-    source: generated
-  - slug: one-month-old
-    source: generated
-  - slug: 10-days-1-camera-and-some-fantastic-light
-    source: generated
-  - slug: calling-all-freelance-flash-developers
-    source: generated
+hidden: true
 ---
 
 Well, Neve had so much fun in the bath last night, I thought I would share her smiles and ‘splish splash madness’.

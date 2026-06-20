@@ -32,6 +32,6 @@ relatedPosts:
   
 From a book called [Dreamweaver MX Web Development](http://www.amazon.co.uk/exec/obidos/ASIN/0735713081/) by [Drew McLellan](http://www.allinthehead.com/):
 
-In particular, this chapter covers the Dreamweaver MX Assets panel, the Site Manager, and the site-reporting tool.
+> In particular, this chapter covers the Dreamweaver MX Assets panel, the Site Manager, and the site-reporting tool.
 
 Hmm, not very inspiring, maybe you can do better…
