@@ -1,8 +1,14 @@
 ---
 title: Introducing 'Fedi Follow Catch'
-description: Compare your Bluesky and Mastodon follows and close the gaps, one
-  click at a time. Built with Claude Code, no backend, nothing stored.
 date: 2026-06-20
+description: "I’ve got two separate social graphs right now — one on Bluesky,
+  one on Mastodon — and no real sense of how much they overlap. I follow people
+  on one who I probably also want to follow on the other, but I had no way of
+  seeing the gap. So I asked Claude Code to help me figure out a way to actually
+  see it: compare both follow lists and surface who I was missing on each side."
+tags:
+  - AI
+  - Making things
 relatedPosts:
   - slug: back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark
     source: generated
