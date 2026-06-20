@@ -24,6 +24,14 @@
     converts them into readable PDFs. Built with Claude, with optional
     AI-powered prose rewriting via the Claude API. No install or backend
     required — runs entirely client-side.
+  hidden: true
+
+- title: Fedi Follow Catch
+  url: https://nathanpitman.github.io/Fedi-Follow-Catch/
+  description: >-
+    A free, static, client-side-only tool that compares your Bluesky and Mastodon follow lists 
+    - bridged via Bridgy Fed — and shows you who you follow on one network but not the other, 
+    with a direct follow link for each gap.
   hidden: false
 
 - title: Fuelwise
