@@ -36,7 +36,7 @@ The whole thing is static — plain HTML/CSS/JS hosted on GitHub Pages, with no 
 
 Every API call happens directly from your browser to Bluesky and to your own Mastodon instance. Nothing is stored — no localStorage, no cookies, no database row anywhere with your tokens in it. Refresh the page and you start again.
 
-Complete disclosure, I did not write this, I prompted Claude Code and it make it all happen and it worked out the matching logic itself: checking known account-bridging patterns between the two networks first, then falling back to comparing display name and bio links where that wasn't detectable, and keeping a third "unmatched" pile for anything it couldn't confidently place — rather than quietly hiding the misses.
+Complete disclosure - I did not write a single line of this! I prompted Claude Code and it made it all happen and worked out the matching logic itself: checking known account-bridging patterns between the two networks first, then falling back to comparing display name and bio links where that wasn't detectable, and keeping a third "unmatched" pile for anything it couldn't confidently place — rather than quietly hiding the misses.
 
 ## The artwork and visual design
 
