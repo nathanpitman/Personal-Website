@@ -1,12 +1,10 @@
 ---
 title: Introducing 'Fedi Follow Catch'
-description: >-
-  Compare your Bluesky and Mastodon follows and close the gaps, one click at a
-  time. Built with Claude Code, no backend, nothing stored.
-date: '2026-06-20'
+description: Compare your Bluesky and Mastodon follows and close the gaps, one
+  click at a time. Built with Claude Code, no backend, nothing stored.
+date: 2026-06-20
 relatedPosts:
-  - slug: >-
-      back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark
+  - slug: back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark
     source: generated
   - slug: scratching-an-itch-to-build-a-game
     source: generated
@@ -19,6 +17,8 @@ relatedPosts:
 ---
 
 I've got two separate social graphs right now — one on <a href="https://bsky.app">Bluesky</a>, one on <a href="https://mastodon.social">Mastodon</a> — and no real sense of how much they overlap. I follow people on one who I probably also want to follow on the other, but I had no way of seeing the gap. So I asked <a href="https://claude.ai/referral/SXnxTTUikA">Claude Code</a> to help me figure out a way to actually see it: compare both follow lists and surface who I was missing on each side.
+
+![fedi_follow_catch_cropped.png](../../assets/posts/introducing-fedi-follow-catch/fedi-follow-catch-cropped-54584a79b5.png)
 
 That's what **Fedi Follow Catch** is for. :D
 
