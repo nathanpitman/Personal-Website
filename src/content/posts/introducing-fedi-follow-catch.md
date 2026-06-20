@@ -28,7 +28,7 @@ I've got two separate social graphs right now — one on <a href="https://bsky.a
 
 ![fedi_follow_catch_cropped.png](../../assets/posts/introducing-fedi-follow-catch/fedi-follow-catch-cropped-54584a79b5.png)
 
-That's what **Fedi Follow Catch** is for. :D
+That's what **[Fedi Follow Catch](https://nathanpitman.github.io/Fedi-Follow-Catch)** is for. :D
 
 ## What it does
 
