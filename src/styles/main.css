@@ -464,6 +464,12 @@ a:hover         { color: #0000ee; }
 .post-tags span {
   color: var(--text-muted);
 }
+.post-tags a {
+  color: var(--text-muted) !important;
+}
+.post-tags a:hover {
+  color: var(--text-mid) !important;
+}
 
 /* Likes facepile + merged Bluesky/Mastodon replies */
 .likes-bar {
