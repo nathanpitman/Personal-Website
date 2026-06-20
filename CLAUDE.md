@@ -76,7 +76,7 @@ Six commits in May 2026 added a full AEO layer. Every piece is load-bearing — 
 
 - `<meta name="description">` and `<meta property="og:description">` are **conditional** — neither renders if `description` is not passed
 - `og:title`, `og:url`, `og:image` are **unconditional** — always present
-- `og:image` uses `/avatar.jpg` resolved against `Astro.site`
+- `BaseLayout.astro` accepts an optional `image` prop. `og:image` resolves `image` against `Astro.site` if passed, otherwise falls back to `/avatar.jpg`. Post pages (`src/pages/posts/[...slug].astro`) pass the post's first body image (via `extractFirstImagePath` in `src/utils/og-image.ts`), resolving `src/assets/...`-relative images through `astro:assets` `getImage()` to get the built URL; absolute `/images/...` paths and external `http(s)://` URLs are used as-is. Pages without a post body image (or non-post pages) keep the `/avatar.jpg` fallback.
 
 **Every new page template must pass a `description` prop to BaseLayout.**
 

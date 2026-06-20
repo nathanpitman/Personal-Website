@@ -1,6 +1,6 @@
 ---
 import rawCSS from '../styles/main.css?raw';
-const { title, description, activeNav, bodyClass, jsonLd } = Astro.props;
+const { title, description, activeNav, bodyClass, jsonLd, image } = Astro.props;
 const year = new Date().getFullYear();
 ---
 
@@ -24,7 +24,7 @@ const year = new Date().getFullYear();
   <meta property="og:title" content={title} />
   {description && <meta property="og:description" content={description} />}
   <meta property="og:url" content={Astro.url.href} />
-  <meta property="og:image" content={new URL('/avatar.jpg', Astro.site).href} />
+  <meta property="og:image" content={new URL(image || '/avatar.jpg', Astro.site).href} />
   {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
