@@ -17,7 +17,7 @@ Some 20+ years ago, I penned a short post introducing [a series of Q&A-style int
 
 In the rollercoaster that has been the two decades since (the sale of Nine Four, divorce, family separation, becoming a single parent and discovering love and marriage again), I was fortunate enough to have the opportunity to work with a number of those that took part in that initial interview series.
 
-While running Nine Four I collaborated with Darren Miller, Craig Grannell and David Longworth and later, after selling Nine Four in 2015 and returning to the world of full time employment with [one of my largest clients](https://ihasco.co.uk), my paths crossed again with Darren Miller (who eventually joined us as an employee) and Jon Hicks who worked with us on branding.
+While running Nine Four I collaborated with Darren Miller, [Craig Grannell](https://reverttosaved.com) and [David Longworth](https://davidlongworth.com) and later, after selling Nine Four in 2015 and returning to the world of full time employment with [one of my largest clients](https://ihasco.co.uk), my paths crossed again with Darren Miller (who eventually joined us as an employee) and [Jon Hicks](https://hicks.design) who worked with us on branding.
 
 I look back with great fondness on the 10 years where I was self-employed through Nine Four, and I'm incredibly proud to see my old colleague [Paul Cripps](https://paulcripps.com) continue to fly the flag for the brand name that reflected the two numbers on the door of the house I lived in when it all started.
 
