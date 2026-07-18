@@ -25,6 +25,4 @@ And what of the five that I spoke to back in 2005? What happened for them... som
 
 Over the next few weeks and months, I'll share the output here on my blog, and maybe (just maybe— if I can relocate Paul Farnell) we'll revisit [that extra bonus Q&A](/posts/10-questions-for-paul-farnell-going-it-alone/) too.
 
-So, here we go... "Going it Alone Revisited", the same five names, a healthy injection of nostalgia, and some insight on how they view the world today. This time it's seven questions though; ten was definitely too many.
-
-:D
+In the interim, [cast your eyes back over the original series](/posts/going-it-alone/), a flashback to the mid noughties.., the year that YouTube launched, Reddit became a thing and Web 2.0 went mainstream.
