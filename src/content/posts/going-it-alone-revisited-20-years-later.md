@@ -1,7 +1,7 @@
 ---
 title: Going it Alone Revisited - 20 Years Later
 description: >-
-  Looking back on the "Going It Alone" Q&A-style interview series from 20 years ago, I've tracked down the same five self-employed friends for a 2026 follow-up — 7 new questions, two decades of perspective.
+  Looking back on the "Going It Alone" Q&A-style interview series I ran 20+ years ago, I've tracked down the same five self-employed friends for a 2026 follow-up - 7 new questions and a whole two decades of perspective!
 date: '2026-07-18'
 hidden: false
 tags:
