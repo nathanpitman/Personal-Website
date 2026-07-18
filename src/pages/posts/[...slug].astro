@@ -91,6 +91,7 @@ const jsonLd = {
   },
   ...(description && { "description": description }),
   ...(tags.length > 0 && { "keywords": tags.join(', ') }),
+  ...(ogImage && { "image": new URL(ogImage, Astro.site).href }),
 };
 ---
 

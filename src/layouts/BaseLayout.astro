@@ -25,7 +25,7 @@ const year = new Date().getFullYear();
   {description && <meta property="og:description" content={description} />}
   <meta property="og:url" content={Astro.url.href} />
   <meta property="og:image" content={new URL(image || '/avatar.jpg', Astro.site).href} />
-  {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
+  {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd).replace(/</g, '\\u003c')} />}
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link
