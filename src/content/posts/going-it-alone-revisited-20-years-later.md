@@ -3,7 +3,7 @@ title: Going it Alone Revisited - 20 Years Later
 description: >-
   Looking back on the "Going It Alone" Q&A-style interview series from 20 years ago, I've tracked down the same five self-employed friends for a 2026 follow-up — 7 new questions, two decades of perspective.
 date: '2026-06-15'
-hidden: true
+hidden: false
 tags:
   - Employment
   - Interview
@@ -11,9 +11,11 @@ relatedPosts:
   - slug: going-it-alone
 ---
 
-Some 20+ years ago, I penned a short post introducing [a series of Q&A-style interviews with a handful of online friends](/posts/going-it-alone/) who were self-employed. The desire? To peek under the hood of what it took to "Go it Alone" and get some advice from those that had. In the months that followed, I took the leap myself and moved from employed to self-employed, starting [Nine Four](https://ninefour.co.uk) in August 2005 just as my second daughter, Isla, was born.
+Some 20+ years ago, I penned a short post introducing [a series of Q&A-style interviews with a handful of online friends](/posts/going-it-alone/) who were self-employed. The desire? To peek under the hood of what it took to "Go it Alone" and get some advice from those that had. In the months that followed, I left one job, started another, binned that off and took the leap myself, moving from employed to self-employed, starting [Nine Four](https://ninefour.co.uk) in August 2005 just as my second daughter was born.
 
-In the rollercoaster that was the two decades that followed, I was fortunate enough to have the opportunity to work with a number of those that took part in that initial interview series, Darren Miller & Craig Grannell while running Nine Four, and then in the role that followed at [iHasco](https://ihasco.co.uk), my paths crossed again with Darren and Jon Hicks.
+In the rollercoaster that has been the two decades since (the sale of Nine Four, divorce, family separation, becoming a single parent and discovering love and marriage again), I was fortunate enough to have the opportunity to work with a number of those that took part in that initial interview series.
+
+While running Nine Four I collaborated with Darren Miller, Craig Grannell and David Longworth and later, after selling Nine Four in 2015 and returning to the world of full time employment with [one of my largest clients](https://ihasco.co.uk), my paths crossed again with Darren Miller (who eventually joined us as an employee) and Jon Hicks who worked with us on branding.
 
 I look back with great fondness on the 10 years where I was self-employed through Nine Four, and I'm incredibly proud to see my old colleague [Paul Cripps](https://paulcripps.com) continue to fly the flag for the brand name that reflected the two numbers on the door of the house I lived in when it all started.
 
