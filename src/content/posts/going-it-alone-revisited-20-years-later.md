@@ -9,6 +9,8 @@ tags:
   - Interview
 relatedPosts:
   - slug: going-it-alone
+bluesky: 'https://bsky.app/profile/nathanpitman.com/post/3mqwbvc56mc2h'
+mastodon: 'https://mastodon.social/@nathanpitman/116941022887711117'
 ---
 
 Some 20+ years ago, I penned a short post introducing [a series of Q&A-style interviews with a handful of online friends](/posts/going-it-alone/) who were self-employed. The desire? To peek under the hood of what it took to "Go it Alone" and get some advice from those that had. In the months that followed, I left one job, started another, binned that off and took the leap myself, moving from employed to self-employed, starting [Nine Four](https://ninefour.co.uk) in August 2005 just as my second daughter was born.
