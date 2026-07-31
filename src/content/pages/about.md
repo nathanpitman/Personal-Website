@@ -23,7 +23,7 @@ A stint at [TMB Marketing & Communications](https://thinktmb.com/) followed Desi
 
 During this time Nathan became involved with Macromedia as an evangelist, working with the Dreamweaver, Fireworks and Flash software teams as an Alpha tester and developing his own add-ons through their Extensions architecture.
 
-At *Mirashade* Nathan pushed further into programming with Macromedia Director (Lingo!) and became familiar with the LAMP stack — working on in house Content Manegement Systems and building a bespoke Learning Management System from the ground up. After Mirashade, a brief but formative spell as Head of New Media at Bite CP did exactly what it said on the tin: it convinced him it was time to leave and start something of his own.
+At *Mirashade* Nathan pushed further into programming with Macromedia Director (Lingo!) and became familiar with the LAMP stack — working on in house Content Manegement Systems and building a bespoke Learning Management System from the ground up (for a fledgling software business that would later become iHasco). After Mirashade, a brief but formative spell as Head of New Media at Bite CP did exactly what it said on the tin: it convinced him it was time to leave and start something of his own.
 
 In 2005 Nathan founded [Nine Four Ltd](https://ninefour.co.uk), a small boutique digital media agency he established, ran and eventually sold after nearly a decade. The agency took on projects ranging from complex web platforms to brand identity, and it was through Nine Four that Nathan first became involved with [iHasco](https://ihasco.co.uk) — a workplace eLearning business that would go on to define the next chapter of his career.
 
