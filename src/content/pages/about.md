@@ -12,6 +12,11 @@ He studied Three Dimensional Design at The *Berkshire College of Art & Design* i
 
 His first professional break came at a small local print agency in Reading called *ODB*, where he was quickly thrown in at the deep end when the company landed the contract to produce the [Virgin Global Challenger](https://en.wikipedia.org/wiki/Virgin_Global_Challenger) [website](https://web.archive.org/web/20050305083433/http://www.challenger.virgin.net/browser_nf.htm) — the official digital home of Branson's solo round-the-world balloon attempt. It was very early days for the internet, Content Management Systems were not a thing, Internet Explorer 6 had just launched and Nathan found himself responsible for building, maintaining and evolving a site that attracted millions of visits.
 
+<figure class="about-image">
+  <img src="/images/nathan-odb-1998.jpg" alt="Nathan circa 1998 working at ODB where he found his passion for digital media and the web" />
+  <figcaption>Nathan circa 1998 working at ODB where he found his passion for digital media and the web</figcaption>
+</figure>
+
 Over the following years ODB (later rebranded '*Designation*') became a well regarded creative solutions provider, producing interactive work for clients such as De La Rue, Nortel, Agfa and Yellow Pages. One of Nathan's lasting memories from his time with Designation was the design and development of the [Cubeez](https://en.wikipedia.org/wiki/Cubeez) website, built entirely in Macromedia Flash, it was truly groundbreaking and went on to receive positive industry acclaim for its thoughtful, child-centred design.
 
 A stint at [TMB Marketing & Communications](https://thinktmb.com/) followed Designation, this sharpened Nathan's motion design skills through tools like Macromedia Flash and Adobe After Effects and exposed him to IDEs such as Macromedia Dreamweaver and server side programming using Classic ASP.

@@ -729,6 +729,19 @@ a:hover         { color: #0000ee; }
   display: block;
 }
 
+.about-image img {
+  display: block;
+  width: 100%;
+}
+
+.about-image figcaption {
+  margin-top: 8px;
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  font-style: italic;
+  color: var(--text-mid);
+}
+
 
 /* -----------------------------------------------------------------------------
    SIDEBAR — shared wrapper and block styles
