@@ -14,7 +14,7 @@ His first professional break came at a small local print agency in Reading calle
 
 <figure class="about-image">
   <img src="/images/nathan-odb-1998.jpg" alt="Nathan circa 1998 working at ODB where he found his passion for digital media and the web" />
-  <figcaption>Nathan circa 1998 working at ODB where he found his passion for digital media and the web</figcaption>
+  <figcaption>Nathan circa 1998 working at ODB where he affirmed his passion for "making things" with digital media.</figcaption>
 </figure>
 
 Over the following years ODB (later rebranded '*Designation*') became a well regarded creative solutions provider, producing interactive work for clients such as De La Rue, Nortel, Agfa and Yellow Pages. One of Nathan's lasting memories from his time with Designation was the design and development of the [Cubeez](https://en.wikipedia.org/wiki/Cubeez) website, built entirely in Macromedia Flash, it was truly groundbreaking and went on to receive positive industry acclaim for its thoughtful, child-centred design.
