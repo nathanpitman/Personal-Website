@@ -1103,7 +1103,8 @@ a:hover         { color: #0000ee; }
     padding-left: 0;
   }
 
-  .post-body img {
+  .post-body img,
+  .about-image {
     margin-left: 0;
     width: 100%;
   }
