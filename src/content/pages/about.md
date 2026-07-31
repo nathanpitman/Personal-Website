@@ -14,7 +14,7 @@ His first professional break came at a small local print agency in Reading calle
 
 <figure class="about-image">
   <img src="/images/nathan-odb-1998.jpg" alt="Nathan pictured at the ODB/Designation office in Reading, UK on the 27th of January 2000" />
-  <figcaption>27th January 2000: Nathan pictured at the ODB/Designation loft room office in Reading, where he affirmed his passion for "making things" with digital media. PDQ2U was a 00's web startup through which you could order takeaway deliveries from a range of local restuarants to your door.</figcaption>
+  <figcaption>27/01/2000: Nathan pictured at the ODB/Designation office in Reading, where he affirmed his passion for "making things" with digital media. PDQ2U was a 00's web startup through which you could order a takeaway from a range of local restuarants, to be delivered to your door.</figcaption>
 </figure>
 
 Over the following years ODB (later rebranded '*Designation*') became a well regarded creative solutions provider, producing interactive work for clients such as De La Rue, Nortel, Agfa and Yellow Pages. One of Nathan's lasting memories from his time with Designation was the design and development of the [Cubeez](https://en.wikipedia.org/wiki/Cubeez) website, built entirely in Macromedia Flash, it was truly groundbreaking and went on to receive positive industry acclaim for its thoughtful, child-centred design.
