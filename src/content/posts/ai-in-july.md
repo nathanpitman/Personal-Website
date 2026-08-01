@@ -3,35 +3,41 @@ title: AI in July
 date: 2026-08-01
 description: >-
   Kicking off a monthly log of what I'm actually doing with AI, at work and
-  at home — not the hype, just the stuff I've built, broken, and learned.
-  First up: a conversational training tutor, lead enrichment without awkward
-  form fields, a web player for animations trapped on 90s floppy disks, and
-  turning a CRO audit into a redesigned page in hours instead of weeks.
+  at home. All the things I've built, broken, and learned. In July: a conversational training tutor,
+  a lead enrichment API, a web player for animations trapped on 90s floppy disks, and turning a CRO
+  audit into a set of redesigned web pages in hours instead of weeks.
 tags:
   - AI
   - Making things
 hidden: true
 ---
 
-I've decided to start keeping a monthly log of what I'm actually doing with AI — at work and at home. Not the hype, just the stuff I've built, broken, and learned. Here's July.
+I've decided to start keeping a monthly log of what I'm actually doing with AI, both at work and at home. All the things I've built, broken, and learned. Here's July's.
 
 ## Lerares: a conversational tutor for workplace training
 
-Built at an SLT session in Amsterdam (hence the name), Lerares is a proof of concept for repurposing training content we already own the IP for — turning static courses into a conversational experience that moves the learner through probing, teaching, and checking understanding, rather than just clicking "next."
+Kicked off in a Senior Leadership Team AI hackathon session in Amsterdam (hence the name), Lerares is a proof of concept for repurposing our training content at iHasco — turning static courses into a conversational experience for learners that adapts to what they know, teaches the parts they're missing in plain English and judges understanding before confirming compliance. I've also been working to expand this to include trimmed clips of relevant video from the underlying courses. We're testing this with a select group of clients and learners and I'm super excited to see how this lands.
 
-The build itself was the easy part. The real learning came from our engineering team, who walked me through observability using Langfuse — watching how a conversation actually flows through a model, where it drifts, and how you'd catch that in production rather than just hoping for the best.
+The build itself has been pretty easy as the engineering team have been able to support me with JSON structured content from our course library. One key learning here for me has been integrating tools like Langfuse into the architecture so we can observe how the LLM interprets learner input and where it might be drifting from the content we've fed it and the guardrails we've established. While very early versions of this "worked", even with AI the devil is in the details, particularly in the to establish deterministic outcomes where you need to be able to confidently prove you've assessed someones understanding of a compliance topic.
 
 ## Enricher: lead enrichment without the awkward form fields
 
-We needed a way to enrich leads after form submission — FTE count, financial status, industry sector — without adding more fields to the form asking people for a Companies House number they'll never look up.
+We needed a way to validate some of the lead data attributes we see coming from our marketing website lead forms. Initially this started as a one off script built with Claude Code to ingest, review and enrich prospect submitted data to understand if we're down-weighting particular leads.
 
-Turns out Claude handles this alarmingly well. It validates the email domain, scrapes the site's footer, about, and contact pages for signals (company number, registered address, that sort of thing), then does a fuzzy lookup against the Companies House API to confirm and fill in the gaps.
+While this is still very manual, it's evolved into an addressable API which we could embed into our lead form submission process, enriching leads on the fly rather than ad-hoc post acquisition. Right now this uses the companies house API to do a fuzzy match on company name and pull back FTE count, financial status and industry sector - mitigating the need to ask prospects to complete these fields on the website.
 
-We're currently using it to review and validate lead data weekly before flipping it into a live enrichment step in the capture flow itself.
+Claude handled this alarmingly well. It built a script that validates the email domain, scrapes the site's footer, about, and contact pages for signals (company number, registered address, that sort of thing), then does a fuzzy lookup against the Companies House API to confirm and fill in the gaps.
+
+The pain point right now is processing time, this need serious optimisation to make it work for anything other than ad-hoc or long running automations that back fill data post acquisition, the goal is to have this run fast enough that it could execute in the flow of a form submission.
 
 ## A web player for animations trapped on 3.5" floppy disks since the 90s
 
-I've got 21 backups of animations from the 90s that I've only ever been able to play back through VLC. Before they get lost in the next computer upgrade, I wanted them a proper, permanent home.
+I've got 21 folders on my hard drive which are each a snapshot of a 3.5" floppy disk from the 90's. I'm not sure how I've managed to persist these between device changes over the years but I have! While from time to time I've trawled through these with a copy of VLC I've had no way to share these with my parents.
+
+
+
+
+of  of animations from the 90s that I've somehow managed to persist between many only ever been able to play back through VLC. Before they get lost in the next computer upgrade, I wanted them a proper, permanent home.
 
 With Claude, I built a web player that reads ANM, FLC, and other ancient formats directly in the browser. It's a rough build for now — turning it into a proper permanent artefact is on the list.
 
