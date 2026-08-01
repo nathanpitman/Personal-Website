@@ -32,14 +32,11 @@ The pain point right now is processing time, this need serious optimisation to m
 
 ## A web player for animations trapped on 3.5" floppy disks since the 90s
 
-I've got 21 folders on my hard drive which are each a snapshot of a 3.5" floppy disk from the 90's. I'm not sure how I've managed to persist these between device changes over the years but I have! While from time to time I've trawled through these with a copy of VLC I've had no way to share these with my parents.
+I've got 21 folders on my hard drive which are each a snapshot of a 3.5" floppy disk from the 90's. I'm not sure how I've managed to persist these between device changes over the years but I have! These disk backups contain a collection of animations created with DeluxePaint (ANM), AutoDesk Animator (FLI/FLC), and Show Partner F/X (GX2/SPS).
 
+While from time to time I've trawled through these and managed to get a few playing with VLC, I've not seen the Show Partner F/X animations for decades and I really wanted to give them a proper permanent home through which I could also share them with my parents and my sister.
 
-
-
-of  of animations from the 90s that I've somehow managed to persist between many only ever been able to play back through VLC. Before they get lost in the next computer upgrade, I wanted them a proper, permanent home.
-
-With Claude, I built a web player that reads ANM, FLC, and other ancient formats directly in the browser. It's a rough build for now — turning it into a proper permanent artefact is on the list.
+This was a challenge I didn't actually expect Claude Code to succeed with, but with some sample files in hand it blew through this, creating a static, dependency-free web page that lets me play these back. The one single issue I came up against was a misalignment on the colour palettes for Deluxe Paint Animation files, but giving Claude a comparison screenshot of an animation from VLC fixed that in one shot.
 
 ## From CRO audit to redesigned page, in hours not weeks
 
@@ -57,4 +54,4 @@ Converted iHASCO's ICPs into a Claude skill that gets invoked automatically in a
 
 ---
 
-*More next month.*
+*More next month!*
