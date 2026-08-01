@@ -48,7 +48,7 @@ I've got 21 folders on my hard drive which are each a snapshot of a 3.5" floppy 
 
 While from time to time I've trawled through these and managed to get a few animations playing through VLC, I've not seen the Show Partner F/X animations for decades and I really wanted to give all of these animations from my childhood a proper permanent home through which I could also share them with my family.
 
-This was a challenge I didn't actually expect Claude Code to succeed with, but with some sample files in hand it blew through the task, creating a static, dependency-free web page that lets me play these back in any browser with no plug-ins. The one single issue I came up against was a misalignment of colour palettes from Deluxe Paint Animation files, but giving Claude a comparison screenshot from VLC fixed that in one shot.
+This was a challenge I didn't actually expect Claude Code to succeed with, but with some sample files in hand it blew through the task, creating [a static, dependency-free web page that lets me play these back in any browser with no plug-ins](https://nathanpitman.github.io/Old-Animation/). The one single issue I came up against was a misalignment of colour palettes from Deluxe Paint Animation files, but giving Claude a comparison screenshot from VLC fixed that in one shot.
 
 ## From CRO audit to redesigned page, in hours not weeks
 
