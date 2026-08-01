@@ -34,7 +34,7 @@ The build so far has been pretty easy as the engineering team have been able to 
 
 One key learning here for me has been integrating tools like Langfuse into the architecture, so we can observe how the LLM interprets learner input and where it might be drifting from the content we've grounded it in and the guardrails we've established. While very early versions of this "worked", even with AI the devil is in the details, particularly in the need to establish deterministic outcomes where you want to be able to confidently prove you've assessed someones understanding.
 
-## Enricher: lead enrichment without the awkward form fields
+## Enricher: turning three form fields into a full company profile
 
 At iHasco we needed a way to validate some of the prospect data attributes we see coming from our marketing website lead forms. Initially this started as a one off script built with Claude Code to ingest, review and enrich prospect data to understand if we're under representing the value of particular leads.
 
@@ -65,7 +65,5 @@ I don't recall how I stumbled across this, on YouTube I think... [Matt Pocock's 
 ## Turning our ICPs into a Claude skill
 
 On the subject of skills. We've got a set of ICPs for iHasco which are documented in a PowerPoint. I've been thinking about how we bring these to life in the business and make sure they're "in the room" when we're discussing product, marketing or commercial changes. Then it suddenly occurred to me... make them a skill! These skills now get invoked automatically in any Claude conversation our team is having - so the people we're building for are always considered.
-
----
 
 *More next month!*
