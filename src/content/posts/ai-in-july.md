@@ -48,7 +48,7 @@ I've got 21 folders on my hard drive which are each a snapshot of a 3.5" floppy 
 
 While from time to time I've trawled through these and managed to get a few animations playing through VLC, I've not seen the Show Partner F/X animations for decades and I really wanted to give all of these animations from my childhood a proper permanent home through which I could also share them with my family.
 
-This was a challenge I didn't actually expect Claude Code to succeed with, but with some sample files in hand it blew through the task, creating [a static, dependency-free web page that lets me play these back in any browser with no plug-ins](https://nathanpitman.github.io/Old-Animation/). The one single issue I came up against was a misalignment of colour palettes from Deluxe Paint Animation files, but giving Claude a comparison screenshot from VLC fixed that in one shot.
+This was a challenge I didn't actually expect Claude Code to succeed with, but with some sample files in hand it blew through the task, creating a static, dependency-free web page that lets me [play these back in any browser with no plug-ins](https://nathanpitman.github.io/Old-Animation/). The one single issue I came up against was a misalignment of colour palettes from Deluxe Paint Animation files, but giving Claude a comparison screenshot from VLC fixed that in one shot.
 
 ## From CRO audit to redesigned page, in hours not weeks
 
@@ -60,7 +60,7 @@ This one genuinely blows my mind. Add in that you can go straight from Claude De
 
 ## Matt Pocock's AI skills
 
-I don't recall how I stumbled across this, on YouTube I think... [Matt Pocock's AI skills repository](https://github.com/mattpocock/skills) and his [YouTube channel]() are absolutely essential viewing if you're figuring out how to  work best with tools like Claude Code. The videos are really well produced and presented and the same goes for the skills. My favourites so far: **grill me**, **tickets**, **domain modelling**, and **improve codebase architecture**.
+I don't recall how I stumbled across this, on YouTube I think... [Matt Pocock's AI skills repository](https://github.com/mattpocock/skills) and his [YouTube channel](https://www.youtube.com/@mattpocockuk) are absolutely essential viewing if you're figuring out how to  work best with tools like Claude Code. The videos are really well produced and presented and the same goes for the skills. My favourites so far: **grill me**, **tickets**, **domain modelling**, and **improve codebase architecture**.
 
 ## Turning our ICPs into a Claude skill
 
