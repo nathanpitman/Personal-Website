@@ -1,14 +1,27 @@
 ---
 title: AI in July
-date: 2026-07-31
+date: '2026-07-31'
 description: >-
-  Kicking off a monthly log of what I'm actually doing with AI, at work and
-  at home. All the things I've built, broken, and learned. In July: a conversational training tutor,
-  a lead enrichment API, a web player for animations trapped on 90s floppy disks, and turning a CRO
-  audit into a set of redesigned web pages in hours instead of weeks.
+  Kicking off a monthly log of what I'm actually doing with AI, at work and at
+  home. All the things I've built, broken, and learned. In July: a
+  conversational training tutor, a lead enrichment API, a web player for
+  animations trapped on 90s floppy disks, and turning a CRO audit into a set of
+  redesigned web pages in hours instead of weeks.
 tags:
   - AI
   - Making things
+relatedPosts:
+  - slug: rediscovering-making-things
+    source: generated
+  - slug: introducing-fedi-follow-catch
+    source: generated
+  - slug: scratching-an-itch-to-build-a-game
+    source: generated
+  - slug: energy-economy-in-open-transport-tycoon-deluxe
+    source: generated
+  - slug: >-
+      back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark
+    source: generated
 ---
 
 I've decided to start keeping a monthly log of what I'm actually doing with AI, both at work and at home. All the things I've built, broken, and learned. Here's July's.
