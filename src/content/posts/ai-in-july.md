@@ -24,7 +24,7 @@ relatedPosts:
     source: generated
 ---
 
-I've decided to start keeping a monthly log of what I'm actually doing with AI, both at work and at home. All the things I've built, broken, and learned. Here's July's.
+I've decided to start keeping a monthly log of what I'm actually doing with AI, both at work and at home. All the things I've built, broken, and learned. Here's July.
 
 ## Lerares: a conversational tutor for workplace training
 
