@@ -22,6 +22,8 @@ relatedPosts:
   - slug: >-
       back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark
     source: generated
+bluesky: 'https://bsky.app/profile/nathanpitman.com/post/3ms2i675mw222'
+mastodon: 'https://mastodon.social/@nathanpitman/117022527928012140'
 ---
 
 I've decided to start keeping a monthly log of what I'm actually doing with AI, both at work and at home. All the things I've built, broken, and learned. Here's July.
