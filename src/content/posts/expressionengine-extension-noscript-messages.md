@@ -29,6 +29,6 @@ I wanted to ‘do the right thing’ and ‘hacked’ an alternative as document
 
 I kept a note of my hack and when I had to upgrade this particular install to the latest point release I set about re-implementing it. At this point [Derek Jones](http://derekderekderek.com/) helpfully pointed out that I could create an ExpressionEngine Extension to do the same job, negating the need to ‘re-implement’ the hack again and again. Thanks for the prod in the right direction Derek! Here’s my first ExpressionEngine Extension – ‘NoScript Messages’.
 
-> **Download:** [ext.noscript\_messages.php.zip](/web/20090520003125/http://nathanpitman.com/files/ext.noscript_messages.php.zip)
+> **Download:** [ext.noscript\_messages.php.zip](https://web.archive.org/web/20090520003125/http://nathanpitman.com/files/ext.noscript_messages.php.zip)
 
 Obviously let me know in the comments if you have any thoughts on how this can be improved. Enjoy!

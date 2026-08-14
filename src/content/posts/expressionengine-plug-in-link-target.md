@@ -37,6 +37,6 @@ The ‘Link Target’ plug-in just helps to keep your template code clean by wri
 
 By default you have to specify a ‘url’ and ‘target’ parameter and the plug-in also optionally accepts a link ‘title’ and ‘class’. Possible ‘type’ values are ‘top’ and ‘blank’. Each mimic the link target attributes ‘\_top’ and ‘\_blank’ respectively.
 
-> **Download:** [pi.np\_linktarget.php.zip](/web/20090614184927/http://nathanpitman.com/files/pi.np_linktarget.php.zip)
+> **Download:** [pi.np\_linktarget.php.zip](https://web.archive.org/web/20090614184927/http://nathanpitman.com/files/pi.np_linktarget.php.zip)
 
 Obviously let me know in the comments if you have any thoughts on how this can be improved. Enjoy!

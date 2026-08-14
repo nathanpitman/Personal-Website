@@ -33,6 +33,6 @@ The ‘Encode/Decode’ plug-in takes any string of text and encodes or decodes 
 
 The plug-in offers ‘base64’ and ‘url’ encoding and decoding but it would be easy to add more options. For me base64 seems to work best.
 
-> **Download:** [pi.np\_encodedecode.php.zip](/web/20090718143450/http://nathanpitman.com/files/pi.np_encodedecode.php.zip)
+> **Download:** [pi.np\_encodedecode.php.zip](https://web.archive.org/web/20090718143450/http://nathanpitman.com/files/pi.np_encodedecode.php.zip)
 
 Obviously let me know in the comments if you have any thoughts on how this can be improved. Enjoy!
