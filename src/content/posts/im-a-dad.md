@@ -26,9 +26,9 @@ After 9 months to the day our daughter ‘Neve Michelle Pitman’ arrived today.
 
 I’ve only just got back from the hospital, but couldn’t resist a post to proud about her. I have numerous photos but for tonight here are a small selection that I have put together.
 
-- [Neve and her Mummy](/web/20100102212307/http://nathanpitman.com/images/uploads/6.jpg)
-- [Little hands](/web/20100102212307/http://nathanpitman.com/images/uploads/7.jpg)
-- [Tired little madam](/web/20100102212307/http://nathanpitman.com/images/uploads/8.jpg)
+- [Neve and her Mummy](https://web.archive.org/web/20100102212307/http://nathanpitman.com/images/uploads/6.jpg)
+- [Little hands](https://web.archive.org/web/20100102212307/http://nathanpitman.com/images/uploads/7.jpg)
+- [Tired little madam](https://web.archive.org/web/20100102212307/http://nathanpitman.com/images/uploads/8.jpg)
 
 Many more photos to follow!
 

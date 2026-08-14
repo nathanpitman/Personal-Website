@@ -87,7 +87,13 @@ const jsonLd = {
   "author": {
     "@type": "Person",
     "@id": "https://nathanpitman.com/#person",
-    "name": "Nathan Pitman"
+    "name": "Nathan Pitman",
+    "sameAs": [
+      "https://www.linkedin.com/in/nathanpitman/",
+      "https://github.com/nathanpitman",
+      "https://bsky.app/profile/nathanpitman.com",
+      "https://mastodon.social/@nathanpitman"
+    ]
   },
   ...(description && { "description": description }),
   ...(tags.length > 0 && { "keywords": tags.join(', ') }),

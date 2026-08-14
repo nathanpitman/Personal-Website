@@ -26,6 +26,7 @@ export default defineConfig({
         if (pathname.startsWith('/category/')) return false;
         if (/^\/posts\/\d{4}-\d{2}-\d{2}-/.test(pathname)) return false;
         if (/^\/\d+\/[^/]+\//.test(pathname)) return false;
+        if (/^\/journal\/\d+\/[^/]+\//.test(pathname)) return false;
         return true;
       },
     }),
