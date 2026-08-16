@@ -32,6 +32,7 @@ npm run dev
 - [Development guide](docs/development.md) — setup, project structure, deployment, dependencies
 - [Content guide](docs/content.md) — post format, frontmatter fields, images, tags, scripts
 - [Recovery & design](docs/recovery.md) — how the blog was recovered, design decisions, typography
+- [Voice & style guide](docs/voice-style-guide.md) — tone, writing style, and lexicon reference for AI-assisted drafting
 
 ## External
 
