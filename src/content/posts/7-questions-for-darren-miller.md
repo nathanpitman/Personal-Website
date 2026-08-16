@@ -1,7 +1,8 @@
 ---
 title: 7 Questions for Darren Miller (Going it Alone Revisited)
 description: >-
-  Placeholder.
+  22 years on, Darren Miller answers 7 new questions on going it alone, AI,
+  COVID, and what he'd tell someone starting out today.
 date: '2026-06-14'
 hidden: true
 tags:
@@ -9,9 +10,9 @@ tags:
   - Interview
 ---
 
-Some 22 years ago Darren Miller was kind enough to take part in a short interview series that I ran on my blog. In the time that has come since Darren and I were fortunate enough to work together, both in a self employed capacity (on a number of interesting porjects) and as employees at iHasco, where we both helped shape the platform that would carry the business towards acquisition in 2020.
+Some 22 years ago Darren Miller was kind enough to take part in a short interview series that I ran on my blog. In the time that has come since Darren and I were fortunate enough to work together, both in a self employed capacity (on a number of interesting projects) and as employees at iHasco, where we both helped shape the platform that would carry the business towards acquisition in 2020.
 
-Looking back on the 10 questions which I posed to Darren and other participants in 2004, I thought it would be fun to revisit this series and see what, if anything had changed for him, how he reflects on the time that has passed since and what advice he'd offer today on "Going it Alone". I talk more about this...
+Looking back on the 10 questions which I posed to Darren and other participants in 2004, I thought it would be fun to revisit this series and see what, if anything had changed for him, how he reflects on the time that has passed since and what advice he'd offer today on "Going it Alone".
 
 ## In hindsight
 
