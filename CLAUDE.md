@@ -33,6 +33,10 @@ tags:
 - `hidden: true` excludes a post from all listings without deleting it
 - `tags` defaults to `[]` — posts without tags are valid and do not break the build
 
+### Drafting new post content
+
+**Read `docs/voice-style-guide.md` before drafting or editing any post body copy.** It documents Nathan's actual voice, pace, and structure (median post length, punctuation habits, contractions, British spelling, recurring phrases, a lexicon, and explicit anti-patterns) derived from the pre-2026 archive. New posts — and edits to existing ones — should read like they belong in that corpus, not like generic AI blog prose. In particular: keep posts short by default (most are well under 200 words), avoid heavy em-dash use and tidy summarizing conclusions, and don't add headers/bullet lists unless the piece is genuinely multi-part.
+
 ## Automated Scripts — Don't Duplicate Manually
 
 - **Image resize**: `scripts/resize-images.mjs` runs automatically as the `predev`/`prebuild` npm hook. Resizes images >800px wide in `public/images/` in-place. Skips GIFs. Never manually resize images — the hook handles it.
@@ -145,3 +149,4 @@ The close animation uses `fill: 'forwards'` + a `setTimeout` (animation duration
 | `scripts/submit-indexnow.mjs` | Submits new/changed post URLs to IndexNow after deploy |
 | `.github/workflows/deploy.yml` | GitHub Actions deploy to GitHub Pages + IndexNow notification |
 | `public/llms.txt` | AI system discovery file (llms.txt standard) |
+| `docs/voice-style-guide.md` | Voice/tone/lexicon reference — read before drafting or editing post copy |
