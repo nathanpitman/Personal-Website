@@ -25,6 +25,6 @@ Having recently [resurrected my old blog](/posts/back-from-the-dead-resurrecting
 
 And what of the five that I spoke to back in 2005? What happened for them... some of it I know, but not all, and I'm intrigued to find out how they would reflect on the Q&A interview from 2005, and where work and life took them in the intervening period.
 
-Over the next few weeks and months, I'll share the output here on my blog, and maybe (just maybe— if I can relocate Paul Farnell) we'll revisit [that extra bonus Q&A](/posts/10-questions-for-paul-farnell-going-it-alone/) too.
+Over the next few weeks and months, I'll share the output here on my blog, and maybe (just maybe, if I can relocate Paul Farnell) we'll revisit [that extra bonus Q&A](/posts/10-questions-for-paul-farnell-going-it-alone/) too.
 
 In the interim, [cast your eyes back over the original series](/posts/going-it-alone/), a flashback to the mid noughties.., the year that YouTube launched, Reddit became a thing and Web 2.0 went mainstream.

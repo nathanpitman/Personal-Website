@@ -24,7 +24,7 @@ bluesky: 'https://bsky.app/profile/nathanpitman.com/post/3mopt7hvrnc24'
 mastodon: 'https://mastodon.social/@nathanpitman/116782362380542586'
 ---
 
-I've got two separate social graphs right now — one on <a href="https://bsky.app">Bluesky</a>, one on <a href="https://mastodon.social">Mastodon</a> — and no real sense of how much they overlap. I follow people on one who I probably also want to follow on the other, but I had no way of seeing the gap. So I asked <a href="https://claude.ai/referral/SXnxTTUikA">Claude Code</a> to help me figure out a way to actually see it: compare both follow lists and surface who I was missing on each side.
+I've got two separate social graphs right now — one on [Bluesky](https://bsky.app), one on [Mastodon](https://mastodon.social) — and no real sense of how much they overlap. I follow people on one who I probably also want to follow on the other, but I had no way of seeing the gap. So I asked [Claude Code](https://claude.ai/referral/SXnxTTUikA) to help me figure out a way to actually see it: compare both follow lists and surface who I was missing on each side.
 
 ![fedi_follow_catch_cropped.png](../../assets/posts/introducing-fedi-follow-catch/fedi-follow-catch-cropped-54584a79b5.png)
 
@@ -54,4 +54,4 @@ I handed the artwork to Claude with a prompt asking it to soften the initial dar
 
 ## Try it
 
-You can try <a href="https://nathanpitman.github.io/Fedi-Follow-Catch/">Fedi Follow Catch</a> yourself, it's hosted on my Github account. and if you want to check the no-backend claim for yourself, feel free to <a href="https://github.com/nathanpitman/Fedi-Follow-Catch">dig into the code</a>. If you're active on both Bluesky and Mastodon and have never quite known how much your two follow lists overlap, hopefully you'll find this helpful.
+You can try [Fedi Follow Catch](https://nathanpitman.github.io/Fedi-Follow-Catch/) yourself, it's hosted on my GitHub account, and if you want to check the no-backend claim for yourself, feel free to [dig into the code](https://github.com/nathanpitman/Fedi-Follow-Catch). If you're active on both Bluesky and Mastodon and have never quite known how much your two follow lists overlap, hopefully you'll find this helpful.

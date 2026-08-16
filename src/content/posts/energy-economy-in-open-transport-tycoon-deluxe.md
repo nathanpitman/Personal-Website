@@ -8,7 +8,6 @@ tags:
   - Gaming
   - Making things
   - AI
-slug: new-energy-economy-in-open-transport-tycoon-deluxe
 relatedPosts:
   - slug: scratching-an-itch-to-build-a-game
     source: generated
@@ -27,9 +26,9 @@ mastodon: 'https://mastodon.social/@nathanpitman/116767590133678532'
 
 [OpenTTD](https://www.openttd.org) is a game I've come back to over and over again (for decades!). There's something deeply satisfying about its pace, the logic, building things, watching the towns grow, optimising travel routes for efficiency - I love it!
 
-Something that's always nothered me though, is how as the game clock ticks through the decades and the world changes with it but the energy economy remains entirely static. The coal mine feeds the coal power station, the coal power station sits there forever, and meanwhile the game transitions from Steam trains to Maglevs ([Robert Llewellyn](https://bsky.app/profile/did:plc:icpcewckffb4arhmydvyovun) would be properly upset too).
+Something that's always bothered me though, is how as the game clock ticks through the decades and the world changes with it but the energy economy remains entirely static. The coal mine feeds the coal power station, the coal power station sits there forever, and meanwhile the game transitions from Steam trains to Maglevs ([Robert Llewellyn](https://bsky.app/profile/did:plc:icpcewckffb4arhmydvyovun) would be properly upset too).
 
-This bothered me so much that I decided to dust off a Claude chat session and build something to make this right. Now this is absolutely not finished.., in fact the gaping chasm is the graphics... a pixel artist I am not so youll find some pretty ropey efforts from Claude in there. But it works! Maybe at some point I can find someone generous enough to contribute some wonderful in game artwork.
+This bothered me so much that I decided to dust off a Claude chat session and build something to make this right. Now this is absolutely not finished.., in fact the gaping chasm is the graphics... a pixel artist I am not so you'll find some pretty ropey efforts from Claude in there. But it works! Maybe at some point I can find someone generous enough to contribute some wonderful in game artwork.
 
 ![The Energy Transition Industries NewGRF Settings Screen](../../assets/posts/energy-economy-in-open-transport-tycoon-deluxe/energy-transition-industries-open-ttd-5ac8fc0f00.png)
 

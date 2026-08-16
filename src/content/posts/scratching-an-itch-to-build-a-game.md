@@ -1,5 +1,4 @@
 ---
-slug: scratching-the-itch-to-build-a-game
 title: Scratching the itch to build a game
 date: '2026-04-11'
 description: >-
@@ -42,11 +41,11 @@ I can't remember exactly how the Sierra "Quest" games came into our house (proba
 
 I played through the Sierra games as quickly as my dad could source them; King's Quest, Police Quest, Leisure Suit Larry (which I definitely wasn't old enough for!).
 
-Getting to the point of all this... last year I picked up and consumed every single page of [Ken Williams memoir](https://www.amazon.com/dp/1716727367) and the desire to explore adventure games was rekindled. I'd also been fiddling around with [Replit](https://replit.com/refer/nathanpitman) at work and across a number of personal projects ([one of them being to resurect this website](/posts/back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark/)), it occured to me that I could probably build my own text adventure game.
+Getting to the point of all this... last year I picked up and consumed every single page of [Ken Williams memoir](https://www.amazon.com/dp/1716727367) and the desire to explore adventure games was rekindled. I'd also been fiddling around with [Replit](https://replit.com/refer/nathanpitman) at work and across a number of personal projects ([one of them being to resurrect this website](/posts/back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark/)), it occurred to me that I could probably build my own text adventure game.
 
 Now, while I do enjoy penning words from time to time, I'm certainly no storyteller - so I decided it might be fun to riff off an existing story or an existing game.
 
-This led me down a bit of a rabbit hole, I definitley wasn't ready to embark upon creating a graphical adventure, but maybe I could create a modern mobile friendly interpretation of an old text adventure. A bit of searching and I stumbled across the story and lore that is [Colossal Cave Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure), released a year before I was born and iterated and evolved so much over so many decades that it's now considered one of the most influential video games ever created.
+This led me down a bit of a rabbit hole, I definitely wasn't ready to embark upon creating a graphical adventure, but maybe I could create a modern mobile friendly interpretation of an old text adventure. A bit of searching and I stumbled across the story and lore that is [Colossal Cave Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure), released a year before I was born and iterated and evolved so much over so many decades that it's now considered one of the most influential video games ever created.
 
 This was a great base to start from as the original FORTRAN code had been [repackaged and released under an open source license](https://gitlab.com/esr/open-adventure) back in 2017.
 
@@ -54,9 +53,9 @@ This was a great base to start from as the original FORTRAN code had been [repac
 
 Being the somewhat rusty developer I am, I started fooling around pretty quickly using Replit to parse the original story YAML file to build a POC and establish the basis of the user interface. I had a lot of fun and probably burnt more tokens that I needed to, in retrospect I should have spent some time riffing off how to approach this with ChatGPT or Claude to establish a structured plan.
 
-Finding a few hours here and there during evenings and over weekends I managed to get what felt like a playable intepretation of the game up and running, deployed to Github pages and with some fun additions like [an improved natural language parser](https://github.com/nathanpitman/CanonicalCaveAdventure/tree/Main?tab=readme-ov-file#forgiving-text-parser-nlp).
+Finding a few hours here and there during evenings and over weekends I managed to get what felt like a playable interpretation of the game up and running, deployed to Github pages and with some fun additions like [an improved natural language parser](https://github.com/nathanpitman/CanonicalCaveAdventure/tree/Main?tab=readme-ov-file#forgiving-text-parser-nlp).
 
-I've definitley ran faster at this than I should have, as I've started to play through the game, shortcomings in logic and navigation paths have revealed themselves and much like the developers back in the 70's I'd not taken a "Test Driven Development" approach. Backing a game into tests after the fact... not fun. :D
+I've definitely run faster at this than I should have, as I've started to play through the game, shortcomings in logic and navigation paths have revealed themselves and much like the developers back in the 70's I'd not taken a "Test Driven Development" approach. Backing a game into tests after the fact... not fun. :D
 
 But here's the thing which is likely familiar to anyone who's ever started a side project without a proper plan - I've enjoyed myself and that's all that matters!
 
@@ -64,7 +63,7 @@ I've loved fettling the user interface, taking the problem of a format born in t
 
 The thing I keep coming back to is that this project has been a really pure example of following what interests you. It started as "I want to build a game", evolved into "actually I want to adapt a game", shifted again into "I'm not really interested in the story at all, I'm interested in the interface", and has ended up somewhere I'm genuinely happy with.
 
-Is it finished? Definitley not. Will it ever be? Probably not! But it's playable, it's live, and it was made entirely on iOS using Replit.
+Is it finished? Definitely not. Will it ever be? Probably not! But it's playable, it's live, and it was made entirely on iOS using Replit.
 
 You can play it at [nathanpitman.github.io/CanonicalCaveAdventure](https://nathanpitman.github.io/CanonicalCaveAdventure/) or dig into the code at [github.com/nathanpitman/CanonicalCaveAdventure](https://github.com/nathanpitman/CanonicalCaveAdventure)
 
