@@ -43,7 +43,7 @@ Built a skill that captures relevant iHASCO product knowledge and our commercial
 
 ## "I'm Done Using AI"
 
-Kottke [shared a link on Bluesky](https://bsky.app/profile/kottke.org/post/3msvuil6o7l26) to a post on brettcodes.com titled *I'm Done Using AI*:
+Kottke [shared a link on Bluesky](https://bsky.app/profile/kottke.org/post/3msvuil6o7l26) to [I'm Done Using AI](https://brettcodes.com/im-done-using-ai/) on brettcodes.com:
 
 > "It made me lazy. It made me stop caring. It made me a worse programmer. It made me depressed. Because I stopped doing the hard work, I stopped learning, I stopped growing, I stopped being the one making the software."
 
