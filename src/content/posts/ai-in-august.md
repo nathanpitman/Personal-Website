@@ -1,0 +1,64 @@
+---
+title: AI in August
+date: '2026-08-31'
+description: >-
+  Month two of the AI log. In August: an outreach tool for stalled onboarding
+  clients, a genuinely tricky tutor bug fixed, auditing SEO keywords against
+  our ICPs, a contract-review skill, a proof-of-concept blog for AEO, and a
+  reply to "I'm Done Using AI" that I should probably turn into its own post.
+tags:
+  - AI
+  - Making things
+---
+
+Month two of the log. July was mostly Lerares and Enricher — August was busier and more scattered across the business. Here's what I got up to.
+
+## Ember: reigniting stalled onboarding clients
+
+I've been supporting our Client Success Director in building Ember, a tool that pulls data out of Planhat (the client success platform we run on) to spot clients who've stalled in onboarding and nudge them back into motion over email and WhatsApp.
+
+This one started life as a static UI demo knocked together in a hackathon. I fed that output into Claude Code and used it to turn a rough demo into an actual phase 1 plan, a roadmap for what comes after, and a map of the dependencies we'd need to untangle to ship it. Going from "here's a screen someone mocked up" to something resembling a project plan in an afternoon still isn't something I'm used to.
+
+## Lerares: bug squashing and a genuinely tricky "stuck" bug
+
+Ahead of some wider internal learner testing I squashed a decent pile of bugs in Lerares, added a way to capture in-the-moment feedback on a bad tutor response (a simple thumbs down), and embedded a course completion survey so learners can tell us how the conversational format felt versus a linear, static training session.
+
+The one I'm properly pleased with is a bug where the tutor could get "stuck" treating a learner as difficult, even after they'd re-engaged normally following a tricky moment in the conversation. Genuinely fiddly to track down, the kind of thing where the model's behaviour looks fine in isolation and only goes wrong a few turns later.
+
+I also spent more time on observability: tracking whether a session hits a safety-critical wrong answer, making it easier to see how much of a course got covered and which video clips were actually shown, and an export script that pulls all of that out for offline analysis in Claude once testing wraps up.
+
+## Auditing SEO/PPC keywords against our ICPs
+
+Spent some time in Claude chat auditing our PPC and SEO keywords against our ICPs and where we want the business to go, looking for gaps across our campaigns and in on-site content on the marketing site. It turned up a decent number of opportunities we weren't targeting and helped sharpen the on-page copy on a few landing pages.
+
+There are some genuinely leading-edge SEO agencies leaning on this kind of tooling to get real depth on site visibility now, and I can see AI input becoming table stakes for the sector pretty quickly.
+
+## SigHQ: a proof of concept for AEO
+
+A personal side project, a standalone blog for an imaginary brand, built to see how far regular, structured content gets you towards SEO and AEO visibility. Nothing revenue generating, just me poking at the same question I've been asking about this site.
+
+## A contract negotiation skill
+
+Built a skill that captures relevant iHASCO product knowledge and our commercial position on various topics, to help with a first pass review of legal documents from prospects. It's been genuinely useful, rapidly pulling out the key points (legalese stripped out) that actually need discussing internally between me, our commercial director, and legal counsel, rather than everyone wading through the whole document first.
+
+## "I'm Done Using AI"
+
+Kottke [shared a link on Bluesky](https://bsky.app/profile/kottke.org/post/3msvuil6o7l26) to [I'm Done Using AI](https://brettcodes.com/im-done-using-ai/) on brettcodes.com:
+
+> "It made me lazy. It made me stop caring. It made me a worse programmer. It made me depressed. Because I stopped doing the hard work, I stopped learning, I stopped growing, I stopped being the one making the software."
+
+I left a comment:
+
+> Interesting. Have we ever seen a shift in web development that's driven such a wild divide?
+>
+> As a one time designer/developer who hadn't written a line of code for half a decade, I feel very differently. I should probably write about that on my blog.
+
+I probably should. Consider that a threat for next month.
+
+## A few smaller things
+
+- Ran an SEO/AEO audit on nathanpitman.com, this blog, to see how it holds up against the same standard I'm applying at work.
+- We'd inherited some old SCORM packages with the source files long gone, and needed to bump the SCORM version. Rather than rebuild from scratch, we just threw Claude at it.
+- Used Claude to assemble the inputs from a project and surface the gaps between what actually got submitted by each workstream and the original brief, as a first draft review before a human looks at it properly.
+
+*More next month!*
