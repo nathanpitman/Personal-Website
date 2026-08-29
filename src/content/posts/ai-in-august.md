@@ -3,12 +3,23 @@ title: AI in August
 date: '2026-08-31'
 description: >-
   Month two of the AI log. In August: an outreach tool for stalled onboarding
-  clients, a genuinely tricky tutor bug fixed, auditing SEO keywords against
-  our ICPs, a contract-review skill, a proof-of-concept blog for AEO, and a
-  reply to "I'm Done Using AI" that I should probably turn into its own post.
+  clients, a genuinely tricky tutor bug fixed, auditing SEO keywords against our
+  ICPs, a contract-review skill, a proof-of-concept blog for AEO, and a reply to
+  "I'm Done Using AI" that I should probably turn into its own post.
 tags:
   - AI
   - Making things
+relatedPosts:
+  - slug: ai-in-july
+    source: generated
+  - slug: rediscovering-making-things
+    source: generated
+  - slug: introducing-fedi-follow-catch
+    source: generated
+  - slug: scratching-an-itch-to-build-a-game
+    source: generated
+  - slug: energy-economy-in-open-transport-tycoon-deluxe
+    source: generated
 ---
 
 Month two of the log. July was mostly Lerares and Enricher — August was busier and more scattered across the business. Here's what I got up to.
