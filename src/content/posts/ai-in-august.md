@@ -44,10 +44,6 @@ I spent some time in Claude chat auditing our PPC and SEO keywords against our I
 
 There are some genuinely leading-edge SEO agencies leaning on this kind of tooling to get real depth on site visibility now, and I can see AI input becoming table stakes for the sector pretty quickly.
 
-## SigHQ: a proof of concept for AEO
-
-A personal side project, a standalone blog for an imaginary brand, built to see how far regular, structured content gets you towards SEO and AEO visibility. Nothing revenue generating, just me poking at the same question I've been asking about this site.
-
 ## A contract negotiation skill
 
 Built a skill that captures relevant iHASCO product knowledge and our commercial position on various topics, to help with a first pass review of legal documents from prospects. It's been genuinely useful, rapidly pulling out the key points (legalese stripped out) that actually need discussing internally between me, our commercial director, and legal counsel, rather than everyone wading through the whole document first.
