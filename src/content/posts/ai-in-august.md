@@ -2,9 +2,9 @@
 title: AI in August
 date: '2026-08-31'
 description: >-
-  Month two of the AI log. In August: an outreach tool for stalled onboarding
-  clients, a genuinely tricky tutor bug fixed, auditing SEO keywords against our
-  ICPs, a contract-review skill, a proof-of-concept blog for AEO, and a reply to
+  Month two of my AI log. In August: an outreach tool for stalled onboarding
+  clients, a genuinely tricky AI tutor bug fixed, auditing SEO keywords against our
+  ICPs, a contract-review skill, and a reply to
   "I'm Done Using AI" that I should probably turn into its own post.
 tags:
   - AI
@@ -22,25 +22,25 @@ relatedPosts:
     source: generated
 ---
 
-Month two of the log. July was mostly Lerares and Enricher — August was busier and more scattered across the business. Here's what I got up to.
+Month two of my AI log. July was mostly Lerares and Enricher but August was busier and more scattered across the business. Here's what I got up to.
 
 ## Ember: reigniting stalled onboarding clients
 
 I've been supporting our Client Success Director in building Ember, a tool that pulls data out of Planhat (the client success platform we run on) to spot clients who've stalled in onboarding and nudge them back into motion over email and WhatsApp.
 
-This one started life as a static UI demo knocked together in a hackathon. I fed that output into Claude Code and used it to turn a rough demo into an actual phase 1 plan, a roadmap for what comes after, and a map of the dependencies we'd need to untangle to ship it. Going from "here's a screen someone mocked up" to something resembling a project plan in an afternoon still isn't something I'm used to.
+This one started life as a static UI demo that our CSD knocked together in a hackathon with HG. I fed the output into Claude Code and used it to turn a rough demo into an actual phase 1 plan, a roadmap for what comes after, and a map of the dependencies we'd need to untangle to ship it. Going from "here's a screen someone mocked up" to something resembling a project plan in an afternoon is still pretty intoxicating.
 
 ## Lerares: bug squashing and a genuinely tricky "stuck" bug
 
-Ahead of some wider internal learner testing I squashed a decent pile of bugs in Lerares, added a way to capture in-the-moment feedback on a bad tutor response (a simple thumbs down), and embedded a course completion survey so learners can tell us how the conversational format felt versus a linear, static training session.
+Ahead of some wider internal learner testing at iHasco I squashed a decent pile of bugs in Lerares, added a way to capture in-the-moment feedback on a bad AI tutor response (a simple thumbs down), and embedded a course completion survey so learners can tell us how the conversational format felt versus a linear, static training session.
 
-The one I'm properly pleased with is a bug where the tutor could get "stuck" treating a learner as difficult, even after they'd re-engaged normally following a tricky moment in the conversation. Genuinely fiddly to track down, the kind of thing where the model's behaviour looks fine in isolation and only goes wrong a few turns later.
+The one which took a little more time than others was a bug where the tutor could get "stuck" treating a learner as difficult, even after they'd re-engaged  following a tricky moment in the conversation. Fiddly to track down as the model's behaviour looked fine in isolation and only went south a few turns later.
 
-I also spent more time on observability: tracking whether a session hits a safety-critical wrong answer, making it easier to see how much of a course got covered and which video clips were actually shown, and an export script that pulls all of that out for offline analysis in Claude once testing wraps up.
+I also spent some more time on observability: tracking whether a session hits a safety-critical wrong answer, making it easier to see how much of a course got covered and which video clips were actually shown, and an export script that pulls all of this out for offline analysis in Claude once our internal testing wraps up.
 
 ## Auditing SEO/PPC keywords against our ICPs
 
-Spent some time in Claude chat auditing our PPC and SEO keywords against our ICPs and where we want the business to go, looking for gaps across our campaigns and in on-site content on the marketing site. It turned up a decent number of opportunities we weren't targeting and helped sharpen the on-page copy on a few landing pages.
+I spent some time in Claude chat auditing our PPC and SEO keywords against our ICPs and where we want the business to go, looking for gaps across our campaigns and in on-site content on the marketing site. It turned up a decent number of opportunities we weren't targeting and helped sharpen the on-page copy on a few landing pages.
 
 There are some genuinely leading-edge SEO agencies leaning on this kind of tooling to get real depth on site visibility now, and I can see AI input becoming table stakes for the sector pretty quickly.
 
