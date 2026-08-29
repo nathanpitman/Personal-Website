@@ -2,10 +2,11 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import SidebarArchives from '../components/SidebarArchives.astro';
 import { getCollection } from 'astro:content';
+import { isPublished } from '../utils/published';
 
 const allPosts = await getCollection('posts');
 const sorted = allPosts
-  .filter(post => !post.data.hidden)
+  .filter(isPublished)
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
 
 const monthNames = ['January','February','March','April','May','June','July','August','September','October','November','December'];
