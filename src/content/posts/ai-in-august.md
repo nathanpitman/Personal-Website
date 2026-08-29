@@ -40,13 +40,13 @@ I also spent some more time on observability: tracking whether a session hits a 
 
 ## Auditing SEO/PPC keywords against our ICPs
 
-I spent some time in Claude chat auditing our PPC and SEO keywords against our ICPs and where we want the business to go, looking for gaps across our campaigns and in on-site content on the marketing site. It turned up a decent number of opportunities we weren't targeting and helped sharpen the on-page copy on a few landing pages.
+I spent some time in Claude chat auditing our PPC campaign keywords against our ICPs and where we want the business to go, looking for gaps across our campaigns and in on-site content on our marketing domain. This turned up a decent number of opportunities we weren't targeting and is helping sharpen the on-page copy on a few landing pages.
 
-There are some genuinely leading-edge SEO agencies leaning on this kind of tooling to get real depth on site visibility now, and I can see AI input becoming table stakes for the sector pretty quickly.
+My observation here is that while I can definitley see some  leading-edge PPC and SEO agencies leaning in on this kind of tooling, others aren't and I'm pretty sure AI in PPC and SEO is going to become table stakes for the sector pretty quickly (if not already).
 
 ## A contract negotiation skill
 
-Built a skill that captures relevant iHASCO product knowledge and our commercial position on various topics, to help with a first pass review of legal documents from prospects. It's been genuinely useful, rapidly pulling out the key points (legalese stripped out) that actually need discussing internally between me, our commercial director, and legal counsel, rather than everyone wading through the whole document first.
+After a busy couple of weeks supporting our Sales Director with legal queries attached to larger ACV deals, I decided tk build a Claude skill that captures relevant iHASCO product knowledge and our commercial position on various topics, to help generate a first pass review of legal queries. It's been genuinely useful, rapidly pulling out the key points (legalese stripped out) that actually need discussing internally between me, our commercial director, and legal counsel, rather than everyone wading through the whole document first.
 
 ## "I'm Done Using AI"
 
@@ -65,7 +65,7 @@ I probably should. Consider that a threat for next month.
 ## A few smaller things
 
 - Ran an SEO/AEO audit on nathanpitman.com, this blog, to see how it holds up against the same standard I'm applying at work.
-- We'd inherited some old SCORM packages with the source files long gone, and needed to bump the SCORM version. Rather than rebuild from scratch, we just threw Claude at it.
-- Used Claude to assemble the inputs from a project and surface the gaps between what actually got submitted by each workstream and the original brief, as a first draft review before a human looks at it properly.
+- We'd inherited some old course content SCORM packages through an acquisition we made a few years back where the source files are long gone, and needed to make some copy changes and SCORM output adjustments. Rather than rebuild the course from scratch, we just threw Claude Code at it (it barely flinched).
+- We've been using a Claude Chat shared project to assemble the inputs from a number of workstream leads and surface any gaps between what's being proposed vs the original ask so we can move wuickly and dig into the gaps.
 
 *More next month!*
