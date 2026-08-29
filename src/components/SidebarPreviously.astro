@@ -1,9 +1,10 @@
 ---
 import { getCollection } from 'astro:content';
+import { isPublished } from '../utils/published';
 
 const allPosts = await getCollection('posts');
 const recentPosts = allPosts
-  .filter(post => !post.data.hidden)
+  .filter(isPublished)
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
   .slice(0, 10);
 ---

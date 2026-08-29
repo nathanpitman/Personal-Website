@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { isPublished } from '../utils/published';
 
 interface Props {
   relatedPosts: { slug: string; source: string }[];
@@ -8,7 +9,7 @@ interface Props {
 const { relatedPosts } = Astro.props;
 
 const allPosts = await getCollection('posts');
-const postMap = Object.fromEntries(allPosts.map(p => [p.slug, p]));
+const postMap = Object.fromEntries(allPosts.filter(isPublished).map(p => [p.slug, p]));
 const resolved = relatedPosts.map(r => postMap[r.slug]).filter(Boolean);
 ---
 

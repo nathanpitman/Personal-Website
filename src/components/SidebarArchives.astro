@@ -1,12 +1,13 @@
 ---
 import { getCollection } from 'astro:content';
 import { slugify, displayTag } from '../utils/slugify';
+import { isPublished } from '../utils/published';
 import SiteIdentity from './SiteIdentity.astro';
 
 const allPosts = await getCollection('posts');
 const tagCounts = new Map<string, { name: string; slug: string; count: number }>();
 
-for (const post of allPosts.filter(post => !post.data.hidden)) {
+for (const post of allPosts.filter(isPublished)) {
   for (const tag of post.data.tags) {
     const s = slugify(tag);
     const existing = tagCounts.get(s);

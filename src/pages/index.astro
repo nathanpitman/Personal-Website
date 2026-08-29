@@ -4,11 +4,12 @@ import Sidebar from '../components/Sidebar.astro';
 import PostTags from '../components/PostTags.astro';
 import { getCollection } from 'astro:content';
 import { getDescription } from '../utils/description';
+import { isPublished } from '../utils/published';
 import CommentBubble from '../components/CommentBubble.astro';
 
 const allPosts = await getCollection('posts');
 const posts = allPosts
-  .filter(post => !post.data.hidden)
+  .filter(isPublished)
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
   .slice(0, 10);
 
