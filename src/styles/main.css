@@ -455,6 +455,18 @@ a:hover         { color: #0000ee; }
   font-weight: 600;
 }
 
+/* Inline text-styled trigger for JS actions (e.g. opening search from body copy) */
+.link-button {
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  font: inherit;
+  color: #0000ee;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
 /* Tags + edit-on-GitHub link */
 .post-tags {
   margin-top: 16px;
@@ -722,6 +734,25 @@ a:hover         { color: #0000ee; }
 
 .about-body p:last-child {
   margin-bottom: 0;
+}
+
+/* 404 page — suggested-articles block below the message */
+.notfound-suggestions {
+  margin-top: 8px;
+  padding-top: 24px;
+  border-top: 1px solid var(--border);
+  max-width: 420px;
+}
+
+.notfound-suggestions-title {
+  display: block;
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text);
+  margin-bottom: 10px;
 }
 
 /* Inline image — same offset treatment as post images */

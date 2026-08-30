@@ -1,6 +1,6 @@
 ---
 import rawCSS from '../styles/main.css?raw';
-const { title, description, activeNav, bodyClass, jsonLd, image } = Astro.props;
+const { title, description, activeNav, bodyClass, jsonLd, image, noindex } = Astro.props;
 const year = new Date().getFullYear();
 ---
 
@@ -20,6 +20,7 @@ const year = new Date().getFullYear();
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{title}</title>
   <link rel="canonical" href={Astro.url.href} />
+  {noindex && <meta name="robots" content="noindex, follow" />}
   {description && <meta name="description" content={description} />}
   <meta property="og:title" content={title} />
   {description && <meta property="og:description" content={description} />}
