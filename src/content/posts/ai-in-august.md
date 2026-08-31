@@ -46,7 +46,7 @@ My observation here is that while I can definitley see some  leading-edge PPC an
 
 ## A contract negotiation skill
 
-After a busy couple of weeks supporting our Sales Director with legal queries attached to larger ACV deals, I decided tk build a Claude skill that captures relevant iHASCO product knowledge and our commercial position on various topics, to help generate a first pass review of legal queries. It's been genuinely useful, rapidly pulling out the key points (legalese stripped out) that actually need discussing internally between me, our commercial director, and legal counsel, rather than everyone wading through the whole document first.
+After a busy couple of weeks supporting our new Sales Director with legal queries attached to larger ACV deals, I decided to build a Claude skill that captures relevant iHASCO product knowledge and our commercial position on various topics, to help generate a first pass review of legal queries. It's been genuinely useful, rapidly pulling out the key points (legalese stripped back) that really need focus in a discussion with our  legal counsel.
 
 ## "I'm Done Using AI"
 
@@ -64,8 +64,8 @@ I probably should. Consider that a threat for next month.
 
 ## A few smaller things
 
-- Ran an SEO/AEO audit on nathanpitman.com, this blog, to see how it holds up against the same standard I'm applying at work.
-- We'd inherited some old course content SCORM packages through an acquisition we made a few years back where the source files are long gone, and needed to make some copy changes and SCORM output adjustments. Rather than rebuild the course from scratch, we just threw Claude Code at it (it barely flinched).
-- We've been using a Claude Chat shared project to assemble the inputs from a number of workstream leads and surface any gaps between what's being proposed vs the original ask so we can move wuickly and dig into the gaps.
+- Ran a Claude SEO/AEO audit on nathanpitman.com, this blog, to see how it holds up against the same standard I'm applying at work.
+- We'd inherited some old SCORM packages through an acquisition where the source files are long gone, and needed to make some copy changes and SCORM output adjustments. Rather than rebuild the courses from scratch, we just threw Claude Code at it (it barely flinched).
+- We've been using a Claude Chat  Project to assemble the inputs for a programme of work from a number of workstream leads and surface any gaps between what's being proposed vs the original brief so we can move quickly and dig into the gaps.
 
 *More next month!*
