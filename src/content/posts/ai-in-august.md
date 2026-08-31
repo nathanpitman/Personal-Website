@@ -20,6 +20,8 @@ relatedPosts:
     source: generated
   - slug: energy-economy-in-open-transport-tycoon-deluxe
     source: generated
+bluesky: 'https://bsky.app/profile/nathanpitman.com/post/3muemui55vr7o'
+mastodon: 'https://mastodon.social/@nathanpitman/117189490569530056'
 ---
 
 Month two of my AI log. July was mostly Lerares and Enricher but August was busier and more scattered across the business. Here's what I got up to.
