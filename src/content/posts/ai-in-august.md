@@ -66,6 +66,6 @@ I probably should. Consider that a threat for next month.
 
 - Ran a Claude SEO/AEO audit on nathanpitman.com, this blog, to see how it holds up against the same standard I'm applying at work.
 - We'd inherited some old SCORM packages through an acquisition where the source files are long gone, and needed to make some copy changes and SCORM output adjustments. Rather than rebuild the courses from scratch, we just threw Claude Code at it (it barely flinched).
-- We've been using a Claude Chat  Project to assemble the inputs for a programme of work from a number of workstream leads and surface any gaps between what's being proposed vs the original brief so we can move quickly and dig into the gaps.
+- We've been using a Claude Chat  Project to assemble the inputs for a programme of work from a number of workstream leads and surface any gaps between what's being proposed vs the original brief so we can move quickly and dig into what's missing.
 
 *More next month!*
