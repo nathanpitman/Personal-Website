@@ -42,7 +42,7 @@ I also spent some more time on observability: tracking whether a session hits a 
 
 I spent some time in Claude chat auditing our PPC campaign keywords against our ICPs and where we want the business to go, looking for gaps across our campaigns and in on-site content on our marketing domain. This turned up a decent number of opportunities we weren't targeting and is helping sharpen the on-page copy on a few landing pages.
 
-My observation here is that while I can definitley see some  leading-edge PPC and SEO agencies leaning in on this kind of tooling, others aren't and I'm pretty sure AI in PPC and SEO is going to become table stakes for the sector pretty quickly (if not already).
+My observation here is that while I can definitley see some  leading-edge PPC and SEO agencies leaning in on this kind of tooling, others aren't and I'm pretty sure AI driven audit and analysis in PPC and SEO is going to become table stakes for the sector pretty quickly (if not already).
 
 ## A contract negotiation skill
 
