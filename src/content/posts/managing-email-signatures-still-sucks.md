@@ -24,7 +24,7 @@ bluesky: 'https://bsky.app/profile/nathanpitman.com/post/3mmgdjtnqms2u'
 mastodon: 'https://mastodon.social/@nathanpitman/116772939932155000'
 ---
 
-Back in December 2009, [I wrote three sentences about email signatures](https://nathanpitman.com/posts/email-signatures). The gist was: every email client handles signatures differently, rolling them out across a business was a pain, and surely someone could fix this with a URL schema and a bit of server-side logic right?
+Back in December 2009, [I wrote three sentences about email signatures](https://nathanpitman.com/posts/email-signatures/). The gist was: every email client handles signatures differently, rolling them out across a business was a pain, and surely someone could fix this with a URL schema and a bit of server-side logic right?
 
 I was running Nine Four at the time, I’d probably just been through the ritual of building an HTML email signature template for a client and aside from wrestling with Outlook’s horrendous rendering engine, I was probably also realising what a pain it was going to be for my client to roll this out in a reliable way.
 

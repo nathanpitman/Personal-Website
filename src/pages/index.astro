@@ -33,7 +33,7 @@ const jsonLd = {
       "@type": "Person",
       "@id": "https://nathanpitman.com/#person",
       "name": "Nathan Pitman",
-      "url": "https://nathanpitman.com/about",
+      "url": "https://nathanpitman.com/about/",
       "jobTitle": "Managing Director",
       "worksFor": {
         "@type": "Organization",
@@ -65,11 +65,11 @@ const jsonLd = {
           <article class="post">
             <header class="post-header">
               <div class="post-title-line">
-                <h2 class="post-title"><a href={`/posts/${slug}`}>{post.data.title}</a></h2>
+                <h2 class="post-title"><a href={`/posts/${slug}/`}>{post.data.title}</a></h2>
                 <span class="post-date-wrap">
                   <span class="post-date">{formatDate(post.data.date)}</span>
                   <CommentBubble
-                    href={`/posts/${slug}#comments`}
+                    href={`/posts/${slug}/#comments`}
                     blueskyUrl={post.data.bluesky}
                     mastodonUrl={post.data.mastodon}
                   />
@@ -78,7 +78,7 @@ const jsonLd = {
             </header>
             <div class="post-body">
               <p>{description}</p>
-              <p><a class="read-more" href={`/posts/${slug}`}>Read more &rarr;</a></p>
+              <p><a class="read-more" href={`/posts/${slug}/`}>Read more &rarr;</a></p>
             </div>
             <PostTags tags={post.data.tags ?? []} />
           </article>
@@ -86,7 +86,7 @@ const jsonLd = {
       })}
 
       <nav class="pagination" aria-label="Pagination">
-        <a href="/archives" class="pagination-link">View all posts in the archives &rarr;</a>
+        <a href="/archives/" class="pagination-link">View all posts in the archives &rarr;</a>
       </nav>
 
     </main>

@@ -22,7 +22,7 @@ relatedPosts:
     source: generated
 ---
 
-Way back in December last year when it was ‘neat-n-trendy’ to post wish lists, I composed [my own for 2005](https://nathanpitman.com/posts/my-2005-wish-list). I thought I’d run an update for each wish that comes true.
+Way back in December last year when it was ‘neat-n-trendy’ to post wish lists, I composed [my own for 2005](https://nathanpitman.com/posts/my-2005-wish-list/). I thought I’d run an update for each wish that comes true.
 
 **I wish that in 2005:**
 

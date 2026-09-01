@@ -24,7 +24,7 @@ bluesky: 'https://bsky.app/profile/nathanpitman.com/post/3moad5kduak23'
 mastodon: 'https://mastodon.social/@nathanpitman/116772945428465672'
 ---
 
-I still remember walking back to a summer work placement from a local supermarket in 1993 with the first issue of [Edge magazine](/posts/edge) in hand. In fact, I still have that very magazine, and many, many issues that succeeded it! That makes the ongoing saga of [Tim Langdell](https://en.wikipedia.org/wiki/Edge_Games) feel particularly personal.
+I still remember walking back to a summer work placement from a local supermarket in 1993 with the first issue of [Edge magazine](/posts/edge/) in hand. In fact, I still have that very magazine, and many, many issues that succeeded it! That makes the ongoing saga of [Tim Langdell](https://en.wikipedia.org/wiki/Edge_Games) feel particularly personal.
 
 Langdell has spent decades threatening legal action against anyone using the word "edge" near video games, most infamously having Mobigame's [brilliant iOS platformer EDGE](https://apps.apple.com/gb/app/edge/id300896018) pulled from the App Store back in 2009. However, by 2013, his trademarks were cancelled after he tried to take on Electronic Arts (and for once, they were the gaming industry’s good guys).
 

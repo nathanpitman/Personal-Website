@@ -35,6 +35,6 @@ Well, it’s time to clear out the drafts, but before I delete them all for good
 
 > [Drew](http://www.allinthehead.com/) beat me to the punch; writing up a nice article about [Auto Selecting navigation](http://24ways.org/advent/auto-selecting-navigation) for [24 ways](http://24ways.org/). A trick he tought me at Mirashade and one which I like to refer to as **The neatest CSS trick in the book**.
 
-> [Setting up my LAMP server – Part 1](https://nathanpitman.com/posts/setting-up-a-lamp-server-part-1), well I wrote that some time back, I started writing **Setting up my LAMP server, Part 2** but got bored. Sorry guys, maybe next year.
+> [Setting up my LAMP server – Part 1](https://nathanpitman.com/posts/setting-up-a-lamp-server-part-1/), well I wrote that some time back, I started writing **Setting up my LAMP server, Part 2** but got bored. Sorry guys, maybe next year.
 
 Well, this will probably be my last post now until the new year, I’m taking next week off to spend some quality time with [the family](http://www.flickr.com/photos/nathanpitman/sets/259321/) before getting stuck into 2006. See you all on the other side. Have a good one. :)

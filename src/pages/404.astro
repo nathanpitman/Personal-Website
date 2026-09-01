@@ -3,22 +3,19 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { parseSourceId } from '../utils/routing';
 import { isPublished } from '../utils/published';
-import { slugify } from '../utils/slugify';
 
 const posts = await getCollection('posts');
 const idMap: Record<string, string> = {};
-const tagSlugs = new Set<string>();
 
 for (const post of posts) {
   if (!isPublished(post)) continue;
   const id = parseSourceId(post.data.source);
-  if (id) idMap[id] = post.slug;
-  for (const tag of post.data.tags ?? []) tagSlugs.add(slugify(tag));
+  if (!id) continue;
+  idMap[id] = post.slug;
 }
 
 const idMapJson = JSON.stringify(idMap);
 const slugSetJson = JSON.stringify(posts.filter(isPublished).map(p => p.slug));
-const tagSlugSetJson = JSON.stringify(Array.from(tagSlugs));
 
 // Baseline suggestions, available with no JS: most recent posts. The client
 // script below swaps this for URL-derived Pagefind results when it can.
@@ -31,7 +28,7 @@ const jsonLd = {
   "@context": "https://schema.org",
   "@type": "WebPage",
   "name": "Page not found",
-  "url": new URL(Astro.url.pathname.replace(/\.html$/, ''), Astro.url).href,
+  "url": Astro.url.href,
 };
 ---
 
@@ -47,14 +44,14 @@ const jsonLd = {
       <div class="about-body">
         <p>The page you've requested doesn't exist, or may have moved. Try
           <button type="button" id="notfound-search-btn" class="link-button">searching</button>
-          or <a href="/archives">browse the archives</a> to find what you're looking for.</p>
+          or <a href="/archives/">browse the archives</a> to find what you're looking for.</p>
       </div>
 
       <div class="notfound-suggestions" data-pagefind-ignore>
         <span class="notfound-suggestions-title" id="notfound-suggestions-title">Recent posts</span>
         <ul class="sidebar-list" id="notfound-suggestions-list">
           {recentPosts.map(post => (
-            <li><a href={`/posts/${post.slug}`}>{post.data.title}</a></li>
+            <li><a href={`/posts/${post.slug}/`}>{post.data.title}</a></li>
           ))}
         </ul>
       </div>
@@ -62,55 +59,32 @@ const jsonLd = {
   </div>
 </BaseLayout>
 
-<script define:vars={{ idMapJson, slugSetJson, tagSlugSetJson }}>
+<script define:vars={{ idMapJson, slugSetJson }}>
   (function () {
     const map = JSON.parse(idMapJson);
-    const pathname = window.location.pathname;
 
     // Handle PHP-era URLs: /blog/index.php?id=NNN
     const params = new URLSearchParams(window.location.search);
     const id = params.get('id');
     if (id && map[id]) {
-      window.location.replace('/posts/' + map[id]);
+      window.location.replace('/posts/' + map[id] + '/');
       return;
     }
 
     // Handle /journal/{id}/{slug} legacy paths
-    const journalMatch = pathname.match(/^\/journal\/(\d+)\//);
+    const journalMatch = window.location.pathname.match(/^\/journal\/(\d+)\//);
     if (journalMatch && map[journalMatch[1]]) {
-      window.location.replace('/posts/' + map[journalMatch[1]]);
+      window.location.replace('/posts/' + map[journalMatch[1]] + '/');
       return;
     }
 
     // Handle /posts/YYYY-MM-DD-{slug} where the date doesn't match the post's frontmatter date
-    const dateSlugMatch = pathname.match(/^\/posts\/\d{4}-\d{2}-\d{2}-(.+?)\/?$/);
+    const dateSlugMatch = window.location.pathname.match(/^\/posts\/\d{4}-\d{2}-\d{2}-(.+?)\/?$/);
     if (dateSlugMatch) {
       const remainder = dateSlugMatch[1];
       const knownSlugs = new Set(JSON.parse(slugSetJson));
       if (knownSlugs.has(remainder)) {
-        window.location.replace('/posts/' + remainder);
-        return;
-      }
-    }
-
-    // The site dropped trailing slashes from its canonical URLs. Anything
-    // bookmarked or indexed from before that (/about/, /posts/slug/, etc.)
-    // 404s here now — send it on to the slash-less equivalent if it's a
-    // real page.
-    if (pathname.length > 1 && pathname.endsWith('/')) {
-      const stripped = pathname.slice(0, -1);
-      if (stripped === '/about' || stripped === '/archives') {
-        window.location.replace(stripped);
-        return;
-      }
-      const segments = stripped.slice(1).split('/');
-      if (segments.length === 2) {
-        const [section, value] = segments;
-        if (section === 'posts' && new Set(JSON.parse(slugSetJson)).has(value)) {
-          window.location.replace(stripped);
-        } else if (section === 'tag' && new Set(JSON.parse(tagSlugSetJson)).has(value)) {
-          window.location.replace(stripped);
-        }
+        window.location.replace('/posts/' + remainder + '/');
       }
     }
   })();

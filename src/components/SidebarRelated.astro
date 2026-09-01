@@ -20,7 +20,7 @@ const resolved = relatedPosts.map(r => postMap[r.slug]).filter(Boolean);
     </div>
     <ul class="sidebar-list">
       {resolved.map(post => (
-        <li><a href={`/posts/${post.slug}`}>{post.data.title}</a></li>
+        <li><a href={`/posts/${post.slug}/`}>{post.data.title}</a></li>
       ))}
     </ul>
   </div>

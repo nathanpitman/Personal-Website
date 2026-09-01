@@ -5,10 +5,6 @@ import pagefind from 'astro-pagefind';
 export default defineConfig({
   site: 'https://nathanpitman.com',
   output: 'static',
-  trailingSlash: 'never',
-  build: {
-    format: 'file',
-  },
   legacy: {
     collections: true,
   },
@@ -29,8 +25,8 @@ export default defineConfig({
         const { pathname } = new URL(page);
         if (pathname.startsWith('/category/')) return false;
         if (/^\/posts\/\d{4}-\d{2}-\d{2}-/.test(pathname)) return false;
-        if (/^\/\d+\/[^/]+$/.test(pathname)) return false;
-        if (/^\/journal\/\d+\/[^/]+$/.test(pathname)) return false;
+        if (/^\/\d+\/[^/]+\//.test(pathname)) return false;
+        if (/^\/journal\/\d+\/[^/]+\//.test(pathname)) return false;
         return true;
       },
     }),

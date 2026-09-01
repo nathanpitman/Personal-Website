@@ -17,7 +17,7 @@ export async function getStaticPaths() {
 
     paths.push({
       params: { id, postSlug: legacySlug },
-      props: { redirectTo: `/posts/${post.slug}` },
+      props: { redirectTo: `/posts/${post.slug}/` },
     });
   }
 

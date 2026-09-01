@@ -16,8 +16,8 @@ export async function GET(context: any) {
     description: 'Journal entries from nathanpitman.com',
     icon: `${siteUrl}/avatar.jpg`,
     items: sorted.slice(0, 20).map(post => ({
-      id: `${siteUrl}/posts/${post.slug}`,
-      url: `${siteUrl}/posts/${post.slug}`,
+      id: `${siteUrl}/posts/${post.slug}/`,
+      url: `${siteUrl}/posts/${post.slug}/`,
       title: post.data.title,
       summary: getDescription(post),
       date_published: post.data.date.toISOString(),

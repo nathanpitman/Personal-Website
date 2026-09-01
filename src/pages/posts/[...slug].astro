@@ -50,7 +50,7 @@ export async function getStaticPaths() {
     const dd = String(d.getDate()).padStart(2, '0');
     return {
       params: { slug: `${yyyy}-${mm}-${dd}-${post.slug}` },
-      props: { post, redirectTo: `/posts/${post.slug}` },
+      props: { post, redirectTo: `/posts/${post.slug}/` },
     };
   });
 
@@ -84,7 +84,7 @@ const jsonLd = {
   "@type": "BlogPosting",
   "headline": post.data.title,
   "datePublished": post.data.date.toISOString(),
-  "url": new URL(`/posts/${post.slug}`, Astro.site).href,
+  "url": new URL(`/posts/${post.slug}/`, Astro.site).href,
   "author": {
     "@type": "Person",
     "@id": "https://nathanpitman.com/#person",

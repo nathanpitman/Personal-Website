@@ -49,7 +49,7 @@ const jsonLd = {
   "@context": "https://schema.org",
   "@type": "CollectionPage",
   "name": `Posts tagged '${displayTag(tagName)}'`,
-  "url": new URL(`/tag/${tagSlug}`, Astro.site).href,
+  "url": new URL(`/tag/${tagSlug}/`, Astro.site).href,
   "description": `Browse ${posts.length} posts tagged '${displayTag(tagName)}' in Nathan Pitman's personal journal.`,
   "mainEntity": {
     "@type": "ItemList",
@@ -72,11 +72,11 @@ const jsonLd = {
           <article class="post">
             <header class="post-header">
               <div class="post-title-line">
-                <h2 class="post-title"><a href={`/posts/${slug}`}>{post.data.title}</a></h2>
+                <h2 class="post-title"><a href={`/posts/${slug}/`}>{post.data.title}</a></h2>
                 <span class="post-date-wrap">
                   <span class="post-date">{formatDate(post.data.date)}</span>
                   <CommentBubble
-                    href={`/posts/${slug}#comments`}
+                    href={`/posts/${slug}/#comments`}
                     blueskyUrl={post.data.bluesky}
                     mastodonUrl={post.data.mastodon}
                   />
@@ -85,7 +85,7 @@ const jsonLd = {
             </header>
             <div class="post-body">
               <p>{description}</p>
-              <p><a class="read-more" href={`/posts/${slug}`}>Read more &rarr;</a></p>
+              <p><a class="read-more" href={`/posts/${slug}/`}>Read more &rarr;</a></p>
             </div>
             <PostTags tags={getPostTags(post)} />
           </article>
