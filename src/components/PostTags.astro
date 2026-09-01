@@ -16,7 +16,7 @@ const hasExtra = Astro.slots.has('default');
     {hasTags && (
       <>
         {prefix}{' '}{tags.map((tag: string, i: number) => (
-          <><a href={`/tag/${slugify(tag)}`}>{displayTag(tag)}</a>{i < tags.length - 1 ? ', ' : ''}</>
+          <><a href={`/tag/${slugify(tag)}/`}>{displayTag(tag)}</a>{i < tags.length - 1 ? ', ' : ''}</>
         ))}
         {hasExtra && ' · '}
       </>

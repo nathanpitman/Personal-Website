@@ -44,14 +44,14 @@ const jsonLd = {
       <div class="about-body">
         <p>The page you've requested doesn't exist, or may have moved. Try
           <button type="button" id="notfound-search-btn" class="link-button">searching</button>
-          or <a href="/archives">browse the archives</a> to find what you're looking for.</p>
+          or <a href="/archives/">browse the archives</a> to find what you're looking for.</p>
       </div>
 
       <div class="notfound-suggestions" data-pagefind-ignore>
         <span class="notfound-suggestions-title" id="notfound-suggestions-title">Recent posts</span>
         <ul class="sidebar-list" id="notfound-suggestions-list">
           {recentPosts.map(post => (
-            <li><a href={`/posts/${post.slug}`}>{post.data.title}</a></li>
+            <li><a href={`/posts/${post.slug}/`}>{post.data.title}</a></li>
           ))}
         </ul>
       </div>

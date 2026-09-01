@@ -41,7 +41,7 @@ for (const post of sorted) {
     currentYear.months.push(currentMonth);
   }
 
-  currentMonth.posts.push({ title: post.data.title, url: `/posts/${slug}` });
+  currentMonth.posts.push({ title: post.data.title, url: `/posts/${slug}/` });
 }
 
 const jsonLd = {

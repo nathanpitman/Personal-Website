@@ -35,7 +35,7 @@ const sortedTags = Array.from(tagCounts.values()).sort((a, b) =>
     <ul class="sidebar-list">
       {sortedTags.map(tag => (
         <li data-tag={tag.slug}>
-          <a href={`/tag/${tag.slug}`}>{displayTag(tag.name)} ({tag.count})</a>
+          <a href={`/tag/${tag.slug}/`}>{displayTag(tag.name)} ({tag.count})</a>
         </li>
       ))}
     </ul>

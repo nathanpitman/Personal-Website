@@ -23,7 +23,7 @@ relatedPosts:
     source: generated
 ---
 
-Finally I get around to posting my final ’10 questions’ for web designers and developers who are self employed (Sorry for the delay, [new arrivals](https://nathanpitman.com/posts/im-a-dad-again) do throw a spanner in the works). This time I ‘metaphorically’ sat down for a chat with [John Oxton](http://www.joshuaink.com/). John is a web developer based in the Cotswolds. Well known for his use of the ‘F’ word, he’s really a jolly nice chap. On with the questions!
+Finally I get around to posting my final ’10 questions’ for web designers and developers who are self employed (Sorry for the delay, [new arrivals](https://nathanpitman.com/posts/im-a-dad-again/) do throw a spanner in the works). This time I ‘metaphorically’ sat down for a chat with [John Oxton](http://www.joshuaink.com/). John is a web developer based in the Cotswolds. Well known for his use of the ‘F’ word, he’s really a jolly nice chap. On with the questions!
 
 ### Why
 

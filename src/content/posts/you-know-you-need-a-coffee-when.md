@@ -26,4 +26,4 @@ You know you need a coffee when…
 
 You’ve been reviewing the effects of your change at the wrong URL.
 
-**Slap!** I’m putting 3 spoonfulls of sugar in this one, might wake me up a bit. And yes, I did stop [giving up cofee](https://nathanpitman.com/posts/giving-up-coffee).
+**Slap!** I’m putting 3 spoonfulls of sugar in this one, might wake me up a bit. And yes, I did stop [giving up cofee](https://nathanpitman.com/posts/giving-up-coffee/).

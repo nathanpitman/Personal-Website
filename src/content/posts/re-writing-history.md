@@ -24,7 +24,7 @@ relatedPosts:
     source: generated
 ---
 
-Tackling [this re-design](https://nathanpitman.com/posts/re-design-step-3-er-start-again) has prompted me to consider dropping some of the older less valuable posts from the site, many of these originate from the days when I used a totally different domain name and had a tatty little hand written CMS cooked up with ASP and Microsoft Access (urgh!).
+Tackling [this re-design](https://nathanpitman.com/posts/re-design-step-3-er-start-again/) has prompted me to consider dropping some of the older less valuable posts from the site, many of these originate from the days when I used a totally different domain name and had a tatty little hand written CMS cooked up with ASP and Microsoft Access (urgh!).
 
 For some bizarre reason I thought it’d make total sense to manually import all my old blog entries when I started out with [Textpattern](http://www.textpattern.com/). I guess I felt as though I needed to maintain the information for the good of my readers (er…?) but looking back at my [old posts](http://nathanpitman.com/archives/2002/03) they just totally suck. I mean I couldn’t write a half decent blog post if my life had depended on it… come to think of it, is this post any better? No, actually.. don’t answer that question.
 
