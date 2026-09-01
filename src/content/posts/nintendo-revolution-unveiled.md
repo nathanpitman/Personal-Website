@@ -23,7 +23,7 @@ relatedPosts:
     source: generated
 ---
 
-What a week, first we had the [Xbox 360](https://nathanpitman.com/posts/xbox-360-unveiled-rumours-of-early-ps3-launch/), then the [PlayStation 3](https://nathanpitman.com/posts/sony-playstation-3-unveiled/), and now the Nintendo Revolution. Well I think without doubt the Nintendo wins on aesthetics.
+What a week, first we had the [Xbox 360](https://nathanpitman.com/posts/xbox-360-unveiled-rumours-of-early-ps3-launch), then the [PlayStation 3](https://nathanpitman.com/posts/sony-playstation-3-unveiled), and now the Nintendo Revolution. Well I think without doubt the Nintendo wins on aesthetics.
 
 ![Nintendo Revolution... mmm... super sexy.](/images/98.jpg "Nintendo Revolution... mmm... super sexy.")
 

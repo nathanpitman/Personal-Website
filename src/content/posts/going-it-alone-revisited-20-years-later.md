@@ -13,7 +13,7 @@ bluesky: 'https://bsky.app/profile/nathanpitman.com/post/3mqwbvc56mc2h'
 mastodon: 'https://mastodon.social/@nathanpitman/116941022887711117'
 ---
 
-Some 20+ years ago, I penned a short post introducing [a series of Q&A-style interviews with a handful of online friends](/posts/going-it-alone/) who were self-employed. The desire? To peek under the hood of what it took to "Go it Alone" and get some advice from those that had. In the months that followed, I left one job, started another, binned that off and took the leap myself, moving from employed to self-employed, starting [Nine Four](https://ninefour.co.uk) in August 2005 just as my second daughter was born.
+Some 20+ years ago, I penned a short post introducing [a series of Q&A-style interviews with a handful of online friends](/posts/going-it-alone) who were self-employed. The desire? To peek under the hood of what it took to "Go it Alone" and get some advice from those that had. In the months that followed, I left one job, started another, binned that off and took the leap myself, moving from employed to self-employed, starting [Nine Four](https://ninefour.co.uk) in August 2005 just as my second daughter was born.
 
 In the rollercoaster that has been the two decades since (the sale of Nine Four, divorce, family separation, becoming a single parent and discovering love and marriage again), I was fortunate enough to have the opportunity to work with a number of those that took part in that initial interview series.
 
@@ -21,10 +21,10 @@ While running Nine Four I collaborated with Darren Miller, [Craig Grannell](http
 
 I look back with great fondness on the 10 years where I was self-employed through Nine Four, and I'm incredibly proud to see my old colleague [Paul Cripps](https://paulcripps.com) continue to fly the flag for the brand name that reflected the two numbers on the door of the house I lived in when it all started.
 
-Having recently [resurrected my old blog](/posts/back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark/) from the Way Back Machine with a little help from our agentic friends, I've spent a lot of time trawling over old blog posts (it's something of a nostalgic fever dream!), and with more than 10 years of "employee" status now back under my belt - it's probably natural to find myself reflecting on that chapter of my life through a fresh lens.
+Having recently [resurrected my old blog](/posts/back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark) from the Way Back Machine with a little help from our agentic friends, I've spent a lot of time trawling over old blog posts (it's something of a nostalgic fever dream!), and with more than 10 years of "employee" status now back under my belt - it's probably natural to find myself reflecting on that chapter of my life through a fresh lens.
 
 And what of the five that I spoke to back in 2005? What happened for them... some of it I know, but not all, and I'm intrigued to find out how they would reflect on the Q&A interview from 2005, and where work and life took them in the intervening period.
 
-Over the next few weeks and months, I'll share the output here on my blog, and maybe (just maybe, if I can relocate Paul Farnell) we'll revisit [that extra bonus Q&A](/posts/10-questions-for-paul-farnell-going-it-alone/) too.
+Over the next few weeks and months, I'll share the output here on my blog, and maybe (just maybe, if I can relocate Paul Farnell) we'll revisit [that extra bonus Q&A](/posts/10-questions-for-paul-farnell-going-it-alone) too.
 
-In the interim, [cast your eyes back over the original series](/posts/going-it-alone/), a flashback to the mid noughties.., the year that YouTube launched, Reddit became a thing and Web 2.0 went mainstream.
+In the interim, [cast your eyes back over the original series](/posts/going-it-alone), a flashback to the mid noughties.., the year that YouTube launched, Reddit became a thing and Web 2.0 went mainstream.

@@ -14,12 +14,13 @@ export async function GET(context: any) {
     title: 'Nathan Pitman',
     description: 'Journal entries from nathanpitman.com',
     site: context.site,
+    trailingSlash: false,
     customData: `<image><url>${avatarUrl}</url><title>Nathan Pitman</title><link>${siteUrl}</link></image>`,
     items: sorted.slice(0, 20).map(post => ({
       title: post.data.title,
       description: getDescription(post),
       pubDate: post.data.date,
-      link: `/posts/${post.slug}/`,
+      link: `/posts/${post.slug}`,
     })),
   });
 }

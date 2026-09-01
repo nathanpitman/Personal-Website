@@ -2,6 +2,16 @@
 import rawCSS from '../styles/main.css?raw';
 const { title, description, activeNav, bodyClass, jsonLd, image, noindex } = Astro.props;
 const year = new Date().getFullYear();
+
+// Astro's static file-format build writes prerendered pages out as
+// `<route>.html`, and Astro.url reflects that physical filename rather
+// than the clean, slash-less URL the site actually serves (trailingSlash:
+// 'never'). Strip it here so canonical/og:url never advertise a `.html`
+// extension as the real address of the page.
+const canonicalUrl = new URL(
+  Astro.url.pathname.replace(/\.html$/, ''),
+  Astro.url
+).href;
 ---
 
 <!DOCTYPE html>
@@ -19,12 +29,12 @@ const year = new Date().getFullYear();
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{title}</title>
-  <link rel="canonical" href={Astro.url.href} />
+  <link rel="canonical" href={canonicalUrl} />
   {noindex && <meta name="robots" content="noindex, follow" />}
   {description && <meta name="description" content={description} />}
   <meta property="og:title" content={title} />
   {description && <meta property="og:description" content={description} />}
-  <meta property="og:url" content={Astro.url.href} />
+  <meta property="og:url" content={canonicalUrl} />
   <meta property="og:image" content={new URL(image || '/avatar.jpg', Astro.site).href} />
   {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd).replace(/</g, '\\u003c')} />}
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -60,8 +70,8 @@ const year = new Date().getFullYear();
       </a>
       <ul id="nav-menu">
         <li class={activeNav === 'recently'  ? 'active' : ''}><a href="/">recently</a></li>
-        <li class={activeNav === 'archives'  ? 'active' : ''}><a href="/archives/">archives</a></li>
-        <li class={activeNav === 'about'     ? 'active' : ''}><a href="/about/">about/contact</a></li>
+        <li class={activeNav === 'archives'  ? 'active' : ''}><a href="/archives">archives</a></li>
+        <li class={activeNav === 'about'     ? 'active' : ''}><a href="/about">about/contact</a></li>
       </ul>
       <div class="nav-actions">
         <button id="search-open-btn" aria-label="Open search" type="button">

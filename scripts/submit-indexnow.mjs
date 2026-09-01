@@ -41,7 +41,7 @@ function urlsForChangedFiles(files) {
     if (data.hidden) continue;
 
     const slug = path.basename(file, '.md');
-    urls.push(`https://${HOST}/posts/${slug}/`);
+    urls.push(`https://${HOST}/posts/${slug}`);
   }
 
   return urls;

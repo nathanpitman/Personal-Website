@@ -22,7 +22,7 @@ relatedPosts:
     source: generated
 ---
 
-So, I kinda went back to the drawing board. I scrapped [my previous concept](https://nathanpitman.com/posts/re-design-step-2-look-feel-concepts/) and came up with this.
+So, I kinda went back to the drawing board. I scrapped [my previous concept](https://nathanpitman.com/posts/re-design-step-2-look-feel-concepts) and came up with this.
 
 ![Keeping it simple stupid](/images/90.jpg "Keeping it simple stupid")
 

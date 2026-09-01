@@ -27,4 +27,4 @@ I’ve been a bit slow to post it here (life is pretty busy when you’re workin
 
 ![Mr Richardson does Binary](/images/113.jpg "Mr Richardson does Binary")
 
-Similar in concept to [Mr Ruffles effort](https://nathanpitman.com/posts/branding-nine-four/), but Glen opted for a more contemporary font and a play on the binary for ’9 4’. Again there’s [some discussion](http://www.flickr.com/photos/nathanpitman/45269157/) over at [Flickr](http://www.flickr.com/) about this but I thought Iâd post it here for further critique and comment.
+Similar in concept to [Mr Ruffles effort](https://nathanpitman.com/posts/branding-nine-four), but Glen opted for a more contemporary font and a play on the binary for ’9 4’. Again there’s [some discussion](http://www.flickr.com/photos/nathanpitman/45269157/) over at [Flickr](http://www.flickr.com/) about this but I thought Iâd post it here for further critique and comment.

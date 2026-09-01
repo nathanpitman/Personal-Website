@@ -9,8 +9,8 @@ The blog posts are a mix of historical artefacts written between 2002 and 2013 (
 ## Key Pages
 
 - [Home / Recently](https://nathanpitman.com/): The 15 most recent journal entries
-- [About](https://nathanpitman.com/about/): Background on Nathan Pitman and his career
-- [Archives](https://nathanpitman.com/archives/): Full chronological index of all posts (2002–2013)
+- [About](https://nathanpitman.com/about): Background on Nathan Pitman and his career
+- [Archives](https://nathanpitman.com/archives): Full chronological index of all posts (2002–2013)
 
 ## Feeds
 
