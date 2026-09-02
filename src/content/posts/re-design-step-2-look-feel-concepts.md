@@ -21,6 +21,6 @@ relatedPosts:
     source: generated
 ---
 
-I’ve been playing about with some ideas for the [re-design](https://nathanpitman.com/posts/re-design-step-1-specify-requirements) in Fireworks…
+I’ve been playing about with some ideas for the [re-design](https://nathanpitman.com/posts/re-design-step-1-specify-requirements/) in Fireworks…
 
 ![Fireworks composition](/images/81.gif "Fireworks composition")

@@ -65,7 +65,7 @@ const jsonLd = {
           <article class="post">
             <header class="post-header">
               <div class="post-title-line">
-                <h2 class="post-title"><a href={`/posts/${slug}`}>{post.data.title}</a></h2>
+                <h2 class="post-title"><a href={`/posts/${slug}/`}>{post.data.title}</a></h2>
                 <span class="post-date-wrap">
                   <span class="post-date">{formatDate(post.data.date)}</span>
                   <CommentBubble
@@ -86,7 +86,7 @@ const jsonLd = {
       })}
 
       <nav class="pagination" aria-label="Pagination">
-        <a href="/archives" class="pagination-link">View all posts in the archives &rarr;</a>
+        <a href="/archives/" class="pagination-link">View all posts in the archives &rarr;</a>
       </nav>
 
     </main>

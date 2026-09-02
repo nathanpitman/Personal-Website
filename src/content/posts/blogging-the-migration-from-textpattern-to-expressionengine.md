@@ -30,4 +30,4 @@ So, this is the first of a number of posts which will explain the how, why when 
 
 :)
 
-Update: [Step 1](https://nathanpitman.com/posts/migrating-from-txp-to-ee-step-1), [Step 2](https://nathanpitman.com/posts/migrating-from-txp-to-ee-step-2), [Step 3](https://nathanpitman.com/posts/migrating-from-txp-to-ee-step-3), [Step 4](https://nathanpitman.com/posts/migrating-from-txp-to-ee-step-4), [Step 5](https://nathanpitman.com/posts/migrating-from-txp-to-ee-step-5), [Conclusion](https://web.archive.org/web/20090523190407/http://nathanpitman.com/journal/578/migrating-from-txp-to-ee-step-conclusion).
+Update: [Step 1](https://nathanpitman.com/posts/migrating-from-txp-to-ee-step-1/), [Step 2](https://nathanpitman.com/posts/migrating-from-txp-to-ee-step-2/), [Step 3](https://nathanpitman.com/posts/migrating-from-txp-to-ee-step-3/), [Step 4](https://nathanpitman.com/posts/migrating-from-txp-to-ee-step-4/), [Step 5](https://nathanpitman.com/posts/migrating-from-txp-to-ee-step-5/), [Conclusion](https://web.archive.org/web/20090523190407/http://nathanpitman.com/journal/578/migrating-from-txp-to-ee-step-conclusion).
