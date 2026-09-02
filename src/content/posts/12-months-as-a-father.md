@@ -1,11 +1,25 @@
 ---
 title: 12 months as a father
-description: "Yesterday my daughter had her very first Birthday party. It hardly seems like a year since she was born and the last 12 months have given me some of the..."
-date: 2005-03-15
-source: http://nathanpitman.com/332/12-months-as-a-father
-archive: https://web.archive.org/web/20090817091851/http://nathanpitman.com:80/332/12-months-as-a-father
+description: >-
+  Yesterday my daughter had her very first Birthday party. It hardly seems like
+  a year since she was born and the last 12 months have given me some of the...
+date: '2005-03-15'
+source: 'http://nathanpitman.com/332/12-months-as-a-father'
+archive: >-
+  https://web.archive.org/web/20090817091851/http://nathanpitman.com:80/332/12-months-as-a-father
 tags:
-  - "Family"
+  - Family
+relatedPosts:
+  - slug: boing-boing
+    source: generated
+  - slug: im-a-dad-again
+    source: generated
+  - slug: two-months-old
+    source: generated
+  - slug: one-month-old
+    source: generated
+  - slug: im-a-dad
+    source: generated
 ---
 
 Yesterday my daughter had her very first Birthday party. It hardly seems like a year since [she was born](https://web.archive.org/web/20090817091851/https://nathanpitman.com/posts/im-a-dad) and the last 12 months have given me some of the happiest moments of my life, I can hardly imagine what the next 12 will bring.

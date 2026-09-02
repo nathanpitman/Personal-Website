@@ -1,11 +1,26 @@
 ---
 title: I’m a dad (again)!
-description: "After almost 26 hours of contractions (how do women do it?) my beautiful wife Jo gave birth to our second daughter ‘Isla Debra Pitman’ on Monday morning at..."
-date: 2005-08-23
-source: http://nathanpitman.com/397/im-a-dad-again
-archive: https://web.archive.org/web/20091117062713/http://nathanpitman.com:80/397/im-a-dad-again
+description: >-
+  After almost 26 hours of contractions (how do women do it?) my beautiful wife
+  Jo gave birth to our second daughter ‘Isla Debra Pitman’ on Monday morning
+  at...
+date: '2005-08-23'
+source: 'http://nathanpitman.com/397/im-a-dad-again'
+archive: >-
+  https://web.archive.org/web/20091117062713/http://nathanpitman.com:80/397/im-a-dad-again
 tags:
-  - "Family"
+  - Family
+relatedPosts:
+  - slug: 12-months-as-a-father
+    source: generated
+  - slug: boing-boing
+    source: generated
+  - slug: im-a-dad
+    source: generated
+  - slug: im-going-to-be-a-dad
+    source: generated
+  - slug: halfway-between-the-gutter-and-the-stars
+    source: generated
 ---
 
 After almost 26 hours of contractions (how do women do it?) my beautiful wife Jo gave birth to our second daughter ‘Isla Debra Pitman’ on Monday morning at 1:50am.

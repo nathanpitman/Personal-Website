@@ -1,11 +1,26 @@
 ---
 title: Boing boing
-description: "We’ve recently moved our daughter Neve from her cot into a big girls bed. She’s been pretty good in it so far, when she wakes she will sit and wait for us..."
-date: 2005-05-29
-source: http://nathanpitman.com/363/boing-boing
-archive: https://web.archive.org/web/20090609020447/http://nathanpitman.com:80/363/boing-boing
+description: >-
+  We’ve recently moved our daughter Neve from her cot into a big girls bed.
+  She’s been pretty good in it so far, when she wakes she will sit and wait for
+  us...
+date: '2005-05-29'
+source: 'http://nathanpitman.com/363/boing-boing'
+archive: >-
+  https://web.archive.org/web/20090609020447/http://nathanpitman.com:80/363/boing-boing
 tags:
-  - "Family"
+  - Family
+relatedPosts:
+  - slug: 12-months-as-a-father
+    source: generated
+  - slug: im-a-dad-again
+    source: generated
+  - slug: two-months-old
+    source: generated
+  - slug: one-month-old
+    source: generated
+  - slug: im-a-dad
+    source: generated
 ---
 
 We’ve recently moved our daughter Neve from her cot into a big girls bed. She’s been pretty good in it so far, when she wakes she will sit and wait for us to come and get her, however during daylight the bed magically turns into a trampoline or a ‘boing boing’ (as you can see).
