@@ -34,7 +34,7 @@ This one started life as a static UI demo that our CSD knocked together in a hac
 
 ## Lerares: bug squashing and a genuinely tricky "stuck" bug
 
-Ahead of some wider internal learner testing at iHasco I squashed a decent pile of bugs in Lerares, added a way to capture in-the-moment feedback on a bad AI tutor response (a simple thumbs down), and embedded a course completion survey so learners can tell us how the conversational format felt versus a linear, static training session.
+Ahead of some wider internal learner testing at iHasco I squashed a decent pile of bugs in Lerares (A POC for an AI tutor), added a way to capture in-the-moment feedback on a bad AI tutor response (a simple thumbs down), and embedded a course completion survey so learners can tell us how the conversational format felt versus a linear, static training session.
 
 The one which took a little more time than others was a bug where the tutor could get "stuck" treating a learner as difficult, even after they'd re-engaged  following a tricky moment in the conversation. Fiddly to track down as the model's behaviour looked fine in isolation and only went south a few turns later.
 
