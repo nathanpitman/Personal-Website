@@ -16,6 +16,13 @@ const year = new Date().getFullYear();
 
     gtag('config', 'G-18YGF8BQ32');
   </script>
+  <script>
+    import posthog from 'posthog-js';
+    posthog.init('phc_kYZuANqSEKbWM8hsSsGy6JBkfPmc85rpLhZwceFRbYR7', {
+      api_host: 'https://eu.i.posthog.com',
+      defaults: '2026-05-30',
+    });
+  </script>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{title}</title>

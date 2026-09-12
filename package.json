@@ -19,11 +19,12 @@
     "@astrojs/rss": "^4.0.15",
     "@astrojs/sitemap": "^3.2.1",
     "@bryanguffey/astro-standard-site": "^1.0.3",
-    "astro": "^5.18.2"
+    "astro": "^5.18.2",
+    "posthog-js": "^1.430.2"
   },
   "devDependencies": {
-    "esbuild": "^0.27.7",
     "astro-pagefind": "^2.0.0",
+    "esbuild": "^0.27.7",
     "gray-matter": "^4.0.3",
     "pagefind": "^1.4.0",
     "sharp": "^0.34.5",
