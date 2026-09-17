@@ -27,4 +27,4 @@ The site is architected around a corpus of new and historical post tags, I regul
 
 ## Analytics
 
-There's a Google Analytics tag in the header at the time being, though I'd like to switch this out for something less intrusive when I have time.
+There's a Google Analytics tag in the header at the moment, though I'd like to switch this out for something less intrusive when I have time.
