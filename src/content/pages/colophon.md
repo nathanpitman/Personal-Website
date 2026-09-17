@@ -15,7 +15,7 @@ The site itself is built with [Astro](https://astro.build). Every post is a simp
 
 ## Deployment
 
-The site is hosted on GitHub Pages, deployed by a GitHub Action every time I push (or overnight, in case I've dated a post ahead of time and its date has arrived). During deployment any inline images over 800px get scaled automatically using [Sharp](https://www.npmjs.com/package/sharp). Once deployment it done, I ping [IndexNow](https://indexnow.org) so new posts turn up more quickly on search surfaces than they would otherwise.
+The site is hosted on [GitHub Pages](https://pages.github.com), deployed by a GitHub Action every time I push (or overnight, in case I've dated a post ahead of time and its date has arrived). During deployment any inline images over 800px get scaled automatically using [Sharp](https://www.npmjs.com/package/sharp). Once deployment it done, I ping [IndexNow](https://indexnow.org) so new posts turn up more quickly on search surfaces than they would otherwise.
 
 ## Search
 
