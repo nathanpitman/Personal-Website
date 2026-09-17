@@ -415,6 +415,7 @@ a:hover         { color: #0000ee; }
   margin-bottom: 0.15em;
 }
 
+.about-body h2, .about-body h3,
 .post-body h2, .post-body h3 {
   font-family: var(--sans);
   letter-spacing: -0.02em;
