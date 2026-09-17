@@ -5,26 +5,29 @@ description: What this site is actually built with — It's Typography, underlyi
 
 This website is a pretty small pile of code holding up a couple of decades of personal ramblings and nonsense (2002 through 2013 being recovered from the Internet Archive in 2026 and everything added since). Here's how it's actually made.
 
-## Typography
+## Typography Choices
 
 Headings are set to use your system default Sans Serif font (San Francisco on Mac and Segoe UI on Windows), body text meanwhile is set in Lora (falling back to Georgia or you next available serif option).
 
-## Framework
+## Site Framework
 
-The site itself is built with [Astro](https://astro.build). Every post is a simple Markdown file with a bit of YAML at the top (title, date, tags etc) which Astro turns into plain static HTML at build time. There's no database and no server doing anything clever.
+The site itself is built with [Astro](https://astro.build). Every post is a simple Markdown file with a bit of YAML at the top (title, date, tags etc) which Astro turns into plain static HTML at build time. There's no database and no server doing anything clever. I'm not using any fancy pants CSS framework, just good old plain vanilla CSS.
 
-## Deployment
+## Website Deployment
 
 The site is hosted on [GitHub Pages](https://pages.github.com), deployed by a GitHub Action every time I push (or overnight, in case I've dated a post ahead of time and its date has arrived). During deployment any inline images over 800px get scaled automatically using [Sharp](https://www.npmjs.com/package/sharp). Once deployment it done, I ping [IndexNow](https://indexnow.org) so new posts turn up more quickly on search surfaces than they would otherwise.
 
-## Search
+## Site Search
 
 [Pagefind](https://pagefind.app) handles on site search (that's the little magnifying glass, or ⌘K), creating an index at deploy time which can be queried using the Pagefind JavaScript search API.
 
-## Tags
+## Post Tags
 
 The site is architected around a corpus of new and historical post tags, I regularly review tags to make sure I don't end up with meaningless groupings with only a handful of posts. While I've not touched the body content of historical posts, I have audited and consolidated historical tags.
 
 ## Analytics
 
 There's a Google Analytics tag in the header at the moment, though I'd like to switch this out for something less intrusive when I have time.
+
+## LLM Site Summary
+There's a machine-readable site summary at [/llms.txt](/llms.txt) following the [llms.txt](https://llms.txt) emerging standard, for AI systems that crawl or index the site.
