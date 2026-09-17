@@ -1,0 +1,41 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SidebarAbout from '../components/SidebarAbout.astro';
+import { getEntry } from 'astro:content';
+
+const entry = await getEntry('pages', 'colophon');
+const { Content } = await entry.render();
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Colophon",
+  "url": "https://nathanpitman.com/colophon/",
+  "description": entry.data.description,
+  "author": {
+    "@id": "https://nathanpitman.com/#person"
+  },
+  "isPartOf": {
+    "@type": "WebSite",
+    "url": "https://nathanpitman.com/"
+  }
+};
+---
+
+<BaseLayout title="Colophon — nathanpitman.com" description={entry.data.description} jsonLd={jsonLd}>
+  <div class="page">
+
+    <main class="main">
+
+      <h1 class="about-heading">{entry.data.title}</h1>
+
+      <div class="about-body">
+        <Content />
+      </div>
+
+    </main>
+
+    <SidebarAbout />
+
+  </div>
+</BaseLayout>
