@@ -30,4 +30,4 @@ The site is architected around a corpus of new and historical post tags, I regul
 There's a Google Analytics tag in the header at the moment, though I'd like to switch this out for something less intrusive when I have time.
 
 ## LLM Site Summary
-There's a machine-readable site summary at [/llms.txt](/llms.txt) following the [llms.txt](https://llms.txt) emerging standard, for AI systems that crawl or index the site.
+There's a machine-readable site summary at [/llms.txt](/llms.txt) following the emerging [llms.txt standard](https://llmstxt.org/), for AI systems that crawl or index the site.
