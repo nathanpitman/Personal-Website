@@ -3,16 +3,28 @@ title: Colophon
 description: What this site is actually built with — Astro, Lora, Pagefind, GitHub Pages and a handful of small automations.
 ---
 
-You're looking at a fairly small pile of code holding up a couple of decades of nonsense (2002 through 2013 mostly, recovered from wherever the original site had scattered itself, plus whatever I've bothered to add since). Here's what it's actually made of.
+This website is a pretty small pile of code holding up a couple of decades of personal ramblings and nonsense (2002 through 2013 being recovered from the Internet Archive in 2026 and everything added since). Here's how it's actually made.
 
-Body text is set in Lora, a serif that's doing its best to look like it belongs on paper rather than a screen. Everything else, the nav, the dates, the bits and bobs, just falls back to whatever your system already has rather than dragging in a web font to render a menu.
+## Typography
 
-The site itself is built with [Astro](https://astro.build). Every post is a Markdown file with a bit of YAML at the top (title, date, tags, a link back to wherever it originally lived) and Astro turns the lot into plain static HTML at build time. No database, no server doing anything clever, nothing to hack. If I haven't written a description myself, Claude has a go at one during the build, which feels like a very 2026 way of solving a very 2003 problem.
+Headings are set to use your system default Sans Serif font (San Francisco on Mac and Segoe UI on Windows), body text meanwhile is set in Lora (falling back to Georgia or you next available serif option).
 
-[Pagefind](https://pagefind.app) handles the search box (that's the little magnifying glass, or ⌘K), quietly indexing everything after each build so I don't have to run a search server anywhere for the sake of a personal blog.
+## Framework
 
-It's hosted on GitHub Pages, deployed by a GitHub Action every time I push (or overnight, in case I've dated a post ahead of time and its day has finally arrived). Once it's live, something pings the search engines directly so new posts don't just sit there unindexed for weeks like they used to.
+The site itself is built with [Astro](https://astro.build). Every post is a simple Markdown file with a bit of YAML at the top (title, date, tags etc) which Astro turns into plain static HTML at build time. There's no database and no server doing anything clever. If I haven't written a post summary or description description myself, Claude has a go at one during the build, which feels like a very 2026 way of solving a very 2003 problem.
 
-Images over 800px get shrunk automatically before anything ships, which is a job I would absolutely forget to do myself.
+## Deployment
 
-There's a Google Analytics tag in the header, for what it's worth. I'd rather be upfront about that than pretend otherwise.
+The site is hosted on GitHub Pages, deployed by a GitHub Action every time I push (or overnight, in case I've dated a post ahead of time and its date has arrived). During deployment any inline images over 800px get scaled automatically using [Sharp](https://www.npmjs.com/package/sharp). Once deployment it done, I ping [IndexNow](https://indexnow.org) so new posts turn up more quickly on search surfaces than they would otherwise.
+
+## Search
+
+[Pagefind](https://pagefind.app) handles on site search (that's the little magnifying glass, or ⌘K), creating an index at deploy time which can be queried using the Pagefind JavaScript search API.
+
+## Tags
+
+The site is architected around o corpus of new and historical tags, I reguarly review tags to make sure I don't end up with meaningless groupings with only a handful of posts. While I've not touched the body content of historical posts, I have audited and consolidated historical tags.
+
+## Analytics
+
+There's a Google Analytics tag in the header at the time being, though I'd like to switch this out for something less intrusive when I have time.
