@@ -3,7 +3,7 @@ title: Colophon
 description: What this site is actually built with — It's Typography, underlying Framework, Deployment process, Site search mechanics, Tags and Analytics.
 ---
 
-This website is a pretty small pile of code holding up a couple of decades of personal ramblings and nonsense (2002 through 2013 being recovered from the Internet Archive in 2026 and everything added since). Here's how it's actually made.
+This website is a pretty discreet pile of code holding together a couple of decades of personal ramblings and nonsense (2003 to date with a decade plus gap from 2014 to 2026). Here's how it's all put together.
 
 ## Typography Choices
 
