@@ -1,9 +1,25 @@
 ---
-title: "Digging up .matrix: my chapter of the Head-Space project"
-description: "Tracing the history of head-space.org and my own .matrix chapter within it, back to 1998."
-pubDate: 2026-09-22
+title: 'Digging up .matrix: my chapter of the Head-Space project'
+description: >-
+  Tracing the history of head-space.org and my own .matrix chapter within it,
+  back to 1998.
+pubDate: 2026-09-22T00:00:00.000Z
 draft: true
-tags: ["revisited", "web history", "flash"]
+tags:
+  - revisited
+  - web history
+  - flash
+relatedPosts:
+  - slug: browsing-xml-with-flash
+    source: generated
+  - slug: flash-player-detection-kit-macrochat
+    source: generated
+  - slug: flash-visual-sound-mixer
+    source: generated
+  - slug: flash-player-8-demoed-in-tokyo
+    source: generated
+  - slug: out-of-the-loop
+    source: generated
 ---
 
 I was tidying through some very old bookmarks recently and stumbled back onto [head-space.org](https://head-space.org/) — and with it, a name I hadn't thought about in twenty-odd years: **.matrix**.
