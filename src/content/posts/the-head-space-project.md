@@ -3,8 +3,8 @@ title: 'Digging up .matrix: my chapter of the Head-Space project'
 description: >-
   Tracing the history of head-space.org and my own .matrix chapter within it,
   back to 1998.
-pubDate: 2026-09-22T00:00:00.000Z
-draft: true
+date: 2026-09-22T00:00:00.000Z
+hidden: true
 tags:
   - revisited
   - web history
