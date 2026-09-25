@@ -69,7 +69,7 @@ img {
 a               { color: #6600FF; } /* #0000ee */
 a:visited       { color: #6600FF; } /* #551a8b */
 a:active        { color: #6600FF; } /* #0000ee */
-a:hover         { color: #6600FF; background-color: #E8D9FF; } /* #0000ee */
+a:hover         { color: #6600FF; } /* #0000ee */
 
 
 /* -----------------------------------------------------------------------------
