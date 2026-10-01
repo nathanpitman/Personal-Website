@@ -1,8 +1,8 @@
 ---
 title: AI in September
 description: >-
-  A month of AI odds and ends: slides, gap analyses, sprite graphics, a
-  resurrected Director project and some grumbling about the doom headlines.
+  Month three of my AI log: Claude Design slides, a 90s Director animation
+  rebuilt in HTML, OpenTTD fixes and sprites, plus Jev, doom headlines and slop.
 date: '2026-09-30'
 hidden: false
 tags:
