@@ -4,46 +4,42 @@ description: >-
   A month of AI odds and ends: slides, gap analyses, sprite graphics, a
   resurrected Director project and some grumbling about the doom headlines.
 date: 2026-09-30
-hidden: true
+hidden: false
 tags:
   - ai
   - monthly roundup
 ---
 
-Mostly Claude this month, with a bit of ChatGPT in the kitchen and the garden.
+Month three of my AI log. More of a personal focus this time around with Claude turning up, with a bit of ChatGPT thrown in for good measure in the kitchen and the garden.
 
-## Work
+## At work
 
-I've been using Claude Design to lay out slides with our design system, and it's a massive time saver compared to hand crafting interesting layouts in PowerPoint. What's annoying is the PowerPoint file it spits out. A basic shape with some text in it comes out as a shape with a separate text layer sat on top, and the bounds of the two never match. It should really be text inside the shape. Tweaking anything by hand afterwards is a proper faff. You can use the comment/edit feature in Claude Design, but that's slow for small tweaks (and burns tokens for no good reason). There must be a middle ground somewhere, rapid prompting for the layout but tidier PowerPoint markup coming out the other end.
+I've been using Claude Design to lay out slides with our design system for product strategy sessions we've been running this month. This is such a massive time saver compared to hand crafting interesting layouts - it's not perfect though, Claude constructs layouts in a way which quickly becomes problematic if you then want to make subsequent edits. You can obviously use the comment/edit feature in Claude Design, but that's criminal for for small tweaks (and burns tokens for no good reason). There's probably a middle ground somewhere, rapid prompting for the layout with tidier and easier to edit PowerPoint markup coming out the other end. The moment has passed but I'll probably revisit this one and see if I can address these challenges through a custom skill.
 
-I also did a fast gap analysis on a bunch of project submissions against the original brief, to give feedback to the workstream leads. Give Claude the context and it's super quick at spotting where the focus needs to go.
+## At home and in the garden
 
-We're looking at the AI tutor and whether we can swap models for different kinds of output, to speed up response times and save tokens. I've been using Claude Code to plan an A/B test on output quality. Sonnet for everything so far, but I suspect Haiku would cope fine with the basic, non-challenging responses. We'll see.
+I was missing a few key ingredients for a pasta dish, so I threw a photo of my herb cupboard at ChatGPT and got some great suggestions back which made a simple pasta, mince and beans dish a bit more interesting. Thumbs up!
 
-Oh, and we're looking at setting up tiger teams for AI initiatives. The biggest blocker hasn't been ideas, it's having the capacity to deliver them. So now we need to work out how to unblock that.
-
-## Home
-
-Missing a few key ingredients for a pasta dish, I threw a photo of my herb cupboard at Copilot / ChatGPT and got some great suggestions for making pasta, mince and beans a bit more interesting. Worked rather well.
-
-I'm something of an amateur in the garden, so ChatGPT has been handy for identifying plants and working out where to put them based on which way the beds face the sun. The most common question is "is this a weed?"
+I'm a complete amateur in the garden, so I've been using ChatGPT to identify plants and get guidance on where to plant them based on how the beds face into the sun and the proximity of shade from other plants. My most common question is "is this a weed?" :D
 
 ## Making things
 
-I handed Claude a Macromedia Director .dir file from the late 90s. In one shot it pulled it apart like a puzzle, extracted the source frames and audio, and rebuilt the whole thing in HTML, CSS and JavaScript in under 400 lines. It mirrors the original Director output exactly, right down to the seamless looping after the first play. Mind blowing.
+Off the back of a bit of a jaunt down memory lane I found myself wanting to bring an animation I crafted in the 90's that only existed as a Macromedia Director file back to life. I handed Claude the source .dir and in one shot it pulled it apart, extracted the source frames and audio, and rebuilt the whole thing in HTML, CSS and JavaScript. The output is less than 400 lines and it mirrors the original exactly, right down to the seamless looping of the image and audio after the first play. Love it!
 
-Opus 5.5 is actually good at sprite graphics now. Sonnet gave me a hard time with them back in April, but Opus one-shotted the sprites for my OpenTTD add-on. I've also discovered Claude Code can just run a Linux install of OpenTTD, headless, and check whether its code changes have fixed the bug. There were two bug reports from genuine OpenTTD players sat there since May that I'd missed, and Claude Code "just fixed" them with no bother.
+After realising that some real people have been experimenting with the OpenTTD add-on that I built back in April I decided to pick this back up and address some of its shortcomings. First off - I just threw Claude Code at the bugs that these players had logged, it not only claimed to fix them but it also spun up a Linux VM, installed OpenTTD and validated the fixes.
 
-## Reading
+Earlier in the year when I first threw this together, I had reluctantly accepted that the current crop of AI tools weren't going to bring corresponding sprite artwork to life for the various new elements I'd introduced to the game, I made do with same janky placeholders. I thought I'd give it a fresh shot with Opus - while it's not perfect, it's nailed the fundamentals and I've got some solid artwork I can now build on.
 
-This one is a different kind of model to Claude, from a startup called [TypeSafe AI](https://typesafe.ai/blog/introducing-system-one-models-and-jev). Jev is what they call a "System One Model". Where Claude chats and writes things out token by token (so it's slowish, and can go off-script), Jev only ever answers in a fixed shape, a bit like ticking boxes on a form: "is this customer likely to churn, yes/no, 87% confident". It can't hallucinate its way outside that shape, and it's quick and cheap. So not a conversation, more a very fast gauge sat inside a piece of software, for things like "route this ticket to team A or B". I think that's interesting.
+## Recommended reading
 
-Caught this one as well, which is hilarious, fantastic and horrifying all at once: [Alcorn State professor uses hidden method to catch 32 students using AI](https://www.supertalk.fm/alcorn-state-professor-uses-hidden-method-to-catch-32-students-using-ai/).
+[Jev, from TypeSafe AI](https://typesafe.ai/blog/introducing-system-one-models-and-jev) is worth reading up on. Where general AI models are designed to deliver results as a conversational string, Jev only ever answers in a fixed shape. It can't hallucinate its way outside of that container, it's ridiculously fast and way more efficient than general models.
+
+A short article that I stumbled across via The Register about a professor who used the old "hidden agent instructions method" in a student task he set. This is both [hilarious, fantastic and horrifying all at once](https://www.supertalk.fm/alcorn-state-professor-uses-hidden-method-to-catch-32-students-using-ai/).
 
 ## Grumbling
 
-The latest round of "AI might kill us all, please slow down" headlines, with the usual suspects calling for controls ([a brief history of AI executives calling for regulation](https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation) is worth a read). Is this real? I'm not convinced. It's a very fancy autocomplete engine with a massive amount of context and knowledge behind it, and it's not sentient!!! I do wonder if the BBC and others are misrepresenting the risk, and failing to explain that to people. And whether this is just the AI companies getting ahead of regulation that might stifle their value, which would be convenient.
+In the latest round of headlines suggesting that "AI is going to kill us all", the usual suspects are calling for controls, the Verge have [a great write up on the history of AI executives calling for regulation](https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation). Do we need regulation? Probably. Is AI going to kill us? Probably not. Is it the humans in the loop that are the greatest risk? Most likely!
 
-Along similar lines, [this column](https://www.segasaturnshiro.com/2026/09/24/column-all-a-i-projects-are-digital-asbestos/) calls AI projects "digital asbestos". Is it just someone not realising that every advance in authoring tools brings a wave of slop first? Every technical advance is environmentally damaging until we find a way to refine it and make it more efficient, and we're already seeing that with LLMs splintering off into leaner subsets like Jev. The wave will crest, there'll be a bubble burst, investors will lose billions, and AI will find its natural level just like the dot com boom and bust. Nobody counted the servers the internet needed either, we just didn't think about it then. Progress is progress.
+Along similar lines, [this column](https://www.segasaturnshiro.com/2026/09/24/column-all-a-i-projects-are-digital-asbestos/) calls out all AI projects as "digital asbestos". I won't argue that we've not been flooded with mountains of AI slop, but this is not unusual when we experience technological advances. [Paul Boag makes a similar point](https://boagworld.com/emails/ai-decision-making/), using desktop publishing as the example. When DTP arrived in the early 90's, graphic designers panicked, because suddenly anybody could knock up flyers and posters but we were overrun with Comic Sans and clip art and soon enough, people realised they needed subject matter experts after all. The relative ease and pace at which things can be done after one of these shifts drives an onslaught on slop, then the wave crests and subsides. Investors will lose billions, and AI will find its natural level just like the dot com boom and bust.
 
-Paul Boag makes a similar point in [AI and decision-making: a better future awaits](https://boagworld.com/emails/ai-decision-making/), using desktop publishing as the example. When it arrived, the graphic design students at his university panicked, because suddenly anybody could knock up a flyer or a poster. Why hire a designer? Then, after one too many posters in Comic Sans with clip art, people realised they needed one after all. His bet is that AI goes the same way, with people trusting it less than the experts once they've found its edges (he also notes he trusts it most on the subjects he knows least about, which is a bit of a worry). I think he's probably right.
+And finally... a sobering software recommendation, one from my old acquaintance David Longworth, [a MacOS menubar app which tracks your AI usage and estimates carbon emissions and water & electricity usage](https://github.com/abovedave/ai-eco-impact).
