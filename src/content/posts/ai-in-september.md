@@ -1,13 +1,25 @@
 ---
-title: 'AI in September'
+title: AI in September
 description: >-
   A month of AI odds and ends: slides, gap analyses, sprite graphics, a
   resurrected Director project and some grumbling about the doom headlines.
-date: 2026-09-30
+date: '2026-09-30'
 hidden: false
 tags:
   - ai
   - monthly roundup
+relatedPosts:
+  - slug: ai-in-july
+    source: generated
+  - slug: ai-in-august
+    source: generated
+  - slug: rediscovering-making-things
+    source: generated
+  - slug: >-
+      back-from-the-dead-resurrecting-nathanpitman-dot-com-after-a-decade-in-the-dark
+    source: generated
+  - slug: introducing-fedi-follow-catch
+    source: generated
 ---
 
 Month three of my AI log. More of a personal focus this time around with Claude turning up, with a bit of ChatGPT thrown in for good measure in the kitchen and the garden.
