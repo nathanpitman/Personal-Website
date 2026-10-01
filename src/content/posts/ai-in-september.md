@@ -38,7 +38,7 @@ Opus 5.5 is actually good at sprite graphics now. Sonnet gave me a hard time wit
 
 This one is a different kind of model to Claude, from a startup called [TypeSafe AI](https://typesafe.ai/blog/introducing-system-one-models-and-jev). Jev is what they call a "System One Model". Where Claude chats and writes things out token by token (so it's slowish, and can go off-script), Jev only ever answers in a fixed shape, a bit like ticking boxes on a form: "is this customer likely to churn, yes/no, 87% confident". It can't hallucinate its way outside that shape, and it's quick and cheap. So not a conversation, more a very fast gauge sat inside a piece of software, for things like "route this ticket to team A or B". I think that's interesting.
 
-Caught this one as well, which is hilarious, fantastic and horrifying all at once: [Alcorn State professor uses hidden method to catch 32 students using AI](LINK-TO-SUPERTALK-ARTICLE).
+Caught this one as well, which is hilarious, fantastic and horrifying all at once: [Alcorn State professor uses hidden method to catch 32 students using AI](https://www.supertalk.fm/alcorn-state-professor-uses-hidden-method-to-catch-32-students-using-ai/).
 
 ## Grumbling
 
