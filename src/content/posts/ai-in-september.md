@@ -7,7 +7,7 @@ date: '2026-09-30'
 hidden: false
 tags:
   - ai
-  - monthly roundup
+  - making things
 relatedPosts:
   - slug: ai-in-july
     source: generated
