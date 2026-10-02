@@ -32,7 +32,7 @@ I've been using Claude Design to lay out slides with our design system for produ
 
 I was missing a few key ingredients for a pasta dish, so I threw a photo of my herb cupboard at ChatGPT and got some great suggestions back which made a simple pasta, mince and beans dish a bit more interesting. Thumbs up!
 
-I'm a complete amateur in the garden, so I've been using ChatGPT to identify plants and get guidance on where to plant them based on how the beds face into the sun and the proximity of shade from other plants. My most common question is "is this a weed?" :D
+I'm a complete amateur in the garden, so I've been using ChatGPT to identify plants and get guidance on where to plant based on how the beds face into the sun and the proximity of shade from other plants. My most common question is "is this a weed?" :D
 
 ## Making things
 
