@@ -24,7 +24,7 @@ bluesky: 'https://bsky.app/profile/nathanpitman.com/post/3mwuvuknoek2u'
 mastodon: 'https://mastodon.social/@nathanpitman/117370270802760642'
 ---
 
-Month three of my AI log. More of a personal focus this time around with Claude turning up, with a bit of ChatGPT thrown in for good measure in the kitchen and the garden.
+Month three of my AI log. More of a personal focus this time around with Claude helping me re-live my 90's era and become a retro video game modder, plus a bit of ChatGPT thrown in for good measure in the kitchen and the garden.
 
 ## At work
 
@@ -52,8 +52,8 @@ A short article that I stumbled across via The Register about a professor who us
 
 In the latest round of headlines suggesting that "AI is going to kill us all", the usual suspects are calling for controls, the Verge have [a great write up on the history of AI executives calling for regulation](https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation). Do we need regulation? Probably. Is AI going to kill us? Probably not. Is it the humans in the loop that are the greatest risk? Most likely!
 
-On the subject of AI slop, [this column by Nick at Sega Saturn Shiro](https://www.segasaturnshiro.com/2026/09/24/column-all-a-i-projects-are-digital-asbestos/) calls out AI generated retro video game projects as "digital asbestos". I won't argue that we've not been flooded with mountains of shit, but its worrh remembering that this is not unusual when we experience technological advances. [Paul Boag makes a similar point](https://boagworld.com/emails/ai-decision-making/), using desktop publishing as the example. When DTP arrived in the mid 80's, graphic designers panicked,  suddenly anybody could knock up flyers and posters and we were overrun with Comic Sans and clip art, this shift in capability beought a new baseline for what an expert was in that industry and I suspect we'll see the same for the sectors most impacted by AI. A new definition of roles and where "expertise and trust" sit.   The relative ease and pace at which things can be done after one of these shifts always drives an onslaught of slop, that wave will crest and subside as we find a new baseline.
+On the subject of AI slop, [this column by Nick at Sega Saturn Shiro](https://www.segasaturnshiro.com/2026/09/24/column-all-a-i-projects-are-digital-asbestos/) calls out AI generated retro video game projects as "digital asbestos". I won't argue that we've not been flooded with mountains of shit, but its worrh remembering that this is not unusual when we experience technological advances. [Paul Boag makes a similar point](https://boagworld.com/emails/ai-decision-making/), using desktop publishing as the example. When DTP arrived in the mid 80's, graphic designers panicked,  suddenly anybody could knock up flyers and posters and we were overrun with Comic Sans and clip art, this shift in capability brought a new baseline for what an expert was in that industry, and I suspect we'll see the same for the sectors most impacted by AI. A new definition of roles and where "expertise and trust" sit. The relative ease and pace at which things can be done after one of these shifts always drives an onslaught of slop, that wave will crest and subside as we find a new baseline.
 
-And finally... a sobering software recommendation, one from my old acquaintance David Longworth, [a MacOS menubar app which tracks your AI usage and estimates carbon emissions and water & electricity usage](https://github.com/abovedave/ai-eco-impact).
+And finally... a sobering software recommendation, one from my old acquaintance [David Longworth](https://davidlongworth.com), [a MacOS menubar app which tracks your AI usage and estimates carbon emissions and water & electricity usage](https://github.com/abovedave/ai-eco-impact).
 
 *More next month!*
