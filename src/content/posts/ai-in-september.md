@@ -1,8 +1,8 @@
 ---
 title: AI in September
 description: >-
-  Month three of my AI log: Claude Design slides, a 90s Director animation
-  rebuilt in HTML, OpenTTD fixes and sprites, plus Jev, doom headlines and slop.
+  Month three of my AI log. In September: using Claude Design for PowerPoint slides, a 90s Macromedia Director animation
+  brought back to life in HTML, OpenTTD Mod fixes and isometric sprites, plus Jev, doom headlines and mountains of AI slop.
 date: '2026-09-30'
 hidden: false
 tags:
