@@ -36,7 +36,7 @@ I'm a complete amateur in the garden, so I've been using ChatGPT to identify pla
 
 ## Making things
 
-Off the back of a bit of a jaunt down memory lane I found myself wanting to bring an animation I crafted in the 90's that only existed as a Macromedia Director file back to life. I handed Claude the source .dir and in one shot it pulled it apart, extracted the source frames and audio, and rebuilt the whole thing in HTML, CSS and JavaScript. The output is less than 400 lines and it mirrors the original exactly, right down to the seamless looping of the image and audio after the first play. Love it!
+Off the back of a bit of a jaunt down memory lane I found myself wanting to bring an animation I crafted in the 90's that only existed as a Macromedia Director file back to life. I handed Claude the source .dir and in one shot it pulled it apart, extracted the source frames and audio, and rebuilt the whole thing in HTML, CSS and JavaScript. [The output is less than 400 lines and it mirrors the original exactly](https://nathanpitman.github.io/head-space.org-matrix/N3-Restoration/index.html), right down to the seamless looping of the image and audio after the first play. Love it!
 
 After realising that some real people have been experimenting with [the OpenTTD add-on that I built back in May](/posts/energy-economy-in-open-transport-tycoon-deluxe/) I decided to pick this back up and address some of its shortcomings. First off - I just threw Claude Code at the bugs that these players had logged, it not only fixed them but it also spun up a Linux VM, installed OpenTTD and validated the fixes.
 
