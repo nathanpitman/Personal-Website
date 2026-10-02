@@ -42,6 +42,8 @@ After realising that some real people have been experimenting with [the OpenTTD 
 
 Earlier in the year when I first threw this together, I had reluctantly accepted that the current crop of AI tools weren't going to bring corresponding sprite artwork I needed to life, I made do with same janky placeholders. I thought I'd give it a fresh shot with Claude Opus - while it's not perfect, it's nailed the fundamentals and I've got some solid artwork I can now build on.
 
+![Isometric pixel art sprites for the OpenTTD renewable energy mod: nuclear plant, wind farm, solar farm, hydro dam, uranium mine, substation and tidal station](/images/openttd-renewable-industries.png)
+
 ## Recommended reading
 
 [Jev, from TypeSafe AI](https://typesafe.ai/blog/introducing-system-one-models-and-jev) is worth reading up on. Where general AI models are designed to deliver results as a conversational string, Jev only ever answers in a fixed shape. It can't hallucinate its way outside of that container, it's ridiculously fast and way more efficient than general models.
