@@ -40,7 +40,7 @@ Off the back of a bit of a jaunt down memory lane I found myself wanting to brin
 
 After realising that some real people have been experimenting with [the OpenTTD add-on that I built back in May](/posts/energy-economy-in-open-transport-tycoon-deluxe/) I decided to pick this back up and address some of its shortcomings. First off - I just threw Claude Code at the bugs that these players had logged, it not only fixed them but it also spun up a Linux VM, installed OpenTTD and validated the fixes.
 
-Earlier in the year when I first threw this together, I had reluctantly accepted that the current crop of AI tools weren't going to bring corresponding sprite artwork I needed to life, I made do with same janky placeholders. I thought I'd give it a fresh shot with Claude Opus - while it's not perfect, it's nailed the fundamentals and I've got some solid artwork I can now build on.
+Earlier in the year when I first threw this together, I had reluctantly accepted that the current crop of AI tools weren't going to bring corresponding sprite artwork I needed to life, I made do with same janky placeholders. I thought I'd give it a fresh shot with Claude Opus - while it's not perfect, [it's nailed the fundamentals and I've got some solid artwork I can now build on](https://github.com/nathanpitman/Open-TTD-Renewable-Energy-Mod#energy-transition-industries--openttd-mod).
 
 ## Recommended reading
 
