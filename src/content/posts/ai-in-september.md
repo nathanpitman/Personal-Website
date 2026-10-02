@@ -20,6 +20,8 @@ relatedPosts:
     source: generated
   - slug: introducing-fedi-follow-catch
     source: generated
+bluesky: 'https://bsky.app/profile/nathanpitman.com/post/3mwuvuknoek2u'
+mastodon: 'https://mastodon.social/@nathanpitman/117370270802760642'
 ---
 
 Month three of my AI log. More of a personal focus this time around with Claude turning up, with a bit of ChatGPT thrown in for good measure in the kitchen and the garden.
