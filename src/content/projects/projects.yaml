@@ -3,10 +3,10 @@
 - title: WordPress to Astro migration skill
   url: https://github.com/nathanpitman/wordpress-to-astro-migration-skill
   description: >-
-    A Claude Code skill that migrates a live WordPress site to Astro using only
-    what's publicly reachable on the domain. The rendered HTML of every page is
-    reproduced exactly as served, for a clean cutover with zero SEO impact, and
-    the output includes content maps shaped for a future Payload CMS setup.
+    A Claude Code skill that migrates a live WordPress site to Astro from its
+    public pages alone, with zero SEO impact. Rendered HTML is reproduced
+    exactly as served. Outputs include an SEO fact inventory, Payload-shaped
+    content maps and assets at their original URLs.
   hidden: false
 
 - title: Canoncial Cave Adventure
