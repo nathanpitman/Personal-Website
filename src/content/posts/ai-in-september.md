@@ -42,6 +42,8 @@ Off the back of a bit of a jaunt down memory lane I found myself wanting to brin
 
 After realising that some real people have been experimenting with [the OpenTTD add-on that I built back in May](/posts/energy-economy-in-open-transport-tycoon-deluxe/) I decided to pick this back up and address some of its shortcomings. First off - I just threw Claude Code at the bugs that these players had logged, it not only fixed them but it also spun up a Linux VM, installed OpenTTD and validated the fixes. When I first threw this together, I had reluctantly accepted that the current crop of AI tools at the time weren't going to bring corresponding sprite artwork I needed to life, so I made do with same janky placeholders. I thought I'd give it a fresh shot with Claude Opus 5.5 - while it's not perfect, [it's nailed the fundamentals and I've now got some solid sprite artwork I can now build on](https://github.com/nathanpitman/Open-TTD-Renewable-Energy-Mod#energy-transition-industries--openttd-mod).
 
+![Isometric pixel art sprites for the OpenTTD renewable energy mod: nuclear plant, wind farm, solar farm, hydro dam, uranium mine, substation and tidal station](/images/openttd-renewable-industries.png)
+
 ## Recommended reading
 
 [Jev, from TypeSafe AI](https://typesafe.ai/blog/introducing-system-one-models-and-jev) is worth reading up on. Where general AI models are designed to deliver results as a conversational string, Jev only ever answers in a fixed shape. It can't hallucinate its way outside of that container, it's ridiculously fast and way more efficient than general models.
