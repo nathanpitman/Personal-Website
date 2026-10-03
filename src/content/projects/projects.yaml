@@ -9,16 +9,13 @@
 - title: Canoncial Cave Adventure
   url: https://github.com/nathanpitman/CanonicalCaveAdventure
   description: >-
-    CCA is a port of the classic text adventure "Adventure 2.5 / Open Adventure"
-    but with a modern touch interface and an improved text parser. Created as an
-    opportunity to explore what's possible with modern AI led development and a
-    healthy dose of childhood nostalgia.
+    A port of the canonical cave crawling text adventure but with a modern touch interface and an improved text parser. A nostalgic exploration of what's possible when you remix old ideas with new thinking.
   hidden: false
 
 - title: Open TTD renewable energy Mod
   url: https://github.com/nathanpitman/Open-TTD-Renewable-Energy-Mod
   description: >-
-    Full energy economy mod for Open TTD which introduces nuclear and renewable
+    An energy economy mod for Open TTD that introduces nuclear and renewable
     energy sources over time, replacing coal power stations along with a mechanic
     that links energy production to town growth.
   hidden: false
@@ -35,8 +32,7 @@
 - title: Fedi Follow Catch
   url: https://nathanpitman.github.io/Fedi-Follow-Catch/
   description: >-
-    A free, static, client-side-only tool that compares your Bluesky and Mastodon follow lists 
-    - bridged via Bridgy Fed — and shows you who you follow on one network but not the other, 
+    A free, static, client-side-only tool that compares your Bluesky and Mastodon follow lists and shows you who you follow on one network but not the other, 
     with a direct follow link for each gap.
   hidden: false
 
