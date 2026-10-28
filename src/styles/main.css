@@ -835,7 +835,7 @@ a:hover         { color: #6600FF; } /* #0000ee */
   font-style: italic;
   font-weight: 400;
   font-size: 1rem;
-  color: var(--text-muted);
+  color: #8a4dff;
   display: block;
 }
 
@@ -846,7 +846,7 @@ a:hover         { color: #6600FF; } /* #0000ee */
   font-style: italic;
   font-weight: 600;
   font-size: 1.1rem;
-  color: var(--text);
+  color: #6600FF;
   display: block;
 }
 
