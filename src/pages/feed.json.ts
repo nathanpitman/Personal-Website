@@ -14,7 +14,7 @@ export async function GET(context: any) {
     home_page_url: siteUrl,
     feed_url: `${siteUrl}/feed.json`,
     description: 'Journal entries from nathanpitman.com',
-    icon: `${siteUrl}/avatar.jpg`,
+    icon: `${siteUrl}/feed-icon.png`,
     items: sorted.slice(0, 20).map(post => ({
       id: `${siteUrl}/posts/${post.slug}/`,
       url: `${siteUrl}/posts/${post.slug}/`,
