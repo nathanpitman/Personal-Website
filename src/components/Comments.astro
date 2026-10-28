@@ -40,6 +40,7 @@ const hasAny = Boolean(blueskyAtUri || mastodonRef);
   };
 
   const BLUESKY_REPLY_DEPTH = 3;
+  const DEFAULT_AVATAR = '/default-avatar.svg';
 
   function escapeHtml(str) {
     const div = document.createElement('div');
@@ -78,7 +79,7 @@ const hasAny = Boolean(blueskyAtUri || mastodonRef);
         likers = (likes ?? []).map((l) => ({
           network: 'bluesky',
           name: l.actor.displayName || l.actor.handle,
-          avatarUrl: l.actor.avatar || '/avatar.jpg',
+          avatarUrl: l.actor.avatar || DEFAULT_AVATAR,
           profileUrl: `https://bsky.app/profile/${l.actor.handle}`,
         }));
       }
@@ -100,7 +101,7 @@ const hasAny = Boolean(blueskyAtUri || mastodonRef);
         author: {
           name: author.displayName || author.handle,
           handle: `@${author.handle}`,
-          avatarUrl: author.avatar || '/avatar.jpg',
+          avatarUrl: author.avatar || DEFAULT_AVATAR,
           profileUrl: `https://bsky.app/profile/${author.handle}`,
         },
         text,
@@ -132,7 +133,7 @@ const hasAny = Boolean(blueskyAtUri || mastodonRef);
         likers = (accounts ?? []).map((a) => ({
           network: 'mastodon',
           name: a.display_name || a.username,
-          avatarUrl: a.avatar || '/avatar.jpg',
+          avatarUrl: a.avatar || DEFAULT_AVATAR,
           profileUrl: a.url,
         }));
       }
@@ -150,7 +151,7 @@ const hasAny = Boolean(blueskyAtUri || mastodonRef);
           author: {
             name: s.account.display_name || s.account.username,
             handle: `@${s.account.username}`,
-            avatarUrl: s.account.avatar || '/avatar.jpg',
+            avatarUrl: s.account.avatar || DEFAULT_AVATAR,
             profileUrl: s.account.url,
           },
           text: stripHtml(s.content),
