@@ -22,7 +22,7 @@
   url: https://github.com/nathanpitman/iHasco-SCORM-to-PDF-Transformer
   description: >-
     A tool that extracts text from SCORM eLearning packages and converts them into readable PDFs with optional AI-powered prose rewriting.
-  hidden: true
+  hidden: false
 
 - title: Fedi Follow Catch
   url: https://nathanpitman.github.io/Fedi-Follow-Catch/
@@ -31,8 +31,7 @@
   hidden: false
 
 - title: Fuelwise
-  url: https://fuelwise.replit.app
+  url: https://fuelwise.eightq.co.uk
   description: >-
-    A web application (built with Replit) that helps UK drivers find the cheapest fuel prices nearby. Search by your current location, home
-    postcode, or work postcode, and get directions to any station with one tap.
-  hidden: true
+    A web application (built with Replit) that helps UK drivers find the cheapest fuel prices nearby or by postcode and get directios with one tap.
+  hidden: false
