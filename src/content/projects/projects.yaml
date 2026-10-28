@@ -1,15 +1,21 @@
 # Side projects. Set hidden: true to suppress an entry without deleting it.
 
+- title: .matrix (The Head-Space Project)
+  url: https://github.com/nathanpitman/head-space.org-matrix
+  description: >-
+    Collating bits of my chapter from "The Head-Space Project", an influential, award-winning collaborative web community and digital playground launched in the late 1990s.
+  hidden: false
+
+- title: Old Animation
+  url: https://nathanpitman.github.io/Old-Animation/
+  description: >-
+    A collection of Autodesk Animator FLI/FLC, DeluxePaint ANM, and Show Partner F/X animations recovered from floppy disks dating back to the early 90's.
+  hidden: false
+
 - title: WordPress to Astro migration skill
   url: https://github.com/nathanpitman/wordpress-to-astro-migration-skill
   description: >-
     A Claude Code skill that crawls a live WordPress site and rebuilds it in Astro with SEO-identical markup.
-  hidden: false
-
-- title: Canoncial Cave Adventure
-  url: https://github.com/nathanpitman/CanonicalCaveAdventure
-  description: >-
-    A modern remix of the canonical cave crawling text adventure but with a modern touch interface and an improved text parser.
   hidden: false
 
 - title: Open TTD renewable energy Mod
@@ -28,6 +34,12 @@
   url: https://nathanpitman.github.io/Fedi-Follow-Catch/
   description: >-
     Compares your Bluesky and Mastodon follow lists and shows you who you follow on one network but not the other, with a direct follow link for each gap.
+  hidden: false
+
+- title: Canoncial Cave Adventure
+  url: https://github.com/nathanpitman/CanonicalCaveAdventure
+  description: >-
+    A modern remix of the canonical cave crawling text adventure but with a modern touch interface and an improved text parser.
   hidden: false
 
 - title: Fuelwise
