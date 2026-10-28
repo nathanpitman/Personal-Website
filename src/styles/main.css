@@ -339,13 +339,13 @@ a:hover         { color: #6600FF; } /* #0000ee */
 }
 
 .post-title a {
-  color: #0000ee;
+  color: #6600FF;
   text-decoration: underline;
 }
 
-.post-title a:visited { color: #551a8b; }
-.post-title a:active  { color: #ee0000; }
-.post-title a:hover   { color: #0000ee; }
+.post-title a:visited { color: #4700b2; }
+.post-title a:active  { color: #4700b2; }
+.post-title a:hover   { color: #6600FF; }
 
 .post-date {
   display: inline;
