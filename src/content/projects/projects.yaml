@@ -9,37 +9,30 @@
 - title: Canoncial Cave Adventure
   url: https://github.com/nathanpitman/CanonicalCaveAdventure
   description: >-
-    A port of the canonical cave crawling text adventure but with a modern touch interface and an improved text parser. A nostalgic exploration of what's possible when you remix old ideas with new thinking.
+    A modern remix of the canonical cave crawling text adventure but with a modern touch interface and an improved text parser.
   hidden: false
 
 - title: Open TTD renewable energy Mod
   url: https://github.com/nathanpitman/Open-TTD-Renewable-Energy-Mod
   description: >-
-    An energy economy mod for Open TTD that introduces nuclear and renewable
-    energy sources over time, replacing coal power stations along with a mechanic
-    that links energy production to town growth.
+    An Open TTD mod that introduces nuclear and renewable energy sources over time, replacing the perpetual coal power stations.
   hidden: false
 
 - title: iHasco SCORM to PDF Transformer
   url: https://github.com/nathanpitman/iHasco-SCORM-to-PDF-Transformer
   description: >-
-    A browser-based tool that extracts text from SCORM eLearning packages and
-    converts them into readable PDFs. Built with Claude, with optional
-    AI-powered prose rewriting via the Claude API. No install or backend
-    required — runs entirely client-side.
+    A tool that extracts text from SCORM eLearning packages and converts them into readable PDFs with optional AI-powered prose rewriting.
   hidden: true
 
 - title: Fedi Follow Catch
   url: https://nathanpitman.github.io/Fedi-Follow-Catch/
   description: >-
-    A free, static, client-side-only tool that compares your Bluesky and Mastodon follow lists and shows you who you follow on one network but not the other, 
-    with a direct follow link for each gap.
+    Compares your Bluesky and Mastodon follow lists and shows you who you follow on one network but not the other, with a direct follow link for each gap.
   hidden: false
 
 - title: Fuelwise
   url: https://fuelwise.replit.app
   description: >-
-    A mobile-first web application (built with Replit) that helps UK drivers find
-    the cheapest fuel prices nearby. Search by your current location, home
+    A web application (built with Replit) that helps UK drivers find the cheapest fuel prices nearby. Search by your current location, home
     postcode, or work postcode, and get directions to any station with one tap.
   hidden: true
