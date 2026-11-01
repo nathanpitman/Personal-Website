@@ -1,5 +1,5 @@
 ---
-title: AI in September
+title: AI in October
 description: >-
   Month four of my AI log. Engineering a Claude Code skill that streamlines migrating from WordPress to Astro, AI as a life admin assistant, UI frustrations and opinions on what AI means for a sustainable web career.
 date: '2026-10-30'
