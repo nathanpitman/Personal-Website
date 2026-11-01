@@ -32,7 +32,7 @@ The latest hot thing in the world of personal assistants, [Instinct](https://ins
 
 ## Mounting frustrations with Claude's UI
 
-The more time you spend leaning into new tooling, the more obvious it becomes that we've recreated the same old file and folder problems. It's impossible to work collaboratively. You can't download artefacts, so they end up trapped. You can't reference remote assets, only upload them. Outputs are hard to share across teams. There's also no easy way to organise and access memories and conversations: no auto-organisation by theme or topic, no auto-archive, just another list of 'things' to manage. [I tagged Borris Cherny](https://bsky.app/profile/nathanpitman.com/post/3mxa2kxyfs22p) and even asked Claude for a solution. Sadly there's no Claude conversation API, so you can't roll your own solution either unless I'm missing something?
+The more time you spend leaning into new tooling, the more obvious it becomes that we've recreated the same old file and folder problems. It's impossible to work collaboratively. You can't download artefacts, so they end up trapped. You can't reference remote assets, only upload them. Outputs are hard to share across teams. There's also no easy way to organise and access memories and conversations: no auto-organisation by theme or topic, no auto-archive, just another list of 'things' to manage. [I tagged Borris Cherny](https://bsky.app/profile/nathanpitman.com/post/3mxa2kxyfs22p) and even asked Claude for a solution. Sadly there's no Claude conversation API, so you can't roll your own improvements either unless I'm missing something?
 
 ## A few smaller things
 
