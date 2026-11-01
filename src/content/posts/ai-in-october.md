@@ -1,12 +1,25 @@
 ---
 title: AI in September
 description: >-
-  Month four of my AI log. Engineering a Claude Code skill that streamlines migrating from WordPress to Astro, AI as a life admin assistant, UI frustrations and opinions on what AI means for a sustainable web career.
+  Month four of my AI log. Engineering a Claude Code skill that streamlines
+  migrating from WordPress to Astro, AI as a life admin assistant, UI
+  frustrations and opinions on what AI means for a sustainable web career.
 date: '2026-10-30'
 hidden: false
 tags:
   - ai
   - making things
+relatedPosts:
+  - slug: ai-in-september
+    source: generated
+  - slug: ai-in-july
+    source: generated
+  - slug: ai-in-august
+    source: generated
+  - slug: rediscovering-making-things
+    source: generated
+  - slug: introducing-fedi-follow-catch
+    source: generated
 ---
 
 # AI in October
