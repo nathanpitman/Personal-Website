@@ -32,7 +32,7 @@ The latest hot thing in the world of personal assistants, [Instinct](https://ins
 
 ## Mounting frustrations with Claude's UI
 
-The more time you spend leaning into new tooling, the more obvious it often becomes that we've recreated old problems anew. Aside from my frustration that Claude rewound years of progress around how we collaborate on files, and despite its capability to understand content and context it just leans into the age old and frankly broken file and folder paradigm. Despite AI's capabilities there's no auto-organisation by theme or topic, no auto-archive, just another list of 'things' to manage. [I tagged Borris Cherny](https://bsky.app/profile/nathanpitman.com/post/3mxa2kxyfs22p) and even asked Claude for a solution. Sadly there's no Claude conversation API, so you can't roll your own improvements either - unless I'm missing something?
+The more time you spend leaning into new tooling, the more obvious it often becomes that we've recreated old problems anew. Despite Claude's capability to understand content and context it just leans into the age old (and frankly broken) file and folder paradigm. There's no auto-organisation by theme or topic, no way to view conversations by connections, no auto-archive of old stale topics, just another list of 'things' to manage. [I tagged Borris Cherny](https://bsky.app/profile/nathanpitman.com/post/3mxa2kxyfs22p) and even asked Claude for a solution. Sadly there's no Claude conversation API, so you can't roll your own improvements either - unless I'm missing something?
 
 ## A few smaller things
 
