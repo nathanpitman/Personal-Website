@@ -24,7 +24,7 @@ Month four of my AI log. Engineering a Claude Code skill that streamlines migrat
 
 ## A WordPress to Astro skill for Claude
 
-I've engineered as Claude Code skill that streamlines [migrating from a WordPress site to Astro](https://github.com/nathanpitman/WordPress-to-Astro-migration-skill). You don't need admin access and you don't need to understand WordPress, the primary focus is migration to a basic Astro build with zero page markup changes (and therefore mitigating any negative SEO impact). I intended to keep building on this, I've run it locally against two of our group domains and it does a very decent job, next step is to incorporate a step that configures and installs a CMS like Payload for this to become a one stop migration tool.
+I've engineered a Claude Code skill that streamlines [migrating from a WordPress site to Astro](https://github.com/nathanpitman/WordPress-to-Astro-migration-skill). You don't need admin access and you don't need to understand WordPress, the primary focus is migration to a basic Astro build with zero page markup changes (and therefore mitigating any negative SEO impact). I intended to keep building on this, I've run it locally against two of our group domains and it does a very decent job, next step is to incorporate a step that configures and installs a CMS like Payload for this to become a one stop migration tool.
 
 ## Instinct: AI as a life admin assistant
 
